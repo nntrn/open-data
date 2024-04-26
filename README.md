@@ -176,17 +176,3 @@ https://soda.demo.socrata.com/resource/4tka-6guv.csv?$query=SELECT location, mag
 
 /api/views/metadata/v1?limit=10&page=1
 ```
-
-<style>
-a{font-weight:700;}
-a:after{content:attr(href);display:block;font-weight:400;line-height:1;color:#aaa}
-a:hover{text-decoration:none}
-a:hover:after{text-decoration-color:#aaa}
-a code{background:0;padding:0}
-h1,h2,h3,h4{font-weight:700;}
-h1{font-size:3rem}
-/* h2{font-size:2.8rem} */
-h3{font-size:2rem}
-h4{margin:.5rem 0;margin-top:1rem}
-
-</style>
