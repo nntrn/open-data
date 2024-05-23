@@ -1,92 +1,41 @@
-# Texas
+# Austin
 
 <details id="table-of-contents"><summary><strong>Table of Contents</strong></summary>
 
-- [Agriculture](#agriculture)
 - [Animal Services](#animal-services)
 - [Austin Public Health](#austin-public-health)
 - [Austin Transportation & Public Works](#austin-transportation--public-works)
 - [Budget and Finance](#budget-and-finance)
 - [Building and Development](#building-and-development)
-- [Business and Economy](#business-and-economy)
-- [Business and Industry](#business-and-industry)
 - [City Government](#city-government)
 - [City Infrastructure](#city-infrastructure)
 - [Communications & Public Information Office](#communications--public-information-office)
 - [Communications & Technology Management](#communications--technology-management)
-- [Communications and Community Outreach](#communications-and-community-outreach)
 - [Development Services & Austin Code](#development-services--austin-code)
 - [Economic Development](#economic-development)
-- [Economy](#economy)
-- [Education](#education)
-- [Energy and Environment](#energy-and-environment)
-- [Energy and the Environment](#energy-and-the-environment)
 - [Environment](#environment)
-- [Environmental Health & Sustainability](#environmental-health--sustainability)
-- [Finance](#finance)
 - [Financial Services](#financial-services)
 - [Fleet Mobility Services](#fleet-mobility-services)
-- [Flu Vaccinations](#flu-vaccinations)
 - [Government](#government)
-- [Government and Taxes](#government-and-taxes)
-- [Grain](#grain)
-- [Health](#health)
-- [Health & Human Services](#health--human-services)
 - [Health and Community Services](#health-and-community-services)
 - [Homeland Security & Emergency Management](#homeland-security--emergency-management)
 - [Homeless Strategy Office](#homeless-strategy-office)
 - [Housing and Real Estate](#housing-and-real-estate)
-- [Infrastructure](#infrastructure)
+- [Human Resources](#human-resources)
 - [Locations and Maps](#locations-and-maps)
+- [Mayor & City Council - Management Services](#mayor--city-council--management-services)
 - [Municipal Court](#municipal-court)
-- [NCHS](#nchs)
-- [Other](#other)
-- [Other Public Health Threats](#other-public-health-threats)
-- [Permits and Licensing](#permits-and-licensing)
-- [Policy](#policy)
-- [Public Health Surveillance](#public-health-surveillance)
-- [Public Reports and Maps](#public-reports-and-maps)
+- [Planning Department](#planning-department)
 - [Public Safety](#public-safety)
-- [Public Works](#public-works)
 - [Recreation and Culture](#recreation-and-culture)
-- [Roadways and Bridges](#roadways-and-bridges)
-- [Services](#services)
-- [Social Services](#social-services)
 - [Strategic Initiatives Department](#strategic-initiatives-department)
-- [Texas Pure Products](#texas-pure-products)
-- [Transportation](#transportation)
 - [Transportation and Mobility](#transportation-and-mobility)
-- [Truck](#truck)
 - [Utilities and City Services](#utilities-and-city-services)
-- [Vaccinations](#vaccinations)
 
 </details><br>
 
 > **NOTE**  
 > (%) denotes strategic dataset
-
-
-## Agriculture
-
-- **Rift Valley Fever Innovation Lab MP 12 NSm del Vaccination of Cattle, sheep and goats by Intramuscular Route**  
-  [Data](https://data.usaid.gov/resource/peta-tny3.json) | [Meta](https://data.usaid.gov/api/views/peta-tny3)  
-  All animals were given 3 log-10 pfu of MP-12 vaccine intramuscularly at DPV 84 as a surrogate challenge for RVFV, and the anamnestic immune response determined by PRNT-80 titers thereafter on the days shown  
-
-- **Rift Valley Fever Innovation Lab MP 12 NSm del vaccine in livestock administered intradermally**  
-  [Data](https://data.usaid.gov/resource/hxak-vmjt.json) | [Meta](https://data.usaid.gov/api/views/hxak-vmjt)  
-  In this study, livestock were vaccinated intradermally with 5 log10 pfu of MP-121-NSm-del Rift Valley fever live, attenuated vaccine using the Bioject Zetajet developmental device  
-
-- **Rift Valley Fever Innovation Lab RVFV vaccine reassortment data Tetsuro**  
-  [Data](https://data.usaid.gov/resource/tsnq-b69w.json) | [Meta](https://data.usaid.gov/api/views/tsnq-b69w)  
-  Risk analysis of inter-species reassortment through a Rift Valley fever phlebovirus MP-12 vaccine strain  This study thus aimed to characterize the occurrence of genetic reassortment between the MP-12 strain and bunyavirus species closely related to RVFV  
-
-- **Rift Valley Fever Innovation Lab Rift Valley Fever neutralizing antibody titers of goats Capra aegagrus vaccinated with 1 105.0 PFU ml of Rift Valley fever MP 12 and arMP 12 NSm21 384 vaccine candidates and revaccinated with 1 x 104.0 PFU ml of MP 12**  
-  [Data](https://data.usaid.gov/resource/2k6j-e69h.json) | [Meta](https://data.usaid.gov/api/views/2k6j-e69h)  
-  Vaccination of domestic ruminants is considered to be an effective strategy for protecting these animals against Rift Valley fever (RVF), but available vaccines have limitations  
-
-- **Rift Valley Fever Innovation Lab Vaccination of livestock, subcutaneous with MP 12 and MP 12 NSm del2**  
-  [Data](https://data.usaid.gov/resource/uhag-rm92.json) | [Meta](https://data.usaid.gov/api/views/uhag-rm92)  
-  Subcutaneous needle vaccination against Rift Valley fever virus (RVFV): Antibody response for goats,sheep and calves vaccinated with MP12 and MP12Nsm del vaccines analysed by PRNT 80% and commercial cELISAkit  
 
 
 ## Animal Services
@@ -298,194 +247,6 @@
   Do not use this data to make zoning determinations  
 
 
-## Business and Economy
-
-- **Check Verification Entities**  
-  [Data](https://data.texas.gov/resource/3r75-8hp4.json) | [Meta](https://data.texas.gov/api/views/3r75-8hp4)  
-  List of Check Verification Entities  
-
-- **Customer STS and TX.Gov Invoice**  
-  [Data](https://data.texas.gov/resource/8hps-ztn4.json) | [Meta](https://data.texas.gov/api/views/8hps-ztn4)  
-  DIR Shared Technology Services (STS) and Texas.gov Customer Invoices  
-
-- **DIR STS Enterprise Invoices**  
-  [Data](https://data.texas.gov/resource/gp4s-vej8.json) | [Meta](https://data.texas.gov/api/views/gp4s-vej8)  
-  DIR Shared Technology Services (STS) and Texas.gov Vendor Invoices  
-
-- **Emergency Services Billing Rates Code Rates**  
-  [Data](https://data.texas.gov/resource/ipyh-z9mx.json) | [Meta](https://data.texas.gov/api/views/ipyh-z9mx)  
-  The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers by procedure code as set by the political subdivisions  
-
-- **Emergency Services Billing Rates Contact List**  
-  [Data](https://data.texas.gov/resource/xgca-u3qh.json) | [Meta](https://data.texas.gov/api/views/xgca-u3qh)  
-  The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers within political subdivisions as set by those political subdivisions  
-
-- **Emergency Services Billing Rates NPIs**  
-  [Data](https://data.texas.gov/resource/w2yx-y2ra.json) | [Meta](https://data.texas.gov/api/views/w2yx-y2ra)  
-  The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers within political subdivisions as reported by those political subdivisions  
-
-- **Emergency Services Billing Rates ZIPs**  
-  [Data](https://data.texas.gov/resource/iyci-uypg.json) | [Meta](https://data.texas.gov/api/views/iyci-uypg)  
-  The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers within political subdivisions as reported by those political subdivisions  
-
-- **Film Friendly Certified Communities**  
-  [Data](https://data.texas.gov/resource/fppc-marv.json) | [Meta](https://data.texas.gov/api/views/fppc-marv)  
-  A complete list of communities that have been certified as Film Friendly by the Texas Film Commission  
-
-- **Foreign Bank Agencies**  
-  [Data](https://data.texas.gov/resource/dahk-z52a.json) | [Meta](https://data.texas.gov/api/views/dahk-z52a)  
-  Listing of Foreign Bank Agencies in Texas  
-
-- **Foreign Bank Representative Offices**  
-  [Data](https://data.texas.gov/resource/biya-g6cb.json) | [Meta](https://data.texas.gov/api/views/biya-g6cb)  
-  List of Foreign Bank Representative Offices in Texas  
-
-- **Independent dispute resolution summary data**  
-  [Data](https://data.texas.gov/resource/bn27-65ad.json) | [Meta](https://data.texas.gov/api/views/bn27-65ad)  
-  The Texas Department of Insurance administers Independent Dispute Resolution (IDR), a mediation and arbitration process for certain health care billing disputes between out-of-network providers and health plans  
-
-- **Institutional Medical Billing Services SV2 Detail Information**  
-  [Data](https://data.texas.gov/resource/tuuc-49gz.json) | [Meta](https://data.texas.gov/api/views/tuuc-49gz)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) maintains a database of institutional medical billing services (SV2)  
-
-- **Institutional Medical Billing Services SV2 Detail Information Historical**  
-  [Data](https://data.texas.gov/resource/trqb-ssnn.json) | [Meta](https://data.texas.gov/api/views/trqb-ssnn)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) maintains a database of institutional medical billing services (SV2)  
-
-- **Institutional Medical Billing Services SV2 Header Information**  
-  [Data](https://data.texas.gov/resource/cmu9-4z9n.json) | [Meta](https://data.texas.gov/api/views/cmu9-4z9n)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of institutional medical billing services (SV2)  
-
-- **Institutional Medical Billing Services SV2 Header Information Historical**  
-  [Data](https://data.texas.gov/resource/936m-z8wh.json) | [Meta](https://data.texas.gov/api/views/936m-z8wh)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of institutional medical billing services (SV2)  
-
-- **Insurance complaints All data**  
-  [Data](https://data.texas.gov/resource/ubdr-4uff.json) | [Meta](https://data.texas.gov/api/views/ubdr-4uff)  
-  ► The Texas Department of Insurance (TDI) handles complaints against people and organizations licensed by TDI, such as companies, agents, and adjusters  
-
-- **Insurance complaints One record complaint**  
-  [Data](https://data.texas.gov/resource/jjc8-mxkg.json) | [Meta](https://data.texas.gov/api/views/jjc8-mxkg)  
-  ► The Texas Department of Insurance (TDI) handles complaints against people and organizations licensed by TDI, such as companies, agents, and adjusters  
-
-- **Key Economic Indicators**  
-  [Data](https://data.texas.gov/resource/karz-jr5v.json) | [Meta](https://data.texas.gov/api/views/karz-jr5v)  
-  An economic indicator is a statistic about an economic activity, and they allow analysis of economic performance and predictions of current and future economic performance  
-
-- **Mixed Beverage Sales Receipts**  
-  [Data](https://data.texas.gov/resource/g5bj-yb6k.json) | [Meta](https://data.texas.gov/api/views/g5bj-yb6k)  
-  This file contains a list of taxpayers required to report mixed beverage sales tax reports under Tax Code Chapter 183, Subchapter B-1  
-
-- **Money Services Businesses**  
-  [Data](https://data.texas.gov/resource/j48w-wspg.json) | [Meta](https://data.texas.gov/api/views/j48w-wspg)  
-  Lists of Money Services Business in Texas  
-
-- **OFFICIAL Customer list Cooperative Contracts Texas Department of Information Resources Data from vendor sales reports**  
-  [Data](https://data.texas.gov/resource/4v6c-qfkr.json) | [Meta](https://data.texas.gov/api/views/4v6c-qfkr)  
-  This data is a listing of customers reported from the monthly vendor sales reports.  
-
-- **OFFICIAL DIR Current Active Cooperative Contracts**  
-  [Data](https://data.texas.gov/resource/vipt-h4ye.json) | [Meta](https://data.texas.gov/api/views/vipt-h4ye)  
-
-- **Perpetual Care Cemeteries**  
-  [Data](https://data.texas.gov/resource/i3xb-8vbi.json) | [Meta](https://data.texas.gov/api/views/i3xb-8vbi)  
-  List of Perpetual Care Cemeteries (PCC) in Texas  
-
-- **Pharmacy Medical Billing Services SV4 Detail Information**  
-  [Data](https://data.texas.gov/resource/28cv-4t5q.json) | [Meta](https://data.texas.gov/api/views/28cv-4t5q)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) maintains a database of pharmacy medical billing services (SV4)  
-
-- **Pharmacy Medical Billing Services SV4 Detail Information Historical**  
-  [Data](https://data.texas.gov/resource/cmkf-edrp.json) | [Meta](https://data.texas.gov/api/views/cmkf-edrp)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) maintains a database of pharmacy medical billing services (SV4)  
-
-- **Pharmacy Medical Billing Services SV4 Header Information**  
-  [Data](https://data.texas.gov/resource/mzi7-5ajk.json) | [Meta](https://data.texas.gov/api/views/mzi7-5ajk)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) maintains a database of pharmacy medical billing services (SV4)  
-
-- **Pharmacy Medical Billing Services SV4 Header Information Historical**  
-  [Data](https://data.texas.gov/resource/jkpg-wdht.json) | [Meta](https://data.texas.gov/api/views/jkpg-wdht)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) maintains a database of pharmacy medical billing services (SV4)  
-
-- **Prepaid Funeral Contract Sellers**  
-  [Data](https://data.texas.gov/resource/p576-5udu.json) | [Meta](https://data.texas.gov/api/views/p576-5udu)  
-  List of Prepaid Funeral Contract Sellers in Texas  
-
-- **Professional Medical Billing Services SV1 Detail Information**  
-  [Data](https://data.texas.gov/resource/c7b4-gune.json) | [Meta](https://data.texas.gov/api/views/c7b4-gune)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1)  
-
-- **Professional Medical Billing Services SV1 Detail Information Historical**  
-  [Data](https://data.texas.gov/resource/7au4-j7bg.json) | [Meta](https://data.texas.gov/api/views/7au4-j7bg)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1)  
-
-- **Professional Medical Billing Services SV1 Header Information**  
-  [Data](https://data.texas.gov/resource/pvi6-huub.json) | [Meta](https://data.texas.gov/api/views/pvi6-huub)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1)  
-
-- **Professional Medical Billing Services SV1 Header Information Historical**  
-  [Data](https://data.texas.gov/resource/gh5j-28a7.json) | [Meta](https://data.texas.gov/api/views/gh5j-28a7)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1)  
-
-- **State Banks**  
-  [Data](https://data.texas.gov/resource/yvbr-mkqg.json) | [Meta](https://data.texas.gov/api/views/yvbr-mkqg)  
-  Listing of State Banks in Texas  
-
-- **TCA Designated State Artists**  
-  [Data](https://data.texas.gov/resource/cdim-je79.json) | [Meta](https://data.texas.gov/api/views/cdim-je79)  
-  The Texas State Legislature designates Texas State Artists during each Legislative Session  
-
-- **TMPC DEAAG**  
-  [Data](https://data.texas.gov/resource/d8rj-c5pm.json) | [Meta](https://data.texas.gov/api/views/d8rj-c5pm)  
-  The Defense Economic Adjustment Assistance Grant (DEAAG) program assists military communities across Texas that may be impacted by any future Base Realignment and Closure (BRAC) process  
-
-- **Texas Lottery Commission Employees**  
-  [Data](https://data.texas.gov/resource/xi3i-dwfs.json) | [Meta](https://data.texas.gov/api/views/xi3i-dwfs)  
-  First & last name, work email address, work phone, job title and job location for all active Texas Lottery Commission employees.  
-
-- **Texas Lottery Sales by Fiscal Month Year, Game and Retailer**  
-  [Data](https://data.texas.gov/resource/beka-uwfq.json) | [Meta](https://data.texas.gov/api/views/beka-uwfq)  
-  Texas Lottery® sales by fiscal month/year, game and retailer with identifying information  
-
-- **Trust Companies**  
-  [Data](https://data.texas.gov/resource/2hc4-g945.json) | [Meta](https://data.texas.gov/api/views/2hc4-g945)  
-  Listing of Trust Companies in Texas  
-
-- **Winners List of Texas Lottery Prizes**  
-  [Data](https://data.texas.gov/resource/54pj-3dxy.json) | [Meta](https://data.texas.gov/api/views/54pj-3dxy)  
-  List of winner claims for Texas Lottery® prizes with player (excluding identity of those designated anonymous), prize, game and selling retailer information  
-
-- **Worker Adjustment and Retraining Notification WARN Notices**  
-  [Data](https://data.texas.gov/resource/8w53-c4f6.json) | [Meta](https://data.texas.gov/api/views/8w53-c4f6)  
-  This report lists current calendar year Texas plant closure and layoff notices issued under the Worker Adjustment and Retraining Notification (WARN) Act  
-
-- **Workers' compensation insurance coverage subscriber information**  
-  [Data](https://data.texas.gov/resource/c4xz-httr.json) | [Meta](https://data.texas.gov/api/views/c4xz-httr)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) publishes a quarterly report of employers with active Texas workers’ compensation insurance coverage  
-
-- **Workers' compensation non subscriber employer information**  
-  [Data](https://data.texas.gov/resource/azae-8krr.json) | [Meta](https://data.texas.gov/api/views/azae-8krr)  
-  The Texas Department of Insurance, Division of Workers’ Compensation (DWC) publishes a monthly report of private employers that have opted out of Texas workers’ compensation insurance coverage (non-subscribers)  
-
-- **Workers Compensation Maximum Medical Improvement Doctors and Designated Doctors List**  
-  [Data](https://data.texas.gov/resource/xven-is8v.json) | [Meta](https://data.texas.gov/api/views/xven-is8v)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC)  maintains a database of health care providers with current maximum medical improvement (MMI) and designated doctor certifications in Texas  
-
-- **Workers Compensation Maximum Medical Improvement Doctors and Designated Doctors Address Information**  
-  [Data](https://data.texas.gov/resource/732j-wdur.json) | [Meta](https://data.texas.gov/api/views/732j-wdur)  
-  The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of health care providers with current maximum medical improvement (MMI) and designated doctor certifications in Texas  
-
-
-[[TOP]](#table-of-contents)
-
-
-## Business and Industry
-
-- **Tourism Nova Scotia Visitation**  
-  [Data](https://data.novascotia.ca/resource/n783-4gmh.json) | [Meta](https://data.novascotia.ca/api/views/n783-4gmh)  
-  Number of non resident overnight visitors to Nova Scotia  
-
-
 ## City Government
 
 - **Active Credit Access Business Licenses**  
@@ -659,6 +420,10 @@
 - **Google Analytics Sessions on Austintexas.gov**  
   [Data](https://datahub.austintexas.gov/resource/dcfk-vk6w.json) | [Meta](https://datahub.austintexas.gov/api/views/dcfk-vk6w)  
   This data, exported from Google Analytics, demonstrates group of interactions that took place on Austintexas.gov pages within a one-month time frame  
+
+- **Haulers Licensed by City of Austin**  
+  [Data](https://datahub.austintexas.gov/resource/qe89-agqj.json) | [Meta](https://datahub.austintexas.gov/api/views/qe89-agqj)  
+  Licensed Waste, Recycling, and/or Compost/Organic Haulers  
 
 - **Imagine Austin Indicators**  
   [Data](https://datahub.austintexas.gov/resource/apwj-7zty.json) | [Meta](https://datahub.austintexas.gov/api/views/apwj-7zty)  
@@ -991,6 +756,9 @@
 
 ## Communications & Technology Management
 
+- **Hot Spots Complete Zone**  
+  [Data](https://datahub.austintexas.gov/resource/km25-juyu.json) | [Meta](https://datahub.austintexas.gov/api/views/km25-juyu)  
+
 - **911 Addressing Street Name Master List**  
   [Data](https://datahub.austintexas.gov/resource/kumu-nbtd.json) | [Meta](https://datahub.austintexas.gov/api/views/kumu-nbtd)  
   Street Name Master List - contains all the reserved and active street names.  
@@ -1018,11 +786,11 @@
   Case #: C7a-2013-0006 Ordinance #: 20131024-028 Effective: Nov  
 
 - **Annexation History**  
-  [Data](https://datahub.austintexas.gov/resource/8fc2-cjvz.json) | [Meta](https://datahub.austintexas.gov/api/views/8fc2-cjvz)  
-
-- **Annexation History**  
   [Data](https://datahub.austintexas.gov/resource/mbvh-ma49.json) | [Meta](https://datahub.austintexas.gov/api/views/mbvh-ma49)  
   History of annexation actions taken by the City of Austin including annexations, disannexations, releases of territorial jurisdiction and conversions.  
+
+- **Annexation History**  
+  [Data](https://datahub.austintexas.gov/resource/8fc2-cjvz.json) | [Meta](https://datahub.austintexas.gov/api/views/8fc2-cjvz)  
 
 - **Annexed Streets**  
   [Data](https://datahub.austintexas.gov/resource/bewj-hdkq.json) | [Meta](https://datahub.austintexas.gov/api/views/bewj-hdkq)  
@@ -1114,6 +882,10 @@
 - **Greater Austin FEMA Floodplain**  
   [Data](https://datahub.austintexas.gov/resource/93kh-rg74.json) | [Meta](https://datahub.austintexas.gov/api/views/93kh-rg74)  
 
+- **Hazardous Pipelines Overlay**  
+  [Data](https://datahub.austintexas.gov/resource/jm7t-4z8n.json) | [Meta](https://datahub.austintexas.gov/api/views/jm7t-4z8n)  
+  Restricted pipeline area includes an area within 25 feet of a hazardous pipeline and an area within a hazardous pipeline easement.  
+
 - **Header**  
   [Data](https://datahub.austintexas.gov/resource/u7ct-rwh4.json) | [Meta](https://datahub.austintexas.gov/api/views/u7ct-rwh4)  
 
@@ -1174,11 +946,11 @@
   This data has been collected as part of a larger project by the City of Austin's Watershed Protection and Development Review Department to inventory its drainage infrastructure and create a GIS to store this information  
 
 - **Neighborhood Plan Status**  
-  [Data](https://datahub.austintexas.gov/resource/jhw6-wh6u.json) | [Meta](https://datahub.austintexas.gov/api/views/jhw6-wh6u)  
-
-- **Neighborhood Plan Status**  
   [Data](https://datahub.austintexas.gov/resource/rvvr-cb9q.json) | [Meta](https://datahub.austintexas.gov/api/views/rvvr-cb9q)  
   This feature class represents the boundaries of the City of Austin Neighborhood Planning Areas (NPA)  
+
+- **Neighborhood Plan Status**  
+  [Data](https://datahub.austintexas.gov/resource/jhw6-wh6u.json) | [Meta](https://datahub.austintexas.gov/api/views/jhw6-wh6u)  
 
 - **Potential Creek Greenways data**  
   [Data](https://datahub.austintexas.gov/resource/69ix-kux6.json) | [Meta](https://datahub.austintexas.gov/api/views/69ix-kux6)  
@@ -1241,6 +1013,10 @@
   [Data](https://datahub.austintexas.gov/resource/22a8-x3u6.json) | [Meta](https://datahub.austintexas.gov/api/views/22a8-x3u6)  
   This dataset represents wetland CEFs identified during the development review process since 1995  
 
+- **Zoning Small Map Scale**  
+  [Data](https://datahub.austintexas.gov/resource/rwvf-3qkm.json) | [Meta](https://datahub.austintexas.gov/api/views/rwvf-3qkm)  
+  This feature class represents the zoning classification boundaries in the City of Austin and surrounding counties.  
+
 - **Zoning Ordinance**  
   [Data](https://datahub.austintexas.gov/resource/xt8n-xrjg.json) | [Meta](https://datahub.austintexas.gov/api/views/xt8n-xrjg)  
   This feature class is made up of City of Austin zoning ordinance boundaries  
@@ -1255,12 +1031,6 @@
 
 
 [[TOP]](#table-of-contents)
-
-
-## Communications and Community Outreach
-
-- **Website Visits**  
-  [Data](https://dashboard.plano.gov/resource/f8fm-gdif.json) | [Meta](https://dashboard.plano.gov/api/views/f8fm-gdif)  
 
 
 ## Development Services & Austin Code
@@ -1362,148 +1132,6 @@
 [[TOP]](#table-of-contents)
 
 
-## Economy
-
-- **Oil Prices**  
-  [Data](https://data.michigan.gov/resource/dx9e-uvnm.json) | [Meta](https://data.michigan.gov/api/views/dx9e-uvnm)  
-  West Texas Intermediate Crude Oil price per barrel  
-
-
-## Education
-
-- **Number Of People Aged 25 Older With High School Diploma Or Equivalent All States**  
-  [Data](https://opendata.utah.gov/resource/qyct-xwka.json) | [Meta](https://opendata.utah.gov/api/views/qyct-xwka)  
-  Number Of People Aged 25 Older With High School Diploma Or Equivalent All States  
-
-- **Statewide Child Care Subsidy Providers**  
-  [Data](https://data.texas.gov/resource/wmur-pmzc.json) | [Meta](https://data.texas.gov/api/views/wmur-pmzc)  
-
-- **Statewide Eligible Training Providers List**  
-  [Data](https://data.texas.gov/resource/hcbr-9ms7.json) | [Meta](https://data.texas.gov/api/views/hcbr-9ms7)  
-  Eligible Training Providers (ETPs) are entities with job training programs approved by the Texas Workforce Commission (TWC) to provide Workforce Innovation and Opportunity Act (WIOA)–funded training services  
-
-- **Statewide Eligible Training Providers Performance Report**  
-  [Data](https://data.texas.gov/resource/d3pe-3f9f.json) | [Meta](https://data.texas.gov/api/views/d3pe-3f9f)  
-  Eligible Training Providers (ETPs) are entities with job training programs approved by the Texas Workforce Commission (TWC) to provide Workforce Innovation and Opportunity Act (WIOA)–funded training services  
-
-
-## Energy and Environment
-
-- **Harris County Discharge Monitoring Reports DMR**  
-  [Data](https://data.texas.gov/resource/wcwp-yeda.json) | [Meta](https://data.texas.gov/api/views/wcwp-yeda)  
-  The document displays all the facilities in Harris County, Texas that have submitted a DMR  
-
-- **Public Utility Commission of Texas Informal Complaints**  
-  [Data](https://data.texas.gov/resource/cxnx-7tf4.json) | [Meta](https://data.texas.gov/api/views/cxnx-7tf4)  
-  Before filing an informal complaint with the Public Utility Commission (PUC), customers are requested to contact their electric, telephone, water or sewer provider first and allow them to investigate the complaint  
-
-- **Texas Commission on Environmental Quality Administrative Orders Issued**  
-  [Data](https://data.texas.gov/resource/u66a-qggj.json) | [Meta](https://data.texas.gov/api/views/u66a-qggj)  
-  This is data represented in the Annual Enforcement Report, pursuant to Texas Water Code Section 5.126, and published each December following the end of the fiscal year  
-
-- **Texas Commission on Environmental Quality Aggregate Production Operations**  
-  [Data](https://data.texas.gov/resource/9ixa-7k3m.json) | [Meta](https://data.texas.gov/api/views/9ixa-7k3m)  
-  An Aggregate Production Operation (APO) refers to any site where aggregates are being (or have been) removed or extracted from the earth, including the entire area of extraction, stripped areas, haulage ramps, and the land on which plant processing for the raw materials is located  
-
-- **Texas Commission on Environmental Quality Annual Waste Summary**  
-  [Data](https://data.texas.gov/resource/79s2-9ack.json) | [Meta](https://data.texas.gov/api/views/79s2-9ack)  
-  Information from the TCEQ annual waste summary report form, including generator's registration number, the year of report, waste, total quantity generated, quantity handled and how the waste was handled  
-
-- **Texas Commission on Environmental Quality Civil Judgments Issued**  
-  [Data](https://data.texas.gov/resource/7ift-kbgd.json) | [Meta](https://data.texas.gov/api/views/7ift-kbgd)  
-  This is data represented in the Annual Enforcement Report, pursuant to Texas Water Code Section 5.126, and published each December following the end of the fiscal year  
-
-- **Texas Commission on Environmental Quality Complaints**  
-  [Data](https://data.texas.gov/resource/tdzs-qqjn.json) | [Meta](https://data.texas.gov/api/views/tdzs-qqjn)  
-  View complaints received by the TCEQ with their associated Complaint Number  
-
-- **Texas Commission on Environmental Quality Compliance History Report**  
-  [Data](https://data.texas.gov/resource/mich-cjem.json) | [Meta](https://data.texas.gov/api/views/mich-cjem)  
-  TCEQ calculates the compliance history mass classification on Sept  
-
-- **Texas Commission on Environmental Quality Current Contracts Purchase Orders**  
-  [Data](https://data.texas.gov/resource/svjm-sdfz.json) | [Meta](https://data.texas.gov/api/views/svjm-sdfz)  
-  Active contracts and purchase orders that TCEQ has set forth are listed with information on the vendor, project, timeframe, and cost  
-
-- **Texas Commission on Environmental Quality Emergency Response Spills**  
-  [Data](https://data.texas.gov/resource/xagr-a3x2.json) | [Meta](https://data.texas.gov/api/views/xagr-a3x2)  
-  Emergency Response Spills received by the TCEQ are assigned an Incident Tracking Number  
-
-- **Texas Commission on Environmental Quality Historical Dry Cleaner Registrations**  
-  [Data](https://data.texas.gov/resource/xcc6-2a52.json) | [Meta](https://data.texas.gov/api/views/xcc6-2a52)  
-  This dataset contains all historical Dry Cleaner Registrations in Texas  
-
-- **Texas Commission on Environmental Quality Leaking Petroleum Storage Tank LPST Sites**  
-  [Data](https://data.texas.gov/resource/hedz-nn4q.json) | [Meta](https://data.texas.gov/api/views/hedz-nn4q)  
-  List of Leaking Petroleum Storage Tank sites in Texas with associated PST Registration ID number(s), location information, the date each site was reported to the TCEQ, and the closure date (if closed).  
-
-- **Texas Commission on Environmental Quality Monthly Waste Receipt Summary**  
-  [Data](https://data.texas.gov/resource/krzt-9qpq.json) | [Meta](https://data.texas.gov/api/views/krzt-9qpq)  
-  Information from the TCEQ monthly waste receipts summary report form submitted by receivers of hazardous and Industrial Class 1 waste  
-
-- **Texas Commission on Environmental Quality Notices Of Violation NOV**  
-  [Data](https://data.texas.gov/resource/mwzi-gyw7.json) | [Meta](https://data.texas.gov/api/views/mwzi-gyw7)  
-  Approved regional investigations resulting in a Notice of Violation (NOV) and the details associated with each violation that are documented in the Consolidated Compliance and Enforcement Data System (CCEDS)  
-
-- **Texas Commission on Environmental Quality Notices of Enforcement NOE**  
-  [Data](https://data.texas.gov/resource/rua3-iswk.json) | [Meta](https://data.texas.gov/api/views/rua3-iswk)  
-  Investigations resulting in a Notice of Enforcement (NOE) and the details associated with each violation  
-
-- **Texas Commission on Environmental Quality Operating Dry Cleaner Registrations**  
-  [Data](https://data.texas.gov/resource/qfph-9bnd.json) | [Meta](https://data.texas.gov/api/views/qfph-9bnd)  
-  This dataset contains all operating Dry Cleaner Registrations in Texas that have a current and valid registration  
-
-- **Texas Commission on Environmental Quality Petroleum Storage Tank PST Delivery Certificates**  
-  [Data](https://data.texas.gov/resource/jx8f-z4hu.json) | [Meta](https://data.texas.gov/api/views/jx8f-z4hu)  
-  Delivery certificates issued for Petroleum Storage Tanks (PSTs) which authorize petroleum deliveries  
-
-- **Texas Commission on Environmental Quality Supplemental Environmental Projects**  
-  [Data](https://data.texas.gov/resource/8j6x-idf8.json) | [Meta](https://data.texas.gov/api/views/8j6x-idf8)  
-  This is data represented in the Annual Enforcement Report, pursuant to Texas Water Code Section 5.126, and published each December following the end of the fiscal year  
-
-- **Texas Commission on Environmental Quality Texas Water Districts**  
-  [Data](https://data.texas.gov/resource/hr84-s96f.json) | [Meta](https://data.texas.gov/api/views/hr84-s96f)  
-  TCEQ provides easily accessible Texas Water District data to the public and to regional water planning groups  
-
-- **Texas Commission on Environmental Quality Violation Citations**  
-  [Data](https://data.texas.gov/resource/gyd4-wuys.json) | [Meta](https://data.texas.gov/api/views/gyd4-wuys)  
-  Violation citations are displayed along with their category, allegation description, resolution, and further details that are documented in the Consolidated Compliance and Enforcement Data System (CCEDS)  
-
-- **Texas Commission on Environmental Quality Waste Registration and Reporting Submissions**  
-  [Data](https://data.texas.gov/resource/p8z2-hirz.json) | [Meta](https://data.texas.gov/api/views/p8z2-hirz)  
-  This dataset lists the incoming documents received by the Texas Commission on Environmental Quality's Registration and Reporting Section in the Office of Waste for the petroleum storage tank and industrial/hazardous waste registration programs  
-
-- **Texas Commission on Environmental Quality Waste Shipment Summary**  
-  [Data](https://data.texas.gov/resource/yuba-pjk3.json) | [Meta](https://data.texas.gov/api/views/yuba-pjk3)  
-  Information from the TCEQ Waste Shipment Summary report form used by unregistered episodic generators of Industrial Class 1 or Hazardous Waste (IHW)  
-
-- **Texas East Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/r8gw-h8cs.json) | [Meta](https://data.texas.gov/api/views/r8gw-h8cs)  
-  A survey is a measurement for a parcel of land  
-
-- **Texas North Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/arek-dthg.json) | [Meta](https://data.texas.gov/api/views/arek-dthg)  
-  A survey is a measurement for a parcel of land  
-
-- **Texas South Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/ugt2-g8xm.json) | [Meta](https://data.texas.gov/api/views/ugt2-g8xm)  
-  A survey is a measurement for a parcel of land  
-
-- **Texas West Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/g3ex-37ca.json) | [Meta](https://data.texas.gov/api/views/g3ex-37ca)  
-  A survey is a measurement for a parcel of land  
-
-
-[[TOP]](#table-of-contents)
-
-
-## Energy and the Environment
-
-- **Waste Management Hazardous Waste Manifest Information 1990 Current Statewide Environmental Protection**  
-  [Data](https://data.pa.gov/resource/xswt-4vsm.json) | [Meta](https://data.pa.gov/api/views/xswt-4vsm)  
-  Energy And The Environment This dataset contains hazardous waste generation and disposal information in Pennsylvania  
-
-
 ## Environment
 
 - **Austin's Small Scale Green Infrastructure**  
@@ -1526,6 +1154,10 @@
   [Data](https://datahub.austintexas.gov/resource/eksn-7bxr.json) | [Meta](https://datahub.austintexas.gov/api/views/eksn-7bxr)  
   Greenhouse gas inventory for City of Austin municipal operations reflected as the number of metric tons of carbon dioxide-equivalent emissions  
 
+- **Daily Austin Weather Observations**  
+  [Data](https://datahub.austintexas.gov/resource/66cv-b68z.json) | [Meta](https://datahub.austintexas.gov/api/views/66cv-b68z)  
+  Daily summaries of several measurements of weather from observation stations around Austin  
+
 - **Grassland**  
   [Data](https://datahub.austintexas.gov/resource/uham-e4m2.json) | [Meta](https://datahub.austintexas.gov/api/views/uham-e4m2)  
   These grasslands were digitized from construction plans, environmental assessments, and City of Austin staff field observations into a versioned SDE database using ArcMap  
@@ -1541,10 +1173,6 @@
 - **Landscape Professionals**  
   [Data](https://datahub.austintexas.gov/resource/7fy3-mug7.json) | [Meta](https://datahub.austintexas.gov/api/views/7fy3-mug7)  
   This data set lists the names, business name, and skill of people that have completed the City of Austin Grow Green Landscape Professional training held annually.  
-
-- **Parcels**  
-  [Data](https://data.wcad.org/resource/an3x-cnmw.json) | [Meta](https://data.wcad.org/api/views/an3x-cnmw)  
-  This shapefile contains the Parcel Boundaries for Williamson County, Texas  
 
 - **Rock Outcrop**  
   [Data](https://datahub.austintexas.gov/resource/jxqt-k9f4.json) | [Meta](https://datahub.austintexas.gov/api/views/jxqt-k9f4)  
@@ -1590,69 +1218,12 @@
   [Data](https://datahub.austintexas.gov/resource/jnhv-r76c.json) | [Meta](https://datahub.austintexas.gov/api/views/jnhv-r76c)  
   These are the geographic boundaries for reaches evaluated as part of the Environmental Integrity Index and Austin Lakes Index   
 
+- **strategic measure vegetation maintenance M.E.6**  
+  [Data](https://datahub.austintexas.gov/resource/kga6-adf4.json) | [Meta](https://datahub.austintexas.gov/api/views/kga6-adf4)  
+  This dataset provides data describing Public Works Department responses to 311 calls requesting maintenance of trees and vegetation within the City right of way  
+
 
 [[TOP]](#table-of-contents)
-
-
-## Environmental Health & Sustainability
-
-- **SEED**  
-  [Data](https://dashboard.plano.gov/resource/wvr6-pa9i.json) | [Meta](https://dashboard.plano.gov/api/views/wvr6-pa9i)  
-
-
-## Finance
-
-- **Cities**  
-  [Data](https://data.wcad.org/resource/iwdk-wcuk.json) | [Meta](https://data.wcad.org/api/views/iwdk-wcuk)  
-  This shapefile contains the City Boundaries for Williamson County, Texas  
-
-- **Community College District**  
-  [Data](https://data.wcad.org/resource/7vaa-f6rz.json) | [Meta](https://data.wcad.org/api/views/7vaa-f6rz)  
-  This shapefile contains the Community College District Boundaries for Williamson County, Texas  
-
-- **County Boundary**  
-  [Data](https://data.wcad.org/resource/mnjq-32wk.json) | [Meta](https://data.wcad.org/api/views/mnjq-32wk)  
-  This shapefile contains the County Boundary for Williamson County, Texas  
-
-- **Defined Areas**  
-  [Data](https://data.wcad.org/resource/7ezg-6767.json) | [Meta](https://data.wcad.org/api/views/7ezg-6767)  
-  This shapefile contains the Defined Area Boundaries for Williamson County, Texas  
-
-- **ESD**  
-  [Data](https://data.wcad.org/resource/636c-i7s2.json) | [Meta](https://data.wcad.org/api/views/636c-i7s2)  
-  This shapefile contains the Emergency Services District (ESD) Boundaries for Williamson County, Texas  
-
-- **ISD**  
-  [Data](https://data.wcad.org/resource/7bnq-gqjq.json) | [Meta](https://data.wcad.org/api/views/7bnq-gqjq)  
-  This shapefile contains the Independent School District (ISD) Boundaries for Williamson County, Texas  
-
-- **Limited Districts**  
-  [Data](https://data.wcad.org/resource/n7nm-89fv.json) | [Meta](https://data.wcad.org/api/views/n7nm-89fv)  
-  This shapefile contains the Limited District Boundaries for Williamson County, Texas  
-
-- **MUD**  
-  [Data](https://data.wcad.org/resource/vgnm-5xkr.json) | [Meta](https://data.wcad.org/api/views/vgnm-5xkr)  
-  This shapefile contains the Municipal Utility District (MUD) Boundaries for Williamson County, Texas  
-
-- **PID**  
-  [Data](https://data.wcad.org/resource/fbdh-ywys.json) | [Meta](https://data.wcad.org/api/views/fbdh-ywys)  
-  This shapefile contains the Public Improvement District (PID) Boundaries for Williamson County, Texas  
-
-- **Sales Tax Allocation, City County Comparison Summary**  
-  [Data](https://austin-metro.demo.socrata.com/resource/xta4-8iy8.json) | [Meta](https://austin-metro.demo.socrata.com/api/views/xta4-8iy8)  
-  Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions  
-
-- **TIF**  
-  [Data](https://data.wcad.org/resource/tj7t-2s76.json) | [Meta](https://data.wcad.org/api/views/tj7t-2s76)  
-  This shapefile contains the Taxing Increment Financing (TIF) Zones for Williamson County, Texas  
-
-- **WC ID**  
-  [Data](https://data.wcad.org/resource/fzga-mm2z.json) | [Meta](https://data.wcad.org/api/views/fzga-mm2z)  
-  This shapefile contains the Water Control and Improvement District (WC & ID) Boundaries for Williamson County, Texas  
-
-- **Watershed**  
-  [Data](https://data.wcad.org/resource/n325-ctbt.json) | [Meta](https://data.wcad.org/api/views/n325-ctbt)  
-  This shapefile contains the Watershed Boundaries for Williamson County, Texas  
 
 
 ## Financial Services
@@ -1701,13 +1272,6 @@
   The Fleet Mobility Services Department tracks number of crashes involving City vehicles for vehicle life cycle management  
 
 
-## Flu Vaccinations
-
-- **Monthly Cumulative Number and Percent of Persons Who Received 1 Influenza Vaccination Doses, by Flu Season, Age Group, and Jurisdiction**  
-  [Data](https://data.cdc.gov/resource/udwr-3en6.json) | [Meta](https://data.cdc.gov/api/views/udwr-3en6)  
-  Monthly Cumulative Number and Percent of Persons Who Received ≥1 Influenza Vaccination Doses, by Flu Season, Age Group, and Jurisdiction  • Influenza vaccination coverage for children and adults is assessed through U.S  
-
-
 ## Government
 
 - **HEU demographic data BLY**  
@@ -1715,382 +1279,15 @@
   Demographic of HEU client served from January to May 2019  
 
 
-## Government and Taxes
-
-- **Active Cigarette Tobacco Non Retailers**  
-  [Data](https://data.texas.gov/resource/mhvi-79zr.json) | [Meta](https://data.texas.gov/api/views/mhvi-79zr)  
-  This file contains information for all Cigarette/Tobacco Cigarette and Tobacco Distributors, Manufacturers, Wholesalers, and Importers with an active permit  
-
-- **Active Cigarette Tobacco Permit Suspensions and Revocations**  
-  [Data](https://data.texas.gov/resource/mdss-647q.json) | [Meta](https://data.texas.gov/api/views/mdss-647q)  
-  This file contains information for all Cigarette/Tobacco holders with an suspended or revoked permit  
-
-- **Active Cigarette Tobacco Registered Manufacturers**  
-  [Data](https://data.texas.gov/resource/9zju-4437.json) | [Meta](https://data.texas.gov/api/views/9zju-4437)  
-  This file contains information for all Cigarette and Tobacco Registered Manufacturers with an active permit.  
-
-- **Active Cigarette Tobacco Retailers**  
-  [Data](https://data.texas.gov/resource/n4rp-ar9b.json) | [Meta](https://data.texas.gov/api/views/n4rp-ar9b)  
-  This file contains information at the outlet level for all Cigarette/tobacco Retailers with an active permit  
-
-- **Active Franchise Tax Permit Holders**  
-  [Data](https://data.texas.gov/resource/9cir-efmm.json) | [Meta](https://data.texas.gov/api/views/9cir-efmm)  
-  This file contains a list of active taxpayers set up for franchise tax under Tax Code Chapter 171. The file includes taxpayer name, address, and other public business information  
-
-- **Active Sales Tax Permit Holders**  
-  [Data](https://data.texas.gov/resource/jrea-zgmq.json) | [Meta](https://data.texas.gov/api/views/jrea-zgmq)  
-  This file contains a list of taxpayers who hold an active sales tax permit under Tax Code Chapter 151, Subchapter F.  The file includes taxpayer and outlet information  
-
-- **Agriculture and Timber Exemption Registrations**  
-  [Data](https://data.texas.gov/resource/4uks-rvt8.json) | [Meta](https://data.texas.gov/api/views/4uks-rvt8)  
-  The information in this file is a result of HB 268 requiring registration for Sales Tax exemption regarding qualifying Agriculture and Timber purchases  
-
-- **All Cigarette and Tobacco Retailers**  
-  [Data](https://data.texas.gov/resource/yrkr-maw5.json) | [Meta](https://data.texas.gov/api/views/yrkr-maw5)  
-  This file contains information at the outlet level for all Cigarette/Tobacco Retailers with an active permit or that have been active within the last four years  
-
-- **All Permitted Sales Tax Locations and Local Sales Tax Responsibility**  
-  [Data](https://data.texas.gov/resource/3kx8-uryv.json) | [Meta](https://data.texas.gov/api/views/3kx8-uryv)  
-  This file includes all sales tax outlets, and local tax responsibility, in Texas which have been active during the last four years  
-
-- **Appropriation Numbers and Titles by Agency and Appropriation Year**  
-  [Data](https://data.texas.gov/resource/vuni-wtvk.json) | [Meta](https://data.texas.gov/api/views/vuni-wtvk)  
-  All 5-digit Appropriation numbers are listed in this file by 3-digit agency number and 2-digit appropriation year  
-
-- **Attorney General Opinions Overruled, Modified, Affirmed, Withdrawn**  
-  [Data](https://data.texas.gov/resource/ramn-n827.json) | [Meta](https://data.texas.gov/api/views/ramn-n827)  
-  This dataset includes legal opinions of the Attorney General  
-
-- **BPR Summary Data**  
-  [Data](https://data.texas.gov/resource/cu3v-5rpj.json) | [Meta](https://data.texas.gov/api/views/cu3v-5rpj)  
-  Biennial Performance Report (BPR) summary data for report visualizations  
-
-- **Comptroller Object Numbers and Titles**  
-  [Data](https://data.texas.gov/resource/gern-2bvs.json) | [Meta](https://data.texas.gov/api/views/gern-2bvs)  
-  This file comprises the list of all objects of expenditure and objects of revenue  
-
-- **County Returns**  
-  [Data](https://data.texas.gov/resource/ctj5-pypw.json) | [Meta](https://data.texas.gov/api/views/ctj5-pypw)  
-  See the attached PDF for a detailed description of each tax type  
-
-- **Credit Law Delinquent List**  
-  [Data](https://data.texas.gov/resource/ix8u-msb9.json) | [Meta](https://data.texas.gov/api/views/ix8u-msb9)  
-  Based on the delivery period, the publication date of the delinquent list becomes effective five business days (M-F) subsequent to the due date excluding federal and state holidays, Saturdays and Sundays  
-
-- **Direct Pay Taxpayers with Active Permits**  
-  [Data](https://data.texas.gov/resource/deed-e7u6.json) | [Meta](https://data.texas.gov/api/views/deed-e7u6)  
-  This file contains a list of entities that have an active direct payment permit for paying Texas sales and use taxes.  
-
-- **Eminent Domain Data**  
-  [Data](https://data.texas.gov/resource/cvjb-eurw.json) | [Meta](https://data.texas.gov/api/views/cvjb-eurw)  
-  The Eminent Domain Data table includes information about the entities that have reported to the Comptroller’s office, their contact information, and whether they have used their eminent domain authority through filing a condemnation petition  
-
-- **Eminent Domain Noncompliant Entities List**  
-  [Data](https://data.texas.gov/resource/qpkm-pcgh.json) | [Meta](https://data.texas.gov/api/views/qpkm-pcgh)  
-  Texas Government Code §2206.155 requires the Comptroller’s office to publish a list of entities that have failed to comply with the reporting requirements of Government Code Chapter 2206, Subchapter D  
-
-- **Eminent Domain Project Data**  
-  [Data](https://data.texas.gov/resource/x7n3-dc7h.json) | [Meta](https://data.texas.gov/api/views/x7n3-dc7h)  
-  The Project Data table includes all projects that entities claim they have eminent domain authority to undertake  
-
-- **Eminent Domain Provision Data**  
-  [Data](https://data.texas.gov/resource/pmc3-6ynv.json) | [Meta](https://data.texas.gov/api/views/pmc3-6ynv)  
-  The Provision Data table includes all legal authorities that entities claim grants them eminent domain powers  
-
-- **Expenditure Category Numbers and Titles**  
-  [Data](https://data.texas.gov/resource/d57d-zxw6.json) | [Meta](https://data.texas.gov/api/views/d57d-zxw6)  
-  This lists the broad categories of expenditure by 2-digit code and corresponding title  
-
-- **GAAP Fund Numbers and Titles**  
-  [Data](https://data.texas.gov/resource/529n-3tdy.json) | [Meta](https://data.texas.gov/api/views/529n-3tdy)  
-  This is the list of 4-digit GAAP Fund codes and corresponding GAAP Fund titles used to report fund activity on the Texas Comprehensive Annual Financial Report, according to Generally Accepted Accounting Principles (GAAP)  
-
-- **GAAP Fund Types and Titles**  
-  [Data](https://data.texas.gov/resource/ehj5-gw2z.json) | [Meta](https://data.texas.gov/api/views/ehj5-gw2z)  
-  These are the various 2-digit GAAP fund types and their titles under which GAAP Funds are consolidated for financial reporting  
-
-- **International Fuel Tax Agreement Taxpayers**  
-  [Data](https://data.texas.gov/resource/vxxj-htmy.json) | [Meta](https://data.texas.gov/api/views/vxxj-htmy)  
-  This file contains a list of International Fuel Tax Agreement (IFTA) Licensees in Texas.  
-
-- **Interstate Truckers**  
-  [Data](https://data.texas.gov/resource/nhzr-ynmk.json) | [Meta](https://data.texas.gov/api/views/nhzr-ynmk)  
-  This file contains a list of licensed interstate truckers in Texas.  
-
-- **Licensed CNG LNG Taxpayers**  
-  [Data](https://data.texas.gov/resource/i2qy-sv94.json) | [Meta](https://data.texas.gov/api/views/i2qy-sv94)  
-  This is a list of Compressed Natural Gas (CNG) and Liquefied Natural Gas (LNG) license holders.  
-
-- **Licensed Fuels Taxpayers**  
-  [Data](https://data.texas.gov/resource/3fc3-wv7y.json) | [Meta](https://data.texas.gov/api/views/3fc3-wv7y)  
-  Fuels tax license holders in Texas including Taxpayer Number, Name, City, Zip Code and Permit Type.  
-
-- **Local Government Retention Schedules**  
-  [Data](https://data.texas.gov/resource/qf2n-igjr.json) | [Meta](https://data.texas.gov/api/views/qf2n-igjr)  
-
-- **Local Hotel Occupancy Tax HOT Data**  
-  [Data](https://data.texas.gov/resource/vmy5-jctb.json) | [Meta](https://data.texas.gov/api/views/vmy5-jctb)  
-  Local Hotel Occupancy Tax (HOT) data has been compiled by municipalities complying with Tax Code Section 351.009 since 2018  
-
-- **Local Sales Tax Allocation Payment Detail**  
-  [Data](https://data.texas.gov/resource/3p4v-vsr3.json) | [Meta](https://data.texas.gov/api/views/3p4v-vsr3)  
-  The allocation payment detail shows the components of the total dollars returned to a local sales taxing city, county, special purpose district or transit authority by the Comptroller's office for their local sales tax collections  
-
-- **Maquiladora Export Permitted Taxpayers**  
-  [Data](https://data.texas.gov/resource/meud-pnzp.json) | [Meta](https://data.texas.gov/api/views/meud-pnzp)  
-  This file contains a list of maquiladora enterprises that currently hold an active maquiladora export permit.  
-
-- **Marketplace Providers Comparison Summary**  
-  [Data](https://data.texas.gov/resource/hezn-fbgw.json) | [Meta](https://data.texas.gov/api/views/hezn-fbgw)  
-  Sales tax allocation comparison summary reports present data on monthly sales and use tax payments to local jurisdictions  
-
-- **Mixed Beverage Gross Receipts**  
-  [Data](https://data.texas.gov/resource/naix-2893.json) | [Meta](https://data.texas.gov/api/views/naix-2893)  
-  This file contains a list of taxpayers required to report mixed beverage gross receipts tax reports under Tax Code Chapter 183, Subchapter B. The list provides taxpayer names, amounts reported, and other public information  
-
-- **Mixed Beverage SPD Comparison**  
-  [Data](https://data.texas.gov/resource/r5r8-zzk3.json) | [Meta](https://data.texas.gov/api/views/r5r8-zzk3)  
-  These entities received mixed beverage tax revenue from permit holders located in the special purpose districts respectively  
-
-- **Mixed Beverage SPD County Comparison**  
-  [Data](https://data.texas.gov/resource/6dgk-k4ty.json) | [Meta](https://data.texas.gov/api/views/6dgk-k4ty)  
-  These Special Purpose Districts received mixed beverage tax revenue from permit holders located in the SPD  
-
-- **Mixed Beverage Taxes, Cities Located In Multiple Counties**  
-  [Data](https://data.texas.gov/resource/r7rg-xryu.json) | [Meta](https://data.texas.gov/api/views/r7rg-xryu)  
-  These cities, which are located in multiple counties, received mixed beverage tax revenue from permit holders located in the counties listed  
-
-- **Mixed Beverage Taxes, City and County**  
-  [Data](https://data.texas.gov/resource/xf8u-zfz8.json) | [Meta](https://data.texas.gov/api/views/xf8u-zfz8)  
-  These entities received mixed beverage tax revenue from permit holders located in the city or county respectively  
-
-- **Mixed Beverage Taxes, City County Comparison Summary**  
-  [Data](https://data.texas.gov/resource/8kwn-yzyi.json) | [Meta](https://data.texas.gov/api/views/8kwn-yzyi)  
-  These cities received mixed beverage tax revenue from permit holders located in the city  
-
-- **Monthly Per Capita Consumption**  
-  [Data](https://data.texas.gov/resource/3j53-reqt.json) | [Meta](https://data.texas.gov/api/views/3j53-reqt)  
-
-- **Motor Fuel Transporters**  
-  [Data](https://data.texas.gov/resource/jy3w-jm2u.json) | [Meta](https://data.texas.gov/api/views/jy3w-jm2u)  
-  This file contains a list of licensed motor fuel transporters (common carriers) in Texas.  
-
-- **Passenger Vehicle, Motorcycle, and Pickup Truck Registrations by Year**  
-  [Data](https://data.texas.gov/resource/cbmj-zeje.json) | [Meta](https://data.texas.gov/api/views/cbmj-zeje)  
-  Vehicle registration counts broken out by fiscal year  
-
-- **Payments to Cities and Counties from the Coronavirus Relief Fund CARES Act**  
-  [Data](https://data.texas.gov/resource/sigg-4w9b.json) | [Meta](https://data.texas.gov/api/views/sigg-4w9b)  
-  Texas Comptroller of Public Accounts dataset  
-
-- **Pending Original New Primary and Subordinate License Application s**  
-  [Data](https://data.texas.gov/resource/mxm5-tdpj.json) | [Meta](https://data.texas.gov/api/views/mxm5-tdpj)  
-  The TABC Pending Original (New) Primary and Subordinate License Application dataset includes information for certain submitted applications for new licenses  
-
-- **Primarily Charitable Organizations Eligible for Property Tax Relief**  
-  [Data](https://data.texas.gov/resource/9hxf-z9s7.json) | [Meta](https://data.texas.gov/api/views/9hxf-z9s7)  
-  This file contains a list of organizations that have been issued a determination letter and are therefore eligible to apply for local property tax exemptions.  
-
-- **Quarterly Sales Tax Historical Data**  
-  [Data](https://data.texas.gov/resource/7z4d-yf2c.json) | [Meta](https://data.texas.gov/api/views/7z4d-yf2c)  
-  The data include gross sales, amount of sales and purchase subject to state sales and use tax, and the number of reporting outlets by quarter  
-
-- **Revenue Category Numbers and Titles**  
-  [Data](https://data.texas.gov/resource/xfck-ysny.json) | [Meta](https://data.texas.gov/api/views/xfck-ysny)  
-  This lists the broad categories of revenue by 2-digit code and corresponding title  
-
-- **Sales Tax Allocation, City**  
-  [Data](https://data.texas.gov/resource/vfba-b57j.json) | [Meta](https://data.texas.gov/api/views/vfba-b57j)  
-  Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions  
-
-- **Sales Tax Allocation, City County Comparison Summary**  
-  [Data](https://data.texas.gov/resource/53pa-m7sm.json) | [Meta](https://data.texas.gov/api/views/53pa-m7sm)  
-  Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions  
-
-- **Sales Tax Allocation, Tax Rates**  
-  [Data](https://data.texas.gov/resource/tmhs-ahbh.json) | [Meta](https://data.texas.gov/api/views/tmhs-ahbh)  
-  This report shows jurisdictions adopting new or changed sales tax rates  
-
-- **Sales Tax Allocation County, MTA, SPD**  
-  [Data](https://data.texas.gov/resource/qsh8-tby8.json) | [Meta](https://data.texas.gov/api/views/qsh8-tby8)  
-  Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions  
-
-- **Signed Statement Registration Numbers**  
-  [Data](https://data.texas.gov/resource/a5y7-t5ih.json) | [Meta](https://data.texas.gov/api/views/a5y7-t5ih)  
-  This file contains a list of Signed Statement Registration Numbers in Texas.  
-
-- **Single Local Use Tax Rates Comparison Summary**  
-  [Data](https://data.texas.gov/resource/5yx2-afcg.json) | [Meta](https://data.texas.gov/api/views/5yx2-afcg)  
-  Sales tax allocation comparison summary reports present data on monthly sales and use tax payments to local jurisdictions  
-
-- **Special Purpose District Alternate Reporting**  
-  [Data](https://data.texas.gov/resource/d6xi-isr4.json) | [Meta](https://data.texas.gov/api/views/d6xi-isr4)  
-  The Special Purpose District Alternate Reporting table includes debt information that is reported by entities that are uploaded including audits, annual financial reports and the Comptroller’s Local Annual Debt Report forms  
-
-- **Special Purpose District Counties**  
-  [Data](https://data.texas.gov/resource/bzzc-mcsa.json) | [Meta](https://data.texas.gov/api/views/bzzc-mcsa)  
-  The Special Purpose District Counties table includes the entities Texas Taxpayer ID, primary and secondary county codes.  
-
-- **Special Purpose District Entities**  
-  [Data](https://data.texas.gov/resource/vtc6-p2xa.json) | [Meta](https://data.texas.gov/api/views/vtc6-p2xa)  
-  The Special Purpose District Entities table includes information about the entities that have reported to the Comptroller’s office including their Special Purpose District’s name, Texas Taxpayer ID, website URL, report year, has bonds outstanding, gross receipts in excess of $250,000, cash and temporary investments in excess of $250,000, entity type, reporting method, total of all debt and sales and ad valorem tax rates.  
-
-- **Special Purpose District Individual Debt Obligations**  
-  [Data](https://data.texas.gov/resource/2k9b-g8bm.json) | [Meta](https://data.texas.gov/api/views/2k9b-g8bm)  
-  The Special Purpose District Individual Debt Obligations table includes all individual debt obligation names and debt that the entities have self-reported using online form provided by the Comptroller.  
-
-- **Special Purpose District Related Parties**  
-  [Data](https://data.texas.gov/resource/hbhx-8iwa.json) | [Meta](https://data.texas.gov/api/views/hbhx-8iwa)  
-  The Special Purpose District Related Party table includes the special purpose district’s name, Texas taxpayer ID, contact name, board member names and titles, tax assessor, utility operator and third party name of each district  
-
-- **TABC License Information**  
-  [Data](https://data.texas.gov/resource/7hf9-qc9f.json) | [Meta](https://data.texas.gov/api/views/7hf9-qc9f)  
-  The TABC License Information dataset includes valuable information associated with each primary license issued by TABC as the result of a successfully submitted, processed  
-
-- **TABCLicenses**  
-  [Data](https://data.texas.gov/resource/kguh-7q9z.json) | [Meta](https://data.texas.gov/api/views/kguh-7q9z)  
-  For Help: https://data.texas.gov/videos  For more information, go to TABC Sept  
-
-- **Tax Assessor Collector Licenses Permits Issued**  
-  [Data](https://data.texas.gov/resource/yqpn-9vyh.json) | [Meta](https://data.texas.gov/api/views/yqpn-9vyh)  
-
-- **Tax Credit Contacts for Projects In Progress Part 2 B**  
-  [Data](https://data.texas.gov/resource/6rgn-urux.json) | [Meta](https://data.texas.gov/api/views/6rgn-urux)  
-  This is a list of persons associated with the Texas Historical Commission's Tax Credit Program project applications in process  
-
-- **Taxpayer Returns**  
-  [Data](https://data.texas.gov/resource/iuv6-7n84.json) | [Meta](https://data.texas.gov/api/views/iuv6-7n84)  
-  See the attached PDF for a detailed description of each tax type  
-
-- **Texas Coin Operated Amusement Machine Taxpayers**  
-  [Data](https://data.texas.gov/resource/ryd4-r7mh.json) | [Meta](https://data.texas.gov/api/views/ryd4-r7mh)  
-  This file contains a list of Coin-Operated Amusement Machine Operators in Texas.  
-
-- **Texas Notary Public Commissions**  
-  [Data](https://data.texas.gov/resource/gmd3-bnrd.json) | [Meta](https://data.texas.gov/api/views/gmd3-bnrd)  
-  This dataset provides a list of individuals commissioned to perform services as a notary public by the Office of the Texas Secretary of State  
-
-- **Texas Regional Economic Snapshots**  
-  [Data](https://data.texas.gov/resource/jir8-be2g.json) | [Meta](https://data.texas.gov/api/views/jir8-be2g)  
-  Find information on population, income, jobs, wages, graduation rates, highways, water and healthcare for the Comptroller's 12 Economic Regions  
-
-- **Texas State Agency Records Retention Schedule Revised 5th edition**  
-  [Data](https://data.texas.gov/resource/f6ng-hrgc.json) | [Meta](https://data.texas.gov/api/views/f6ng-hrgc)  
-  This retention schedule indicates the minimum length of time listed records series must be retained by a state agency before destruction or archival preservation  
-
-- **Texas Tax Exempt Entities**  
-  [Data](https://data.texas.gov/resource/8gur-z4cy.json) | [Meta](https://data.texas.gov/api/views/8gur-z4cy)  
-  This file contains a list of nonprofit and other types of organizations that hold state tax exemption from Sales and Use tax, Franchise tax, and Hotel Occupancy tax  
-
-- **Texas University Records Retention Schedule 2nd Edition**  
-  [Data](https://data.texas.gov/resource/dfmk-62hi.json) | [Meta](https://data.texas.gov/api/views/dfmk-62hi)  
-  This retention schedule indicates the minimum length of time listed records series must be retained by a universities before destruction or archival preservation  
-
-- **Voter Registration Cancellation Trends**  
-  [Data](https://data.texas.gov/resource/y3cg-5qgi.json) | [Meta](https://data.texas.gov/api/views/y3cg-5qgi)  
-  County Voter Registrar offices report cancellations to the TEAM system with reasons for each cancellation  
-
-
-[[TOP]](#table-of-contents)
-
-
-## Grain
-
-- **Grain Basis**  
-  [Data](https://internal.agtransport.usda.gov/resource/v85y-3hep.json) | [Meta](https://internal.agtransport.usda.gov/api/views/v85y-3hep)  
-  Basis reflects both local and global supply and demand forces  
-
-- **Grain Prices**  
-  [Data](https://internal.agtransport.usda.gov/resource/g92w-8cn7.json) | [Meta](https://internal.agtransport.usda.gov/api/views/g92w-8cn7)  
-  Prices are a fundamental component of exchange and have long been important to the functioning of agricultural markets  
-
-
-## Health
-
-- **Average Annual Number Of Very Preterm Live Births Over 5 Year Period All States**  
-  [Data](https://opendata.utah.gov/resource/pcz5-ng6z.json) | [Meta](https://opendata.utah.gov/api/views/pcz5-ng6z)  
-  Average Annual Number Of Very Preterm Live Births Over 5 Year Period All States  
-
-- **Average Annual Number Of Very Preterm Live Singleton Births Over 5 Year Period All States**  
-  [Data](https://opendata.utah.gov/resource/9tdj-mzb6.json) | [Meta](https://opendata.utah.gov/api/views/9tdj-mzb6)  
-  Average Annual Number Of Very Preterm Live Singleton Births Over 5 Year Period All States  
-
-- **Children Receiving Interventions Developmental Disabilities Age 6 11 All States**  
-  [Data](https://opendata.utah.gov/resource/i4sg-ek8c.json) | [Meta](https://opendata.utah.gov/api/views/i4sg-ek8c)  
-  Children Receiving Interventions Developmental Disabilities Age 6-11 All States  
-
-- **Incidence Of Brain And Central Nervous System Cancer Age 15 Under Per 1,000,000 All States**  
-  [Data](https://opendata.utah.gov/resource/4ekb-f6x6.json) | [Meta](https://opendata.utah.gov/api/views/4ekb-f6x6)  
-  Incidence Of Brain And Central Nervous System Cancer Age 15 Under Per 1,000,000 All States  
-
-- **Incidence Rates Of Liver And Intrahepatic Bile Duct Cancer Per 100,000 All States**  
-  [Data](https://opendata.utah.gov/resource/ratj-by8i.json) | [Meta](https://opendata.utah.gov/api/views/ratj-by8i)  
-  Incidence Rates Of Liver And Intrahepatic Bile Duct Cancer Per 100,000 All States  
-
-- **Vital Signs Home Prices Bay Area**  
-  [Data](https://data.bayareametro.gov/resource/vnvp-ma92.json) | [Meta](https://data.bayareametro.gov/api/views/vnvp-ma92)  
-  VITAL SIGNS INDICATOR Home Prices (EC7)  FULL MEASURE NAME Home Prices  LAST UPDATED August 2019  DESCRIPTION Home prices refer to the cost of purchasing one’s own house or condominium  
-
-- **Vital Signs Home Prices by city**  
-  [Data](https://data.bayareametro.gov/resource/bkzy-7u9t.json) | [Meta](https://data.bayareametro.gov/api/views/bkzy-7u9t)  
-  VITAL SIGNS INDICATOR Home Prices (EC7)  FULL MEASURE NAME Home Prices  LAST UPDATED August 2019  DESCRIPTION Home prices refer to the cost of purchasing one’s own house or condominium  
-
-- **Vital Signs Home Prices by county**  
-  [Data](https://data.bayareametro.gov/resource/wcca-cxzn.json) | [Meta](https://data.bayareametro.gov/api/views/wcca-cxzn)  
-  VITAL SIGNS INDICATOR Home Prices (EC7)  FULL MEASURE NAME Home Prices  LAST UPDATED August 2019  DESCRIPTION Home prices refer to the cost of purchasing one’s own house or condominium  
-
-- **Vital Signs Home Prices by metro**  
-  [Data](https://data.bayareametro.gov/resource/7ksc-i6kn.json) | [Meta](https://data.bayareametro.gov/api/views/7ksc-i6kn)  
-  VITAL SIGNS INDICATOR Home Prices (EC7)  FULL MEASURE NAME Home Prices  LAST UPDATED August 2019  DESCRIPTION Home prices refer to the cost of purchasing one’s own house or condominium  
-
-- **Vital Signs Home Prices by zip code**  
-  [Data](https://data.bayareametro.gov/resource/8xer-7dm5.json) | [Meta](https://data.bayareametro.gov/api/views/8xer-7dm5)  
-  VITAL SIGNS INDICATOR Home Prices (EC7)  FULL MEASURE NAME Home Prices  LAST UPDATED August 2019  DESCRIPTION Home prices refer to the cost of purchasing one’s own house or condominium  
-
-
-[[TOP]](#table-of-contents)
-
-
-## Health & Human Services
-
-- **Emergency Temporary Shelters Intake From Landing Zone**  
-  [Data](https://data.cityofchicago.org/resource/hd2g-5c43.json) | [Meta](https://data.cityofchicago.org/api/views/hd2g-5c43)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Exits By Age Range**  
-  [Data](https://data.cityofchicago.org/resource/qu5t-gu33.json) | [Meta](https://data.cityofchicago.org/api/views/qu5t-gu33)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Exits By Country of Origin**  
-  [Data](https://data.cityofchicago.org/resource/fk7i-xuiy.json) | [Meta](https://data.cityofchicago.org/api/views/fk7i-xuiy)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Exits By Gender Identity**  
-  [Data](https://data.cityofchicago.org/resource/q93m-i3ga.json) | [Meta](https://data.cityofchicago.org/api/views/q93m-i3ga)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Exits By Original Exit Date**  
-  [Data](https://data.cityofchicago.org/resource/7tk2-dsc8.json) | [Meta](https://data.cityofchicago.org/api/views/7tk2-dsc8)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Exits By Shelter**  
-  [Data](https://data.cityofchicago.org/resource/abkz-rrig.json) | [Meta](https://data.cityofchicago.org/api/views/abkz-rrig)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Exits By Shelter and Date**  
-  [Data](https://data.cityofchicago.org/resource/hfse-pzih.json) | [Meta](https://data.cityofchicago.org/api/views/hfse-pzih)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-- **Emergency Temporary Shelters Limited Stay Extensions**  
-  [Data](https://data.cityofchicago.org/resource/n3b3-xajz.json) | [Meta](https://data.cityofchicago.org/api/views/n3b3-xajz)  
-  Under SO2024-0008386, passed by City Council on 4/17/2024, the Department of Family and Support Services publishes data on the City-operated and City-funded emergency new arrivals shelters  
-
-
 ## Health and Community Services
 
 - **APH Immunization s Compliance**  
   [Data](https://datahub.austintexas.gov/resource/eqki-fv6u.json) | [Meta](https://datahub.austintexas.gov/api/views/eqki-fv6u)  
   The data represents patients who were 18+ between January 1, 2018 and December 31, 2018 and whether they were compliant or not with their immunizations  
+
+- **APH Social Service Vendor Main Locations**  
+  [Data](https://datahub.austintexas.gov/resource/iicu-im5w.json) | [Meta](https://datahub.austintexas.gov/api/views/iicu-im5w)  
+  This dataset is a list of main headquarter office locations for non profit and governmental organizations that have formal agreements with Austin Public Health for the delivery of social services within the City of Austin and/or Travis County  
 
 - **ARC Far West Doses Administered March June**  
   [Data](https://datahub.austintexas.gov/resource/fvq2-xkyy.json) | [Meta](https://datahub.austintexas.gov/api/views/fvq2-xkyy)  
@@ -2352,6 +1549,10 @@
   [Data](https://datahub.austintexas.gov/resource/ifzc-3xz8.json) | [Meta](https://datahub.austintexas.gov/api/views/ifzc-3xz8)  
   This dataset includes all housing projects that have received a subsidy from or participated in a city of Austin developer incentive program  
 
+- **Compatibility Corridors**  
+  [Data](https://datahub.austintexas.gov/resource/9tf8-6uas.json) | [Meta](https://datahub.austintexas.gov/api/views/9tf8-6uas)  
+  Light Rail, Larger, and Medium Corridors with relaxed compatibility regulations and reduced parking minimums per Ordinance No  
+
 - **Comprehensive Affordable Housing Directory**  
   [Data](https://datahub.austintexas.gov/resource/4syj-z4ky.json) | [Meta](https://datahub.austintexas.gov/api/views/4syj-z4ky)  
   This dataset contains all income-restricted housing within the Austin Full Purpose and into the 5-mile Extra Territorial Jurisdiction  
@@ -2419,11 +1620,11 @@
 [[TOP]](#table-of-contents)
 
 
-## Infrastructure
+## Human Resources
 
-- **WS ID**  
-  [Data](https://data.wcad.org/resource/nmrn-ys4h.json) | [Meta](https://data.wcad.org/api/views/nmrn-ys4h)  
-  This shapefile contains the Water Sewer and Improvement District (WS & ID) Boundaries for Williamson County, Texas  
+- **(%)EOA.B.5 Count of individuals earning less than the living wage.**  
+  [Data](https://datahub.austintexas.gov/resource/tasn-fkfd.json) | [Meta](https://datahub.austintexas.gov/api/views/tasn-fkfd)  
+  The count of individual employees earning less than the living wage  
 
 
 ## Locations and Maps
@@ -2452,6 +1653,10 @@
   [Data](https://datahub.austintexas.gov/resource/ugty-5b95.json) | [Meta](https://datahub.austintexas.gov/api/views/ugty-5b95)  
   The City of Austin’s Community Tree Priority Map (formerly Planting Prioritization) serves as a decision support tool to determine where to focus forestry activities in Austin, Texas  
 
+- **Corridor Properties**  
+  [Data](https://datahub.austintexas.gov/resource/cqnh-m8ab.json) | [Meta](https://datahub.austintexas.gov/api/views/cqnh-m8ab)  
+  This layer includes polygons of properties along the designated corridors where regulatory changes could apply per Ordinance No  
+
 - **Historic Properties List**  
   [Data](https://datahub.austintexas.gov/resource/7c6r-hcmz.json) | [Meta](https://datahub.austintexas.gov/api/views/7c6r-hcmz)  
   A list of properties that are landmarks,  are in historic districts, or were recommended for inclusion in a historic district.  
@@ -2471,6 +1676,10 @@
 - **Neighborhoods**  
   [Data](https://datahub.austintexas.gov/resource/a7ap-j2yt.json) | [Meta](https://datahub.austintexas.gov/api/views/a7ap-j2yt)  
   City of Austin Neighborhood Reporting Areas  
+
+- **Pollutant Report Socrata**  
+  [Data](https://datahub.austintexas.gov/resource/7i3t-mxrc.json) | [Meta](https://datahub.austintexas.gov/api/views/7i3t-mxrc)  
+  Point layer derived from the Maximo data warehouse that shows the location of reported pollutant spills  
 
 - **Properties Affected by the Organics Diversion Requirements of the Universal Recycling Ordinance URO**  
   [Data](https://datahub.austintexas.gov/resource/vpcu-8r94.json) | [Meta](https://datahub.austintexas.gov/api/views/vpcu-8r94)  
@@ -2531,6 +1740,13 @@
 [[TOP]](#table-of-contents)
 
 
+## Mayor & City Council - Management Services
+
+- **Climate Equity Plan Work Status Updates**  
+  [Data](https://datahub.austintexas.gov/resource/qd8m-4q85.json) | [Meta](https://datahub.austintexas.gov/api/views/qd8m-4q85)  
+  Work status updates for the Climate Equity Plan's 74 strategies, provided by City of Austin partners.  
+
+
 ## Municipal Court
 
 - **(%)Number and Percentage of court cases that are adjudicated within case processing time standards Municipal Court**  
@@ -2538,244 +1754,10 @@
   This dataset supports S.D.5 of SD23  
 
 
-## NCHS
+## Planning Department
 
-- **AH Provisional COVID 19 Deaths by HHS Region, Race, Age 65plus**  
-  [Data](https://data.cdc.gov/resource/9xc7-3a4q.json) | [Meta](https://data.cdc.gov/api/views/9xc7-3a4q)  
-  Deaths involving coronavirus disease 2019 (COVID-19) reported to NCHS by time-period, HHS region, race and Hispanic origin, and age groups (<65, 65-74  
-
-- **NCHS VSRR Quarterly provisional estimates for selected indicators of mortality**  
-  [Data](https://data.cdc.gov/resource/489q-934x.json) | [Meta](https://data.cdc.gov/api/views/489q-934x)  
-  Provisional estimates of death rates  
-
-- **Provisional COVID 19 Deaths by HHS Region, Race, and Age**  
-  [Data](https://data.cdc.gov/resource/tpcp-uiv5.json) | [Meta](https://data.cdc.gov/api/views/tpcp-uiv5)  
-  Effective September 27, 2023, this dataset will no longer be updated  
-
-- **Provisional COVID 19 death counts and rates by month, jurisdiction of residence, and demographic characteristics**  
-  [Data](https://data.cdc.gov/resource/yrur-wghw.json) | [Meta](https://data.cdc.gov/api/views/yrur-wghw)  
-  This file contains COVID-19 death counts and rates by month and year of death, jurisdiction of residence (U.S., HHS Region) and demographic characteristics (sex, age, race and Hispanic origin, and age/race and Hispanic origin)  
-
-- **Provisional COVID 19 death counts and rates, by jurisdiction of residence and demographic characteristics**  
-  [Data](https://data.cdc.gov/resource/dmnu-8erf.json) | [Meta](https://data.cdc.gov/api/views/dmnu-8erf)  
-  This file contains COVID-19 death counts and rates by jurisdiction of residence (U.S., HHS Region) and demographic characteristics (sex, age, race and Hispanic origin, and age/race and Hispanic origin)  
-
-- **Provisional COVID 19 death counts, rates, and percent of total deaths, by jurisdiction of residence**  
-  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Meta](https://data.cdc.gov/api/views/mpx5-t7tu)  
-  This file contains COVID-19 death counts, death rates, and percent of total deaths by jurisdiction of residence  
-
-
-## Other
-
-- **Abstracts**  
-  [Data](https://data.wcad.org/resource/mmbj-2sni.json) | [Meta](https://data.wcad.org/api/views/mmbj-2sni)  
-  This shapefile contains the Public Land Survey System (PLSS) Abstracts for Williamson County, Texas  
-
-- **Cadastral Lines**  
-  [Data](https://data.wcad.org/resource/vda3-vy7g.json) | [Meta](https://data.wcad.org/api/views/vda3-vy7g)  
-  This shapefile contains the Cadastral Lines for Williamson County, Texas  
-
-- **City of Dallas COD Historical Markers**  
-  [Data](https://www.dallasopendata.com/resource/adn6-n59j.json) | [Meta](https://www.dallasopendata.com/api/views/adn6-n59j)  
-  This dataset contains the location and descriptive attributes of sites within the City of Dallas which have been marked by the Texas Historical Commision in recognition of their architectural or historical significance.  
-
-- **Hidalgo Project Details**  
-  [Data](https://austin-metro.demo.socrata.com/resource/t4kv-yygf.json) | [Meta](https://austin-metro.demo.socrata.com/api/views/t4kv-yygf)  
-
-- **Subdivisions**  
-  [Data](https://data.wcad.org/resource/em3v-vwsk.json) | [Meta](https://data.wcad.org/api/views/em3v-vwsk)  
-  This shapefile contains the Subdivision Boundaries for Williamson County, Texas  
-
-- **Texas A M Housing Activity for Williamson County**  
-  [Data](https://data.wcad.org/resource/kyqw-unhf.json) | [Meta](https://data.wcad.org/api/views/kyqw-unhf)  
-  Data from https://www.recenter.tamu.edu/data/housing-activity/#!/activity/County/Williamson_County  
-
-- **Texas Unclaimed Property**  
-  [Data](https://austin-metro.demo.socrata.com/resource/dqez-7nhr.json) | [Meta](https://austin-metro.demo.socrata.com/api/views/dqez-7nhr)  
-
-
-## Other Public Health Threats
-
-- **Arumowot Virus Ar 1286 64 Complete RNA Gene Sequence Data**  
-  [Data](https://data.usaid.gov/resource/2qkf-q8gs.json) | [Meta](https://data.usaid.gov/api/views/2qkf-q8gs)  
-  The University of Texas at El Paso (UTEP) was awarded a 5 year Cooperative Agreement in September, 2013 to develop and evaluate the Rift Valley Fever (RVF) MP‐12 and derivative vaccine candidates for protecting livestock in Tanzania  
-
-
-## Permits and Licensing
-
-- **Active insurance company appointments for agencies and businesses**  
-  [Data](https://data.texas.gov/resource/avjc-7u2m.json) | [Meta](https://data.texas.gov/api/views/avjc-7u2m)  
-  Appointments are formal designations to represent regulated insurance companies  
-
-- **Active insurance company appointments for agents and adjusters**  
-  [Data](https://data.texas.gov/resource/ft7p-v8a7.json) | [Meta](https://data.texas.gov/api/views/ft7p-v8a7)  
-  Appointments are formal designations to represent regulated insurance companies  
-
-- **Active officers and directors for active surplus lines agencies**  
-  [Data](https://data.texas.gov/resource/ghh2-6wm5.json) | [Meta](https://data.texas.gov/api/views/ghh2-6wm5)  
-  This data set includes a row for each person associated with a surplus lines agency in the role of officer or director.  
-
-- **Aliases for licensed title agencies and direct operations**  
-  [Data](https://data.texas.gov/resource/uahw-xts9.json) | [Meta](https://data.texas.gov/api/views/uahw-xts9)  
-  This data set includes a row for each alias by which Title Agencies and Title Direct Operations are known or recognized.  
-
-- **Approved Product Label Search**  
-  [Data](https://data.texas.gov/resource/2cjh-3vae.json) | [Meta](https://data.texas.gov/api/views/2cjh-3vae)  
-  Product Labels approved by TABC before Sept 1, 2021  
-
-- **Bingo Conductor Locations**  
-  [Data](https://data.texas.gov/resource/vwqp-9wj8.json) | [Meta](https://data.texas.gov/api/views/vwqp-9wj8)  
-  Active Bingo Conductors by playing location with identifying information.  
-
-- **Bingo Lessors**  
-  [Data](https://data.texas.gov/resource/5t3i-2mhp.json) | [Meta](https://data.texas.gov/api/views/5t3i-2mhp)  
-  Active Bingo Lessors with identifying information.  
-
-- **Business relationships between agents, agencies, adjusters, and insurance companies**  
-  [Data](https://data.texas.gov/resource/kvqi-vsrr.json) | [Meta](https://data.texas.gov/api/views/kvqi-vsrr)  
-  This data set includes a row for each type of non-appointment relationship between an insurance agent, agency, adjuster, and businesses and an insurance company or another person or business approved to manage insurance-related products or claims  
-
-- **Complaint indexes and policy counts for insurance companies**  
-  [Data](https://data.texas.gov/resource/pa9u-9s9w.json) | [Meta](https://data.texas.gov/api/views/pa9u-9s9w)  
-  The Texas Department of Insurance (TDI) regulates the state’s insurance industry and oversees the administration of the Texas workers’ compensation system  
-
-- **DataSet 01 All Licenses**  
-  [Data](https://data.texas.gov/resource/tm3v-pfq9.json) | [Meta](https://data.texas.gov/api/views/tm3v-pfq9)  
-  A listing of all TMB licenses  
-
-- **DataSet 02 Prescriptive Delegation**  
-  [Data](https://data.texas.gov/resource/3fg6-5a53.json) | [Meta](https://data.texas.gov/api/views/3fg6-5a53)  
-  A listing of all registered prescriptive delegation between physicians and Physician Assistants or Advanced Practice Registered Nurses  
-
-- **Horse Fatalities**  
-  [Data](https://data.texas.gov/resource/dcjk-k4ws.json) | [Meta](https://data.texas.gov/api/views/dcjk-k4ws)  
-  All horse fatalities from 2010 to present.  
-
-- **Individual Licensee Information CE Course Completions**  
-  [Data](https://data.texas.gov/resource/maym-gea8.json) | [Meta](https://data.texas.gov/api/views/maym-gea8)  
-  The Texas Department of Insurance is responsible for monitoring the continuing education (CE) compliance of people licensed to sell insurance or adjust property claims  
-
-- **Insurance agencies and businesses approved to manage insurance related products**  
-  [Data](https://data.texas.gov/resource/3yqc-fcdt.json) | [Meta](https://data.texas.gov/api/views/3yqc-fcdt)  
-  The Texas Department of Insurance (TDI) is responsible for licensing, registering, certifying, and regulating agencies and businesses that want to sell insurance or adjust property and casualty claims in Texas  
-
-- **Insurance agents, adjusters, and people approved to manage insurance related products or claims**  
-  [Data](https://data.texas.gov/resource/kxv3-diwf.json) | [Meta](https://data.texas.gov/api/views/kxv3-diwf)  
-  The Texas Department of Insurance (TDI) is responsible for licensing, registering, certifying, and regulating people who sell insurance or adjust property and casualty claims in Texas  
-
-- **Network Adequacy Waiver Request Facility based Physicians Providers**  
-  [Data](https://data.texas.gov/resource/e597-cvix.json) | [Meta](https://data.texas.gov/api/views/e597-cvix)  
-  This dataset includes information related to network adequacy waiver requests filed by major medical health benefit plans  
-
-- **Network Adequacy Waiver Request Major Medical**  
-  [Data](https://data.texas.gov/resource/yfeb-xw4b.json) | [Meta](https://data.texas.gov/api/views/yfeb-xw4b)  
-  This dataset includes information related to network adequacy waiver requests filed by major medical health benefit plans  
-
-- **Network Adequacy Waiver Request Vision**  
-  [Data](https://data.texas.gov/resource/2zru-e4u3.json) | [Meta](https://data.texas.gov/api/views/2zru-e4u3)  
-  This dataset includes information related to network adequacy waiver requests filed by vision plans  
-
-- **Public Utility Commission of Texas Water and Sewer Investor Owned Utilities IOUs**  
-  [Data](https://data.texas.gov/resource/auk8-env9.json) | [Meta](https://data.texas.gov/api/views/auk8-env9)  
-  A water and sewer Investor-Owned Utility (IOU) is a retail public utility owned by an individual, partnership, corporation or homeowners association.  
-
-- **Public Utility Commission of Texas Water and Sewer Submetering or Allocation**  
-  [Data](https://data.texas.gov/resource/iuez-sv34.json) | [Meta](https://data.texas.gov/api/views/iuez-sv34)  
-  Submetered utility service is water utility service that is master metered for the owner by the retail public utility and individually metered by the owner at each dwelling unit; wastewater utility service based on submetered water utility service; water utility service measured by point-of-use submeters when all of the water used in a dwelling unit is measured and totaled; or wastewater utility service based on total water use as measured by point-of-use submeters  
-
-- **Surplus lines agent and agency status detail**  
-  [Data](https://data.texas.gov/resource/7isd-ex6t.json) | [Meta](https://data.texas.gov/api/views/7isd-ex6t)  
-  This data set includes a row for each person or organization with an active or inactive Surplus Lines license issued by TDI  
-
-- **TDLR All Licenses**  
-  [Data](https://data.texas.gov/resource/7358-krk7.json) | [Meta](https://data.texas.gov/api/views/7358-krk7)  
-  A listing of all TDLR license holders from https://www.tdlr.texas.gov/LicenseSearch/.  
-
-- **TREC HOA Management Certificates**  
-  [Data](https://data.texas.gov/resource/8auc-hzdi.json) | [Meta](https://data.texas.gov/api/views/8auc-hzdi)  
-  A listing of all HOA management certificates from https://www.hoa.texas.gov/management-certificates-search.  
-
-- **Title agency title direct operations appointments by county and underwriter**  
-  [Data](https://data.texas.gov/resource/y9ze-ft94.json) | [Meta](https://data.texas.gov/api/views/y9ze-ft94)  
-  This data set includes a row for each active underwriter appointment by county for Title Agencies and Title Direct Operations.  
-
-- **TxRC Businesses**  
-  [Data](https://data.texas.gov/resource/ci3g-iw9p.json) | [Meta](https://data.texas.gov/api/views/ci3g-iw9p)  
-  Businesses licensed by TxRC as of  12/21/2021  
-
-- **TxRC Individual Licensees**  
-  [Data](https://data.texas.gov/resource/yqzs-yaft.json) | [Meta](https://data.texas.gov/api/views/yqzs-yaft)  
-  Individuals currently licensed by the Texas Racing Commission as of 12/21/2021  
-
-- **TxRC Rulings**  
-  [Data](https://data.texas.gov/resource/uhvc-ynxd.json) | [Meta](https://data.texas.gov/api/views/uhvc-ynxd)  
-  Texas Racing Commission Rulings  
-
-
-[[TOP]](#table-of-contents)
-
-
-## Policy
-
-- **NAAG Tobacco Settlement Payments**  
-  [Data](https://data.cdc.gov/resource/ffbi-is3j.json) | [Meta](https://data.cdc.gov/api/views/ffbi-is3j)  
-  1999-2024  
-
-
-## Public Health Surveillance
-
-- **Rates of COVID 19 Cases or Deaths by Age Group and Updated Bivalent Booster Status**  
-  [Data](https://data.cdc.gov/resource/54ys-qyzm.json) | [Meta](https://data.cdc.gov/api/views/54ys-qyzm)  
-  Data for CDC’s COVID Data Tracker site on Rates of COVID-19 Cases and Deaths by Updated (Bivalent) Booster Status  
-
-- **Rates of COVID 19 Cases or Deaths by Age Group and Vaccination Status**  
-  [Data](https://data.cdc.gov/resource/3rge-nu2a.json) | [Meta](https://data.cdc.gov/api/views/3rge-nu2a)  
-  Data for CDC’s COVID Data Tracker site on Rates of COVID-19 Cases and Deaths by Vaccination Status  
-
-- **Rates of COVID 19 Cases or Deaths by Age Group and Vaccination Status and Booster Dose**  
-  [Data](https://data.cdc.gov/resource/d6p8-wqjm.json) | [Meta](https://data.cdc.gov/api/views/d6p8-wqjm)  
-  Data for CDC’s COVID Data Tracker site on Rates of COVID-19 Cases and Deaths by Vaccination Status  
-
-- **Rates of COVID 19 Cases or Deaths by Age Group and Vaccination Status and Second Booster Dose**  
-  [Data](https://data.cdc.gov/resource/ukww-au2k.json) | [Meta](https://data.cdc.gov/api/views/ukww-au2k)  
-  Data for CDC’s COVID Data Tracker site on Rates of COVID-19 Cases and Deaths by Vaccination Status  
-
-
-## Public Reports and Maps
-
-- **BPR Alignment**  
-  [Data](https://data.texas.gov/resource/8f6m-78bg.json) | [Meta](https://data.texas.gov/api/views/8f6m-78bg)  
-  State agency alignment with goals and objectives outlined in the 2020 State Strategic Plan for Information Resources Management as reported in the 2020 Information Resources Deployment Review (IRDR).  
-
-- **County Map StratMap County poly**  
-  [Data](https://data.texas.gov/resource/m3yf-ffwm.json) | [Meta](https://data.texas.gov/api/views/m3yf-ffwm)  
-  Map of counties in Texas.  
-
-- **Custodial Deaths Report**  
-  [Data](https://data.texas.gov/resource/ypvi-69jj.json) | [Meta](https://data.texas.gov/api/views/ypvi-69jj)  
-  Report of Custodian Deaths on record with the Office of the Attorney General  
-
-- **Digital Transformation IRDR Data**  
-  [Data](https://data.texas.gov/resource/y7wk-dk9k.json) | [Meta](https://data.texas.gov/api/views/y7wk-dk9k)  
-  The Texas Department of Information Resources (DIR) has established a digital transformation guide to assist agencies with modernizing agency operations and services with respect to electronic data and converting agency information into electronic data  
-
-- **Open Records Requests**  
-  [Data](https://data.texas.gov/resource/qg9j-uw8s.json) | [Meta](https://data.texas.gov/api/views/qg9j-uw8s)  
-  Open Record Requests dating from 1999 to 2023  
-
-- **Texas Counties Cartographic Boundary Map**  
-  [Data](https://data.texas.gov/resource/sw7f-2kkd.json) | [Meta](https://data.texas.gov/api/views/sw7f-2kkd)  
-
-- **Texas Counties Centroid Map**  
-  [Data](https://data.texas.gov/resource/ups3-9e8m.json) | [Meta](https://data.texas.gov/api/views/ups3-9e8m)  
-  Texas county centroid latitude and longitude map data.  
-
-- **Texas Freshwater Saltwater Boundary**  
-  [Data](https://data.texas.gov/resource/8cu4-85sh.json) | [Meta](https://data.texas.gov/api/views/8cu4-85sh)  
-  The following data represents the Texas Freshwater/Saltwater Boundary line.  
-
-- **US States Cartographic Boundary Map**  
-  [Data](https://data.texas.gov/resource/r5bg-j3b6.json) | [Meta](https://data.texas.gov/api/views/r5bg-j3b6)  
+- **Zoning Small Map Scale**  
+  [Data](https://datahub.austintexas.gov/resource/tv5s-wvtc.json) | [Meta](https://datahub.austintexas.gov/api/views/tv5s-wvtc)  
 
 
 ## Public Safety
@@ -2876,10 +1858,6 @@
   [Data](https://datahub.austintexas.gov/resource/jmp6-p8e2.json) | [Meta](https://datahub.austintexas.gov/api/views/jmp6-p8e2)  
   Location information for Austin Police stations  
 
-- **CRD Annual Report on Texas Border Crime**  
-  [Data](https://data.texas.gov/resource/2pv3-q62s.json) | [Meta](https://data.texas.gov/api/views/2pv3-q62s)  
-  Total border crime arrests offenses reported in border and non-border counties for counties with the 20 highest numbers of reported arrests  
-
 - **CY16 AFD Standard Of Coverage By RAP**  
   [Data](https://datahub.austintexas.gov/resource/wg4a-m3ss.json) | [Meta](https://datahub.austintexas.gov/api/views/wg4a-m3ss)  
   Standard of Coverage for Calendar Year 2016 (January 2016 - December 2016)  
@@ -2895,9 +1873,6 @@
 - **Crime Reports**  
   [Data](https://datahub.austintexas.gov/resource/fdj4-gpfu.json) | [Meta](https://datahub.austintexas.gov/api/views/fdj4-gpfu)  
   AUSTIN POLICE DEPARTMENT DATA DISCLAIMER Please read and understand the following information  
-
-- **DLD Monthly Transactions**  
-  [Data](https://data.texas.gov/resource/8bkj-vpb3.json) | [Meta](https://data.texas.gov/api/views/8bkj-vpb3)  
 
 - **EMS Ambulance Responses by Month**  
   [Data](https://datahub.austintexas.gov/resource/bptg-ndvw.json) | [Meta](https://datahub.austintexas.gov/api/views/bptg-ndvw)  
@@ -2922,6 +1897,10 @@
 - **EMS Communications MPDS Compliance**  
   [Data](https://datahub.austintexas.gov/resource/cp98-xi7y.json) | [Meta](https://datahub.austintexas.gov/api/views/cp98-xi7y)  
   This table describes Communications Center compliance with Medical Priority Dispatch System (MPDS) performance standards  
+
+- **EMS Communications Measures**  
+  [Data](https://datahub.austintexas.gov/resource/hjne-yn95.json) | [Meta](https://datahub.austintexas.gov/api/views/hjne-yn95)  
+  Data contained in this table documents Austin-Travis County EMS (ATCEMS) Communications Center workload and performance  
 
 - **EMS Customer Satisfaction By Month**  
   [Data](https://datahub.austintexas.gov/resource/fszi-c96k.json) | [Meta](https://datahub.austintexas.gov/api/views/fszi-c96k)  
@@ -2999,6 +1978,10 @@
   [Data](https://datahub.austintexas.gov/resource/95xj-wt9t.json) | [Meta](https://datahub.austintexas.gov/api/views/95xj-wt9t)  
   This table shows the 10 most frequently recorded incident problem types as recorded by communications personnel for each fiscal year presented.  
 
+- **EMS Transport Count by Destination**  
+  [Data](https://datahub.austintexas.gov/resource/jtkc-5pgh.json) | [Meta](https://datahub.austintexas.gov/api/views/jtkc-5pgh)  
+  This table shows the count of patients transported to each system-approved receiving facility by month  
+
 - **EMS Weekly Incident Summary**  
   [Data](https://datahub.austintexas.gov/resource/f3kb-cip7.json) | [Meta](https://datahub.austintexas.gov/api/views/f3kb-cip7)  
   A weekly summary of incidents  
@@ -3019,17 +2002,9 @@
   [Data](https://datahub.austintexas.gov/resource/pjz8-kff2.json) | [Meta](https://datahub.austintexas.gov/api/views/pjz8-kff2)  
   The Digital Flood Insurance Rate Map (DFIRM) Database depicts flood risk Information And supporting data used to develop the risk data  
 
-- **High Crash Rate Intersections in Dallas**  
-  [Data](https://www.dallasopendata.com/resource/cyd9-x7py.json) | [Meta](https://www.dallasopendata.com/api/views/cyd9-x7py)  
-  Traffic Intersections in the City of Dallas which have a reported accident count of 50 or greater during the five year period 2015 through 2019.  
-
 - **INLANDWATERS flood low water crossings**  
   [Data](https://datahub.austintexas.gov/resource/q6kt-v2zm.json) | [Meta](https://datahub.austintexas.gov/api/views/q6kt-v2zm)  
   This layer represents the locations for low water crossing gates maintained by the City  
-
-- **Incident Reporting**  
-  [Data](https://data.texas.gov/resource/d5x8-xxfd.json) | [Meta](https://data.texas.gov/api/views/d5x8-xxfd)  
-  As outlined in the Texas Juvenile Justice Department General Administrative Policy (GAP) Manual reference GAP.07.03, incidents must be properly documented and reported  
 
 - **M.A.9 Average Time to Clear Crashes from Major Roadways**  
   [Data](https://datahub.austintexas.gov/resource/4evn-bmp3.json) | [Meta](https://datahub.austintexas.gov/api/views/4evn-bmp3)  
@@ -3151,9 +2126,6 @@
   [Data](https://datahub.austintexas.gov/resource/3tuc-5fjr.json) | [Meta](https://datahub.austintexas.gov/api/views/3tuc-5fjr)  
   This dataset is to report on a strategic measure for the City of Austin about how many individuals in high risk areas are signed up to receive emergency notifications  
 
-- **THP Motor Vehicle Stop**  
-  [Data](https://data.texas.gov/resource/g8g4-j5dn.json) | [Meta](https://data.texas.gov/api/views/g8g4-j5dn)  
-
 - **University of Texas Good Systems and ATCEMS incidents data**  
   [Data](https://datahub.austintexas.gov/resource/8mwi-dpdp.json) | [Meta](https://datahub.austintexas.gov/api/views/8mwi-dpdp)  
   Filename: Incidents2019_2020.csv Description: Problem Type, Service Time and Call Disposition of each EMS incident in 2019-2020  
@@ -3178,14 +2150,11 @@
 [[TOP]](#table-of-contents)
 
 
-## Public Works
-
-- **TTHM HAA5 Quarterly Rolling Averages Data.**  
-  [Data](https://dashboard.plano.gov/resource/pbib-2w2z.json) | [Meta](https://dashboard.plano.gov/api/views/pbib-2w2z)  
-  Total Trihalomethanes (TTHM) and Haloacetic Acids (HAA5) are disinfection byproducts that are monitored quarterly by the Texas Commission on Environmental Quality (TCEQ)  
-
-
 ## Recreation and Culture
+
+- **3033 PARD Number of City park acres per 1,000 population**  
+  [Data](https://datahub.austintexas.gov/resource/6w2h-zuxg.json) | [Meta](https://datahub.austintexas.gov/api/views/6w2h-zuxg)  
+  This dataset includes the Fiscal Year actuals for PARD's eCOMBS measure #3033 - Number of City park acres per 1,000 population  
 
 - **ACE Events**  
   [Data](https://datahub.austintexas.gov/resource/teth-r7k8.json) | [Meta](https://datahub.austintexas.gov/api/views/teth-r7k8)  
@@ -3242,6 +2211,10 @@
 - **Cultural Funding Awards**  
   [Data](https://datahub.austintexas.gov/resource/x6aj-qng8.json) | [Meta](https://datahub.austintexas.gov/api/views/x6aj-qng8)  
   The City of Austin receives 7% of the Hotel Occupancy Tax  
+
+- **HE.C.2 Peer Cities Table V3**  
+  [Data](https://datahub.austintexas.gov/resource/8hvn-wht8.json) | [Meta](https://datahub.austintexas.gov/api/views/8hvn-wht8)  
+  PARD’s Long Range Plan for Land, Facilities and Programs, Our Parks, Our Future (adopted November 2019) compared Austin’s park system to five peer cities: Atlanta, GA, Dallas, TX, Portland, OR, San Antonio, TX, and San Diego, CA  
 
 - **HE.C.4 PARD ADA Accessibility**  
   [Data](https://datahub.austintexas.gov/resource/bwy8-yv46.json) | [Meta](https://datahub.austintexas.gov/api/views/bwy8-yv46)  
@@ -3315,108 +2288,10 @@
 [[TOP]](#table-of-contents)
 
 
-## Roadways and Bridges
-
-- **Texas DOT TxDOT Work Zone Data Schema Version 2.0**  
-  [Data](https://datahub.transportation.gov/resource/h4kh-i7b7.json) | [Meta](https://datahub.transportation.gov/api/views/h4kh-i7b7)  
-  This dataset provides lane closure occurrences within the Texas Department of Transportation (TxDOT) highway system in a tabular format  
-
-
-## Services
-
-- **City of Dallas Library Locations**  
-  [Data](https://www.dallasopendata.com/resource/2ksy-mdcf.json) | [Meta](https://www.dallasopendata.com/api/views/2ksy-mdcf)  
-  The Dallas Public Library system serves as the municipal library system of the city of Dallas, Texas  
-
-
-## Social Services
-
-- **HHSC CCL Daycare and Residential Operations Data**  
-  [Data](https://data.texas.gov/resource/bc5r-88dy.json) | [Meta](https://data.texas.gov/api/views/bc5r-88dy)  
-  This Data set contains detailed information about Day Care  and/ or Residential Care Operation that is displayed on the Public site  
-
-- **HHSC CCL Inspection Investigation Assessment Data**  
-  [Data](https://data.texas.gov/resource/m5q4-3y3d.json) | [Meta](https://data.texas.gov/api/views/m5q4-3y3d)  
-  This data set has information about Inspections, Investigations, Assessments done at each Day care  and/or Residential Care Operation  
-
-- **HHSC CCL Non Compliance Data**  
-  [Data](https://data.texas.gov/resource/tqgd-mf4x.json) | [Meta](https://data.texas.gov/api/views/tqgd-mf4x)  
-  This Data set contains all the non-compliance detail information for the specific section evaluated  
-
-- **HHSC CCL Sections and Standards Evaluated Data**  
-  [Data](https://data.texas.gov/resource/ywgb-2ig8.json) | [Meta](https://data.texas.gov/api/views/ywgb-2ig8)  
-  This data set contains the list of sections evaluated along with number of standards evaluated and violated in each section for activities (inspections, investigations and assessments) done in each operation  
-
-- **PEI 4.1 Outcomes, Outputs Efficiencies**  
-  [Data](https://data.texas.gov/resource/gkzw-hujg.json) | [Meta](https://data.texas.gov/api/views/gkzw-hujg)  
-  About this data set: Texas Families: Together and Safe (TFTS) - The TFTS program funds evidence-based, community-based programs designed to alleviate stress and promote parental competencies and behaviors that increase the ability of families to become self-sufficient and successfully nurture their children  
-
-
 ## Strategic Initiatives Department
 
 - **Austin Green Business Leader Data**  
   [Data](https://datahub.austintexas.gov/resource/uf2f-tecc.json) | [Meta](https://datahub.austintexas.gov/api/views/uf2f-tecc)  
-
-
-## Texas Pure Products
-
-- **Texas Pure Products Annual Revenue**  
-  [Data](https://dashboard.plano.gov/resource/4t82-3iuh.json) | [Meta](https://dashboard.plano.gov/api/views/4t82-3iuh)  
-
-
-## Transportation
-
-- **Archived Project Information**  
-  [Data](https://data.texas.gov/resource/xmzg-npd9.json) | [Meta](https://data.texas.gov/api/views/xmzg-npd9)  
-  The Archived Project Information dataset displays detailed project information such as location, type of work, and estimated cost for projects scheduled for letting within the designated two consecutive fiscal years  
-
-- **Bid Tabulations**  
-  [Data](https://data.texas.gov/resource/ad7p-zydi.json) | [Meta](https://data.texas.gov/api/views/ad7p-zydi)  
-  Bid Tabulations dataset displays advertisement and bidding information for the State and Local Lettings from the official sources of The Electronic State Business Daily (ESBD), the Electronic Bidding System, and the project proposal  
-
-- **Canceled or Changed Project List**  
-  [Data](https://data.texas.gov/resource/2kmv-4jrh.json) | [Meta](https://data.texas.gov/api/views/2kmv-4jrh)  
-  The dataset of canceled or changed projects comprises those that have either been canceled or changed within the previous month due to shifts in estimated let dates or changes in project status.  
-
-- **Official and Unofficial Bid Items**  
-  [Data](https://data.texas.gov/resource/bnwc-mh74.json) | [Meta](https://data.texas.gov/api/views/bnwc-mh74)  
-  The Official and Unofficial Bid Items dataset displays advertisement and bidding information for the State and Local Lettings from the official sources of The Electronic State Business Daily (ESBD), the Electronic Bidding System, and the project proposal  
-
-- **Project Information**  
-  [Data](https://data.texas.gov/resource/396g-wqyr.json) | [Meta](https://data.texas.gov/api/views/396g-wqyr)  
-  The Project Information dataset displays detailed project information such as location, type of work, and estimated cost for projects scheduled for letting within the designated two consecutive fiscal years  
-
-- **Recapitulation**  
-  [Data](https://data.texas.gov/resource/jxqk-9dmq.json) | [Meta](https://data.texas.gov/api/views/jxqk-9dmq)  
-  The Recapitulation dataset displays the data of summarized and consolidated information related to a construction contract  
-
-- **Road Districts**  
-  [Data](https://data.wcad.org/resource/marq-fgs6.json) | [Meta](https://data.wcad.org/api/views/marq-fgs6)  
-  This shapefile contains the Road District Boundaries for Williamson County, Texas  
-
-- **Vendor List**  
-  [Data](https://data.texas.gov/resource/8z7t-vzvc.json) | [Meta](https://data.texas.gov/api/views/8z7t-vzvc)  
-  The Vendor List dataset displays the contact information and qualified status related to vendor list  
-
-- **Vital Signs Time Spent In Congestion Hourly Speeds by segment**  
-  [Data](https://data.bayareametro.gov/resource/srer-69wr.json) | [Meta](https://data.bayareametro.gov/api/views/srer-69wr)  
-  VITAL SIGNS INDICATOR Time Spent In Congestion (T7) FULL MEASURE NAME Congested delay on regional freeways LAST UPDATED May 2017 DESCRIPTION Time spent in traffic congestion – also known as congested delay – refers to the number of minutes weekday travelers spend in congested conditions in which freeway speeds drop below 35 mph  
-
-- **Vital Signs Time Spent In Congestion Bay Area**  
-  [Data](https://data.bayareametro.gov/resource/mi4w-rdxf.json) | [Meta](https://data.bayareametro.gov/api/views/mi4w-rdxf)  
-  VITAL SIGNS INDICATOR Time Spent In Congestion (T7)  FULL MEASURE NAME Congested delay on regional freeways  LAST UPDATED May 2017  DESCRIPTION Time spent in traffic congestion – also known as congested delay – refers to the number of minutes weekday travelers spend in congested conditions in which freeway speeds drop below 35 mph  
-
-- **Vital Signs Time Spent In Congestion by metro**  
-  [Data](https://data.bayareametro.gov/resource/8iy8-sqeu.json) | [Meta](https://data.bayareametro.gov/api/views/8iy8-sqeu)  
-  VITAL SIGNS INDICATOR Time Spent In Congestion (T7)  FULL MEASURE NAME Congested delay on regional freeways  LAST UPDATED May 2017  DESCRIPTION Time spent in traffic congestion – also known as congested delay – refers to the number of minutes weekday travelers spend in congested conditions in which freeway speeds drop below 35 mph  
-
-- **Vital Signs Time Spent In Congestion by segment**  
-  [Data](https://data.bayareametro.gov/resource/r2bt-5ia4.json) | [Meta](https://data.bayareametro.gov/api/views/r2bt-5ia4)  
-  VITAL SIGNS INDICATOR Time Spent In Congestion (T7) FULL MEASURE NAME Congested delay on regional freeways LAST UPDATED May 2017 DESCRIPTION Time spent in traffic congestion – also known as congested delay – refers to the number of minutes weekday travelers spend in congested conditions in which freeway speeds drop below 35 mph  
-
-- **Vital Signs Time Spent in Congestion by Corridor**  
-  [Data](https://data.bayareametro.gov/resource/2rrd-659g.json) | [Meta](https://data.bayareametro.gov/api/views/2rrd-659g)  
-  VITAL SIGNS INDICATOR Time Spent In Congestion (T7)  FULL MEASURE NAME Congested delay on regional freeways  LAST UPDATED May 2017  DESCRIPTION Time spent in traffic congestion – also known as congested delay – refers to the number of minutes weekday travelers spend in congested conditions in which freeway speeds drop below 35 mph  
 
 
 ## Transportation and Mobility
@@ -3424,6 +2299,14 @@
 - **ATD Data Tech Services Issues**  
   [Data](https://datahub.austintexas.gov/resource/rzwg-fyv8.json) | [Meta](https://datahub.austintexas.gov/api/views/rzwg-fyv8)  
   This is a dataset of Github issues managed by the Austin Transportation Data & Technology Services team  
+
+- **ATD Right of Way Active Permits**  
+  [Data](https://datahub.austintexas.gov/resource/hyc6-zz9w.json) | [Meta](https://datahub.austintexas.gov/api/views/hyc6-zz9w)  
+  A running log of the number of currently active permits by type for ATD Right of Way taken at a snapshot in time.  
+
+- **ATD Right of Way Permit Totals by Week**  
+  [Data](https://datahub.austintexas.gov/resource/ij2v-mrv3.json) | [Meta](https://datahub.austintexas.gov/api/views/ij2v-mrv3)  
+  Count of permits issued and requested by type for ATD Right of Way  
 
 - **Arterial Management Materials Warehouse Inventory**  
   [Data](https://datahub.austintexas.gov/resource/hcaw-evi2.json) | [Meta](https://datahub.austintexas.gov/api/views/hcaw-evi2)  
@@ -3460,6 +2343,14 @@
 - **Camera Traffic Counts**  
   [Data](https://datahub.austintexas.gov/resource/sh59-i6y9.json) | [Meta](https://datahub.austintexas.gov/api/views/sh59-i6y9)  
   Traffic count data collected from the several GRIDSMART optical traffic detectors deployed by the City of Austin  
+
+- **Data and Technology Services Datasets**  
+  [Data](https://datahub.austintexas.gov/resource/28ys-ieqv.json) | [Meta](https://datahub.austintexas.gov/api/views/28ys-ieqv)  
+  Data on the datasets published and maintained by the Transportation and Public Works Department's Data and Technology Services Division.  
+
+- **Dynamic Message Signs DMS**  
+  [Data](https://datahub.austintexas.gov/resource/4r2j-b4rx.json) | [Meta](https://datahub.austintexas.gov/api/views/4r2j-b4rx)  
+  This dataset contains information on the handful of dynamic message signs (DMS) deployed across the City of Austin  
 
 - **Flashing Beacons**  
   [Data](https://datahub.austintexas.gov/resource/wczq-5cer.json) | [Meta](https://datahub.austintexas.gov/api/views/wczq-5cer)  
@@ -3529,6 +2420,10 @@
   [Data](https://datahub.austintexas.gov/resource/7d8e-dm7r.json) | [Meta](https://datahub.austintexas.gov/api/views/7d8e-dm7r)  
   Effective March 1st, 2022, this dataset is no longer maintained  
 
+- **Signs and Markings Knack 311 Service Requests**  
+  [Data](https://datahub.austintexas.gov/resource/ji6n-8jff.json) | [Meta](https://datahub.austintexas.gov/api/views/ji6n-8jff)  
+  This dataset contains the Signs and Markings Division's 311 customer service requests (CSRs) as reported through the Signs and Markings Operations Knack Applications  
+
 - **(%)Annual Passenger Seats**  
   [Data](https://datahub.austintexas.gov/resource/cvz8-iv5k.json) | [Meta](https://datahub.austintexas.gov/api/views/cvz8-iv5k)  
   The data set indicates the maximum number of seats available for passengers to fly  
@@ -3568,6 +2463,10 @@
 - **(%)Percent operational availability of City Fleet Vehicles**  
   [Data](https://datahub.austintexas.gov/resource/hv3j-8muj.json) | [Meta](https://datahub.austintexas.gov/api/views/hv3j-8muj)  
   Fleet Mobility Services strives to keep City vehicles operational and available at all times  
+
+- **(%)Right of Way Obstructions**  
+  [Data](https://datahub.austintexas.gov/resource/gft7-wur3.json) | [Meta](https://datahub.austintexas.gov/api/views/gft7-wur3)  
+  This dataset provides data describing Public Works Department responses to 311 calls regarding obstructions of the City right of way  
 
 - **(%)Safe Routes to School**  
   [Data](https://datahub.austintexas.gov/resource/ukn3-dhyw.json) | [Meta](https://datahub.austintexas.gov/api/views/ukn3-dhyw)  
@@ -3701,13 +2600,6 @@
 [[TOP]](#table-of-contents)
 
 
-## Truck
-
-- **Refrigerated Truck Rates and Availability**  
-  [Data](https://internal.agtransport.usda.gov/resource/acar-e3r8.json) | [Meta](https://internal.agtransport.usda.gov/api/views/acar-e3r8)  
-  Data from AMS Market News Specialty Crops Program, including weekly refrigerated truck rates and availability by origin, destination, and commodity  
-
-
 ## Utilities and City Services
 
 - **ACCD Event Listings**  
@@ -3834,6 +2726,10 @@
   [Data](https://datahub.austintexas.gov/resource/hetr-8wqd.json) | [Meta](https://datahub.austintexas.gov/api/views/hetr-8wqd)  
   The Austin Energy system average carbon intensity is calculated as total greenhouse gas emissions at the point of combustion in pounds of CO2-equivalents divided by net generation in kilowatt-hours from all Austin Energy resources  
 
+- **COA Energy Codes Timeline**  
+  [Data](https://datahub.austintexas.gov/resource/xn7p-rafv.json) | [Meta](https://datahub.austintexas.gov/api/views/xn7p-rafv)  
+  This dataset contains the historical summary of the technical code adoptions by the City Council over the past seven decades.  
+
 - **Capital Improvement Projects CIP Expenditures**  
   [Data](https://datahub.austintexas.gov/resource/mfi5-y32n.json) | [Meta](https://datahub.austintexas.gov/api/views/mfi5-y32n)  
   Capital improvement expenditures include upgrades to the Distribution and Transmission system such as new substations and transformers  
@@ -3894,6 +2790,18 @@
   [Data](https://datahub.austintexas.gov/resource/ss6t-rumq.json) | [Meta](https://datahub.austintexas.gov/api/views/ss6t-rumq)  
   This data set has been removed by the data owner  
 
+- **Green Building Developer Agreements**  
+  [Data](https://datahub.austintexas.gov/resource/63mb-dbmj.json) | [Meta](https://datahub.austintexas.gov/api/views/63mb-dbmj)  
+  This dataset contains the developer agreements requiring an Austin Energy Green Building rating  
+
+- **Green Building Energy Code Compliance**  
+  [Data](https://datahub.austintexas.gov/resource/i7vh-fpaj.json) | [Meta](https://datahub.austintexas.gov/api/views/i7vh-fpaj)  
+  Austin Energy Green Building is responsible for development of the City's Energy Code  
+
+- **Green Building Ratings Aggregate**  
+  [Data](https://datahub.austintexas.gov/resource/dpvb-c5fy.json) | [Meta](https://datahub.austintexas.gov/api/views/dpvb-c5fy)  
+  Austin Energy Green Building ratings evaluate the sustainability of participating single family, multifamily and commercial buildings on a scale of one to five stars in the areas of energy efficiency, water efficiency, materials, site, indoor environmental quality, community impact and innovation  
+
 - **Lane and Road Closures**  
   [Data](https://datahub.austintexas.gov/resource/tyr3-rmv9.json) | [Meta](https://datahub.austintexas.gov/api/views/tyr3-rmv9)  
   Dataset is currently in BETA  
@@ -3913,6 +2821,10 @@
 - **Peak Demand Reduction**  
   [Data](https://datahub.austintexas.gov/resource/6993-ykim.json) | [Meta](https://datahub.austintexas.gov/api/views/6993-ykim)  
   Peak demand is the highest point of energy use on any given day and typically occurs between the hours of 4 and 6 p.m  
+
+- **Plug In EVerywhere Charging Station Network**  
+  [Data](https://datahub.austintexas.gov/resource/k5hp-eece.json) | [Meta](https://datahub.austintexas.gov/api/views/k5hp-eece)  
+  Austin Energy operates a network of electric vehicle charging stations powered by renewable energy through our GreenChoice® program  
 
 - **Plus 1 Fund**  
   [Data](https://datahub.austintexas.gov/resource/ad4p-xsn6.json) | [Meta](https://datahub.austintexas.gov/api/views/ad4p-xsn6)  
@@ -3990,9 +2902,25 @@
   [Data](https://datahub.austintexas.gov/resource/gpeq-wpdt.json) | [Meta](https://datahub.austintexas.gov/api/views/gpeq-wpdt)  
   Extra bags of trash that do not fit in your trash cart with the lid closed must be placed next to the trash cart and tagged with an Extra Trash Sticker, which can be purchased at H-E-B, Randall's and most local grocery stores for $4 + tax  
 
+- **(%) Number of households benefiting from Customer Assistance Program CAP**  
+  [Data](https://datahub.austintexas.gov/resource/b8wk-ku9z.json) | [Meta](https://datahub.austintexas.gov/api/views/b8wk-ku9z)  
+  This data set displays the number of households benefiting from Customer Assistance Program (CAP) for each fiscal year  
+
 - **(%)Percent of Median Household Income Spent on the Average Annual Residential Austin Water Bill**  
   [Data](https://datahub.austintexas.gov/resource/unww-rhuk.json) | [Meta](https://datahub.austintexas.gov/api/views/unww-rhuk)  
   This dataset demonstrates the affordability of the average Austin Water residential customer’s annual combined water and wastewater bill as a percentage of median household income  
+
+- **(%)Austin Energy average annual system rate**  
+  [Data](https://datahub.austintexas.gov/resource/eatd-irgz.json) | [Meta](https://datahub.austintexas.gov/api/views/eatd-irgz)  
+  This data set shows Austin Energy's current system rate, and the 2% affordability limit set by the Austin City Council  
+
+- **(%)Diversion Tonnage Composition**  
+  [Data](https://datahub.austintexas.gov/resource/em5v-nwx5.json) | [Meta](https://datahub.austintexas.gov/api/views/em5v-nwx5)  
+  Purpose: This data set exists in order to provide a breakdown of quantities of different material types in the residential stream  
+
+- **(%)Monthly Diversion Tonnage**  
+  [Data](https://datahub.austintexas.gov/resource/d58m-wu9a.json) | [Meta](https://datahub.austintexas.gov/api/views/d58m-wu9a)  
+  Purpose: This measure of materials collected at curbside by Austin Resource Recovery (ARR) or ARR-managed vendors tracks materials that are recycled or reused instead of taken to the landfill  
 
 - **(%)Number and percentage of emergency responses that meet established time standards for that type of response**  
   [Data](https://datahub.austintexas.gov/resource/rxdk-7jrs.json) | [Meta](https://datahub.austintexas.gov/api/views/rxdk-7jrs)  
@@ -4052,29 +2980,6 @@
 
 
 [[TOP]](#table-of-contents)
-
-
-## Vaccinations
-
-- **COVID 19 Booster Dose Eligibility in the United States**  
-  [Data](https://data.cdc.gov/resource/jk8p-fqhn.json) | [Meta](https://data.cdc.gov/api/views/jk8p-fqhn)  
-  This site provides historical data related to COVID-19 booster dose eligibility presented on two CDC COVID Data Tracker sites:&nbsp;Vaccinations in the US&nbsp;and&nbsp;Vaccination Equity.&nbsp;&nbsp;Data are updated weekly on Thursdays.Some COVID-19 vaccine recipients are&nbsp;eligible to receive booster doses,&nbsp;&nbsp;and criteria for booster eligibility may change over time  
-
-- **COVID 19 Primary Series Completion, Booster Dose Eligibility, and Booster Dose Receipt by Age, United States**  
-  [Data](https://data.cdc.gov/resource/3pbe-qh9z.json) | [Meta](https://data.cdc.gov/api/views/3pbe-qh9z)  
-  This site provides historical data beginning June 22, 2022, for the visualization presented on COVID-19 Data Tracker’s “Vaccinations in the United States”site titled “Primary Series Completion, Booster Dose Eligibility, and Booster Dose Receipt by Age, United States”  
-
-- **COVID 19 Vaccine Distribution Allocations by Jurisdiction Janssen**  
-  [Data](https://data.cdc.gov/resource/w9zu-fywh.json) | [Meta](https://data.cdc.gov/api/views/w9zu-fywh)  
-  New weekly allocations of doses are posted every Tuesday  
-
-- **COVID 19 Vaccine Distribution Allocations by Jurisdiction Moderna**  
-  [Data](https://data.cdc.gov/resource/b7pe-5nws.json) | [Meta](https://data.cdc.gov/api/views/b7pe-5nws)  
-  New weekly allocations of doses are posted every Tuesday  
-
-- **COVID 19 Vaccine Distribution Allocations by Jurisdiction Pfizer**  
-  [Data](https://data.cdc.gov/resource/saz5-9hgg.json) | [Meta](https://data.cdc.gov/api/views/saz5-9hgg)  
-  New weekly allocations of doses are posted every Tuesday  
 
 
 

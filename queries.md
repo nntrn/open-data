@@ -1,8 +1,17 @@
 # Queries
 
-```console
- $ ./scripts/markdown.sh data/texas.json -Y >texas.md
+[Waste Summary in 2024](https://data.texas.gov/resource/79s2-9ack.json?$select=form_submitter,handling_code,count(handling_code),sum(p_quantity_generated)&$group=form_submitter,handling_code&$where=record_date%3E%272024-01-01%27&$limit=5000)
+
+URL Breakdown: 
+
 ```
+https://data.texas.gov/resource/79s2-9ack.json?
+$select=form_submitter,handling_code,count(handling_code),sum(p_quantity_generated)
+&$group=form_submitter,handling_code
+&$where=record_date>'2024-01-01'
+&$limit=5000
+```
+
 
 [Employee turnover rate](https://data.austintexas.gov/resource/ym8w-n945.json)
 
