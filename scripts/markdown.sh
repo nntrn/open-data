@@ -17,6 +17,8 @@ _exclude=(
   Test
   TEST
   deprecated
+  "Demo "
+  "DEMO "
 )
 
 join_by() {
@@ -34,7 +36,7 @@ while [ $# -gt 0 ]; do
   -t | --title) MARKDOWN_TITLE="$2" && shift ;;
   -e | --exclude) MARKDOWN_EXCLUDE="$2" && shift ;;
   -a | --all) MARKDOWN_EXCLUDE="" ;;
-  -Y | --exclude-year) _exclude+=("[2][0-2][0-3][0-9]" "FY[0-2][0-9]") ;;
+  -Y | --exclude-year) _exclude+=("[2][0-2][0-3][0-9]" "[CF]Y[0-2][0-9]") ;;
 
   *\.json) MARKDOWN_INPUT=$1 ;;
   esac
@@ -49,4 +51,4 @@ fi
 
 MARKDOWN_EXCLUDE="$(join_by '|' "${_exclude[@]}")"
 
-$DIR/catalog.sh $MARKDOWN_INPUT --simple --markdown .classification
+$DIR/catalog.sh $MARKDOWN_INPUT --simple --markdown .classification | cat -s
