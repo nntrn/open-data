@@ -4,7 +4,11 @@ def capitalize:
   gsub("((?<c>[a-zA-Z])(?<a>[\\w\\d\\s]+))"; (.c|ascii_upcase) + .a;"x");
 
 def slugify($text):
-$text|tostring|gsub("[^a-zA-Z0-9]{1,2}";"-")|ascii_downcase;
+  $text
+  | tostring
+  | gsub("\\.";"")
+  | gsub("[^a-zA-Z0-9]{1,2}";"-")
+  | ascii_downcase;
 
 def uncase($str): 
   $str | gsub("(?<a>[a-z])(?<b>[A-Z])";.a + " " + .b)|gsub("_";" ");
@@ -51,19 +55,51 @@ def get_columns:
   | [range(0;($r.columns_name|length))]
   | map(. as $i |$r|column_map($i));
 
-def clean_description:
-  gsub("&lt;";"<")|gsub("&gt;";">")
-  | gsub("<[^>]*>[\\s]?";"")
-  | split("[\\n]+")
-  | map(gsub("[\\t\\r]";"")| gsub("(?<a>[^\\n]{72,90}) "; .a + "\n"; "m")|select(length>0))
-  | flatten(2)
+def deep_flat_object:
+  [ paths(scalars) as $path | {
+      "key": ($path|join("_")|gsub("_[0-9]+";"")),
+      "value": (if ($path|last|type) == "number" then getpath($path[0:-1]) else getpath($path) end)
+    }
+  ] | unique | from_entries;
+
+def split_sentences:
+  gsub("(?<end>[a-z]{3}[\\.\\?])\\s(?<start>[A-Z])"; .end + "~~split~~" + .start; "x")
+  | gsub("[-\\s_]{5,}";"~~split~~")
+  | split("~~split~~");
+
+def get_excerpt:
+  "\(.)\n" 
+  | split("[\\n\\r]+";"x")[0]
+  | (gsub("\\.\\s(?<s>[A-Z])"; ".~~"+ .s)|split("~~")|first);
+
+def get_excerpt($str): $str | get_excerpt;
+
+# removes html
+def clean_text:
+  gsub("&lt;";"<")
+  | gsub("&gt;";">")
+  | gsub("<[^>]*>";"")
+  | gsub("\\*";"")
+  | gsub("[[:^ascii:]]";"";"x")
+  | gsub("[\\s]{2,}";" ");
+
+def format_description:
+  tostring
+  | clean_text
+  | split("\n")
+  | map(gsub("[\\t\\r]";"")| gsub("(?<a>[^\\n]{72,90}\\. )"; .a + "\n"; "m")|select(length>0))
+  | map(split_sentences)
+  | map(select(length > 0))
+  | flatten
+  | map(select(test("^[A-Z\\s\\d:]+$";"x")|not)|gsub("^[\\s]+|[\\s]$";""))
   | join("\n")
-  | gsub("[\\n]{2,}";"\n\n")
-  | split("\n");
+  | split("[\\n]+";"x")
+  ;
+
 
 def result_item:
   (.resource | {name,id,description,updatedAt}) + {
-    description:(.resource.description| clean_description),
+    description:(.resource.description| format_description),
     link,
     url: "https://\(.metadata.domain)/resource/\(.resource.id).json",
     classification: (get_classification),
@@ -71,8 +107,9 @@ def result_item:
   };
 
 def get_simple_item: {
-  description:(.resource.description| clean_description),
+  description:(.resource.description| format_description),
   link,
+  domain: .metadata.domain,
   url: "https://\(.metadata.domain)/resource/\(.resource.id).json",
   info: "https://\(.metadata.domain)/api/views/\(.resource.id)",
   department: (.classification.domain_metadata|from_entries)["Ownership_Department-name"],
@@ -106,11 +143,6 @@ def group_by_count(f): group_by(f)
     value: map(del(f))
   });
 
-def group_by_count(f;select): group_by(f)
-  |map({
-    key: (.[0]|f),
-    value: map(select)
-  });
 
 def format_title($str):
   $str
@@ -133,19 +165,21 @@ def markdown_catalog(s):
       ( .value 
         | sort_by(.name) 
         | map(
-          (.description|join(" ")|split(". ")[0]? // "") as $desc
-          | select(.description[0] != .name)
+          select(.description[0] != .name)
           | [
             "- **\(format_title(.name))**  ",
             "  [Data](\(.url)) | [Meta](\(.info))  ",
-            (if ($desc|length)>0 then "  \($desc)  \n" else "" end)
-            # ""
-          ] | join("\n")
+            ( if (.description[0]|length) > 0 then "  \( .description[0])" else null end),
+            # (if (.description[0]|length)>8 then "  \(.description[0])" else "" end),
+            # (.description|join("\n")|split("\n")|map(select(test("^[A-Z\\s]{0,10}$")|not))|.[0]|map("  \(.)")|join("\n")),
+            ""
+          ]|map(select(type != null)) | join("\n")
         )
         | join("\n")
       ),
-      (if (.value|length) > 15 then  "\n[[TOP]](#table-of-contents)\n\n" else "" end)
-    ] | join("\n")
+      (if (.value|length) > 15 then  "\n[[TOP]](#table-of-contents)\n" else "" end)
+    ] 
+    | join("\n")
   ) | join("\n") as $content
   | [
     "# \(env.MARKDOWN_TITLE)",
