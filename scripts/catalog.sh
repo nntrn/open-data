@@ -56,5 +56,7 @@ cat $CATALOG_FILE |
   jq $_flags -L ${DIR/$PWD/.} 'include \"catalog\"; (.results? // .) | ${CATALOG_FUNC}'
 " 33
 
+_log $CATALOG_FILE 36
+
 JQ_EXPR="include \"catalog\"; (.results? // .) | ${CATALOG_FUNC}"
 cat $CATALOG_FILE | jq $_flags -L $DIR "$JQ_EXPR"

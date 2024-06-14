@@ -96,7 +96,6 @@ def format_description:
   | split("[\\n]+";"x")
   ;
 
-
 def result_item:
   (.resource | {name,id,description,updatedAt}) + {
     description:(.resource.description| format_description),
@@ -143,22 +142,27 @@ def group_by_count(f): group_by(f)
     value: map(del(f))
   });
 
+def format_title:
+  gsub("^[^a-zA-Z0-9]";"")
+  | gsub("^Strategic[_\\s]Measure[s\\s_-]+";"(%)";"x")
+  | gsub("^Strategic Direction";"($)")
+  | gsub("(?<b>[\\(\\/]) ";.b)
+  | gsub("[\\s_]+";" ")
+  | gsub("\\([^\\)]{30,}\\)|[\\[\\]]";"")
+  | gsub("^[\\s]+|[\\s]+$";"")
+  ;
 
-def format_title($str):
-  $str
-  |gsub("[^a-zA-Z0-9\\s\\.,']";" ")
-  |gsub("Strategic Measure[s ]+";"(%)")
-  |gsub("Strategic Direction ";"($)")
-  |gsub("Strategic ";"")
-  |gsub("[\\s]+";" ")
-  |gsub(" e.g..*";"")
-  |ltrimstr(" ")
-  |rtrimstr(" ");
+def format_title($str): $str | format_title;
+
+def build_markdown:
+  map(if (env.MARKDOWN_EXCLUDE|length)>0 then select(.name|test(env.MARKDOWN_EXCLUDE;"x")|not) else . end )
+  | map(select(.name|(test("[A-Z][a-z]";"x") and (test("DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive")|not) ) ))
+;
 
 def markdown_catalog(s):
-  map( if (env.MARKDOWN_EXCLUDE|length)>0 then select(.name|test(env.MARKDOWN_EXCLUDE;"i")|not) else . end )
-  | group_by_count(s) as $gbc
-  | $gbc
+  map( if (env.MARKDOWN_EXCLUDE|length)>0 then select(.name|test(env.MARKDOWN_EXCLUDE;"x")|not) else . end )
+  | map(select(.name|(test("[A-Z][a-z]";"x") and (test("DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive")|not) ) ))
+  | group_by_count(s) as $gbc | $gbc
   | map([
       "## \(.key)",
       "",
@@ -170,10 +174,8 @@ def markdown_catalog(s):
             "- **\(format_title(.name))**  ",
             "  [Data](\(.url)) | [Meta](\(.info))  ",
             ( if (.description[0]|length) > 0 then "  \( .description[0])" else null end),
-            # (if (.description[0]|length)>8 then "  \(.description[0])" else "" end),
-            # (.description|join("\n")|split("\n")|map(select(test("^[A-Z\\s]{0,10}$")|not))|.[0]|map("  \(.)")|join("\n")),
             ""
-          ]|map(select(type != null)) | join("\n")
+            ]| map(select(type != null)) | join("\n")
         )
         | join("\n")
       ),

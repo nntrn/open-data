@@ -6,6 +6,8 @@ DIR=${SCRIPT%/*}
 
 export MARKDOWN_TITLE=
 export MARKDOWN_EXCLUDE=
+export MARKDOWN_INPUT=()
+export MARKDOWN_GROUP=classification
 
 _exclude=(
   BOUNDARIES
@@ -31,24 +33,34 @@ _chksum() {
   cksum <<<$1 | awk '{print $1}'
 }
 
+_build() {
+  local input=$1
+  local title="${input##*/}"
+  local cataloggroup=${MARKDOWN_GROUP:-classification}
+  title="${title%%.*}"
+  title="${title^}"
+
+  MARKDOWN_TITLE=$title $DIR/catalog.sh $input --simple --markdown .$cataloggroup | cat -s >./${title}.md
+}
+
 while [ $# -gt 0 ]; do
   case $1 in
+  -g | --group) MARKDOWN_GROUP="$2" && shift ;;
   -t | --title) MARKDOWN_TITLE="$2" && shift ;;
   -e | --exclude) MARKDOWN_EXCLUDE="$2" && shift ;;
   -a | --all) MARKDOWN_EXCLUDE="" ;;
   -Y | --exclude-year) _exclude+=("[2][0-2][0-3][0-9]" "[CF]Y[0-2][0-9]") ;;
-
-  *\.json) MARKDOWN_INPUT=$1 ;;
+  *\.json) MARKDOWN_INPUT+=("$1") ;;
   esac
   shift || break
 done
 
-if [[ -z $MARKDOWN_TITLE ]]; then
-  MARKDOWN_TITLE="${MARKDOWN_INPUT##*/}"
-  MARKDOWN_TITLE="${MARKDOWN_TITLE%%.*}"
-  MARKDOWN_TITLE="${MARKDOWN_TITLE^}"
-fi
-
 MARKDOWN_EXCLUDE="$(join_by '|' "${_exclude[@]}")"
 
-$DIR/catalog.sh $MARKDOWN_INPUT --simple --markdown .classification | cat -s
+for i in "${MARKDOWN_INPUT[@]}"; do
+  if [[ -n $i ]]; then
+    _build $i &
+  fi
+done
+
+wait
