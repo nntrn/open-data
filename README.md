@@ -1,37 +1,38 @@
 # open data
 
-* Austin: https://api.us.socrata.com/api/catalog/v1?domains=datahub.austintexas.gov
-* Texas.gov: https://api.us.socrata.com/api/catalog/v1?domains=data.texas.gov
-* Texas: https://data.texas.gov/api/catalog/v1?only=dataset&limit=2000&q=texas
-* Crime: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=2000&q=crime
-* Datasets: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=2000&q=datasets
+Catalog for open data 
 
+* [austin.md](./austin.md)
+* [crime.md](./crime.md)
+* [datasets.md](./datasets.md)
+* [police.md](./police.md)
+* [salaries.md](./salaries.md)
+* [shootings.md](./shootings.md)
+* [texas-gov.md](./texas-gov.md)
+* [texas.md](./texas.md)
+
+
+## Update Catalogs
 
 ```sh
-./scripts/update.sh
+./scripts/update.sh data
 ```
+
+## Example 
 
 ```sh
 curl -o data/austin.json "${CATALOG_URL}&domains=datahub.austintexas.gov"
+
 ./scripts/markdown.sh data/austin.json -Y >austin.md
+./scripts/markdown.sh data/austin.json -Y --group .classification 
 ```
 
+## Personal Favorite
 
-```sh
-CATALOG_URL='https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=5000'
+* [Waste Summary for Tesla](https://data.texas.gov/resource/79s2-9ack.json?form_submitter=TESLA)  
 
-curl -o data/texas-gov.json "${CATALOG_URL}&domains=data.texas.gov"
-curl -o data/texas.json "${CATALOG_URL}&q=texas"
-curl -o data/austin.json "${CATALOG_URL}&domains=datahub.austintexas.gov"
-curl -o data/crime.json "${CATALOG_URL}&q=crime"
+* [Waste Summary for Companies in 2024](https://data.texas.gov/resource/79s2-9ack.json?$select=form_submitter,handling_code,count(handling_code),sum(p_quantity_generated)&$group=form_submitter,handling_code&$where=record_date>'2024-01-01'&$limit=10000)  
+  
+* [Cincinnati Salaries w/ gender, race, and age range](https://data.cincinnati-oh.gov/resource/wmj4-ygbf.json)
 
-./scripts/markdown.sh data/texas-gov.json -Y >texas-gov.md
-./scripts/markdown.sh data/texas.json -Y >texas.md
-./scripts/markdown.sh data/austin.json -Y >austin.md
-./scripts/markdown.sh data/crime.json -Y >crime.md
-
-./scripts/build-catalog.sh -Y -t dataset -q 'q=dataset' -g domain >dataset.md
-./scripts/build-catalog.sh -Y -t police -q 'q=police' -g domain >police.md
-
-./scripts/create.sh data/austin.json
-```
+* [Austin Demographics](https://datahub.austintexas.gov/resource/puux-7swp.json) (householder_living_alone, median_home_sale_price, below_poverty, hh_income_200000_or_more)
