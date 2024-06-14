@@ -31,19 +31,19 @@
   [Data](https://data.texas.gov/resource/gp4s-vej8.json) | [Meta](https://data.texas.gov/api/views/gp4s-vej8)  
   DIR Shared Technology Services (STS) and Texas.gov Vendor Invoices
 
-- **Emergency Services Billing Rates Code Rates**  
+- **Emergency Services Billing Rates - Code Rates**  
   [Data](https://data.texas.gov/resource/ipyh-z9mx.json) | [Meta](https://data.texas.gov/api/views/ipyh-z9mx)  
   The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers by procedure code as set by the political subdivisions. 
 
-- **Emergency Services Billing Rates Contact List**  
+- **Emergency Services Billing Rates - Contact List**  
   [Data](https://data.texas.gov/resource/xgca-u3qh.json) | [Meta](https://data.texas.gov/api/views/xgca-u3qh)  
   The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers within political subdivisions as set by those political subdivisions. 
 
-- **Emergency Services Billing Rates NPIs**  
+- **Emergency Services Billing Rates - NPIs**  
   [Data](https://data.texas.gov/resource/w2yx-y2ra.json) | [Meta](https://data.texas.gov/api/views/w2yx-y2ra)  
   The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers within political subdivisions as reported by those political subdivisions. 
 
-- **Emergency Services Billing Rates ZIPs**  
+- **Emergency Services Billing Rates - ZIPs**  
   [Data](https://data.texas.gov/resource/iyci-uypg.json) | [Meta](https://data.texas.gov/api/views/iyci-uypg)  
   The Texas Department of Insurance (TDI) collects and reports information about billing rates for emergency service providers within political subdivisions as reported by those political subdivisions. 
 
@@ -63,27 +63,27 @@
   [Data](https://data.texas.gov/resource/bn27-65ad.json) | [Meta](https://data.texas.gov/api/views/bn27-65ad)  
   The Texas Department of Insurance administers Independent Dispute Resolution (IDR), a mediation and arbitration process for certain health care billing disputes between out-of-network providers and health plans. 
 
-- **Institutional Medical Billing Services SV2 Detail Information**  
+- **Institutional Medical Billing Services (SV2) Detail Information**  
   [Data](https://data.texas.gov/resource/tuuc-49gz.json) | [Meta](https://data.texas.gov/api/views/tuuc-49gz)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) maintains a database of institutional medical billing services (SV2). 
 
-- **Institutional Medical Billing Services SV2 Detail Information Historical**  
+- **Institutional Medical Billing Services (SV2) Detail Information - Historical**  
   [Data](https://data.texas.gov/resource/trqb-ssnn.json) | [Meta](https://data.texas.gov/api/views/trqb-ssnn)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) maintains a database of institutional medical billing services (SV2). 
 
-- **Institutional Medical Billing Services SV2 Header Information**  
+- **Institutional Medical Billing Services (SV2) Header Information**  
   [Data](https://data.texas.gov/resource/cmu9-4z9n.json) | [Meta](https://data.texas.gov/api/views/cmu9-4z9n)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of institutional medical billing services (SV2). 
 
-- **Institutional Medical Billing Services SV2 Header Information Historical**  
+- **Institutional Medical Billing Services (SV2) Header Information - Historical**  
   [Data](https://data.texas.gov/resource/936m-z8wh.json) | [Meta](https://data.texas.gov/api/views/936m-z8wh)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of institutional medical billing services (SV2). 
 
-- **Insurance complaints All data**  
+- **Insurance complaints: All data**  
   [Data](https://data.texas.gov/resource/ubdr-4uff.json) | [Meta](https://data.texas.gov/api/views/ubdr-4uff)  
   The Texas Department of Insurance (TDI) handles complaints against people and organizations licensed by TDI, such as companies, agents, and adjusters. 
 
-- **Insurance complaints One record complaint**  
+- **Insurance complaints: One record /complaint**  
   [Data](https://data.texas.gov/resource/jjc8-mxkg.json) | [Meta](https://data.texas.gov/api/views/jjc8-mxkg)  
   The Texas Department of Insurance (TDI) handles complaints against people and organizations licensed by TDI, such as companies, agents, and adjusters. 
 
@@ -99,7 +99,7 @@
   [Data](https://data.texas.gov/resource/j48w-wspg.json) | [Meta](https://data.texas.gov/api/views/j48w-wspg)  
   Lists of Money Services Business in Texas
 
-- **OFFICIAL Customer list Cooperative Contracts Texas Department of Information Resources Data from vendor sales reports**  
+- **OFFICIAL - Customer list - Cooperative Contracts -Texas Department of Information Resources - - Data from vendor sales reports**  
   [Data](https://data.texas.gov/resource/4v6c-qfkr.json) | [Meta](https://data.texas.gov/api/views/4v6c-qfkr)  
   This data is a listing of customers reported from the monthly vendor sales reports.
 
@@ -110,19 +110,19 @@
   [Data](https://data.texas.gov/resource/i3xb-8vbi.json) | [Meta](https://data.texas.gov/api/views/i3xb-8vbi)  
   List of Perpetual Care Cemeteries (PCC) in Texas
 
-- **Pharmacy Medical Billing Services SV4 Detail Information**  
+- **Pharmacy Medical Billing Services (SV4) Detail Information**  
   [Data](https://data.texas.gov/resource/28cv-4t5q.json) | [Meta](https://data.texas.gov/api/views/28cv-4t5q)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) maintains a database of pharmacy medical billing services (SV4). 
 
-- **Pharmacy Medical Billing Services SV4 Detail Information Historical**  
+- **Pharmacy Medical Billing Services (SV4) Detail Information - Historical**  
   [Data](https://data.texas.gov/resource/cmkf-edrp.json) | [Meta](https://data.texas.gov/api/views/cmkf-edrp)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) maintains a database of pharmacy medical billing services (SV4). 
 
-- **Pharmacy Medical Billing Services SV4 Header Information**  
+- **Pharmacy Medical Billing Services (SV4) Header Information**  
   [Data](https://data.texas.gov/resource/mzi7-5ajk.json) | [Meta](https://data.texas.gov/api/views/mzi7-5ajk)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) maintains a database of pharmacy medical billing services (SV4). 
 
-- **Pharmacy Medical Billing Services SV4 Header Information Historical**  
+- **Pharmacy Medical Billing Services (SV4) Header Information - Historical**  
   [Data](https://data.texas.gov/resource/jkpg-wdht.json) | [Meta](https://data.texas.gov/api/views/jkpg-wdht)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) maintains a database of pharmacy medical billing services (SV4). 
 
@@ -130,19 +130,19 @@
   [Data](https://data.texas.gov/resource/p576-5udu.json) | [Meta](https://data.texas.gov/api/views/p576-5udu)  
   List of Prepaid Funeral Contract Sellers in Texas
 
-- **Professional Medical Billing Services SV1 Detail Information**  
+- **Professional Medical Billing Services (SV1) Detail Information**  
   [Data](https://data.texas.gov/resource/c7b4-gune.json) | [Meta](https://data.texas.gov/api/views/c7b4-gune)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1). 
 
-- **Professional Medical Billing Services SV1 Detail Information Historical**  
+- **Professional Medical Billing Services (SV1) Detail Information - Historical**  
   [Data](https://data.texas.gov/resource/7au4-j7bg.json) | [Meta](https://data.texas.gov/api/views/7au4-j7bg)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1). 
 
-- **Professional Medical Billing Services SV1 Header Information**  
+- **Professional Medical Billing Services (SV1) Header Information**  
   [Data](https://data.texas.gov/resource/pvi6-huub.json) | [Meta](https://data.texas.gov/api/views/pvi6-huub)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1). 
 
-- **Professional Medical Billing Services SV1 Header Information Historical**  
+- **Professional Medical Billing Services (SV1) Header Information - Historical**  
   [Data](https://data.texas.gov/resource/gh5j-28a7.json) | [Meta](https://data.texas.gov/api/views/gh5j-28a7)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of professional medical billing services (SV1). 
 
@@ -154,15 +154,11 @@
   [Data](https://data.texas.gov/resource/cdim-je79.json) | [Meta](https://data.texas.gov/api/views/cdim-je79)  
   The Texas State Legislature designates Texas State Artists during each Legislative Session. 
 
-- **TMPC DEAAG**  
-  [Data](https://data.texas.gov/resource/d8rj-c5pm.json) | [Meta](https://data.texas.gov/api/views/d8rj-c5pm)  
-  The Defense Economic Adjustment Assistance Grant (DEAAG) program assists military communities across Texas that may be impacted by any future Base Realignment and Closure (BRAC) process. 
-
 - **Texas Lottery Commission Employees**  
   [Data](https://data.texas.gov/resource/xi3i-dwfs.json) | [Meta](https://data.texas.gov/api/views/xi3i-dwfs)  
   First & last name, work email address, work phone, job title and job location for all active Texas Lottery Commission employees.
 
-- **Texas Lottery Sales by Fiscal Month Year, Game and Retailer**  
+- **Texas Lottery® Sales by Fiscal Month/Year, Game and Retailer**  
   [Data](https://data.texas.gov/resource/beka-uwfq.json) | [Meta](https://data.texas.gov/api/views/beka-uwfq)  
   Texas Lottery sales by fiscal month/year, game and retailer with identifying information.
 
@@ -170,11 +166,11 @@
   [Data](https://data.texas.gov/resource/2hc4-g945.json) | [Meta](https://data.texas.gov/api/views/2hc4-g945)  
   Listing of Trust Companies in Texas
 
-- **Winners List of Texas Lottery Prizes**  
+- **Winners List of Texas Lottery® Prizes**  
   [Data](https://data.texas.gov/resource/54pj-3dxy.json) | [Meta](https://data.texas.gov/api/views/54pj-3dxy)  
   List of winner claims for Texas Lottery prizes with player (excluding identity of those designated anonymous), prize, game and selling retailer information.
 
-- **Worker Adjustment and Retraining Notification WARN Notices**  
+- **Worker Adjustment and Retraining Notification (WARN) Notices**  
   [Data](https://data.texas.gov/resource/8w53-c4f6.json) | [Meta](https://data.texas.gov/api/views/8w53-c4f6)  
   This report lists current calendar year Texas plant closure and layoff notices issued under the Worker Adjustment and Retraining Notification (WARN) Act. 
 
@@ -182,15 +178,15 @@
   [Data](https://data.texas.gov/resource/c4xz-httr.json) | [Meta](https://data.texas.gov/api/views/c4xz-httr)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) publishes a quarterly report of employers with active Texas workers compensation insurance coverage. 
 
-- **Workers' compensation non subscriber employer information**  
+- **Workers' compensation non-subscriber employer information**  
   [Data](https://data.texas.gov/resource/azae-8krr.json) | [Meta](https://data.texas.gov/api/views/azae-8krr)  
   The Texas Department of Insurance, Division of Workers Compensation (DWC) publishes a monthly report of private employers that have opted out of Texas workers compensation insurance coverage (non-subscribers). 
 
-- **Workers Compensation Maximum Medical Improvement Doctors and Designated Doctors List**  
+- **Workers’ Compensation Maximum Medical Improvement Doctors and Designated Doctors List**  
   [Data](https://data.texas.gov/resource/xven-is8v.json) | [Meta](https://data.texas.gov/api/views/xven-is8v)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of health care providers with current maximum medical improvement (MMI) and designated doctor certifications in Texas. 
 
-- **Workers Compensation Maximum Medical Improvement Doctors and Designated Doctors Address Information**  
+- **Workers’ Compensation Maximum Medical Improvement Doctors and Designated Doctors’ Address Information**  
   [Data](https://data.texas.gov/resource/732j-wdur.json) | [Meta](https://data.texas.gov/api/views/732j-wdur)  
   The Texas Department of Insurance, Division of Workers' Compensation (DWC) maintains a database of health care providers with current maximum medical improvement (MMI) and designated doctor certifications in Texas. 
 
@@ -211,91 +207,91 @@
 
 ## Energy and Environment
 
-- **Harris County Discharge Monitoring Reports DMR**  
+- **Harris County Discharge Monitoring Reports (DMR)**  
   [Data](https://data.texas.gov/resource/wcwp-yeda.json) | [Meta](https://data.texas.gov/api/views/wcwp-yeda)  
   The document displays all the facilities in Harris County, Texas that have submitted a DMR. 
 
-- **Public Utility Commission of Texas Informal Complaints**  
+- **Public Utility Commission of Texas - Informal Complaints**  
   [Data](https://data.texas.gov/resource/cxnx-7tf4.json) | [Meta](https://data.texas.gov/api/views/cxnx-7tf4)  
   Before filing an informal complaint with the Public Utility Commission (PUC), customers are requested to contact their electric, telephone, water or sewer provider first and allow them to investigate the complaint. 
 
-- **Texas Commission on Environmental Quality Administrative Orders Issued**  
+- **Texas Commission on Environmental Quality - Administrative Orders Issued**  
   [Data](https://data.texas.gov/resource/u66a-qggj.json) | [Meta](https://data.texas.gov/api/views/u66a-qggj)  
   This is data represented in the Annual Enforcement Report, pursuant to Texas Water Code Section 5.126, and published each December following the end of the fiscal year. 
 
-- **Texas Commission on Environmental Quality Aggregate Production Operations**  
+- **Texas Commission on Environmental Quality - Aggregate Production Operations**  
   [Data](https://data.texas.gov/resource/9ixa-7k3m.json) | [Meta](https://data.texas.gov/api/views/9ixa-7k3m)  
   An Aggregate Production Operation (APO) refers to any site where aggregates are being (or have been) removed or extracted from the earth, including the entire area of extraction, stripped areas, haulage ramps, and the land on which plant processing for the raw materials is located. 
 
-- **Texas Commission on Environmental Quality Annual Waste Summary**  
+- **Texas Commission on Environmental Quality - Annual Waste Summary**  
   [Data](https://data.texas.gov/resource/79s2-9ack.json) | [Meta](https://data.texas.gov/api/views/79s2-9ack)  
   Information from the TCEQ annual waste summary report form, including generator's registration number, the year of report, waste, total quantity generated, quantity handled and how the waste was handled. 
 
-- **Texas Commission on Environmental Quality Civil Judgments Issued**  
+- **Texas Commission on Environmental Quality - Civil Judgments Issued**  
   [Data](https://data.texas.gov/resource/7ift-kbgd.json) | [Meta](https://data.texas.gov/api/views/7ift-kbgd)  
   This is data represented in the Annual Enforcement Report, pursuant to Texas Water Code Section 5.126, and published each December following the end of the fiscal year.
 
-- **Texas Commission on Environmental Quality Complaints**  
+- **Texas Commission on Environmental Quality - Complaints**  
   [Data](https://data.texas.gov/resource/tdzs-qqjn.json) | [Meta](https://data.texas.gov/api/views/tdzs-qqjn)  
   View complaints received by the TCEQ with their associated Complaint Number. 
 
-- **Texas Commission on Environmental Quality Compliance History Report**  
+- **Texas Commission on Environmental Quality - Compliance History Report**  
   [Data](https://data.texas.gov/resource/mich-cjem.json) | [Meta](https://data.texas.gov/api/views/mich-cjem)  
   TCEQ calculates the compliance history mass classification on Sept. 1 each year, which generates compliance history ratings and classifications for all applicable entities. 
 
-- **Texas Commission on Environmental Quality Current Contracts Purchase Orders**  
+- **Texas Commission on Environmental Quality - Current Contracts & Purchase Orders**  
   [Data](https://data.texas.gov/resource/svjm-sdfz.json) | [Meta](https://data.texas.gov/api/views/svjm-sdfz)  
   Active contracts and purchase orders that TCEQ has set forth are listed with information on the vendor, project, timeframe, and cost. 
 
-- **Texas Commission on Environmental Quality Emergency Response Spills**  
+- **Texas Commission on Environmental Quality - Emergency Response Spills**  
   [Data](https://data.texas.gov/resource/xagr-a3x2.json) | [Meta](https://data.texas.gov/api/views/xagr-a3x2)  
   Emergency Response Spills received by the TCEQ are assigned an Incident Tracking Number. 
 
-- **Texas Commission on Environmental Quality Historical Dry Cleaner Registrations**  
+- **Texas Commission on Environmental Quality - Historical Dry Cleaner Registrations**  
   [Data](https://data.texas.gov/resource/xcc6-2a52.json) | [Meta](https://data.texas.gov/api/views/xcc6-2a52)  
   This dataset contains all historical Dry Cleaner Registrations in Texas.
 
-- **Texas Commission on Environmental Quality Leaking Petroleum Storage Tank LPST Sites**  
+- **Texas Commission on Environmental Quality - Leaking Petroleum Storage Tank (LPST) Sites**  
   [Data](https://data.texas.gov/resource/hedz-nn4q.json) | [Meta](https://data.texas.gov/api/views/hedz-nn4q)  
   List of Leaking Petroleum Storage Tank sites in Texas with associated PST Registration ID number(s), location information, the date each site was reported to the TCEQ, and the closure date (if closed).
 
-- **Texas Commission on Environmental Quality Monthly Waste Receipt Summary**  
+- **Texas Commission on Environmental Quality - Monthly Waste Receipt Summary**  
   [Data](https://data.texas.gov/resource/krzt-9qpq.json) | [Meta](https://data.texas.gov/api/views/krzt-9qpq)  
   Information from the TCEQ monthly waste receipts summary report form submitted by receivers of hazardous and Industrial Class 1 waste. 
 
-- **Texas Commission on Environmental Quality Notices Of Violation NOV**  
+- **Texas Commission on Environmental Quality - Notices Of Violation (NOV)**  
   [Data](https://data.texas.gov/resource/mwzi-gyw7.json) | [Meta](https://data.texas.gov/api/views/mwzi-gyw7)  
   Approved regional investigations resulting in a Notice of Violation (NOV) and the details associated with each violation that are documented in the Consolidated Compliance and Enforcement Data System (CCEDS). 
 
-- **Texas Commission on Environmental Quality Notices of Enforcement NOE**  
+- **Texas Commission on Environmental Quality - Notices of Enforcement (NOE)**  
   [Data](https://data.texas.gov/resource/rua3-iswk.json) | [Meta](https://data.texas.gov/api/views/rua3-iswk)  
   Investigations resulting in a Notice of Enforcement (NOE) and the details associated with each violation. 
 
-- **Texas Commission on Environmental Quality Operating Dry Cleaner Registrations**  
+- **Texas Commission on Environmental Quality - Operating Dry Cleaner Registrations**  
   [Data](https://data.texas.gov/resource/qfph-9bnd.json) | [Meta](https://data.texas.gov/api/views/qfph-9bnd)  
   This dataset contains all operating Dry Cleaner Registrations in Texas that have a current and valid registration. 
 
-- **Texas Commission on Environmental Quality Petroleum Storage Tank PST Delivery Certificates**  
+- **Texas Commission on Environmental Quality - Petroleum Storage Tank (PST) Delivery Certificates**  
   [Data](https://data.texas.gov/resource/jx8f-z4hu.json) | [Meta](https://data.texas.gov/api/views/jx8f-z4hu)  
   Delivery certificates issued for Petroleum Storage Tanks (PSTs) which authorize petroleum deliveries. 
 
-- **Texas Commission on Environmental Quality Supplemental Environmental Projects**  
+- **Texas Commission on Environmental Quality - Supplemental Environmental Projects**  
   [Data](https://data.texas.gov/resource/8j6x-idf8.json) | [Meta](https://data.texas.gov/api/views/8j6x-idf8)  
   This is data represented in the Annual Enforcement Report, pursuant to Texas Water Code Section 5.126, and published each December following the end of the fiscal year.
 
-- **Texas Commission on Environmental Quality Texas Water Districts**  
+- **Texas Commission on Environmental Quality - Texas Water Districts**  
   [Data](https://data.texas.gov/resource/hr84-s96f.json) | [Meta](https://data.texas.gov/api/views/hr84-s96f)  
   TCEQ provides easily accessible Texas Water District data to the public and to regional water planning groups. 
 
-- **Texas Commission on Environmental Quality Violation Citations**  
+- **Texas Commission on Environmental Quality - Violation Citations**  
   [Data](https://data.texas.gov/resource/gyd4-wuys.json) | [Meta](https://data.texas.gov/api/views/gyd4-wuys)  
   Violation citations are displayed along with their category, allegation description, resolution, and further details that are documented in the Consolidated Compliance and Enforcement Data System (CCEDS). 
 
-- **Texas Commission on Environmental Quality Waste Registration and Reporting Submissions**  
+- **Texas Commission on Environmental Quality - Waste Registration and Reporting Submissions**  
   [Data](https://data.texas.gov/resource/p8z2-hirz.json) | [Meta](https://data.texas.gov/api/views/p8z2-hirz)  
   This dataset lists the incoming documents received by the Texas Commission on Environmental Quality's Registration and Reporting Section in the Office of Waste for the petroleum storage tank and industrial/hazardous waste registration programs. 
 
-- **Texas Commission on Environmental Quality Waste Shipment Summary**  
+- **Texas Commission on Environmental Quality - Waste Shipment Summary**  
   [Data](https://data.texas.gov/resource/yuba-pjk3.json) | [Meta](https://data.texas.gov/api/views/yuba-pjk3)  
   Information from the TCEQ Waste Shipment Summary report form used by unregistered episodic generators of Industrial Class 1 or Hazardous Waste (IHW). 
 
@@ -319,19 +315,19 @@
 
 ## Government and Taxes
 
-- **Active Cigarette Tobacco Non Retailers**  
+- **Active Cigarette/Tobacco Non-Retailers**  
   [Data](https://data.texas.gov/resource/mhvi-79zr.json) | [Meta](https://data.texas.gov/api/views/mhvi-79zr)  
   This file contains information for all Cigarette/Tobacco Cigarette and Tobacco Distributors, Manufacturers, Wholesalers, and Importers with an active permit. 
 
-- **Active Cigarette Tobacco Permit Suspensions and Revocations**  
+- **Active Cigarette/Tobacco Permit Suspensions and Revocations**  
   [Data](https://data.texas.gov/resource/mdss-647q.json) | [Meta](https://data.texas.gov/api/views/mdss-647q)  
   This file contains information for all Cigarette/Tobacco holders with an suspended or revoked permit. 
 
-- **Active Cigarette Tobacco Registered Manufacturers**  
+- **Active Cigarette/Tobacco Registered Manufacturers**  
   [Data](https://data.texas.gov/resource/9zju-4437.json) | [Meta](https://data.texas.gov/api/views/9zju-4437)  
   This file contains information for all Cigarette and Tobacco Registered Manufacturers with an active permit.
 
-- **Active Cigarette Tobacco Retailers**  
+- **Active Cigarette/Tobacco Retailers**  
   [Data](https://data.texas.gov/resource/n4rp-ar9b.json) | [Meta](https://data.texas.gov/api/views/n4rp-ar9b)  
   This file contains information at the outlet level for all Cigarette/tobacco Retailers with an active permit. 
 
@@ -359,7 +355,7 @@
   [Data](https://data.texas.gov/resource/vuni-wtvk.json) | [Meta](https://data.texas.gov/api/views/vuni-wtvk)  
   All 5-digit Appropriation numbers are listed in this file by 3-digit agency number and 2-digit appropriation year. 
 
-- **Attorney General Opinions Overruled, Modified, Affirmed, Withdrawn**  
+- **Attorney General Opinions - Overruled, Modified, Affirmed, Withdrawn**  
   [Data](https://data.texas.gov/resource/ramn-n827.json) | [Meta](https://data.texas.gov/api/views/ramn-n827)  
   This dataset includes legal opinions of the Attorney General.
 
@@ -419,7 +415,7 @@
   [Data](https://data.texas.gov/resource/nhzr-ynmk.json) | [Meta](https://data.texas.gov/api/views/nhzr-ynmk)  
   This file contains a list of licensed interstate truckers in Texas.
 
-- **Licensed CNG LNG Taxpayers**  
+- **Licensed CNG/LNG Taxpayers**  
   [Data](https://data.texas.gov/resource/i2qy-sv94.json) | [Meta](https://data.texas.gov/api/views/i2qy-sv94)  
   This is a list of Compressed Natural Gas (CNG) and Liquefied Natural Gas (LNG) license holders.
 
@@ -430,7 +426,7 @@
 - **Local Government Retention Schedules**  
   [Data](https://data.texas.gov/resource/qf2n-igjr.json) | [Meta](https://data.texas.gov/api/views/qf2n-igjr)  
 
-- **Local Hotel Occupancy Tax HOT Data**  
+- **Local Hotel Occupancy Tax (HOT) Data**  
   [Data](https://data.texas.gov/resource/vmy5-jctb.json) | [Meta](https://data.texas.gov/api/views/vmy5-jctb)  
   Local Hotel Occupancy Tax (HOT) data has been compiled by municipalities complying with Tax Code Section 351.009 since 2018. 
 
@@ -438,7 +434,7 @@
   [Data](https://data.texas.gov/resource/3p4v-vsr3.json) | [Meta](https://data.texas.gov/api/views/3p4v-vsr3)  
   The allocation payment detail shows the components of the total dollars returned to a local sales taxing city, county, special purpose district or transit authority by the Comptroller's office for their local sales tax collections. 
 
-- **Maquiladora Export Permitted Taxpayers**  
+- **Maquiladora Export-Permitted Taxpayers**  
   [Data](https://data.texas.gov/resource/meud-pnzp.json) | [Meta](https://data.texas.gov/api/views/meud-pnzp)  
   This file contains a list of maquiladora enterprises that currently hold an active maquiladora export permit.
 
@@ -466,7 +462,7 @@
   [Data](https://data.texas.gov/resource/xf8u-zfz8.json) | [Meta](https://data.texas.gov/api/views/xf8u-zfz8)  
   These entities received mixed beverage tax revenue from permit holders located in the city or county respectively. 
 
-- **Mixed Beverage Taxes, City County Comparison Summary**  
+- **Mixed Beverage Taxes, City-County Comparison Summary**  
   [Data](https://data.texas.gov/resource/8kwn-yzyi.json) | [Meta](https://data.texas.gov/api/views/8kwn-yzyi)  
   These cities received mixed beverage tax revenue from permit holders located in the city. 
 
@@ -481,11 +477,11 @@
   [Data](https://data.texas.gov/resource/cbmj-zeje.json) | [Meta](https://data.texas.gov/api/views/cbmj-zeje)  
   Vehicle registration counts broken out by fiscal year.
 
-- **Payments to Cities and Counties from the Coronavirus Relief Fund CARES Act**  
+- **Payments to Cities and Counties from the Coronavirus Relief Fund (CARES Act)**  
   [Data](https://data.texas.gov/resource/sigg-4w9b.json) | [Meta](https://data.texas.gov/api/views/sigg-4w9b)  
   Texas Comptroller of Public Accounts dataset
 
-- **Pending Original New Primary and Subordinate License Application s**  
+- **Pending Original New Primary and Subordinate License Application(s)**  
   [Data](https://data.texas.gov/resource/mxm5-tdpj.json) | [Meta](https://data.texas.gov/api/views/mxm5-tdpj)  
   The TABC Pending Original (New) Primary and Subordinate License Application dataset includes information for certain submitted applications for new licenses. 
 
@@ -505,7 +501,7 @@
   [Data](https://data.texas.gov/resource/vfba-b57j.json) | [Meta](https://data.texas.gov/api/views/vfba-b57j)  
   Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions. 
 
-- **Sales Tax Allocation, City County Comparison Summary**  
+- **Sales Tax Allocation, City-County Comparison Summary**  
   [Data](https://data.texas.gov/resource/53pa-m7sm.json) | [Meta](https://data.texas.gov/api/views/53pa-m7sm)  
   Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions. 
 
@@ -513,7 +509,7 @@
   [Data](https://data.texas.gov/resource/tmhs-ahbh.json) | [Meta](https://data.texas.gov/api/views/tmhs-ahbh)  
   This report shows jurisdictions adopting new or changed sales tax rates.
 
-- **Sales Tax Allocation County, MTA, SPD**  
+- **Sales Tax Allocation: County, MTA, SPD**  
   [Data](https://data.texas.gov/resource/qsh8-tby8.json) | [Meta](https://data.texas.gov/api/views/qsh8-tby8)  
   Sales tax allocation comparison summary reports present data on monthly local sales and use tax payments to local jurisdictions. 
 
@@ -553,10 +549,10 @@
   [Data](https://data.texas.gov/resource/kguh-7q9z.json) | [Meta](https://data.texas.gov/api/views/kguh-7q9z)  
   For Help: https://data.texas.gov/videos For more information, go to TABC Sept. 
 
-- **Tax Assessor Collector Licenses Permits Issued**  
+- **Tax Assessor-Collector Licenses/Permits Issued**  
   [Data](https://data.texas.gov/resource/yqpn-9vyh.json) | [Meta](https://data.texas.gov/api/views/yqpn-9vyh)  
 
-- **Tax Credit Contacts for Projects In Progress Part 2 B**  
+- **Tax Credit Contacts for Projects In Progress (Part 2/B)**  
   [Data](https://data.texas.gov/resource/6rgn-urux.json) | [Meta](https://data.texas.gov/api/views/6rgn-urux)  
   This is a list of persons associated with the Texas Historical Commission's Tax Credit Program project applications in process. 
 
@@ -564,7 +560,7 @@
   [Data](https://data.texas.gov/resource/iuv6-7n84.json) | [Meta](https://data.texas.gov/api/views/iuv6-7n84)  
   See the attached PDF for a detailed description of each tax type.
 
-- **Texas Coin Operated Amusement Machine Taxpayers**  
+- **Texas Coin-Operated Amusement Machine Taxpayers**  
   [Data](https://data.texas.gov/resource/ryd4-r7mh.json) | [Meta](https://data.texas.gov/api/views/ryd4-r7mh)  
   This file contains a list of Coin-Operated Amusement Machine Operators in Texas.
 
@@ -576,15 +572,15 @@
   [Data](https://data.texas.gov/resource/jir8-be2g.json) | [Meta](https://data.texas.gov/api/views/jir8-be2g)  
   Find information on population, income, jobs, wages, graduation rates, highways, water and healthcare for the Comptroller's 12 Economic Regions. 
 
-- **Texas State Agency Records Retention Schedule Revised 5th edition**  
+- **Texas State Agency Records Retention Schedule - Revised 5th edition**  
   [Data](https://data.texas.gov/resource/f6ng-hrgc.json) | [Meta](https://data.texas.gov/api/views/f6ng-hrgc)  
   This retention schedule indicates the minimum length of time listed records series must be retained by a state agency before destruction or archival preservation. 
 
-- **Texas Tax Exempt Entities**  
+- **Texas Tax-Exempt Entities**  
   [Data](https://data.texas.gov/resource/8gur-z4cy.json) | [Meta](https://data.texas.gov/api/views/8gur-z4cy)  
   This file contains a list of nonprofit and other types of organizations that hold state tax exemption from Sales and Use tax, Franchise tax, and Hotel Occupancy tax. 
 
-- **Texas University Records Retention Schedule 2nd Edition**  
+- **Texas University Records Retention Schedule - 2nd Edition**  
   [Data](https://data.texas.gov/resource/dfmk-62hi.json) | [Meta](https://data.texas.gov/api/views/dfmk-62hi)  
   This retention schedule indicates the minimum length of time listed records series must be retained by a universities before destruction or archival preservation. 
 
@@ -632,11 +628,11 @@
   [Data](https://data.texas.gov/resource/pa9u-9s9w.json) | [Meta](https://data.texas.gov/api/views/pa9u-9s9w)  
   The Texas Department of Insurance (TDI) regulates the states insurance industry and oversees the administration of the Texas workers compensation system. 
 
-- **DataSet 01 All Licenses**  
+- **DataSet-01-All Licenses**  
   [Data](https://data.texas.gov/resource/tm3v-pfq9.json) | [Meta](https://data.texas.gov/api/views/tm3v-pfq9)  
   A listing of all TMB licenses.
 
-- **DataSet 02 Prescriptive Delegation**  
+- **DataSet-02-Prescriptive Delegation**  
   [Data](https://data.texas.gov/resource/3fg6-5a53.json) | [Meta](https://data.texas.gov/api/views/3fg6-5a53)  
   A listing of all registered prescriptive delegation between physicians and Physician Assistants or Advanced Practice Registered Nurses. 
 
@@ -644,35 +640,35 @@
   [Data](https://data.texas.gov/resource/dcjk-k4ws.json) | [Meta](https://data.texas.gov/api/views/dcjk-k4ws)  
   All horse fatalities from 2010 to present.
 
-- **Individual Licensee Information CE Course Completions**  
+- **Individual Licensee Information - CE Course Completions**  
   [Data](https://data.texas.gov/resource/maym-gea8.json) | [Meta](https://data.texas.gov/api/views/maym-gea8)  
   The Texas Department of Insurance is responsible for monitoring the continuing education (CE) compliance of people licensed to sell insurance or adjust property claims. 
 
-- **Insurance agencies and businesses approved to manage insurance related products**  
+- **Insurance agencies and businesses approved to manage insurance-related products**  
   [Data](https://data.texas.gov/resource/3yqc-fcdt.json) | [Meta](https://data.texas.gov/api/views/3yqc-fcdt)  
   The Texas Department of Insurance (TDI) is responsible for licensing, registering, certifying, and regulating agencies and businesses that want to sell insurance or adjust property and casualty claims in Texas. 
 
-- **Insurance agents, adjusters, and people approved to manage insurance related products or claims**  
+- **Insurance agents, adjusters, and people approved to manage insurance-related products or claims**  
   [Data](https://data.texas.gov/resource/kxv3-diwf.json) | [Meta](https://data.texas.gov/api/views/kxv3-diwf)  
   The Texas Department of Insurance (TDI) is responsible for licensing, registering, certifying, and regulating people who sell insurance or adjust property and casualty claims in Texas. 
 
-- **Network Adequacy Waiver Request Facility based Physicians Providers**  
+- **Network Adequacy Waiver Request - Facility-based Physicians & Providers**  
   [Data](https://data.texas.gov/resource/e597-cvix.json) | [Meta](https://data.texas.gov/api/views/e597-cvix)  
   This dataset includes information related to network adequacy waiver requests filed by major medical health benefit plans. 
 
-- **Network Adequacy Waiver Request Major Medical**  
+- **Network Adequacy Waiver Request - Major Medical**  
   [Data](https://data.texas.gov/resource/yfeb-xw4b.json) | [Meta](https://data.texas.gov/api/views/yfeb-xw4b)  
   This dataset includes information related to network adequacy waiver requests filed by major medical health benefit plans. 
 
-- **Network Adequacy Waiver Request Vision**  
+- **Network Adequacy Waiver Request - Vision**  
   [Data](https://data.texas.gov/resource/2zru-e4u3.json) | [Meta](https://data.texas.gov/api/views/2zru-e4u3)  
   This dataset includes information related to network adequacy waiver requests filed by vision plans. 
 
-- **Public Utility Commission of Texas Water and Sewer Investor Owned Utilities IOUs**  
+- **Public Utility Commission of Texas - Water and Sewer Investor-Owned Utilities (IOUs)**  
   [Data](https://data.texas.gov/resource/auk8-env9.json) | [Meta](https://data.texas.gov/api/views/auk8-env9)  
   A water and sewer Investor-Owned Utility (IOU) is a retail public utility owned by an individual, partnership, corporation or homeowners association.
 
-- **Public Utility Commission of Texas Water and Sewer Submetering or Allocation**  
+- **Public Utility Commission of Texas - Water and Sewer Submetering or Allocation**  
   [Data](https://data.texas.gov/resource/iuez-sv34.json) | [Meta](https://data.texas.gov/api/views/iuez-sv34)  
   Submetered utility service is water utility service that is master metered for the owner by the retail public utility and individually metered by the owner at each dwelling unit; wastewater utility service based on submetered water utility service; water utility service measured by point-of-use submeters when all of the water used in a dwelling unit is measured and totaled; or wastewater utility service based on total water use as measured by point-of-use submeters. 
 
@@ -680,7 +676,7 @@
   [Data](https://data.texas.gov/resource/7isd-ex6t.json) | [Meta](https://data.texas.gov/api/views/7isd-ex6t)  
   This data set includes a row for each person or organization with an active or inactive Surplus Lines license issued by TDI. 
 
-- **TDLR All Licenses**  
+- **TDLR - All Licenses**  
   [Data](https://data.texas.gov/resource/7358-krk7.json) | [Meta](https://data.texas.gov/api/views/7358-krk7)  
   A listing of all TDLR license holders from https://www.tdlr.texas.gov/LicenseSearch/.
 
@@ -688,7 +684,7 @@
   [Data](https://data.texas.gov/resource/8auc-hzdi.json) | [Meta](https://data.texas.gov/api/views/8auc-hzdi)  
   A listing of all HOA management certificates from https://www.hoa.texas.gov/management-certificates-search.
 
-- **Title agency title direct operations appointments by county and underwriter**  
+- **Title agency & title direct operations – appointments by county and underwriter**  
   [Data](https://data.texas.gov/resource/y9ze-ft94.json) | [Meta](https://data.texas.gov/api/views/y9ze-ft94)  
   This data set includes a row for each active underwriter appointment by county for Title Agencies and Title Direct Operations.
 
@@ -712,7 +708,7 @@
   [Data](https://data.texas.gov/resource/8f6m-78bg.json) | [Meta](https://data.texas.gov/api/views/8f6m-78bg)  
   State agency alignment with goals and objectives outlined in the 2020 State Strategic Plan for Information Resources Management as reported in the 2020 Information Resources Deployment Review (IRDR).
 
-- **County Map StratMap County poly**  
+- **County Map - StratMap County poly**  
   [Data](https://data.texas.gov/resource/m3yf-ffwm.json) | [Meta](https://data.texas.gov/api/views/m3yf-ffwm)  
   Map of counties in Texas.
 
@@ -735,7 +731,7 @@
   [Data](https://data.texas.gov/resource/ups3-9e8m.json) | [Meta](https://data.texas.gov/api/views/ups3-9e8m)  
   Texas county centroid latitude and longitude map data.
 
-- **Texas Freshwater Saltwater Boundary**  
+- **Texas Freshwater/Saltwater Boundary**  
   [Data](https://data.texas.gov/resource/8cu4-85sh.json) | [Meta](https://data.texas.gov/api/views/8cu4-85sh)  
   The following data represents the Texas Freshwater/Saltwater Boundary line.
 
@@ -768,7 +764,7 @@
   [Data](https://data.texas.gov/resource/m5q4-3y3d.json) | [Meta](https://data.texas.gov/api/views/m5q4-3y3d)  
   This data set has information about Inspections, Investigations, Assessments done at each Day care and/or Residential Care Operation. 
 
-- **HHSC CCL Non Compliance Data**  
+- **HHSC CCL Non-Compliance Data**  
   [Data](https://data.texas.gov/resource/tqgd-mf4x.json) | [Meta](https://data.texas.gov/api/views/tqgd-mf4x)  
   This Data set contains all the non-compliance detail information for the specific section evaluated. 
 
@@ -776,15 +772,11 @@
   [Data](https://data.texas.gov/resource/ywgb-2ig8.json) | [Meta](https://data.texas.gov/api/views/ywgb-2ig8)  
   This data set contains the list of sections evaluated along with number of standards evaluated and violated in each section for activities (inspections, investigations and assessments) done in each operation. 
 
-- **PEI 4.1 Outcomes, Outputs Efficiencies**  
+- **PEI 4.1 - Outcomes, Outputs & Efficiencies**  
   [Data](https://data.texas.gov/resource/gkzw-hujg.json) | [Meta](https://data.texas.gov/api/views/gkzw-hujg)  
   About this data set:
 
 ## Transportation
-
-- **Archived Project Information**  
-  [Data](https://data.texas.gov/resource/xmzg-npd9.json) | [Meta](https://data.texas.gov/api/views/xmzg-npd9)  
-  The Archived Project Information dataset displays detailed project information such as location, type of work, and estimated cost for projects scheduled for letting within the designated two consecutive fiscal years. 
 
 - **Bid Tabulations**  
   [Data](https://data.texas.gov/resource/ad7p-zydi.json) | [Meta](https://data.texas.gov/api/views/ad7p-zydi)  
@@ -795,7 +787,7 @@
   The dataset of canceled or changed projects comprises those that have either been canceled or changed within the previous month due to shifts in estimated let dates or changes in project status.
 
 - **Official and Unofficial Bid Items**  
-  [Data](https://data.texas.gov/resource/bnwc-mh74.json) | [Meta](https://data.texas.gov/api/views/bnwc-mh74)  
+  [Data](https://data.texas.gov/resource/mgnz-ha5q.json) | [Meta](https://data.texas.gov/api/views/mgnz-ha5q)  
   The Official and Unofficial Bid Items dataset displays advertisement and bidding information for the State and Local Lettings from the official sources of The Electronic State Business Daily (ESBD), the Electronic Bidding System, and the project proposal. 
 
 - **Project Information**  
