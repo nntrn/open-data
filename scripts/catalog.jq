@@ -10,6 +10,16 @@ def slugify($text):
   | gsub("[^a-zA-Z0-9]{1,2}";"-")
   | ascii_downcase;
 
+def simple_clean_text:
+  gsub("(?<b>[\"\\(\\/]) ";.b)
+  |gsub("(?<a>[a-z])\"(?<b>[a-zA-Z])"; .a + "\" " + .b)
+  # | gsub(" (?<b>[\\.\\:])";.b)
+  | gsub("(?<a>[a-z])\\.(?<b>[A-Z])"; .a + ". " + .b;"x")
+  | gsub("[\\s_]+";" ")
+  | gsub("^[\\s]+|[\\s]+$";"")
+  | gsub("\\[[^\\]]+";"")
+  ;
+
 def uncase($str): 
   $str | gsub("(?<a>[a-z])(?<b>[A-Z])";.a + " " + .b)|gsub("_";" ");
 
@@ -29,14 +39,6 @@ def column_map_table: {
   } as $r 
   | [range(0;($r.name|length))]
   | map([$r.field[.],($r.datatype[.]|ascii_downcase),$r.description[.]]|join("\t"));
-
-def get_domain_tags:
-  map(.classification.domain_tags)
-  |flatten
-  |sort
-  |group_by(.)
-  |map({key: .[0],value: length}|select(.value > 1))
-  |from_entries;
 
 def get_classification: 
   .classification | 
@@ -67,15 +69,8 @@ def split_sentences:
   | gsub("[-\\s_]{5,}";"~~split~~")
   | split("~~split~~");
 
-def get_excerpt:
-  "\(.)\n" 
-  | split("[\\n\\r]+";"x")[0]
-  | (gsub("\\.\\s(?<s>[A-Z])"; ".~~"+ .s)|split("~~")|first);
-
-def get_excerpt($str): $str | get_excerpt;
-
 # removes html
-def clean_text:
+def strip_html:
   gsub("&lt;";"<")
   | gsub("&gt;";">")
   | gsub("<[^>]*>";"")
@@ -85,7 +80,8 @@ def clean_text:
 
 def format_description:
   tostring
-  | clean_text
+  | strip_html
+  | gsub(":[\\n][\\n\\s]+?";": ")
   | split("\n")
   | map(gsub("[\\t\\r]";"")| gsub("(?<a>[^\\n]{72,90}\\. )"; .a + "\n"; "m")|select(length>0))
   | map(split_sentences)
@@ -146,10 +142,8 @@ def format_title:
   gsub("^[^a-zA-Z0-9]";"")
   | gsub("^Strategic[_\\s]Measure[s\\s_-]+";"(%)";"x")
   | gsub("^Strategic Direction";"($)")
-  | gsub("(?<b>[\\(\\/]) ";.b)
-  | gsub("[\\s_]+";" ")
   | gsub("\\([^\\)]{30,}\\)|[\\[\\]]";"")
-  | gsub("^[\\s]+|[\\s]+$";"")
+  | simple_clean_text
   ;
 
 def format_title($str): $str | format_title;
@@ -159,31 +153,46 @@ def build_markdown:
   | map(select(.name|(test("[A-Z][a-z]";"x") and (test("DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive")|not) ) ))
 ;
 
-def markdown_catalog(s):
+def catalog_list:
   map( if (env.MARKDOWN_EXCLUDE|length)>0 then select(.name|test(env.MARKDOWN_EXCLUDE;"x")|not) else . end )
   | map(select(.name|(test("[A-Z][a-z]";"x") and (test("DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive")|not) ) ))
+  ;
+
+def markdown_catalog(s):
+  map(
+    select(.domain|test(".co$")|not) |
+    (if (env.MARKDOWN_EXCLUDE|length)>0 then select(.name|test(env.MARKDOWN_EXCLUDE;"x")|not) else . end) |
+    select(.name|(test("[A-Z][a-z]";"x") and (test("DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive")|not)))
+  )
   | group_by_count(s) as $gbc | $gbc
-  | map([
-      "## \(.key)",
-      "",
-      ( .value 
-        | sort_by(.name) 
-        | map(
-          select(.description[0] != .name)
-          | [
-            "- **\(format_title(.name))**  ",
-            "  [Data](\(.url)) | [Meta](\(.info))  ",
-            ( if (.description[0]|length) > 0 then "  \( .description[0])" else null end),
-            ""
-            ]| map(select(type != null)) | join("\n")
-        )
-        | join("\n")
-      ),
-      (if (.value|length) > 15 then  "\n[[TOP]](#table-of-contents)\n" else "" end)
-    ] 
-    | join("\n")
-  ) | join("\n") as $content
-  | [
+  | map(
+      [
+        "## \(.key)",
+        "",
+        ( .value 
+          | sort_by(.name,.id) 
+          | map(
+            select(.description[0] != .name) 
+            | 
+            [
+              "- **\(format_title(.name))**",
+              "[Data](\(.url)) | [Meta](\(.info)) | Last updated in \(.data_updated_at|tostring|gsub("-.*";""))",
+              if (.description[0]|length) > 40 then .description[0] else null end,
+              if (.description[1]|length) > 40 and (.description[1]|length) < 100  and (.description[1]|test("^[A-Z]")) then .description[1] else null end
+            ]
+            | flatten
+            | map(select(length > 0))
+            | join("  \n  ")
+          )
+          | join("\n\n")
+        ),
+        (if (.value|length) > 15 then "\n[[TOP]](#table-of-contents)\n" else "" end)
+      ] 
+      | join("\n") 
+    ) 
+  | join("\n") as $content
+  | 
+  [
     "# \(env.MARKDOWN_TITLE)",
     "",
     "<details id=\"table-of-contents\"><summary><strong>Table of Contents</strong></summary>",

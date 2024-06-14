@@ -28,11 +28,11 @@ while [ $# -gt 0 ]; do
   --columns) _funcs+=("get_columns") ;;
   --simple) _funcs+=("get_simple") ;;
 
-  --markdown-line)
-    _funcs+=("markdown_list(\"$2\")")
-    _flags+="r"
-    shift
-    ;;
+  # --markdown-line)
+  #   _funcs+=("markdown_list(\"$2\")")
+  #   _flags+="r"
+  #   shift
+  #   ;;
 
   --markdown)
     _funcs+=("markdown_catalog($2)")
