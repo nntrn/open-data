@@ -7,7 +7,7 @@ DIR=${SCRIPT%/*}
 export MARKDOWN_TITLE=
 export MARKDOWN_EXCLUDE=
 export MARKDOWN_INPUT=()
-export MARKDOWN_GROUP=classification
+export MARKDOWN_GROUP=.classification
 
 _exclude=(
   BOUNDARIES
@@ -36,11 +36,11 @@ _chksum() {
 _build() {
   local input=$1
   local title="${input##*/}"
-  local cataloggroup=${MARKDOWN_GROUP:-classification}
+  # local cataloggroup=${MARKDOWN_GROUP:-classification}
   title="${title%%.*}"
   title="${title^}"
 
-  MARKDOWN_TITLE=$title $DIR/catalog.sh $input --simple --markdown .$cataloggroup | cat -s >./${title}.md
+  MARKDOWN_TITLE=$title $DIR/catalog.sh $input --simple --markdown $MARKDOWN_GROUP | cat -s >./${title}.md
 }
 
 while [ $# -gt 0 ]; do
