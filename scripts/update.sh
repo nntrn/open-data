@@ -32,6 +32,7 @@ download_if $OUTDIR/crime.json "${CATALOG_URL}&q=crime" "-Y --group .domain" >cr
 download_if $OUTDIR/datasets.json "${CATALOG_URL}&q=datasets" "-Y --group .domain" >datasets.md &
 download_if $OUTDIR/shootings.json "${CATALOG_URL}&q=shooting" "-Y --group .domain" >shootings.md &
 download_if $OUTDIR/police.json "${CATALOG_URL}&q=police" "-Y --group .domain" >police.md &
-download_if $OUTDIR/salaries.json "${CATALOG_URL}&q=salaries" "-Y --group .domain" >salaries.md
+download_if $OUTDIR/salaries.json "${CATALOG_URL}&q=salaries" "-Y --group .domain" >salaries.md &
+download_if $OUTDIR/jobs.json "${CATALOG_URL}&q=jobs" "-Y --group .domain" >jobs.md
 
 wait "${_pids[@]}"
