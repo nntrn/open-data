@@ -28,6 +28,7 @@ def neat_view:
     name,
     url: "https://\(.domaincname)/resource/\(.id).json",
     meta_url: "https://\(.domaincname)/api/views/\(.id)",
+    foundry_url: "https://dev.socrata.com/foundry/\(.domaincname)/\(.id)",
     category: (
       .metadata_custom_fields_dataset_category_category_tile // 
       .category // 
@@ -71,13 +72,26 @@ def format_title:
 
 def format_title($str): $str | format_title;
 
+# export EXCLUDE_EXPR='[2][0-2][0-3][0-9]|FY[0-2][0-9]'
+def default_exclude: [ 
+  "ARCHIVED","BOUNDARIES","PLANNINGCADASTRE","UTILITIESCOMMUNICATION",
+  "GEOSCIENTIFICINFORMATION","GUIDE","TRANSPORTATION",
+  "Test","TEST","deprecated","demo","Demo",
+  (env.EXCLUDE_EXPR? // "")
+  ] | map(select(length > 1))| join("|") | "(\(.))";
+
+def exclude(field;$str):select(field|test("\($str)";"ix")|not) ;
+
 def write_markdown($groupby):
   (input_filename|title_from_filename) as $filename
-  | map(select((.category|length)>0))
-  | map(select(.name|(test("[A-Z][a-z]";"x") and (test("DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive|UTILITIES")|not) ) ))
+  | map(select((.category|length)>0 and (.name|test("[A-Z][a-z]";"x"))) | 
+      exclude(.name;"DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive|UTILITIES") 
+  )
+  | length as $total 
+  | map(if $total > 2000 then exclude(.name; "[2][0-2][0-3][0-9]|FY[0-2][0-9]") else . end)
   | group_by(.["\($groupby)"])
   | ([
-      "<details id=\"table-of-contents\"><summary><strong>Table of Contents</strong></summary>",
+      "<details id=\"toc\"><summary><strong>Table of Contents</strong></summary>",
       "",
       map("- [\(.[0][$groupby])](#\(slugify(.[0][$groupby])))"),
       "",
@@ -85,17 +99,23 @@ def write_markdown($groupby):
       "",
       "> **NOTE**  ",
       "> (%) denotes strategic dataset",
-      ""
-     ]|flatten|join("\n")) as $toc
+      "",
+      "Data source: \((env.CATALOG_URL // $catalog )? // "" )"
+     ]|flatten|join("\n")
+  ) as $toc
   | map(
       "\n## \(.[0][$groupby])\n\n" + (
         sort_by(.name)
-        | map(["- **\(.name)**","[Data](\(.url)) | [Meta](\(.meta_url)) | Last update: \(.last_update)",.summary]
-        | map(select(length > 0))|join("  \n  "))|join("\n\n")
+        | map([
+            "- **\(.name)**","[Data](\(.url)) | [Docs](\(.foundry_url)) | Last update: \(.last_update)",
+            .summary] | map(select(length > 0))|join("  \n  ") )
+        | join("\n\n") + "\n\n[[TOP]](#toc)"
       )
     )
   | flatten
-  | join("\n\n")| "# \($filename)\n\n\($toc)\n\n\(.)";
+  | join("\n\n")
+  | ["# \($filename)","", $toc,"", . ]
+  | join("\n");
 
 def write_markdown: write_markdown(.category);
 

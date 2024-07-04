@@ -147,7 +147,7 @@ https://api.us.socrata.com/api/catalog/v1?ids={{ids}}
   https://api.us.socrata.com/api/catalog/v1?derived=
 
 * Sort order: `/catalog/v1{?order}`  
-  https://api.us.socrata.com/api/catalog/v1?order=
+  https://api.us.socrata.com/api/catalog/v1?order=updatedAt%20DESC
 
 * Pagination: `/catalog/v1{?offset,limit}`  
   https://api.us.socrata.com/api/catalog/v1?offset,limit=

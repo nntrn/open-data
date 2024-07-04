@@ -24,24 +24,23 @@ mkdir -p $OUTDIR
 mkdir -p $DOCDIR
 
 download_data() {
-
   local data_out="$OUTDIR/${1}.json"
   local doc_out="$DOCDIR/${1}.md"
+  local catalog_url="$2"
 
   if [[ ! -f $data_out ]]; then
-    curl -s --create-dirs -o $data_out "$2" --fail
+    curl -s --create-dirs -o $data_out "$catalog_url" --fail
     _pids+=("$!")
   fi
 
-  echo "$doc_out"
+  echo -e "$doc_out\t$catalog_url"
 
-  local JQ_EXPR='include "views"; results|write_markdown("category")'
+  jq -L $DIR/scripts -r \
+    --arg catalog "$catalog_url" \
+    --arg group "${3:-category}" \
+    'include "views"; results|write_markdown($group)' \
+    $data_out >$doc_out
 
-  if [[ $3 == "domain" ]]; then
-    JQ_EXPR='include "views"; results|write_markdown("domain")'
-  fi
-
-  jq -L $DIR/scripts -r "$JQ_EXPR" $data_out >$doc_out
   _pids+=("$!")
 }
 
