@@ -20,6 +20,27 @@
 * https://catalog.data.gov/api/3/action/package_search?rows=10&start=0
 
 
+Multiple domains:  
+[`/api/catalog/v1?domains=datahub.austintexas.gov,data.cdc.gov&limit=10000`](https://api.us.socrata.com/api/catalog/v1?domains=datahub.austintexas.gov,data.cdc.gov&limit=10000)
+
+foundry:  
+https://dev.socrata.com/foundry/data.austintexas.gov/fdj4-gpfu
+
+Columns:  
+https://data.cityofnewyork.us/api/views/833y-fsy8/columns.json
+
+Download all data 
+https://datahub.austintexas.gov/api/views/puux-7swp/rows.json
+
+```
+curl -O https://data.austintexas.gov/api/views/fdj4-gpfu/rows.csv
+```
+
+* view dataset: https://data.austintexas.gov/d/uhdp-a2nb.json
+* resource: https://data.austintexas.gov/resource/uhdp-a2nb.json
+* views: https://data.austintexas.gov/api/views/uhdp-a2nb
+* foundry: https://dev.socrata.com/foundry/data.austintexas.gov/uhdp-a2nb
+
 ## Catalog
 
 ```
@@ -42,11 +63,12 @@ https://api.us.socrata.com/api/catalog/v1?ids={{ids}}
 &boostOfficial={{boostOfficial}}
 ```
 
+
 * Count of each domain  
   [api.us.socrata.com/api/catalog/v1/domains](https://api.us.socrata.com/api/catalog/v1/domains)
 
 * Facets  
-  [api.us.socrata.com/api/catalog/v1/domains/<strong>&lt;domain&gt;/facets](https://api.us.socrata.com/api/catalog/v1/domains/datahub.austintexas.gov/facets)
+  [api.us.socrata.com/api/catalog/v1/domains/<strong>&lt;domain&gt;</strong>/facets](https://api.us.socrata.com/api/catalog/v1/domains/datahub.austintexas.gov/facets)
   
 * [api.us.socrata.com/api/catalog/v1?domains=<strong>&lt;metadata_domain&gt;</strong>&only=dataset][CATALOG]
 

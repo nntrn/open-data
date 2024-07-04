@@ -38,8 +38,13 @@ jq -L scripts -r 'include "views";results|write_markdown' data/austin.json
 
 - [Austin District 7 Housing Directory](https://data.austintexas.gov/resource/4syj-z4ky.json?council_district=7)
 
+- [Collection of open data domains](https://data.kingcounty.gov/resource/waaj-pqt3.json)
+
+- [Hospital revenue](https://data.wa.gov/id/kwf8-x25v.json)
 
 ### Crime
+
+- [Texas life sentences](https://data.texas.gov/id/fgzd-wjkz.json?sentence_years=%27Life%27&$limit=10000)
 
 - [APD Computer Aided Dispatch Incidents](https://data.austintexas.gov/resource/22de-7rzg.json?$order=response_datetime%20DESC)
 
