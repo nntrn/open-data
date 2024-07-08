@@ -44,6 +44,7 @@ download_data() {
   _pids+=("$!")
 }
 
+download_data cdc "${CATALOG_URL}&domains=data.cdc.gov" category &
 download_data texas-gov "${CATALOG_URL}&domains=data.texas.gov" category &
 download_data texas "${CATALOG_URL}&q=texas" domain &
 download_data austin "${CATALOG_URL}&domains=datahub.austintexas.gov" category &
