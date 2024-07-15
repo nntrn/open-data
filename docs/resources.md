@@ -1,6 +1,10 @@
 # Resources
 
+* https://data.gov/open-gov/
+
 ## Domains
+
+https://api.us.socrata.com/api/catalog/v1/domains
 
 * [data.austintexas.gov]  
 * [datahub.austintexas.gov]  
