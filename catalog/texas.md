@@ -29,18 +29,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## dashboard.plano.gov
 
-- **2014-15 By Month & YTD Texas Pure Products Revenue**  
-  [Data](https://dashboard.plano.gov/resource/ruqy-k8ci.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/ruqy-k8ci) | Last update: Mar 2022
-
 - **TTHM & HAA5 Quarterly Rolling Averages Data.**  
-  [Data](https://dashboard.plano.gov/resource/pbib-2w2z.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/pbib-2w2z) | Last update: Jul 2024  
+  [Data](https://dashboard.plano.gov/resource/pbib-2w2z.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/pbib-2w2z) | Last update: Aug 2024  
   Total Trihalomethanes (TTHM) and Haloacetic Acids (HAA5) are disinfection byproducts that are monitored quarterly by the Texas Commission on Environmental Quality (TCEQ). The results in this data set are calculated quarterly averages by site using the results from each sample location. Sample data for each location is available on the TTHM and HAA5 pages.
 
-- **Texas Pure Products Annual Revenue**  
-  [Data](https://dashboard.plano.gov/resource/4t82-3iuh.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/4t82-3iuh) | Last update: Mar 2022
-
 - **Website Visits**  
-  [Data](https://dashboard.plano.gov/resource/f8fm-gdif.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/f8fm-gdif) | Last update: Jul 2024
+  [Data](https://dashboard.plano.gov/resource/f8fm-gdif.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/f8fm-gdif) | Last update: Aug 2024
 
 [[TOP]](#toc)
 
@@ -103,7 +97,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Effective September 27, 2023, this dataset will no longer be updated. Similar data are accessible from wonder.cdc.gov.
 
 - **Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence**  
-  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Aug 2024  
   Sub-national death counts between 1-9 are suppressed in accordance with NCHS data confidentiality standards. Rates based on death counts less than 20 are suppressed in accordance with NCHS standards of reliability as specified in NCHS Data Presentation Standards for Proportions (available from: https://www.cdc.gov/nchs/data/series/sr_02/sr02_175.pdf.).
 
 - **Rates of COVID-19 Cases or Deaths by Age Group and Updated (Bivalent) Booster Status**  
@@ -191,7 +185,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.ny.gov
 
 - **Transportation Fuels Spot Prices: Beginning 2006**  
-  [Data](https://data.ny.gov/resource/k7gz-mn77.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/k7gz-mn77) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/k7gz-mn77.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/k7gz-mn77) | Last update: Aug 2024  
   Transportation Fuels Spot Prices dataset provides weekly average spot price information for New York Harbor Conventional Gasoline, New York Harbor Ultra-Low Sulfur Diesel as well as Western Texas Intermediate (WTI) and Brent crude oil. The data is presented as a weekly average from June 2006 through current. Jet fuel wholesale price is included on a monthly basis on a 3 month lag.
 
 [[TOP]](#toc)
@@ -219,7 +213,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/vafe-2xdg.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/vafe-2xdg) | Last update: Aug 2021
 
 - **Active Cigarette/Tobacco Non-Retailers**  
-  [Data](https://data.texas.gov/resource/mhvi-79zr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mhvi-79zr) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/mhvi-79zr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mhvi-79zr) | Last update: Aug 2024  
   This file contains information for all Cigarette/Tobacco Cigarette and Tobacco Distributors, Manufacturers, Wholesalers, and Importers with an active permit.
 
 - **Active Cigarette/Tobacco Permit Suspensions and Revocations**  
@@ -227,16 +221,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   See https://comptroller.texas.gov/about/policies/privacy.php for more information on our agencys privacy and security policies.
 
 - **Active Cigarette/Tobacco Registered Manufacturers**  
-  [Data](https://data.texas.gov/resource/9zju-4437.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/9zju-4437) | Last update: Apr 2024  
+  [Data](https://data.texas.gov/resource/9zju-4437.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/9zju-4437) | Last update: Jul 2024  
   This file contains information for all Cigarette and Tobacco Registered Manufacturers with an active permit.
 
 - **Active Sales Tax Permit Holders**  
   [Data](https://data.texas.gov/resource/jrea-zgmq.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jrea-zgmq) | Last update: Jul 2024  
   ThisfilecontainsalistoftaxpayerswhoholdanactivesalestaxpermitunderTaxCodeChapter151,SubchapterF.Thefileincludestaxpayerandoutletinformation.
-
-- **All Cigarette and Tobacco Retailers**  
-  [Data](https://data.texas.gov/resource/yrkr-maw5.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/yrkr-maw5) | Last update: Jul 2024  
-  This file contains information at the outlet level for all Cigarette/Tobacco Retailers with an active permit or that have been active within the last four years. The list is for Distributors to know Authorized Retailers for sales and gives information required for reporting.
 
 - **Appropriation Numbers and Titles by Agency and Appropriation Year**  
   [Data](https://data.texas.gov/resource/vuni-wtvk.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/vuni-wtvk) | Last update: Jun 2020  
@@ -260,7 +250,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/uk2f-keq4.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/uk2f-keq4) | Last update: Jul 2022
 
 - **Bid Tabulations**  
-  [Data](https://data.texas.gov/resource/ad7p-zydi.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ad7p-zydi) | Last update: Jul 2024
+  [Data](https://data.texas.gov/resource/ad7p-zydi.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ad7p-zydi) | Last update: Aug 2024
 
 - **CACFP - Meal Count Measure Dataset - 2018-2019**  
   [Data](https://data.texas.gov/resource/xawa-edfn.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/xawa-edfn) | Last update: Oct 2021  
@@ -279,7 +269,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Snapshot of Children in Substitute Care on August 31 broken out by placement type and relative placements.
 
 - **Canceled or Changed Project List**  
-  [Data](https://data.texas.gov/resource/2kmv-4jrh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2kmv-4jrh) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/2kmv-4jrh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2kmv-4jrh) | Last update: Aug 2024  
   The dataset of canceled or changed projects comprises those that have either been canceled or changed within the previous month due to shifts in estimated let dates or changes in project status.
 
 - **Check Verification Entities**  
@@ -298,15 +288,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Report of Custodian Deaths on record with the Office of the Attorney General. These reports include the date, the reporting agency, and the name of the deceased.
 
 - **Eminent Domain Noncompliant Entities List**  
-  [Data](https://data.texas.gov/resource/qpkm-pcgh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qpkm-pcgh) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/qpkm-pcgh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qpkm-pcgh) | Last update: Aug 2024  
   Should an entity that has previously submitted a report of eminent domain authority later inform the Comptroller that a change has occurred such that the entity no longer possesses eminent domain authority or is required to submit a report in accordance with 2206.154, that entity will not be placed on the noncompliant entities list (or will be removed from the list, as the case may be).
 
 - **Eminent Domain Project Data**  
-  [Data](https://data.texas.gov/resource/x7n3-dc7h.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/x7n3-dc7h) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/x7n3-dc7h.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/x7n3-dc7h) | Last update: Aug 2024  
   The Project Data table includes all projects that entities claim they have eminent domain authority to undertake. Also included in the table are entity names, report years, and a unique report ID number. The ID number can be used to cross-reference the project data with the Eminent Domain table.
 
 - **Eminent Domain Provision Data**  
-  [Data](https://data.texas.gov/resource/pmc3-6ynv.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/pmc3-6ynv) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/pmc3-6ynv.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/pmc3-6ynv) | Last update: Aug 2024  
   The Provision Data table includes all legal authorities that entities claim grants them eminent domain powers. Also included in the table are entity names, report years, and a unique report ID number. The ID number can be used to cross-reference the provision data with the Eminent Domain Data table.
 
 - **Expenditure Category Numbers and Titles**  
@@ -330,23 +320,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These are the various 2-digit GAAP fund types and their titles under which GAAP Funds are consolidated for financial reporting. GAAP Fund Types are used to report consolidated fund activity for presentation on the Texas Comprehensive Annual Financial Report, according to Generally Accepted Accounting Principles (GAAP).
 
 - **HHSC CCL Daycare and Residential Operations Data**  
-  [Data](https://data.texas.gov/resource/bc5r-88dy.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/bc5r-88dy) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/bc5r-88dy.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/bc5r-88dy) | Last update: Aug 2024  
   This Data set contains detailed information about Day Care  and/ or Residential Care Operation that is displayed on the Public site. The Operation ID is a unique key that ties to the other data sets for Child Care Licensing data
 
 - **HHSC CCL Inspection Investigation Assessment Data**  
-  [Data](https://data.texas.gov/resource/m5q4-3y3d.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/m5q4-3y3d) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/m5q4-3y3d.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/m5q4-3y3d) | Last update: Aug 2024  
   This data set has information about Inspections, Investigations, Assessments done at each Day care  and/or Residential Care Operation. The Operation ID can be used to link the records to the operation details in the HHSC CCL Operations Data set
 
 - **HHSC CCL Non-Compliance Data**  
-  [Data](https://data.texas.gov/resource/tqgd-mf4x.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/tqgd-mf4x) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/tqgd-mf4x.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/tqgd-mf4x) | Last update: Aug 2024  
   The Operation ID, Activity ID and Section ID can be used to link back to the Activity records, Activity Section record, and Operation record files.
 
 - **HHSC CCL Sections and Standards Evaluated Data**  
-  [Data](https://data.texas.gov/resource/ywgb-2ig8.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ywgb-2ig8) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/ywgb-2ig8.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ywgb-2ig8) | Last update: Aug 2024  
   This data set contains the list of sections evaluated along with number of standards evaluated and violated in each section for activities (inspections, investigations and assessments) done in each operation. The Operation ID and Activity ID can be used to link back to the HHSC CCL  Inspection / Investigation / Assessment Dataset and HHSC CCL Operations Dataset.
 
 - **Interstate Truckers**  
-  [Data](https://data.texas.gov/resource/nhzr-ynmk.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/nhzr-ynmk) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/nhzr-ynmk.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/nhzr-ynmk) | Last update: Aug 2024  
   This file contains a list of licensed interstate truckers in Texas.
 
 - **Licensed CNG/LNG Taxpayers**  
@@ -354,14 +344,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is a list of Compressed Natural Gas (CNG) and Liquefied Natural Gas (LNG) license holders.
 
 - **Licensed Fuels Taxpayers**  
-  [Data](https://data.texas.gov/resource/3fc3-wv7y.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/3fc3-wv7y) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/3fc3-wv7y.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/3fc3-wv7y) | Last update: Aug 2024  
   Fuels tax license holders in Texas including Taxpayer Number, Name, City, Zip Code and Permit Type.
 
 - **Local Government Retention Schedules**  
   [Data](https://data.texas.gov/resource/qf2n-igjr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qf2n-igjr) | Last update: Jul 2023
 
 - **Maquiladora Export-Permitted Taxpayers**  
-  [Data](https://data.texas.gov/resource/meud-pnzp.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/meud-pnzp) | Last update: Jun 2024  
+  [Data](https://data.texas.gov/resource/meud-pnzp.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/meud-pnzp) | Last update: Jul 2024  
   This file contains a list of maquiladora enterprises that currently hold an active maquiladora export permit.
 
 - **Money Services Businesses**  
@@ -441,11 +431,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/srqa-79uf.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/srqa-79uf) | Last update: Apr 2024
 
 - **Motor Fuel Transporters**  
-  [Data](https://data.texas.gov/resource/jy3w-jm2u.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jy3w-jm2u) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/jy3w-jm2u.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jy3w-jm2u) | Last update: Aug 2024  
   This file contains a list of licensed motor fuel transporters (common carriers) in Texas.
 
 - **Official and Unofficial Bid Items**  
-  [Data](https://data.texas.gov/resource/mgnz-ha5q.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mgnz-ha5q) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/mgnz-ha5q.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mgnz-ha5q) | Last update: Aug 2024  
   Official and Unofficial Bid Items dataset includes data in 42 forward days bid items. 42 days to 22 days is unofficial; 21 days and less is official.
 
 - **Perpetual Care Cemeteries**  
@@ -461,12 +451,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This file contains a list of organizations that have been issued a determination letter and are therefore eligible to apply for local property tax exemptions.
 
 - **Project Information**  
-  [Data](https://data.texas.gov/resource/396g-wqyr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/396g-wqyr) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/396g-wqyr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/396g-wqyr) | Last update: Aug 2024  
   The Project Information dataset displays detailed project information such as location, type of work, and estimated cost for projects scheduled for letting within the designated two consecutive fiscal years.
-
-- **Recapitulation**  
-  [Data](https://data.texas.gov/resource/jxqk-9dmq.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jxqk-9dmq) | Last update: Jun 2024  
-  This recapitulation includes information such as the unit of measurement, quantity of work completed, unit price, cost, and vendor information.
 
 - **Revenue Category Numbers and Titles**  
   [Data](https://data.texas.gov/resource/xfck-ysny.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/xfck-ysny) | Last update: Jun 2020  
@@ -489,7 +475,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset is derived from published 2019-2020 School Nutrition Program contacts and meal reimbursement data for the purpose of providing visualizations for the TDA Data Overview story. Please refer to the original Contacts and Program Participation and Meal Reimbursement datasets for more detailed and updated information.
 
 - **Signed Statement Registration Numbers**  
-  [Data](https://data.texas.gov/resource/a5y7-t5ih.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/a5y7-t5ih) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/a5y7-t5ih.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/a5y7-t5ih) | Last update: Aug 2024  
   This file contains a list of Signed Statement Registration Numbers in Texas.
 
 - **Star Of Texas Award Recipients 2004-2021**  
@@ -586,24 +572,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   See https://comptroller.texas.gov/about/policies/privacy.php for more information on our agencys privacy and security policies
 
 - **Texas Coin-Operated Amusement Machine Taxpayers**  
-  [Data](https://data.texas.gov/resource/ryd4-r7mh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ryd4-r7mh) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/ryd4-r7mh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ryd4-r7mh) | Last update: Aug 2024  
   This file contains a list of Coin-Operated Amusement Machine Operators in Texas.
-
-- **Texas East Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/r8gw-h8cs.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/r8gw-h8cs) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
-
-- **Texas North Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/arek-dthg.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/arek-dthg) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
 
 - **Texas Regional Economic Snapshots**  
   [Data](https://data.texas.gov/resource/jir8-be2g.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jir8-be2g) | Last update: Jun 2020  
   Find information on population, income, jobs, wages, graduation rates, highways, water and healthcare for the Comptroller's 12 Economic Regions.
-
-- **Texas South Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/ugt2-g8xm.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ugt2-g8xm) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
 
 - **Texas State Agency Records Retention Schedule - Revised 5th edition**  
   [Data](https://data.texas.gov/resource/f6ng-hrgc.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/f6ng-hrgc) | Last update: May 2024
@@ -615,10 +589,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Texas State Expenditures by County - 2019**  
   [Data](https://data.texas.gov/resource/2x5x-m677.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2x5x-m677) | Last update: Jun 2020  
   Texas State Expenditures by County shows where state dollars are spent. It lists state expenditures by agency and type of expenditure in each county. This report was created using information from the state's Uniform Statewide Accounting System. It reflects actual net expenditures of funds from accounts held in the State Treasury during the state's fiscal year 2019, Sept. 1  through Aug. 31.
-
-- **Texas West Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/g3ex-37ca.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/g3ex-37ca) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
 
 - **Trust Companies**  
   [Data](https://data.texas.gov/resource/2hc4-g945.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2hc4-g945) | Last update: Jul 2022  
@@ -678,7 +648,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   TxRC 2015 Monthly Handle by Track and Signal
 
 - **Vendor List**  
-  [Data](https://data.texas.gov/resource/8z7t-vzvc.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/8z7t-vzvc) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/8z7t-vzvc.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/8z7t-vzvc) | Last update: Aug 2024  
   The Vendor List dataset displays the contact information and qualified status related to vendor list.
 
 [[TOP]](#toc)
@@ -787,7 +757,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   View more details and insights related to this dataset on the story page: https://data.austintexas.gov/stories/s/ixex-hibp
 
 - **(%)Cost per Mile of City-owned Fleet**  
-  [Data](https://datahub.austintexas.gov/resource/4bcn-wi4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4bcn-wi4g) | Last update: Nov 2023  
+  [Data](https://datahub.austintexas.gov/resource/4bcn-wi4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4bcn-wi4g) | Last update: Jul 2024  
   View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/i7kr-sc6e
 
 - **(%)Dollar Amount and Percentage Increase of Major Rates and Fees**  
@@ -862,7 +832,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/dvxk-d44k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dvxk-d44k) | Last update: Apr 2023
 
 - **(%)GTW.B.5 Number of City Services provided online through the City of Austin Web Portal (austintexas.gov)**  
-  [Data](https://datahub.austintexas.gov/resource/yeq9-w4xg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yeq9-w4xg) | Last update: Jan 2024  
+  [Data](https://datahub.austintexas.gov/resource/yeq9-w4xg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yeq9-w4xg) | Last update: Jul 2024  
   Data Source: Manual inventory of services that are hosted on the Citys official web platforms Austintexas.gov and Austin.gov. Data source is maintained by the Communications & Technology Management Department.
 
 - **(%)HE.D.1 Number of Days Per Year of Good Air Quality (Air Quality Index Value <51)**  
@@ -974,7 +944,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data Source: Data is reported by contractors quarterly via a grant management system (PartnerGrants) and then transferred to this reporting format.
 
 - **(%)Number and percentage of City-owned battery-electric vehicles (BEV)**  
-  [Data](https://datahub.austintexas.gov/resource/ad6m-48cr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ad6m-48cr) | Last update: Nov 2023  
+  [Data](https://datahub.austintexas.gov/resource/ad6m-48cr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ad6m-48cr) | Last update: Jul 2024  
   The City of Austin is focused on becoming a greener city and the Fleet Mobility Services Department developed the Carbon Neutral Plan, which includes acquiring 330 battery-electric vehicles. The goal is to be early adopters of the overall regional mobility strategy setting the example for the general public and other governmental entities.
 
 - **(%)Number and percentage of children enrolled in quality Early Education programs**  
@@ -1006,7 +976,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Note: Due to software limitations, the scores for one biennial reporting period (e.g., FY2013/2014) are repeated twice in the dataset in order to enable the creation of data visualizations that require annual reporting.
 
 - **(%)Number and percentage of emergency responses that meet established time standards for that type of response**  
-  [Data](https://datahub.austintexas.gov/resource/rxdk-7jrs.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rxdk-7jrs) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/rxdk-7jrs.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rxdk-7jrs) | Last update: Jul 2024  
   This data set shows the number and percentage of emergency responses that meet the established time standards for that type of response.
 
 - **(%)Number and percentage of people receiving homelessness services through City of Austin contracts and Downtown Austin Community Court case management who move into housing**  
@@ -1086,7 +1056,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/HE-B-4b-Number-of-unintentional-overdose-deaths/vmwr-d85g/
 
 - **(%)Open Data Asset Access Frequency**  
-  [Data](https://datahub.austintexas.gov/resource/crhh-mb3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/crhh-mb3x) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/crhh-mb3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/crhh-mb3x) | Last update: Jul 2024  
   Calculations: (GTW.G.4) Percentage of datasets published in the Open Data portal that are being accessed frequently (such as through a website views, API interactions, embeds or mobile views).
 
 - **(%)Percent Variance Between Actual and Budgeted Revenue**  
@@ -1113,7 +1083,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Contains: The number of street sweeping cycles completed each fiscal year, where one "cycle" represents one full sweep of all protected bike lanes. Includes information on the cycles swept target, and the percent of the target cycles completed.
 
 - **(%)Percent operational availability of City Fleet Vehicles**  
-  [Data](https://datahub.austintexas.gov/resource/hv3j-8muj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hv3j-8muj) | Last update: Nov 2023  
+  [Data](https://datahub.austintexas.gov/resource/hv3j-8muj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hv3j-8muj) | Last update: Jul 2024  
   This strategic measure details how many vehicles are available to operate, taken from the department's asset management system.
 
 - **(%)Percent split of modes based on commute to work**  
@@ -1188,7 +1158,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/HE-B-2Percentage-of-residents-age-65-who-received-/e3da-kvkn/
 
 - **(%)Percentage of total energy consumed that is generated by renewable power sources**  
-  [Data](https://datahub.austintexas.gov/resource/7k3d-ry7d.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7k3d-ry7d) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/7k3d-ry7d.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7k3d-ry7d) | Last update: Jul 2024  
   This data set includes the data used to calculate Austin Energy's load-based carbon footprint. The load-based carbon footprint is a measure of the carbon emissions associated with the electricity that all Austin Energy customers use, referred to as "load," in a given time period.
 
 - **(%)Preventive Maintenance**  
@@ -1209,18 +1179,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **(%)Ratio of Current Reserves to Overall Annual General Fund Budget**  
   [Data](https://datahub.austintexas.gov/resource/uhdp-a2nb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uhdp-a2nb) | Last update: Apr 2023  
   The Annual Budget Document provides information about the General Fund Reserve as a percentage of the total General Fund requirements (SD23 measure GTW.A.5). The General Fund Reserve ensures the City is capable of offsetting potential downturns in revenue sources and provides a sufficient cash balance for daily financial needs.
-
-- **(%)S.B.1a Crimes Against Persons**  
-  [Data](https://datahub.austintexas.gov/resource/x2sd-h8fk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x2sd-h8fk) | Last update: Jun 2024  
-  The number of crimes against persons by crime type in the city of Austin for 2019. Official numbers come from the FBI. It is used to calculate the crimes against persons rate per 1,000 population
-
-- **(%)S.B.1b Crimes Against Property**  
-  [Data](https://datahub.austintexas.gov/resource/hga7-a8wy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hga7-a8wy) | Last update: Jun 2024  
-  Calculation: (S. B. 1b) Crime rate = Total crimes against property/(Austin 2019 population/1,000)
-
-- **(%)S.B.1c Crimes Against Society**  
-  [Data](https://datahub.austintexas.gov/resource/aj2f-fmnm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/aj2f-fmnm) | Last update: Jun 2024  
-  The number of crimes against society by crime type in the city of Austin for 2019. Official numbers come from the FBI. It is used to calculate the crimes against society rate per 1,000 population
 
 - **(%)Safe Routes to School**  
   [Data](https://datahub.austintexas.gov/resource/ukn3-dhyw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ukn3-dhyw) | Last update: May 2024  
@@ -1262,19 +1220,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/8dku-5w5z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8dku-5w5z) | Last update: Apr 2023  
   This data is the years of potential life lost (YPLL) before age 75 per 100,000 population from Robert Wood Johnson Foundation County Health Rankings the  for the years 2017-2019. This data set contains data for Travis County. YPLL is used to measure of premature mortality that focuses attention on preventable deaths.
 
-- **2008-17 OIS Subjects**  
-  [Data](https://datahub.austintexas.gov/resource/u2k2-n8ez.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u2k2-n8ez) | Last update: Jun 2024
-
 - **2009-2013: ECAD Residential Energy Audit Data**  
   [Data](https://datahub.austintexas.gov/resource/me4f-48mc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/me4f-48mc) | Last update: Mar 2024  
   Note  () Data reported by Residential Energy Auditors
-
-- **2012 APD Crash Fatality Data**  
-  [Data](https://datahub.austintexas.gov/resource/ergh-7g8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ergh-7g8p) | Last update: May 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **2013 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/vggi-9ddh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vggi-9ddh) | Last update: Jun 2024
 
 - **2013: ECAD Commercial Portfolio Manager Reported Data**  
   [Data](https://datahub.austintexas.gov/resource/rka3-mjzi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rka3-mjzi) | Last update: Mar 2024
@@ -1283,27 +1231,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/askx-pbnh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/askx-pbnh) | Last update: Mar 2024  
   In addition, this report contains information on multi-family properties older than 10 years that are required to perform an energy audit and report the results to the City of Austin and all residents living in those communities. The Austin Energy report quantifies the 2013 energy efficiency findings and the progress towards meeting City Council goals of Resolution 20081106-048.
 
-- **2014 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/gm9p-snyb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gm9p-snyb) | Last update: Jun 2024
-
 - **2014 Austin Digital Assessment Individual Responses**  
   [Data](https://datahub.austintexas.gov/resource/xp28-5kft.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xp28-5kft) | Last update: Apr 2023  
   The 2014 Austin Digital Assessment Project was supported by the Telecommunications & Regulatory Affairs Office of the City of Austin, the Telecommunications and Information Policy Institute at the University of Texas, and faculty and graduate students from the Department of Radio, Television, and Film and the University of Texas.
 
 - **2014 Housing Market Analysis Data by Zip Code**  
   [Data](https://datahub.austintexas.gov/resource/hcnj-rei3.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hcnj-rei3) | Last update: Jul 2024
-
-- **2014 Racial Profiling Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/fk9e-2udt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fk9e-2udt) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2014 Racial Profiling Dataset Citations**  
-  [Data](https://datahub.austintexas.gov/resource/mw6q-k5gy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mw6q-k5gy) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2014 Racial Profiling Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/tqet-vty2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tqet-vty2) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
 
 - **2014: ECAD Commercial Reported Data**  
   [Data](https://datahub.austintexas.gov/resource/a2da-hhhc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a2da-hhhc) | Last update: Mar 2024  
@@ -1316,17 +1249,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **2015 - 2021 Urban Forest Dataset**  
   [Data](https://datahub.austintexas.gov/resource/wg3k-a6ay.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wg3k-a6ay) | Last update: May 2024  
   This dataset comprises a list of all urban forest projects that DSD helped to fund across Austin.
-
-- **2015 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/p658-umsa.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p658-umsa) | Last update: Jun 2024
-
-- **2015 RP Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/v6rq-ainw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/v6rq-ainw) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2015 Racial Profiling Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/nbjz-52e4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nbjz-52e4) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
 
 - **2015-2017: ECAD Residential Audit Data**  
   [Data](https://datahub.austintexas.gov/resource/etsz-sahk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/etsz-sahk) | Last update: Mar 2024  
@@ -1343,24 +1265,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/yspn-64b9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yspn-64b9) | Last update: Mar 2024  
   Note  () Data reported by Residential Energy Auditors
 
-- **2016 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/tiqb-wv3c.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tiqb-wv3c) | Last update: Jun 2024
-
-- **2016 Annual Crime Data**  
-  [Data](https://datahub.austintexas.gov/resource/8iue-zpf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8iue-zpf6) | Last update: Jun 2024
-
-- **2016 RP Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/bmz9-cdnt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bmz9-cdnt) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2016 RP Citations**  
-  [Data](https://datahub.austintexas.gov/resource/urfd-wng9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/urfd-wng9) | Last update: Jun 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **2016 RP Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/qhi8-a9bc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qhi8-a9bc) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
 - **2016: ECAD Commercial Reported Data**  
   [Data](https://datahub.austintexas.gov/resource/rhug-fur8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rhug-fur8) | Last update: May 2024
 
@@ -1368,102 +1272,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/bub6-qjuh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bub6-qjuh) | Last update: Mar 2024  
   Note  () Data reported by Residential Energy Auditors
 
-- **2017 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/ijds-pcyq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ijds-pcyq) | Last update: Jun 2024
-
-- **2017 Annual Crime**  
-  [Data](https://datahub.austintexas.gov/resource/3t4q-mqs5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3t4q-mqs5) | Last update: Jun 2024  
-  Note: The official crime counts used to produce the Annual Crime and Traffic report are available only as aggregate counts and use the FBI's counting method (i.e., victims, premises). The data contained in this dataset counts incidents instead; it approximates the aggregate counts, but will vary slightly.
-
-- **2017 R2 R Subjects**  
-  [Data](https://datahub.austintexas.gov/resource/bmeh-xaea.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bmeh-xaea) | Last update: Jun 2024
-
-- **2017 R2R Dataset**  
-  [Data](https://datahub.austintexas.gov/resource/5evd-3tba.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5evd-3tba) | Last update: Jun 2024
-
-- **2017 R2R Subjects**  
-  [Data](https://datahub.austintexas.gov/resource/5w6q-adh8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5w6q-adh8) | Last update: Jun 2024
-
-- **2017 Racial Profiling Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/x4p3-hj3y.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x4p3-hj3y) | Last update: Jun 2024
-
-- **2017 Racial Profiling Dataset Citations**  
-  [Data](https://datahub.austintexas.gov/resource/7guv-wkre.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7guv-wkre) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **2017 Racial Profiling Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/5asp-dw2k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5asp-dw2k) | Last update: Jun 2024
-
-- **2017-2019 Non-Motor Vehicle Stops Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/qpbg-wcus.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qpbg-wcus) | Last update: Jun 2024
-
-- **2017-2019 Non-Motor Vehicle Stops Citations**  
-  [Data](https://datahub.austintexas.gov/resource/9uzk-fyxx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9uzk-fyxx) | Last update: Jun 2024
-
-- **2017-2019 Non-Motor Vehicle Stops Warnings**  
-  [Data](https://datahub.austintexas.gov/resource/sykw-k45z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sykw-k45z) | Last update: Jun 2024
-
-- **2018 APD Traffic Fatality Data 021219**  
-  [Data](https://datahub.austintexas.gov/resource/9jd4-zjmx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9jd4-zjmx) | Last update: Jun 2024
-
-- **2018 Annual Crime**  
-  [Data](https://datahub.austintexas.gov/resource/pgvh-cpyq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pgvh-cpyq) | Last update: Jun 2024  
-  Note: The official crime counts used to produce the Annual Crime and Traffic report are available only as aggregate counts and use the FBI's counting method (i.e., victims, premises). The data contained in this dataset counts incidents instead; it approximates the aggregate counts, but will vary slightly.
-
-- **2018 Discharge of Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/dnev-ei5x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dnev-ei5x) | Last update: Jul 2024  
-  It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
-- **2018 RP Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/xfke-9bsj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xfke-9bsj) | Last update: Jun 2024
-
-- **2018 RP Citations**  
-  [Data](https://datahub.austintexas.gov/resource/b9rk-dixy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b9rk-dixy) | Last update: Jun 2024
-
-- **2018 RP Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/vchc-c622.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vchc-c622) | Last update: Jun 2024
-
-- **2018 Response to Resistance Data**  
-  [Data](https://datahub.austintexas.gov/resource/rus9-w6q5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rus9-w6q5) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2018. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2018.
-
-- **2018 Response to Resistance Subjects Data**  
-  [Data](https://datahub.austintexas.gov/resource/c7is-tz8m.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/c7is-tz8m) | Last update: Jun 2024  
-  The number of use of force subjects in the city of Austin for 2018. This dataset is used to provide additional insight visualizations on use of force subjects in the city of Austin in 2018.
-
-- **2019 APD Traffic Fatality Data**  
-  [Data](https://datahub.austintexas.gov/resource/egpd-hqdi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/egpd-hqdi) | Last update: Jun 2024
-
-- **2019 Discharge of a Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/9qgn-zgva.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9qgn-zgva) | Last update: Jun 2024  
-  This dataset accounts for incidents where an APD officer discharged a firearm against a dog in 2019. It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
 - **2019 Multifamily ECAD**  
-  [Data](https://datahub.austintexas.gov/resource/feiy-7jhe.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/feiy-7jhe) | Last update: Mar 2024  
+  [Data](https://datahub.austintexas.gov/resource/feiy-7jhe.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/feiy-7jhe) | Last update: Jul 2024  
   This report is the result of the Austin City Code 6-7's Energy Conservation Audit and Disclosure Ordinance approved in November 2008 (amended in April 2011) to improve the energy efficiency of homes and buildings that receive electricity from Austin Energy. The ordinance meets one of the goals of the Austin Climate Protection Plan, which is to offset 1200 megawatts of Peak Energy by 2025.
-
-- **2019 Racial Profiling (RP) Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/m4cc-q8pr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/m4cc-q8pr) | Last update: Jun 2024  
-  See 2019 Racial Profiling Guide for a description of fields.
 
 - **2019 Racial Profiling (RP) Citations**  
   [Data](https://datahub.austintexas.gov/resource/uzta-a386.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzta-a386) | Last update: Jun 2024  
   See 2019 Racial Profiling Guide for a description of fields.
-
-- **2019 Racial Profiling (RP) Guide**  
-  [Data](https://datahub.austintexas.gov/resource/f59a-wt7w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/f59a-wt7w) | Last update: Jun 2024
-
-- **2019 Racial Profiling (RP) Warning and Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/djcn-eje6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/djcn-eje6) | Last update: Jun 2024  
-  See 2019 Racial Profiling Guide for a description of fields.
-
-- **2019 Response to Resistance Data**  
-  [Data](https://datahub.austintexas.gov/resource/3bfz-mri4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3bfz-mri4) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2019. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2019.
-
-- **2019 Response to Resistance Subject Data**  
-  [Data](https://datahub.austintexas.gov/resource/dwrk-z7q9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dwrk-z7q9) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2019. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2019.
 
 - **2020 Census Redistricting Data - Variable Names and Codes**  
   [Data](https://datahub.austintexas.gov/resource/w75r-rk3k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/w75r-rk3k) | Last update: Jun 2024  
@@ -1485,28 +1300,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/xcvh-uqh4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xcvh-uqh4) | Last update: Jun 2024  
   This is 2020 decennial census data at the place level. Technical documentation is available here: https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/summary-file/2020Census_PL94_171Redistricting_NationalTechDoc.pdf
 
-- **2020 Discharge of a Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/yvev-bseh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yvev-bseh) | Last update: Jun 2024  
-  This dataset accounts for incidents where an APD officer discharged a firearm against a dog in 2020. It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
-- **2020 Racial Profiling (RP) Guide**  
-  [Data](https://datahub.austintexas.gov/resource/64yt-89ub.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/64yt-89ub) | Last update: Jun 2024
-
-- **2020 Racial Profiling (RP) dataset**  
-  [Data](https://datahub.austintexas.gov/resource/c65h-gw3m.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/c65h-gw3m) | Last update: Jun 2024
-
-- **2020 Response to Resistance Data**  
-  [Data](https://datahub.austintexas.gov/resource/n3c7-xtu8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/n3c7-xtu8) | Last update: Jun 2024  
-  This dataset supports measure(s) S.D.3 of SD23. (the update for 2020 story page is in progress)
-
-- **2020 Response to Resistance Subject Data**  
-  [Data](https://datahub.austintexas.gov/resource/xu5c-p4hq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xu5c-p4hq) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2020. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2020.
-
-- **2021 Discharge of a Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/a6pt-bywy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a6pt-bywy) | Last update: Jun 2024  
-  This dataset accounts for incidents where an APD officer discharged a firearm against a dog in 2021. It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
 - **2021 Urban Forest Partners**  
   [Data](https://datahub.austintexas.gov/resource/4ftx-pgkm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4ftx-pgkm) | Last update: May 2024  
   This dataset comprises a list of all urban forest partners involved in projects that DSD helped to fund across Austin.
@@ -1520,23 +1313,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Listing of our events at Austin Convention Center and Palmer Events Center for the current calendar year. Included are show dates, event names, hosting facility, attendance, contact numbers and websites for events.
 
 - **ACE Events**  
-  [Data](https://datahub.austintexas.gov/resource/teth-r7k8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/teth-r7k8) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/teth-r7k8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/teth-r7k8) | Last update: Aug 2024  
   This data set corresponds to the requirements of the ordinance passed on April 20, 2023.
 
 - **AFD Fire Incidents 2014 January Thru December**  
-  [Data](https://datahub.austintexas.gov/resource/7ad5-5kzx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7ad5-5kzx) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/7ad5-5kzx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7ad5-5kzx) | Last update: Aug 2024  
   Fire Incidents ONLY - no medical, hazmat, rescues, or other problem types.
 
 - **AFD Fire Incidents 2015 January Thru December**  
-  [Data](https://datahub.austintexas.gov/resource/h77e-esmt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h77e-esmt) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/h77e-esmt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h77e-esmt) | Last update: Aug 2024  
   Fire Incidents ONLY - no medical, hazmat, rescues, or other problem types.
 
 - **AFD Fire Incidents 2016 January Thru December**  
-  [Data](https://datahub.austintexas.gov/resource/5tib-gqfx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5tib-gqfx) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/5tib-gqfx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5tib-gqfx) | Last update: Aug 2024  
   MasterIncidentNumber = unique identifier for individual incidents. If you encounter multiple rows with same MasterIncident number, it is b/c that incident had a multi-unit response.
 
 - **AFD Fire Incidents 2017 January - December**  
-  [Data](https://datahub.austintexas.gov/resource/gric-78uy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gric-78uy) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/gric-78uy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gric-78uy) | Last update: Aug 2024  
   MasterIncidentNumber = unique identifier for individual incidents. If you encounter multiple rows with same MasterIncident number, it is b/c that incident had a multi-unit response.
 
 - **AFD Fire Incidents 2021-2023**  
@@ -1544,7 +1337,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Austin Fire Department does not assume liability for any errors in the data or decisions taken by the recipient. The information provided should be used for general purposes only.
 
 - **AFD Standard of Coverage 2018-2021**  
-  [Data](https://datahub.austintexas.gov/resource/nnyh-paut.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nnyh-paut) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/nnyh-paut.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nnyh-paut) | Last update: Aug 2024  
   The Austin Fire Department does not assume liability for any errors in the data or decisions taken by the recipient. The information provided should be used for general purposes only
 
 - **APD Arrests**  
@@ -1554,6 +1347,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **APD Average Response Time by Day and Hour**  
   [Data](https://datahub.austintexas.gov/resource/fsje-8gq2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fsje-8gq2) | Last update: Jul 2024  
   This Dataset includes the average response time by Call Priority across days of the week and hours of the day. Response Times reflect the same information contained in the APD 911 Calls for Service 2019-2024 dataset.
+
+- **APD CAD Incidents Dataset**  
+  [Data](https://datahub.austintexas.gov/resource/hvr6-u327.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hvr6-u327) | Last update: Jun 2024  
+  Enter a description of
 
 - **APD Cadets in Training**  
   [Data](https://datahub.austintexas.gov/resource/y77z-cte5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/y77z-cte5) | Last update: Jul 2024  
@@ -1623,7 +1420,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Comparison of Disposal/ Recycling Costs, Weight Collected and Participation in the Household Hazardous Waste program for Fiscal Years 2010-2015.
 
 - **ATD Data & Tech Services Issues**  
-  [Data](https://datahub.austintexas.gov/resource/rzwg-fyv8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rzwg-fyv8) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/rzwg-fyv8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rzwg-fyv8) | Last update: Aug 2024  
   This is a dataset of Github issues managed by the Austin Transportation Data & Technology Services team. We publish this data primarily so that it can be used as a data source for reporting purposes. For more information about our team, visit our website:
 
 - **Activated 5G Sites in ATX**  
@@ -1631,15 +1428,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of activated 5G sites
 
 - **Active Credit Access Business Licenses**  
-  [Data](https://datahub.austintexas.gov/resource/3buj-7jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3buj-7jze) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/3buj-7jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3buj-7jze) | Last update: Jul 2024  
   Dataset of Active Credit Access Business Licenses
 
 - **Active Hotel, Motel, and B&B Licenses**  
-  [Data](https://datahub.austintexas.gov/resource/av8n-pmdr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/av8n-pmdr) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/av8n-pmdr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/av8n-pmdr) | Last update: Aug 2024  
   This dataset lists all active operating licenses for Hotels, Motels, and Bed & Breakfasts
 
 - **Active Mobile Home Operating Licenses**  
-  [Data](https://datahub.austintexas.gov/resource/kbck-4h37.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kbck-4h37) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/kbck-4h37.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kbck-4h37) | Last update: Aug 2024  
   This dataset contains all active mobile home operating licenses
 
 - **Adult and Children Vaccinations Provided**  
@@ -1647,16 +1444,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The data was previously extracted from the  Texas Department of State Health Services Texas-Wide Integrated Client Encounter System (TWICES) into an aggregate report for each clinic by an Austin Public Health employee at the beginning of each month. APH transitioned from TWICES to the eClinicalWorks (eCW) platform in December 2017.
 
 - **Affordable Housing Inventory**  
-  [Data](https://datahub.austintexas.gov/resource/ifzc-3xz8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ifzc-3xz8) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ifzc-3xz8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ifzc-3xz8) | Last update: Aug 2024  
   This dataset includes all housing projects that have received a subsidy from or participated in a city of Austin developer incentive program. Projects may include a mix of income-restricted and market rate units and span the development pipeline from developer incentive certification or loan approval to project completion.
-
-- **Annual Crime 2014**  
-  [Data](https://datahub.austintexas.gov/resource/7g8v-xxja.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7g8v-xxja) | Last update: Jun 2024  
-  This dataset encompasses all of the Part 1 crimes in Austin, Texas from January 1 2014 - December 31 2014.
-
-- **Annual Crime Dataset 2015**  
-  [Data](https://datahub.austintexas.gov/resource/spbg-9v94.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/spbg-9v94) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
 
 - **Annual Physical Circulation by Library**  
   [Data](https://datahub.austintexas.gov/resource/kkkb-enqr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kkkb-enqr) | Last update: Jun 2024  
@@ -1667,19 +1456,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This table shows activities done by the ATCEMS Public Information Office.
 
 - **Arterial Management Materials Warehouse Inventory**  
-  [Data](https://datahub.austintexas.gov/resource/hcaw-evi2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hcaw-evi2) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/hcaw-evi2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hcaw-evi2) | Last update: Aug 2024  
   This dataset contains information about the materials warehouse for the City of Austin Transportation Department's Arterial Management Division.
 
 - **Austin Animal Center Intakes**  
-  [Data](https://datahub.austintexas.gov/resource/wter-evkm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wter-evkm) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/wter-evkm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wter-evkm) | Last update: Aug 2024  
   Animal Center Intakes from Oct, 1st 2013 to present. Intakes represent the status of animals as they arrive at the Animal Center. All animals receive a unique Animal ID during intake. Annually over 90% of animals entering the center, are adopted, transferred to rescue or returned to their owners.
 
 - **Austin Animal Center Outcomes**  
-  [Data](https://datahub.austintexas.gov/resource/9t4d-g238.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9t4d-g238) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/9t4d-g238.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9t4d-g238) | Last update: Aug 2024  
   Annually over 90% of animals entering the center, are adopted, transferred to rescue or returned to their owners.
 
 - **Austin Animal Center Stray Map**  
-  [Data](https://datahub.austintexas.gov/resource/kz4x-q9k5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kz4x-q9k5) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/kz4x-q9k5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kz4x-q9k5) | Last update: Aug 2024  
   Map shows all stray cats and dogs that are currently listed in AAC's database for no longer than a week. Most will be located at AAC, but some will be held by citizens, which will be indicated on the "At AAC" column. Please check http://www.austintexas.gov/department/lost-found-pet for more information.
 
 - **Austin Code COVID-19 Complaint Cases**  
@@ -1691,15 +1480,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Austin Code Cases related to the winter storm of Feb. 2021.
 
 - **Austin Code Complaint Cases**  
-  [Data](https://datahub.austintexas.gov/resource/6wtj-zbtb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6wtj-zbtb) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/6wtj-zbtb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6wtj-zbtb) | Last update: Aug 2024  
   This data represents Austin Code Department complaint cases.
 
 - **Austin Code Task List**  
-  [Data](https://datahub.austintexas.gov/resource/ttd7-isgm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ttd7-isgm) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ttd7-isgm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ttd7-isgm) | Last update: Aug 2024  
   Code Officers are assigned cases based on 311 calls. These are then prioritized and updated by the Code Officers themselves. This dataset is uploaded to try and inform custom routing applications to better help Code Officers plan and route their days and be more efficient with their time.
 
 - **Austin Crash Report Data - Crash Level Records**  
-  [Data](https://datahub.austintexas.gov/resource/y2wy-tgr5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/y2wy-tgr5) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/y2wy-tgr5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/y2wy-tgr5) | Last update: Aug 2024  
   Crash data may take several weeks to be submitted, reviewed, and finalized for inclusion in this dataset. To provide the most accurate information as possible, we only provide crash data as recent as two weeks old. Please also note that some crash records may take even longer to appear in this dataset, depending on the circumstances of the crash and the ensuing law enforcement investigation.
 
 - **Austin Digital Assessment - Aggregated Responses by Geography**  
@@ -1728,13 +1517,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Over 550 judges and 180 volunteers from the City of Austin, local businesses, colleges, and elementary/middle/high schools contribute annually to the events success. Revenues to fund the event come from fees paid by participating schools and companies that provide sponsorships.
 
 - **Austin Energy Single Family Audits**  
-  [Data](https://datahub.austintexas.gov/resource/tk9p-m8c7.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tk9p-m8c7) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/tk9p-m8c7.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tk9p-m8c7) | Last update: Jul 2024
 
 - **Austin Energy System Peak Demand**  
   [Data](https://datahub.austintexas.gov/resource/a6pm-qynf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a6pm-qynf) | Last update: Mar 2024
 
 - **Austin Energy Web App Users By Month**  
-  [Data](https://datahub.austintexas.gov/resource/kx5w-sw6u.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kx5w-sw6u) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/kx5w-sw6u.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kx5w-sw6u) | Last update: Jul 2024  
   Austin Energys free, interactive web app allows customers to monitor their daily energy usage, view their bill history, and see a future forecast of their energy bill cost. They can also set alerts to warn them of an upcoming rate tier change.
 
 - **Austin Energy average rate per kilowatt hour compared to Texas average rate**  
@@ -1750,7 +1539,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Column definitions for the lat file data set - Austin Finance Online eCheckbook - found on the data portal . The data contained in this dataset is for informational purposes only.
 
 - **Austin Fire Department Strategic Plan Key Performance Indicators**  
-  [Data](https://datahub.austintexas.gov/resource/e25a-q3yt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/e25a-q3yt) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/e25a-q3yt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/e25a-q3yt) | Last update: Aug 2024  
   The Austin Fire Department (AFD) has developed a department wide strategic plan to help move the department forward in the next 5-years.
 
 - **Austin Fire Stations**  
@@ -1766,7 +1555,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   You may also be interested in Austin MetroBike trip data, available here: https://data.austintexas.gov/dataset/Austin-MetroBike-Trip-Data/tyfh-5r8s/data
 
 - **Austin MetroBike Trips**  
-  [Data](https://datahub.austintexas.gov/resource/tyfh-5r8s.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tyfh-5r8s) | Last update: Feb 2024  
+  [Data](https://datahub.austintexas.gov/resource/tyfh-5r8s.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tyfh-5r8s) | Last update: Jul 2024  
   Note that trips less than 2 minutes are not included in this dataset. Rebalancing and maintenance trips by MetroBike staff are also not included.
 
 - **Austin Police Stations**  
@@ -1774,7 +1563,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Location information for Austin Police stations
 
 - **Austin Pool Schedule**  
-  [Data](https://datahub.austintexas.gov/resource/xaxa-886r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xaxa-886r) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/xaxa-886r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xaxa-886r) | Last update: Jul 2024  
   Listing of City of Austin Parks and Recreation Department (PARD) pools and splash pads with schedule.
 
 - **Austin Public Health Locations**  
@@ -1856,7 +1645,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/82dq-nkpk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/82dq-nkpk) | Last update: May 2024
 
 - **Austin Water Authorized Irrigation Inspector List**  
-  [Data](https://datahub.austintexas.gov/resource/dhvz-stgx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dhvz-stgx) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/dhvz-stgx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dhvz-stgx) | Last update: Jul 2024  
   Austin Water Authorized Irrigation Inspector List
 
 - **Austin Water Statistics**  
@@ -1884,7 +1673,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Austin Energy's energy efficiency programs help reduce the amount of air-polluting emissions released by power plants into the atmosphere. In fiscal year 2012, more than 70,000 metric tonnes of carbon dioxide was avoided. This helps meet Austin Climate Protection Plan goals by avoiding increases in power plant emissions.
 
 - **Bad Debt Expense**  
-  [Data](https://datahub.austintexas.gov/resource/6zan-sbz2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6zan-sbz2) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/6zan-sbz2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6zan-sbz2) | Last update: Jul 2024  
   Bad debt expense is the amount of revenue billed in any fiscal year that is not collected.
 
 - **Barton Spring Salamander Counts and Covariates**  
@@ -1896,7 +1685,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Austin Parks and Recreation Department has installed 24 Bicycle Fix-it Stations at Parks and Recreation facilities all over Austin in an attempt to help promote healthier, more active and sustainable lifestyles for community members of all ages and backgrounds. These stations are free for the public to use in helping to make minor repairs to their bicycles.
 
 - **Biological Resource Buffer**  
-  [Data](https://datahub.austintexas.gov/resource/erdi-rz7j.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/erdi-rz7j) | Last update: Jun 2024
+  [Data](https://datahub.austintexas.gov/resource/erdi-rz7j.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/erdi-rz7j) | Last update: Jul 2024
 
 - **Bluetooth Travel Sensors - Individual Address Files (IAFs)**  
   [Data](https://datahub.austintexas.gov/resource/qnpj-zrb9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qnpj-zrb9) | Last update: Feb 2024  
@@ -1911,7 +1700,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Each row in this dataset represents a Bluetooth device that was detected by one of our sensors. Each record contains a detected devices anonymized Media Access Control (MAC) address along with the time and location the device was detected. These records alone are not traffic data but can be post-processed to measure the movement of detected devices through the roadway network
 
 - **Board of Adjustment Cases**  
-  [Data](https://datahub.austintexas.gov/resource/ykxk-t5y9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ykxk-t5y9) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ykxk-t5y9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ykxk-t5y9) | Last update: Aug 2024  
   This dataset was created to compile information about Board of Adjustment (BOA) cases filed with the City of Austin.
 
 - **Bond Ratings**  
@@ -1962,56 +1751,56 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/ekhj-2gyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ekhj-2gyf) | Last update: Apr 2023
 
 - **CY16 AFD Standard Of Coverage By RAP**  
-  [Data](https://datahub.austintexas.gov/resource/wg4a-m3ss.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wg4a-m3ss) | Last update: Apr 2023
+  [Data](https://datahub.austintexas.gov/resource/wg4a-m3ss.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wg4a-m3ss) | Last update: Aug 2024
 
 - **CY17 AFD Standard Of Coverage By RAP**  
-  [Data](https://datahub.austintexas.gov/resource/fagv-vpb4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fagv-vpb4) | Last update: Apr 2023
+  [Data](https://datahub.austintexas.gov/resource/fagv-vpb4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fagv-vpb4) | Last update: Aug 2024
 
 - **Camera Traffic Counts**  
   [Data](https://datahub.austintexas.gov/resource/sh59-i6y9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sh59-i6y9) | Last update: Jul 2024  
   The Travel Detectors dataset ( https://data.austintexas.gov/Transportation-and-Mobility/Traffic-Detectors/qpuw-8eeb ) is related to this dataset using the 'ATD Device ID' field. The Travel Detectors dataset provides more information on device location and status.
 
 - **Campaign Finance - Committee Purpose**  
-  [Data](https://datahub.austintexas.gov/resource/u3cd-iecr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u3cd-iecr) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/u3cd-iecr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u3cd-iecr) | Last update: Aug 2024  
   If a political committee has supported, opposed, or assisted a candidate, officeholder, or ballot measure during the reporting period, this activity will be reported in the Committee Purpose Dataset.
 
 - **Campaign Finance - Contributions**  
-  [Data](https://datahub.austintexas.gov/resource/3kfv-biw6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3kfv-biw6) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/3kfv-biw6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3kfv-biw6) | Last update: Aug 2024  
   This dataset lists all contributions and pledges received by candidates, officeholders and political committees on data files submitted per City Code Chapter 2-2-26.
 
 - **Campaign Finance - Covered Transfers**  
   [Data](https://datahub.austintexas.gov/resource/5uaf-hku2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5uaf-hku2) | Last update: Jun 2024
 
 - **Campaign Finance - Credits**  
-  [Data](https://datahub.austintexas.gov/resource/xhtw-mkpj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xhtw-mkpj) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/xhtw-mkpj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xhtw-mkpj) | Last update: Aug 2024  
   This table lists any credit, interest, rebate, refund, reimbursement, or return of a deposit fee resulting from the use of a political contribution or an asset purchased with a political contribution reported on the Texas Ethics Commission C/OH Form, Schedule K. For more information about credits, please visit the Texas Ethic Commission's instruction guide here:
 
 - **Campaign Finance - Direct Campaign Expenditures**  
-  [Data](https://datahub.austintexas.gov/resource/8p2b-ewep.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8p2b-ewep) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/8p2b-ewep.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8p2b-ewep) | Last update: Aug 2024  
   Direct Campaign Expenditures
 
 - **Campaign Finance - Expenditures**  
-  [Data](https://datahub.austintexas.gov/resource/gd3e-xut2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gd3e-xut2) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/gd3e-xut2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gd3e-xut2) | Last update: Aug 2024  
   This dataset lists all expenditures and incurred obligations reported by candidates, officeholders and political committees on data files submitted per City Code Chapter 2-2-26.
 
 - **Campaign Finance - Loans**  
-  [Data](https://datahub.austintexas.gov/resource/teb3-cwz9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/teb3-cwz9) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/teb3-cwz9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/teb3-cwz9) | Last update: Aug 2024  
   This dataset lists all loans taken out by candidates, officeholders and political committees on data files submitted per City Code Chapter 2-2-26.
 
 - **Campaign Finance - Pre-Election Summary**  
-  [Data](https://datahub.austintexas.gov/resource/xbpn-n65g.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xbpn-n65g) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/xbpn-n65g.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xbpn-n65g) | Last update: Aug 2024  
   The most recently reported items are at the top of the dataset.
 
 - **Campaign Finance - Report Detail**  
-  [Data](https://datahub.austintexas.gov/resource/b2pc-2s8n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b2pc-2s8n) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/b2pc-2s8n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b2pc-2s8n) | Last update: Aug 2024  
   To access the Transactions table, where individual transactions are listed, please go to: https://data.austintexas.gov/Government/Campaign-Finance-Transaction-Detail/g4yx-aw9r
 
 - **Campaign Finance - Transaction Detail**  
-  [Data](https://datahub.austintexas.gov/resource/g4yx-aw9r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/g4yx-aw9r) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/g4yx-aw9r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/g4yx-aw9r) | Last update: Aug 2024  
   For information about each report filed, please visit the Reports Table at: https://data.austintexas.gov/Government/Campaign-Finance-Data-Reports-Table/b2pc-2s8n
 
 - **Campaign Finance - Travel Outside of Texas**  
-  [Data](https://datahub.austintexas.gov/resource/ybu9-692h.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ybu9-692h) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ybu9-692h.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ybu9-692h) | Last update: Aug 2024  
   Contains detailed information for expenditures or an in-kind contributions that were used for travel outside the state of Texas. Data in this sheet corresponds to the information collected on Texas Ethics Commissions's Schedule T.
 
 - **Capital Improvement Projects (CIP) Expenditures**  
@@ -2048,11 +1837,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/wsf2-3rpw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wsf2-3rpw) | Last update: Jun 2024
 
 - **City of Austin Council Voting Record**  
-  [Data](https://datahub.austintexas.gov/resource/3c89-i35a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3c89-i35a) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/3c89-i35a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3c89-i35a) | Last update: Aug 2024  
   This report contains Council Voting history beginning January 6, 2023. This is a summary of the votes cast by members of the City Council and the final results of that voting. The approved minutes by the City Council is the official record. Note that new data will be added continuously and is subject to change without notice.
 
 - **City of Austin Displacement Risk Areas 2020**  
   [Data](https://datahub.austintexas.gov/resource/g9wh-kemg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/g9wh-kemg) | Last update: Jul 2024  
+  Chronic Displacement Risk: Vulnerable populations have been displaced, demographic change has occurred and the housing market is high value and appreciated or appreciating.
+
+- **City of Austin Displacement Risk Areas 2022**  
+  [Data](https://datahub.austintexas.gov/resource/t8nv-zcp9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t8nv-zcp9) | Last update: Jul 2024  
   Chronic Displacement Risk: Vulnerable populations have been displaced, demographic change has occurred and the housing market is high value and appreciated or appreciating.
 
 - **City of Austin Municipal Operations Carbon Footprint**  
@@ -2060,7 +1853,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Greenhouse gas inventory for City of Austin municipal operations reflected as the number of metric tons of carbon dioxide-equivalent emissions.
 
 - **City of Austin Performance Measures**  
-  [Data](https://datahub.austintexas.gov/resource/vsbg-t3e9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vsbg-t3e9) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/vsbg-t3e9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vsbg-t3e9) | Last update: Jul 2024  
   If you have any questions or comments regarding this database, or any budget inquiry, please contact the Budget Office via email at coa.budget@austintexas.gov or telephone at (512) 974-2610.
 
 - **City of Austin Schools with Data**  
@@ -2076,7 +1869,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Dataset for the SD23 Cohort Training
 
 - **Commercial Buildings Requiring Benchmarking for FY 2016**  
-  [Data](https://datahub.austintexas.gov/resource/b49u-qucc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b49u-qucc) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/b49u-qucc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b49u-qucc) | Last update: Jul 2024  
   Commercial building owners participated in a phased-in reporting since 2012, for buildings 75,000 square feet and larger. Find more information at http://austinenergy.com/go/ecad and http://austinenergy.com/go/reports.
 
 - **Community Connections Program: 100 Public Facilities Signed up for Google Fiber Gigabit Speed Internet**  
@@ -2088,7 +1881,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Tracker of Community PC Program data
 
 - **Community Registry**  
-  [Data](https://datahub.austintexas.gov/resource/u3yy-shmz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u3yy-shmz) | Last update: Jun 2024
+  [Data](https://datahub.austintexas.gov/resource/u3yy-shmz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u3yy-shmz) | Last update: Jul 2024
 
 - **Community Sponsorships**  
   [Data](https://datahub.austintexas.gov/resource/a3qx-jqyy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a3qx-jqyy) | Last update: May 2024  
@@ -2099,7 +1892,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset is intended to be downloaded as a GIS Shapefile but may also be viewed in Excel. It's also available in ArcGIS Online at https://austin.maps.arcgis.com/home/item.html?id=7d7c5260e60c4f8ab811d2c5fda6c40f
 
 - **Comprehensive Affordable Housing Directory**  
-  [Data](https://datahub.austintexas.gov/resource/4syj-z4ky.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4syj-z4ky) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/4syj-z4ky.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4syj-z4ky) | Last update: Aug 2024  
   The dataset is connected to the affordable housing data hub which is consistently updated with the most current property information.
 
 - **Contracts**  
@@ -2111,12 +1904,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Copy Of Brownfield Sites 2017- Without Long.lat
 
 - **Credit Access Businesses**  
-  [Data](https://datahub.austintexas.gov/resource/92xm-uf99.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/92xm-uf99) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/92xm-uf99.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/92xm-uf99) | Last update: Jul 2024  
   The data set may include active and inactive credit access businesses.
-
-- **Crime Reports**  
-  [Data](https://datahub.austintexas.gov/resource/fdj4-gpfu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fdj4-gpfu) | Last update: Jul 2024  
-  Pursuant to section 552.301 (c) of the Government Code, the City of Austin has designated certain addresses to receive requests for public information sent by electronic mail. For requests seeking public records held by the Austin Police Department, please submit by utilizing the following link:
 
 - **Cultural Funding Awards**  
   [Data](https://datahub.austintexas.gov/resource/x6aj-qng8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x6aj-qng8) | Last update: Feb 2024  
@@ -2147,7 +1936,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set provides information on the number and percent of clients provided with digital literacy training who increase their digital skills.
 
 - **Discount Program- Electric Only**  
-  [Data](https://datahub.austintexas.gov/resource/53x2-di4n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/53x2-di4n) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/53x2-di4n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/53x2-di4n) | Last update: Jul 2024  
   Customers who qualify for utility bill discounts are receiving an average of $792 per year per family, $248 of which comes from Austin Energy. Total utility bill savings for the recipients is over $18 million annually.
 
 - **Displacement and Gentrification Recommendation Inventory**  
@@ -2190,22 +1979,22 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Survey conducted in 2013 of all trees and vacant planting sites in the right of way and all trees of heritage species greater than or equal to 19 inches on private and city of Austin owned property in the central business district.
 
 - **Dynamic Message Signs (DMS)**  
-  [Data](https://datahub.austintexas.gov/resource/4r2j-b4rx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4r2j-b4rx) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/4r2j-b4rx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4r2j-b4rx) | Last update: Aug 2024  
   This dataset contains information on the handful of dynamic message signs (DMS) deployed across the City of Austin. The data is updated every hour and is maintained by the Arterial Management Division of the City of Austin Transportation and Public Works Department.
 
 - **ECAD 2017 Commercial Annual Benchmarking (7/25/2018)**  
-  [Data](https://datahub.austintexas.gov/resource/rs4a-x7f5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rs4a-x7f5) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/rs4a-x7f5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rs4a-x7f5) | Last update: Jul 2024
 
 - **ECAD Multifamily Audit and EUI Data as of August 29, 2018**  
-  [Data](https://datahub.austintexas.gov/resource/e6m3-7p8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/e6m3-7p8a) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/e6m3-7p8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/e6m3-7p8a) | Last update: Jul 2024  
   This report is the result of the Austin City Code 6-7's Energy Conservation Audit and Disclosure Ordinance approved in November 2008 (amended in April 2011) to improve the energy efficiency of homes and buildings that receive electricity from Austin Energy. The ordinance meets one of the goals of the Austin Climate Protection Plan, which is to offset 1200 megawatts of Peak Energy by 2025.
 
 - **ECAD Multifamily Audit and EUI Data as of May 15, 2018**  
-  [Data](https://datahub.austintexas.gov/resource/we9e-xk8z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/we9e-xk8z) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/we9e-xk8z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/we9e-xk8z) | Last update: Jul 2024  
   This report is the result of the Austin City Code 6-7's Energy Conservation Audit and Disclosure Ordinance approves in November  2008 (amended in April 2011) to improve the energy efficiency of homes and buildings that receive electricity from Austin Energy. The ordinance meets one of the goals of the Austin Climate Protection Plan, Which is to offset 1200 megawatts of Peak Energy by 2025.
 
 - **EMS - Ambulance Responses by Month**  
-  [Data](https://datahub.austintexas.gov/resource/bptg-ndvw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bptg-ndvw) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/bptg-ndvw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bptg-ndvw) | Last update: Aug 2024  
   Units that are not ambulances or are deployed on an irregular basis are excluded from this table.
 
 - **EMS - Annual Report Expenses**  
@@ -2277,7 +2066,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This table contains data on maintenance of the department response fleet  ambulances, command trucks, and utility vehicles.
 
 - **EMS - Incidents by Month**  
-  [Data](https://datahub.austintexas.gov/resource/gjtj-jt2d.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gjtj-jt2d) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/gjtj-jt2d.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gjtj-jt2d) | Last update: Aug 2024  
   Since this table is updated on a monthly basis, include the date that the table was accessed in the citation.
 
 - **EMS - Monthly Finance Measures**  
@@ -2285,7 +2074,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Emergency Medical Services Department. (2017). EMS - Monthly Finance Measures [Data set]. City of Austin, Texas Open Data Portal. https://doi.org/10.26000/001.000008.
 
 - **EMS - Patient Contacts by Month**  
-  [Data](https://datahub.austintexas.gov/resource/cibe-gpzy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cibe-gpzy) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/cibe-gpzy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cibe-gpzy) | Last update: Aug 2024  
   It includes all incidents with a response priority between 1 and 5, inclusive.
 
 - **EMS - Percent of Applicants Hired**  
@@ -2386,11 +2175,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Frequently used terms and phrases in various Program Guidelines and Applications. For additional information, visit the department Funding page: https://www.austintexas.gov/department/economic-development/funding
 
 - **Electric System Equipment**  
-  [Data](https://datahub.austintexas.gov/resource/bdrj-yu8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bdrj-yu8a) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/bdrj-yu8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bdrj-yu8a) | Last update: Jul 2024  
   Browse the number of substations, miles of transmission lines, and more by year.
 
 - **Electric Utility Discount Program By Year**  
-  [Data](https://datahub.austintexas.gov/resource/gdnf-za7q.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gdnf-za7q) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/gdnf-za7q.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gdnf-za7q) | Last update: Jul 2024  
   Customers who qualify for utility bill discounts are receiving an average of $792 per year per family, $248 of which comes from Austin Energy. Total utility bill savings for the recipients is over $18 million annually. Below is a summary of electric account savings only.
 
 - **Emergency Service Districts**  
@@ -2420,7 +2209,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This table groups Austin Energy customers into five classes: residential, commercial, industrial, public street and highway, and government. View sales in dollars and kWh along with annual percent change for each customer class.
 
 - **Erosion Hazard Zone Review Buffer**  
-  [Data](https://datahub.austintexas.gov/resource/pmnk-72i4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pmnk-72i4) | Last update: Jun 2024
+  [Data](https://datahub.austintexas.gov/resource/pmnk-72i4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pmnk-72i4) | Last update: Jul 2024
 
 - **Erosion Projects**  
   [Data](https://datahub.austintexas.gov/resource/p77q-hduj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p77q-hduj) | Last update: Apr 2023  
@@ -2470,7 +2259,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Austin/ Travis County Public Safety Station Locations
 
 - **Flashing Beacons**  
-  [Data](https://datahub.austintexas.gov/resource/wczq-5cer.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wczq-5cer) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/wczq-5cer.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wczq-5cer) | Last update: Aug 2024  
   This dataset contains information on the various types of flashing beacons deployed across the City of Austin. The data is maintained by the Arterial Management Division of the City of Austin Transportation Department.
 
 - **Food Enterprises Under 5000 Sq Ft**  
@@ -2478,7 +2267,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is the list of food-service permitted businesses provided by Austin Travis County Health and Human Services Department. Please note that the square footage is self-reported, and some businesses may have left that information blank on the food-service permit.
 
 - **Food Establishment Inspection Scores**  
-  [Data](https://datahub.austintexas.gov/resource/ecmv-9xxi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ecmv-9xxi) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/ecmv-9xxi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ecmv-9xxi) | Last update: Jul 2024  
   Provides food establishment inspection scores performed within the last 3 years. Inspections are conducted in accordance with the Texas Food Establishment Rules (TFER) and City of Austin Codes. Inspections are completed by Environmental Health Officers working for Austin Public Health (APH) Environmental Health Services Division (EHSD).
 
 - **From Aadhav to Zyva: 6,087 Names of Babies Born in Austin in 2017**  
@@ -2504,20 +2293,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/ym8w-n945.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ym8w-n945) | Last update: Nov 2023  
   This measure provides employee attrition or turnover rate. This data is reported to provide city leaders with a measure that enables them make decisions about their workforce needs. This dataset will show the rate of turnover by department. The provided here can be used to view specific departmental attrition rates.
 
-- **GUIDE - Annual Crime**  
-  [Data](https://datahub.austintexas.gov/resource/csxt-6s3k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/csxt-6s3k) | Last update: Jun 2024  
-  Note: The official crime counts used to produce the Annual Crime and Traffic report are available only as aggregate counts and use the FBI's counting method (i.e., victims, premises). The data contained in this dataset counts incidents instead; it approximates the aggregate counts, but will vary slightly.
-
-- **GUIDE - Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/cpxf-2jga.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cpxf-2jga) | Last update: Jun 2024
-
-- **GUIDE 2017 - Officer Involved Shooting**  
-  [Data](https://datahub.austintexas.gov/resource/eqwy-k8kh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/eqwy-k8kh) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **GUIDE 2018 - Racial Profiling**  
-  [Data](https://datahub.austintexas.gov/resource/mipf-8at9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mipf-8at9) | Last update: Jun 2024
-
 - **GarbageRecycle2015RR**  
   [Data](https://datahub.austintexas.gov/resource/rtqb-u5jq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rtqb-u5jq) | Last update: Jun 2024  
   Garbage routes for the City of Austin
@@ -2527,7 +2302,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For Austin Energys coal and nuclear assets, this table reports only Austin Energys 50 percent share of units 1 and 2 at the Fayette Power Project and 16 percent share of the South Texas Project. Find more information at http://austinenergy.com/go/reports.
 
 - **Generation by Fuel Type**  
-  [Data](https://datahub.austintexas.gov/resource/ss6t-rumq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ss6t-rumq) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/ss6t-rumq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ss6t-rumq) | Last update: Jul 2024  
   Please use the Public Information Request process to request this data.
 
 - **Google Analytics Sessions on Austintexas.gov**  
@@ -2535,22 +2310,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data, exported from Google Analytics, demonstrates group of interactions that took place on Austintexas.gov pages within a one-month time frame. A single session can contain multiple screen or page views, events, social interactions, and ecommerce transactions.
 
 - **Grassland**  
-  [Data](https://datahub.austintexas.gov/resource/uham-e4m2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uham-e4m2) | Last update: Mar 2024
+  [Data](https://datahub.austintexas.gov/resource/uham-e4m2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uham-e4m2) | Last update: Jul 2024
 
 - **Greater Austin Fully Developed Floodplain**  
-  [Data](https://datahub.austintexas.gov/resource/pjz8-kff2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pjz8-kff2) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/pjz8-kff2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pjz8-kff2) | Last update: Jul 2024
 
 - **Grow Green Participant Locations**  
   [Data](https://datahub.austintexas.gov/resource/us2y-viyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/us2y-viyp) | Last update: Apr 2023  
   This is a list of nurseries and home improvement stores throughout Austin that have the Grow Green fact sheets and the Native and Adapted Landscape Plant Guides available.
 
 - **Grow Zones**  
-  [Data](https://datahub.austintexas.gov/resource/isb7-5h5a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/isb7-5h5a) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/isb7-5h5a.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/isb7-5h5a) | Last update: Jul 2024  
   Areas that are within City of Austin publicly-owned land that have been identfied as Grow Zones in a collaboration between Parks and Recreation and Watershed Protection Departments. Contains primary contact information, acreage, watershed designations and a description of the prescribed maintenance regime that will enable restoration of healthy ecological function.
-
-- **Guide 2018 Response to Resistance (R2R)**  
-  [Data](https://datahub.austintexas.gov/resource/gwvt-96uf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gwvt-96uf) | Last update: Jun 2024  
-  This is a guide to assist in understanding the 2018 Response to Resistance (R2R) datasets.
 
 - **HE.C.4 (PARD ADA Accessibility)**  
   [Data](https://datahub.austintexas.gov/resource/bwy8-yv46.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bwy8-yv46) | Last update: May 2024  
@@ -2578,34 +2349,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **HPD Yearly Blueprint Goals Percentage**  
   [Data](https://datahub.austintexas.gov/resource/vdj5-ixtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vdj5-ixtc) | Last update: Jul 2024  
   This dataset includes Blueprint goals that contain yearly percentages. The Fiscal Year runs from 10/1-9/30.
-
-- **Hate Crimes 2017**  
-  [Data](https://datahub.austintexas.gov/resource/79qh-wdpx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/79qh-wdpx) | Last update: May 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Hate Crimes 2018 Final**  
-  [Data](https://datahub.austintexas.gov/resource/idj2-d9th.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/idj2-d9th) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2019**  
-  [Data](https://datahub.austintexas.gov/resource/e3qf-htd9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/e3qf-htd9) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2020**  
-  [Data](https://datahub.austintexas.gov/resource/mi2a-twn5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mi2a-twn5) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2021**  
-  [Data](https://datahub.austintexas.gov/resource/dmxv-zsfa.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dmxv-zsfa) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2022**  
-  [Data](https://datahub.austintexas.gov/resource/73qr-3v9c.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/73qr-3v9c) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2023**  
-  [Data](https://datahub.austintexas.gov/resource/xtu5-exci.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xtu5-exci) | Last update: Jun 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
 
 - **Historic Properties List**  
   [Data](https://datahub.austintexas.gov/resource/7c6r-hcmz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7c6r-hcmz) | Last update: Jun 2024
@@ -2635,7 +2378,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains data regarding infectious disease cases that were investigated by Austin Public Health's Epidemiology & Disease Surveillance Unit from 2013-2018. Data was downloaded from Texas' National Electronic Disease Surveillance System (NEDSS).
 
 - **Issued Construction Permits**  
-  [Data](https://datahub.austintexas.gov/resource/3syk-w9eu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3syk-w9eu) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/3syk-w9eu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3syk-w9eu) | Last update: Aug 2024  
   Includes relevant details such as issue date, location, council district, expiration date, description of work, square footage, valuation, and units.
 
 - **Issued Sign/Banner Permits**  
@@ -2643,7 +2386,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset was created by the City of Austin to compile information regarding all  sign/banner permits folders in AMANDA. The dataset contains information regarding the type, size, applicant, and location of the sign and permit. It also includes geographic information like Council District and Jurisdiction Type.
 
 - **Issued Tree Permits**  
-  [Data](https://datahub.austintexas.gov/resource/ac2h-ha3r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ac2h-ha3r) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ac2h-ha3r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ac2h-ha3r) | Last update: Aug 2024  
   This dataset was created by the City of Austin to compile information regarding all issued Tree Permit folders in AMANDA. The dataset contains information regarding the species, condition, and trunk diameter of the tree. It also includes geographic information like Council District and Jurisdiction Type. These permits are created throughout various review process at the City of Austin.
 
 - **KPI - Percent of Consumer Utility Complaints Resolved**  
@@ -2679,57 +2422,53 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset represents properties leased by the City of Austin through the Office of Real Estate Services. This is a working dataset for employees of the Office of Real Estate Services, and is not represented to be complete or accurate. This data is not survey grade and should not be used for any legal purposes.
 
 - **Lobbyist - City Officials**  
-  [Data](https://datahub.austintexas.gov/resource/tnne-6nva.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tnne-6nva) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/tnne-6nva.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tnne-6nva) | Last update: Aug 2024  
   This table lists city officials that benefited from a lobbyist expenditure. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Clients**  
-  [Data](https://datahub.austintexas.gov/resource/7ena-g23u.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7ena-g23u) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/7ena-g23u.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7ena-g23u) | Last update: Aug 2024  
   This table lists the clients reported by lobbyists. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Due Dates**  
-  [Data](https://datahub.austintexas.gov/resource/nydq-gwfg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nydq-gwfg) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/nydq-gwfg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nydq-gwfg) | Last update: Aug 2024
 
 - **Lobbyist - Employees**  
-  [Data](https://datahub.austintexas.gov/resource/u6yt-em2w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u6yt-em2w) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/u6yt-em2w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u6yt-em2w) | Last update: Aug 2024  
   This dataset lists each employee a lobbyist reports. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Expenditures**  
-  [Data](https://datahub.austintexas.gov/resource/m5xf-v2bw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/m5xf-v2bw) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/m5xf-v2bw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/m5xf-v2bw) | Last update: Aug 2024  
   This dataset lists each expenditure reported by a lobbyist. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Municipal Question Subject Matter Key-Value Pairs**  
-  [Data](https://datahub.austintexas.gov/resource/tajf-gz53.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tajf-gz53) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/tajf-gz53.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tajf-gz53) | Last update: Aug 2024  
   This dataset connects each subject matter associated with each municipal question. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Municipal Questions**  
-  [Data](https://datahub.austintexas.gov/resource/9uru-cmtw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9uru-cmtw) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/9uru-cmtw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9uru-cmtw) | Last update: Aug 2024  
   This dataset lists each municipal question a lobbyist reports. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Real Property**  
-  [Data](https://datahub.austintexas.gov/resource/ums6-jers.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ums6-jers) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ums6-jers.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ums6-jers) | Last update: Aug 2024  
   This table lists each real property associated with a lobbyist's municipal question. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Registrants**  
-  [Data](https://datahub.austintexas.gov/resource/58ix-34ma.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/58ix-34ma) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/58ix-34ma.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/58ix-34ma) | Last update: Aug 2024  
   You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Report Types**  
-  [Data](https://datahub.austintexas.gov/resource/4zpf-72n3.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4zpf-72n3) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/4zpf-72n3.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4zpf-72n3) | Last update: Aug 2024
 
 - **Lobbyist - Reports**  
-  [Data](https://datahub.austintexas.gov/resource/aahu-djdd.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/aahu-djdd) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/aahu-djdd.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/aahu-djdd) | Last update: Aug 2024  
   This dataset lists each report submitted by a lobbyist. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
 - **Lobbyist - Subject Matter List**  
-  [Data](https://datahub.austintexas.gov/resource/7jrx-icwh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7jrx-icwh) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/7jrx-icwh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7jrx-icwh) | Last update: Aug 2024
 
 - **Lobbyists - Master List of Lobbyists (Oracle View)**  
-  [Data](https://datahub.austintexas.gov/resource/96z6-upac.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/96z6-upac) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/96z6-upac.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/96z6-upac) | Last update: Aug 2024  
   This dataset lists all registered lobbyists with the City of Austin.
-
-- **M.A.9 Average Time to Clear Crashes from Major Roadways**  
-  [Data](https://datahub.austintexas.gov/resource/4evn-bmp3.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4evn-bmp3) | Last update: Jun 2024  
-  This data displays the average time crashes are cleared from major roadways in Austin. This data comes from CAD calls with an initial call type of -CRASH HS on the five major roadways. Row level data displays average time to clear crashes for each roadway by year. View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/jmq6-jgw7/
 
 - **Major City Corridors for Strategic Measures**  
   [Data](https://datahub.austintexas.gov/resource/iyqh-bgm4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/iyqh-bgm4) | Last update: Feb 2024  
@@ -2752,11 +2491,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Mobile Food Establishments ordinance areas
 
 - **Mobility Management Center Activities**  
-  [Data](https://datahub.austintexas.gov/resource/p7pt-re4k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p7pt-re4k) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/p7pt-re4k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p7pt-re4k) | Last update: Aug 2024  
   This dataset contains activities carried out by the Austin Transportation Public Works Mobility Management Center in response to 311 service requests as well as issues identified by staff and regional agencies.
 
 - **Mobility Management Center Issues**  
-  [Data](https://datahub.austintexas.gov/resource/v7vh-gbi6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/v7vh-gbi6) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/v7vh-gbi6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/v7vh-gbi6) | Last update: Aug 2024  
   This dataset is comprised of issues received by the City of Austin's Mobility Management Center, which is operated by the Austin Transportation & Public Works Department's Arterial Management Division.
 
 - **Mobility Project Task Orders**  
@@ -2796,7 +2535,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Neighborhood Planning and Neighborhood Plan Amendment applications as reflected in the City of Austin's AMANDA database.
 
 - **Neighborhoods**  
-  [Data](https://datahub.austintexas.gov/resource/a7ap-j2yt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a7ap-j2yt) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/a7ap-j2yt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a7ap-j2yt) | Last update: Jul 2024  
   City of Austin Neighborhood Reporting Areas
 
 - **Northeast Service Center**  
@@ -2820,23 +2559,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Presents data related to the number and percentage of people who successfully complete workforce development training with one of the partnering community benefit organizations (CBOs), also known as "Community Partners" in the Austin Metro Area Master Community Workforce Plan.
 
 - **Number of Austin Energy Customers 2015**  
-  [Data](https://datahub.austintexas.gov/resource/qmdk-sha4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qmdk-sha4) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/qmdk-sha4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qmdk-sha4) | Last update: Jul 2024  
   Contract/Transmission  customers owning and maintaining all equipment on the customer side for electric delivery and receiving service at 69 kV or above. Contract applies to a small number of large commercial customers operating under legacy contracts.
 
-- **Officer Involved Shooting 2000-2014**  
-  [Data](https://datahub.austintexas.gov/resource/63p6-iegi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/63p6-iegi) | Last update: Jun 2024  
-  This chart displays the number of crime incidents by year, starting with data from 2003.
-
-- **Officer Involved Shootings 2008-17 Incidents**  
-  [Data](https://datahub.austintexas.gov/resource/uzqv-9uza.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzqv-9uza) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Officer Involved Shootings 2008-17 Officers**  
-  [Data](https://datahub.austintexas.gov/resource/8mvp-v9jz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8mvp-v9jz) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
 - **Open Data Portal Datasets - Austin Transportation and Public Works**  
-  [Data](https://datahub.austintexas.gov/resource/28ys-ieqv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/28ys-ieqv) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/28ys-ieqv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/28ys-ieqv) | Last update: Aug 2024  
   This dataset lists the public and internals datasets published on the City of Austin Open Data Portal filtered to the Austin Transportation and Public Works department. Dataset types include stories, charts, datasets, filters, embedded links, and files. This dataset is maintained by the Data and Technology Services division in the department.
 
 - **Operations And Maintenance Expenditures**  
@@ -2868,7 +2595,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of property boundaries.
 
 - **Parking Transactions**  
-  [Data](https://datahub.austintexas.gov/resource/5bb2-gtef.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5bb2-gtef) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/5bb2-gtef.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5bb2-gtef) | Last update: Aug 2024  
   Spatial data of physical parking assets such as pay stations and meters are available on ArcGIS Online: https://austin.maps.arcgis.com/home/item.html?id=1882302d40784b94a9036260cf518a7c
 
 - **Payment Arrangements**  
@@ -2892,28 +2619,28 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset includes projects receiving Rental Housing Development Assistance (RHDA) for Permanent Supportive Housing (PSH) units, based on date of loan execution. These units count towards the 400-unit goal resolution (Resolution 20141002-043) passed October 2014 - therefore, there is no data on achieving this goal prior to Fiscal Year 2014-15.
 
 - **Plan Review Cases**  
-  [Data](https://datahub.austintexas.gov/resource/n8ck-xkda.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/n8ck-xkda) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/n8ck-xkda.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/n8ck-xkda) | Last update: Aug 2024
 
 - **Plug-In EVerywhere L2 Unrestricted Stations**  
-  [Data](https://datahub.austintexas.gov/resource/b8rk-ma4k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b8rk-ma4k) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/b8rk-ma4k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b8rk-ma4k) | Last update: Jul 2024  
   Plug-In EVerywhere L2 stations.
 
 - **Plus 1 Fund**  
-  [Data](https://datahub.austintexas.gov/resource/ad4p-xsn6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ad4p-xsn6) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/ad4p-xsn6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ad4p-xsn6) | Last update: Jul 2024
 
 - **Plus 1 Funding Source**  
-  [Data](https://datahub.austintexas.gov/resource/9e5g-zqyt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9e5g-zqyt) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/9e5g-zqyt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9e5g-zqyt) | Last update: Jul 2024
 
 - **Pole Attachments**  
   [Data](https://datahub.austintexas.gov/resource/btg5-ebcy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/btg5-ebcy) | Last update: Jul 2024  
   This dataset is currently being developed and may change at any time. As a result, this may contain incomplete or inaccurate information.
 
 - **Pool Inspections**  
-  [Data](https://datahub.austintexas.gov/resource/peux-uuwu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/peux-uuwu) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/peux-uuwu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/peux-uuwu) | Last update: Jul 2024  
   This is a dataset of information from the results of inspections and /or enforcement of violations related to commercial pool and spa for public health and safety by Austin Public Health - Environmental Health Services Division.
 
 - **Power Partner Thermostat Program**  
-  [Data](https://datahub.austintexas.gov/resource/7jgb-hbdr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7jgb-hbdr) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/7jgb-hbdr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7jgb-hbdr) | Last update: Jul 2024  
   Power Partner was launched in 2013 and is a voluntary program for residential customers who use internet-connected thermostats. View dates and times, starting in calendar year 2006, when we used either this or its predecessor voluntary program to reduce residential energy demand. Go to austinenergy.com/go/powerpartner to learn more.
 
 - **Power Plants**  
@@ -2925,10 +2652,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Each year, streetlights and power poles in the Austin Energy service territory are hit by drivers and require repair. There is considerable variability in the cost of repairing each pole, as the amount of damage varies per incident. This is the reason the costs for repairs can vary significantly from year to year.
 
 - **Power Supply Adjustment Collection**  
-  [Data](https://datahub.austintexas.gov/resource/g5pd-9wtz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/g5pd-9wtz) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/g5pd-9wtz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/g5pd-9wtz) | Last update: Jul 2024
 
 - **Power Supply Adjustment Costs by Percentage**  
-  [Data](https://datahub.austintexas.gov/resource/dnnr-hyi9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dnnr-hyi9) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/dnnr-hyi9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dnnr-hyi9) | Last update: Jul 2024  
   Costs allowed in the fuel tariff include fuel for generation, transportation, renewable purchase power agreements, purchase power to serve retail customers, ERCOT fees and hedging. Find more information at http://austinenergy.com/go/reports.
 
 - **Power Supply Adjustment/Fuel Charge**  
@@ -2936,7 +2663,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Austin Energys Power Supply Adjustment recovers fuel for generation, transportation, renewable purchase power agreements, purchase power to serve retail customers, ERCOT fees, hedging and the balance from the previous period. The adjustment is reviewed annually. Find more information at http://austinenergy.com/go/reports.
 
 - **Power Supply Costs**  
-  [Data](https://datahub.austintexas.gov/resource/66kg-nz58.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/66kg-nz58) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/66kg-nz58.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/66kg-nz58) | Last update: Jul 2024  
   Costs allowed in the fuel tariff include fuel for generation, transportation, renewable purchase power agreements, purchase power to serve retail customers, ERCOT fees and hedging. Find more information at http://austinenergy.com/go/reports.
 
 - **Previous Standard Product Lists**  
@@ -2989,28 +2716,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/3ebq-e9iz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3ebq-e9iz) | Last update: Jul 2024  
   Each line includes the NIGP Commodity Code/COA Inventory Code, commodity description, quantity, unit of measure, unit price, total amount, referenced Master Agreement if applicable, the contract name, purchase order, award date, and vendor information.
 
-- **Racial Profile Arrests 2014**  
-  [Data](https://datahub.austintexas.gov/resource/x7n6-jaj3.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x7n6-jaj3) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training.
-
-- **Racial Profiling Citiations 2014**  
-  [Data](https://datahub.austintexas.gov/resource/3x7n-9pq3.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3x7n-9pq3) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic citations. It is used to help identify potential improvements in department policy, tactics, and training.
-
-- **Racial Profiling Dataset 2015- Citations**  
-  [Data](https://datahub.austintexas.gov/resource/sc6h-qr9f.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sc6h-qr9f) | Last update: Jun 2024  
-  Due to several factors (offense reclassification, reported versus occurred dates, etc.) comparisons should not be made between numbers generated with this database to any other official police reports. Data provided represents only calls for police service where a report was written.
-
 - **Radar Traffic Counts**  
   [Data](https://datahub.austintexas.gov/resource/i626-g7ub.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i626-g7ub) | Last update: Jun 2024  
   The Travel Sensor dataset ( https://data.austintexas.gov/Transportation-and-Mobility/Travel-Sensors/6yd9-yz29 ) is related to this dataset using the 'KITS ID' field. The Travel Sensors dataset provides more information on sensor location and status.
 
 - **Real-Time Road Conditions**  
-  [Data](https://datahub.austintexas.gov/resource/ypbq-i42h.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ypbq-i42h) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ypbq-i42h.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ypbq-i42h) | Last update: Aug 2024  
   Austin Transportation & Public Works maintains road condition sensors across the city which monitor the temperature and surface condition of roadways. These sensors enable our Mobility Management Center to stay apprised of potential roadway freezing events and intervene when necessary.
 
 - **Real-Time Traffic Incident Reports**  
-  [Data](https://datahub.austintexas.gov/resource/dx9v-zd7x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dx9v-zd7x) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/dx9v-zd7x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dx9v-zd7x) | Last update: Aug 2024  
   This dataset contains traffic incident information from the Austin-Travis County traffic reports collected from the various Public Safety agencies through a data feed from the Combined Transportation, Emergency, and Communications Center (CTECC).
 
 - **Recreation Centers**  
@@ -3033,19 +2748,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The location, violation type, and description of deficiencies of properties registered in the  Repeat Offender Property program. To learn more about the Repeat Offender Program, see City's website: http://www.austintexas.gov/department/repeat-offender-program
 
 - **Repeat Offender Registrations**  
-  [Data](https://datahub.austintexas.gov/resource/86z9-i27i.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/86z9-i27i) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/86z9-i27i.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/86z9-i27i) | Last update: Aug 2024  
   Status is included to indicate if the property is a currently active registered repeat offender.
 
 - **Repeat Offender Registrations Quick View**  
-  [Data](https://datahub.austintexas.gov/resource/cxx8-pt23.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cxx8-pt23) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/cxx8-pt23.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cxx8-pt23) | Last update: Aug 2024  
   Link to complete dataset: https://data.austintexas.gov/City-Government/Repeat-Offender-Registrations/86z9-i27i
 
 - **Repeat Offender Violation Cases With Notice of Violation Link**  
-  [Data](https://datahub.austintexas.gov/resource/cdze-ufp8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cdze-ufp8) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/cdze-ufp8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cdze-ufp8) | Last update: Aug 2024  
   The violation cases in this data set span as far back as two years prior to the registration date of each respective Repeat Offender license.
 
 - **Residential Average Monthly kWh and Bills**  
-  [Data](https://datahub.austintexas.gov/resource/d9pb-3vh7.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/d9pb-3vh7) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/d9pb-3vh7.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/d9pb-3vh7) | Last update: Jul 2024  
   Residential customers use an average of about 1,000 kWh of electricity per month, with usage higher during hot summer months and lower in the winter. View tables show monthly average usage in kWh by month for residential customers starting in 2000. Tables include monthly fuel charges and electric bill amounts.
 
 - **Residential Plan Review Cases Status**  
@@ -3059,60 +2774,37 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/9zky-ggcp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9zky-ggcp) | Last update: Jun 2024  
   Residential Zero Waste Block Leaders
 
-- **Response To Resistance 2014**  
-  [Data](https://datahub.austintexas.gov/resource/5pnt-e38e.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5pnt-e38e) | Last update: Jun 2024  
-  Response to Resisitance Dataset, 2014
-
 - **Revenue Open Budget - revised**  
   [Data](https://datahub.austintexas.gov/resource/5rhv-xasu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5rhv-xasu) | Last update: Jul 2024  
   The revenue budget provides the funds to support the City's operating budget. Please visit https://data.austintexas.gov/stories/s/Key-Terms-and-Facts-about-Open-Budget-ATX/capb-cbrm/ for more information.
 
 - **Roadway Markings Contractor Work Orders**  
-  [Data](https://datahub.austintexas.gov/resource/5dex-63ir.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5dex-63ir) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/5dex-63ir.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5dex-63ir) | Last update: Aug 2024  
   Roadway Markings Work Orders: https://data.austintexas.gov/Transportation-and-Mobility/Roadway-Markings-Work-Orders/nyhn-669r
 
 - **Roadway Markings Jobs**  
-  [Data](https://datahub.austintexas.gov/resource/vey3-7n3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vey3-7n3x) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/vey3-7n3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vey3-7n3x) | Last update: Aug 2024  
   This dataset contains records of work completed and in-progress work from June 2018 to present for the purpose of tracking the installation and maintenance of roadway markings across the City of Austin. The Jobs dataset is separated into four categories: Long Line, Short Line, Specialty Markings, and Raised Pavement Markings.
 
 - **Roadway Markings Work Orders**  
-  [Data](https://datahub.austintexas.gov/resource/nyhn-669r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nyhn-669r) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/nyhn-669r.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nyhn-669r) | Last update: Aug 2024  
   This dataset contains records of in-progress and work completed from June 2018 to present for the purpose of tracking the installation and maintenance of roadway markings in the City of Austin full purpose jurisdiction. This work is managed by the Signs & Markings Division (SMD) of the City of Austin Transportation and Public Works (TPW) department.
 
 - **Roadway Sign Assets**  
-  [Data](https://datahub.austintexas.gov/resource/ggnk-3ykn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ggnk-3ykn) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/ggnk-3ykn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ggnk-3ykn) | Last update: Aug 2024  
   This dataset contains records of street sign assets installed and maintained from June 2018 to present. Any signs installed or maintained before June 2018 was collected by a vendor (Roadway Asset Services) in November 2021.
 
 - **Rock Outcrop**  
-  [Data](https://datahub.austintexas.gov/resource/jxqt-k9f4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/jxqt-k9f4) | Last update: Mar 2024  
+  [Data](https://datahub.austintexas.gov/resource/jxqt-k9f4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/jxqt-k9f4) | Last update: Jul 2024  
   This dataset represents Rock Outcrop Critical Environmental Features (CEFs) identified during the development review process since 1995. Prior to 1995, data is either unavailable or lost. Rock Outcrop CEFs were digitized from construction plans, environmental assessments, and City of Austin staff field observations into a versioned SDE database using ArcMap.
 
 - **Rolling Needs Assessment**  
   [Data](https://datahub.austintexas.gov/resource/t52w-cvfa.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t52w-cvfa) | Last update: Jun 2024  
   This is a historical representation of the Rolling Needs Assessment
 
-- **S.B.6 Percentage of actual public safety time spent on community engagement**  
-  [Data](https://datahub.austintexas.gov/resource/6via-wani.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6via-wani) | Last update: Jun 2024  
-  Estimate of the percent of time patrol officers have available to do proactive policing. This includes increased contact and interaction with residents and business owners who live in the district to which the officer is assigned. Strengthened relationships
-
 - **S.D.1a-c Population vs. MV Stops**  
   [Data](https://datahub.austintexas.gov/resource/87wz-a3h2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/87wz-a3h2) | Last update: Jun 2024  
   The percentages of citations, warnings, field observations, and arrests that result from a motor vehicle stop involving individuals of a particular race/ethnicity compared to that specific race/ethnicity's percentage of the population in Austin
-
-- **S.D.1a-c Racial Profiling Motor Vehicle Stops**  
-  [Data](https://datahub.austintexas.gov/resource/9dis-d5bk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9dis-d5bk) | Last update: Jun 2024  
-  The number of citations, arrests, and field observations/warnings from motor vehicle stops.
-
-- **S.D.1b Warnings FOs**  
-  [Data](https://datahub.austintexas.gov/resource/gzfe-bzj4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gzfe-bzj4) | Last update: Jun 2024  
-  The difference between the percentages of warnings and field observations that result from a motor vehicle stop involving individuals of a particular race compared to that race in the city of Austin
-
-- **S.D.1c Population vs. Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/9u29-h9be.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9u29-h9be) | Last update: Jun 2024  
-  The difference between the percentages of arrests that result from a motor vehicle stop involving individuals of a particular race compared to the percentage of that race in the city of Austin
-
-- **S.D.3 2020 Number and percentage of use of force incidents in proportion to the number of arrests made**  
-  [Data](https://datahub.austintexas.gov/resource/suaj-erwc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/suaj-erwc) | Last update: Jun 2024
 
 - **S.D.4 Municipal Court**  
   [Data](https://datahub.austintexas.gov/resource/pnh5-e6nf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pnh5-e6nf) | Last update: Apr 2023  
@@ -3127,11 +2819,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Number and percentage of all cases granted alternative form of adjudication (e.g. community service) in lieu of monetary penalties for those not able to pay.
 
 - **SA4 Aggregated Mental/Behavioral Health Training**  
-  [Data](https://datahub.austintexas.gov/resource/xz2z-phib.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xz2z-phib) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/xz2z-phib.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xz2z-phib) | Last update: Aug 2024  
   Provides a count of the number of unique and eligible employees within Austin Police Department (APD), Austin-Travis County Medical Services (ATCEMS), Austin Fire Department (AFD), Code Compliance, and Municipal Court who have taken mental/behavioral health training.
 
 - **SA4 Mental/Behavioral Health Training List**  
-  [Data](https://datahub.austintexas.gov/resource/iys6-c7vj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/iys6-c7vj) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/iys6-c7vj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/iys6-c7vj) | Last update: Aug 2024  
   Provides a detailed count of the number of Austin Police Department (APD), Austin-Travis County Medical Services (ATCEMS), Austin Fire Department (AFD), Code Compliance, and Municipal Court attendees for various mental/behavioral health trainings.
 
 - **SBrown NSU Perf18**  
@@ -3195,33 +2887,33 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains shared micromobility vehicle trip data reported to the City of Austin Transportation and Public Works Department as part of the Shared Small Vehicle Mobility Systems operating rules.
 
 - **Short Term Rental Locations**  
-  [Data](https://datahub.austintexas.gov/resource/2fah-4p7e.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2fah-4p7e) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/2fah-4p7e.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2fah-4p7e) | Last update: Aug 2024
 
 - **Single-Family Audits 2016**  
   [Data](https://datahub.austintexas.gov/resource/i6q4-spfi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i6q4-spfi) | Last update: May 2024  
   The term Exempt corresponds to a property that is less than 10 years old, performed at least $500 in retrofits, participated in the Austin Energy Home Performance or Free Weatherization programs or previously filed an audit.
 
 - **Site Plan Cases**  
-  [Data](https://datahub.austintexas.gov/resource/mavg-96ck.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mavg-96ck) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/mavg-96ck.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mavg-96ck) | Last update: Aug 2024  
   This data set contains information about the site plan case applications submitted for review to the City of Austin. The data set includes information about case status in the permit review system, case number, proposed use, applicant, owner, and location.
 
 - **Solar On City Facilities**  
-  [Data](https://datahub.austintexas.gov/resource/3kyh-ggqg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3kyh-ggqg) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/3kyh-ggqg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3kyh-ggqg) | Last update: Jul 2024  
   Austin Energy has installed solar projects on municipal facilities such as City Hall, libraries, and recreation centers to increase public awareness about solar power and demonstrate the effectiveness of this technology. View the location name, address, year installed, and system size in kW. Go to austinenergy.com/go/solar to learn more about solar solutions from Austin Energy.
 
 - **Solar Program Current Incentive Levels and Available Capacity**  
-  [Data](https://datahub.austintexas.gov/resource/vxq2-zjmn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vxq2-zjmn) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/vxq2-zjmn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vxq2-zjmn) | Last update: Jul 2024  
   This data can be used to track the capacity and incentive levels available for Austin Energy's Solar Rebate Program.
 
 - **Sound Ordinance Permits**  
-  [Data](https://datahub.austintexas.gov/resource/ryu3-tuin.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ryu3-tuin) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/ryu3-tuin.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ryu3-tuin) | Last update: Aug 2024
 
 - **Special Population use of Service Category**  
   [Data](https://datahub.austintexas.gov/resource/jwva-euqc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/jwva-euqc) | Last update: Apr 2023  
   Other data is the number of clients and units used in each service category in the Ryan White Part A, a grant that provides services for those with HIV.
 
 - **Spring**  
-  [Data](https://datahub.austintexas.gov/resource/5dcx-zjsm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5dcx-zjsm) | Last update: Apr 2024  
+  [Data](https://datahub.austintexas.gov/resource/5dcx-zjsm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5dcx-zjsm) | Last update: Jul 2024  
   Spring critical environmental features (CEFs) were digitized from construction plans, environmental assessments and City of Austin staff review and field observations.
 
 - **Stores Supplying Extra Trash Stickers**  
@@ -3244,11 +2936,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains records of work completed and in-progress work from June 2018 to present for the purpose of installing and maintaining street signs in the City of Austin full purpose jurisdiction. This work is managed by the Signs & Markings division of the City of Austin Transportation and Public Works Department.
 
 - **Street Signs and Roadway Markings Work Order Time Logs**  
-  [Data](https://datahub.austintexas.gov/resource/qvth-gwdv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qvth-gwdv) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/qvth-gwdv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qvth-gwdv) | Last update: Aug 2024  
   This dataset relates work completed for the purpose of installing and maintaining roadway markings and street signs across the City of Austin. Each row records time spent by one or more technicians who completed the work order. This work is managed by the Signs & Markings Division of the City of Austin Transportation Department.
 
 - **Subdivision Cases**  
-  [Data](https://datahub.austintexas.gov/resource/s7gx-9m54.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/s7gx-9m54) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/s7gx-9m54.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/s7gx-9m54) | Last update: Aug 2024  
   This data set contains information about the subdivision case applications submitted for review to the City of Austin. The data set includes information about case status in the permit review system, case number, proposed use, applicant, owner, and location.
 
 - **Suicide Line Listing By Age Group And Gender 2012-2018**  
@@ -3270,11 +2962,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The system fuel cost average is the cost of fuel purchased, divided by the number of kilowatts generated. View the system annual average fuel cost (cents/kWh) starting in 2006. Go to http://austinenergy.com/go/reports to learn more.
 
 - **System Production Cost**  
-  [Data](https://datahub.austintexas.gov/resource/d683-uqui.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/d683-uqui) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/d683-uqui.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/d683-uqui) | Last update: Jul 2024  
   Austin Energys system annual average production cost is total operations and maintenance costs divided by total generation in kilowatt-hours. Find more information at http://austinenergy.com/go/reports.
 
 - **System Reliability**  
-  [Data](https://datahub.austintexas.gov/resource/ddh8-gyev.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ddh8-gyev) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/ddh8-gyev.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ddh8-gyev) | Last update: Jul 2024  
   The target number for the System Average Transmission Line Performance index (SATLPI) or the 12-month rolling average of the number of transmission line faults per 100 miles is 3.0.
 
 - **TPL ParkScore Data**  
@@ -3304,10 +2996,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/8yfa-b3bq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8yfa-b3bq) | Last update: Dec 2023  
   Bounce Rate: The percentage of single-page visits (i.e. visits in which the person left your site from the entrance page without interacting with the page).
 
-- **Total Gallons of Water Pumped per Capita per Day (GPCD)**  
-  [Data](https://datahub.austintexas.gov/resource/cr3t-b72z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cr3t-b72z) | Last update: Jun 2024  
-  This dataset calculates the annual average gallons of water pumped per capita per day (GPCD) as a measure of Austins water conservation efforts over time. GPCD is calculated as the total water pumped annually from Austin Water's potable water treatment plants, divided by Austin Water's estimated potable service area population and the number of days in the year.
-
 - **Total Housing First Permanent Supportive Housing Units towards 2018 Goal**  
   [Data](https://datahub.austintexas.gov/resource/dckj-axje.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dckj-axje) | Last update: Jul 2024  
   These Housing First Permanent Supportive Housing units count towards the 400-unit goal resolution (Resolution 20141002-043) passed October 2014 - therefore, there is no data from before then.
@@ -3317,24 +3005,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These Permanent Supportive Housing units count towards the 400-unit goal resolution (Resolution 20141002-043) passed October 2014 - therefore, there is no data from before then.
 
 - **Traffic Cameras**  
-  [Data](https://datahub.austintexas.gov/resource/b4k4-adkb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b4k4-adkb) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/b4k4-adkb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b4k4-adkb) | Last update: Aug 2024  
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of traffic signals.
 
 - **Traffic Detectors**  
-  [Data](https://datahub.austintexas.gov/resource/qpuw-8eeb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qpuw-8eeb) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/qpuw-8eeb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qpuw-8eeb) | Last update: Aug 2024  
   This dataset contains information about traffic detectors deployed at signalized intersections in the City of Austin, Texas. The data is maintained by the Arterial Management Division of the City of Austin Transportation & Public Works Department.
 
-- **Traffic Fatalities 2017 Noisy With Formatting No Macros**  
-  [Data](https://datahub.austintexas.gov/resource/5v76-jtje.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5v76-jtje) | Last update: Jun 2024
-
-- **Traffic Fatalities 2017 Org With Formatting No Macros**  
-  [Data](https://datahub.austintexas.gov/resource/5wkd-ka99.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5wkd-ka99) | Last update: Jun 2024
-
-- **Traffic Fatalities 2017 Working 500 Meters Without Formatting.xlsm**  
-  [Data](https://datahub.austintexas.gov/resource/rx3x-btgd.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rx3x-btgd) | Last update: Jun 2024
-
 - **Traffic Signal Network Device Status Log**  
-  [Data](https://datahub.austintexas.gov/resource/pj7k-98z2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pj7k-98z2) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/pj7k-98z2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pj7k-98z2) | Last update: Aug 2024  
   The Austin Transportation Department manages thousands of IP-enabled devices which enable traffic signal operations. Devices include traffic cameras, battery backup systems, signal controllers, and vehicle detectors.
 
 - **Traffic Signal Projects**  
@@ -3345,26 +3024,26 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset reports the progress of the Austin Transportation Department's Annual Signal Timing Program. Traffic signal engineers re-time approximately 1/3 of the citys 1,000+ signals each year, with the goal of ensuring signals are timed for optimum safety and performance.
 
 - **Traffic Signals Status**  
-  [Data](https://datahub.austintexas.gov/resource/5zpr-dehc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5zpr-dehc) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/5zpr-dehc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5zpr-dehc) | Last update: Aug 2024  
   It also occasionally happens that the event that disables a traffic signal also disables network communication to the signal, in which case the signal outage will not be reported here.
 
 - **Traffic Signals and Pedestrian Signals**  
-  [Data](https://datahub.austintexas.gov/resource/p53x-x73x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p53x-x73x) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/p53x-x73x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p53x-x73x) | Last update: Aug 2024  
   This data contains information about traffic and pedestrian signals in the city of Austin, Texas. The data is updated on a daily basis and maintained by the Austin Transportation & Public Works Department's Arterial Management Division.
 
 - **Traffic and Pedestrian Signal Evaluations BETA**  
-  [Data](https://datahub.austintexas.gov/resource/h4cy-hpgs.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h4cy-hpgs) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/h4cy-hpgs.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h4cy-hpgs) | Last update: Aug 2024
 
 - **Traffic and Pedestrian Signal Requests**  
   [Data](https://datahub.austintexas.gov/resource/f6qu-b7zb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/f6qu-b7zb) | Last update: Mar 2024  
   The dataset contains the ranking and status of traffic and pedestrian signal requests in Austin, TX.
 
 - **Transportation Capital Project Financial Codes**  
-  [Data](https://datahub.austintexas.gov/resource/jega-nqf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/jega-nqf6) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/jega-nqf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/jega-nqf6) | Last update: Aug 2024  
   This dataset contains financial tracking codes used by City of Austin staff to manage capital projects. Our internal project management application consumes data directly from this dataset. This data is subset of the canonical data maintained by the City of Austin Financial Services Division. https://www.austintexas.gov/fsd
 
 - **Transportation Department Financial Codes**  
-  [Data](https://datahub.austintexas.gov/resource/bgrt-2m2z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bgrt-2m2z) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/bgrt-2m2z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bgrt-2m2z) | Last update: Aug 2024  
   This dataset contains financial tracking codes used by City of Austin staff to manage various program budgets. Our internal operations systems consume data directly from this dataset. This data is subset of the canonical data maintained by the City of Austin Financial Services Division. https://www.austintexas.gov/fsd
 
 - **Travel Sensors**  
@@ -3402,15 +3081,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Time_First_Unit_Assigned (in minutes) states the length of time, in minutes, after the EMS call was picked up and before the first ambulance received notification of the emergency and was assigned.
 
 - **Utility Contact Center Average Speed For Answering Calls**  
-  [Data](https://datahub.austintexas.gov/resource/yj9d-ajag.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yj9d-ajag) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/yj9d-ajag.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yj9d-ajag) | Last update: Jul 2024  
   The average speed for answering calls was up in Fiscal Years 2009 and 2010 due to Customer Service Representatives focusing on one-call resolutions, thus avoiding repeat calls by customers. In addition, the Utility Contact Center has rolled out several campaign initiatives over the past few years to promote conservation programs. Explaining those products and benefits takes extra time.
 
 - **Utility Contact Center Call Distribution For FY 2017**  
-  [Data](https://datahub.austintexas.gov/resource/8uvp-rwpt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8uvp-rwpt) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/8uvp-rwpt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8uvp-rwpt) | Last update: Jul 2024  
   The City of Austin Utility Contact Center is managed by Austin Energy. This is the place customers call to start, stop, or transfer utility services. The center receives about 6,000 calls per day on average and Online Customer Care handles about 12,000 requests per month.
 
 - **Utility Contact Center Total Contacts**  
-  [Data](https://datahub.austintexas.gov/resource/vwcu-h3qu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vwcu-h3qu) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/vwcu-h3qu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vwcu-h3qu) | Last update: Jul 2024  
   Austin Energy manages the City of Austin Utility Contact Center and Online Customer Care Portal. This is the place customers go to start, stop or transfer utility services.
 
 - **VFC (Pedi) DAtEs**  
@@ -3426,14 +3105,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Watershed Protection Department has been distributing engineering assessments and scientific reports using the text-driven Watershed Publications Search tool.
 
 - **Water Quality Sampling Data**  
-  [Data](https://datahub.austintexas.gov/resource/5tye-7ray.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5tye-7ray) | Last update: Jul 2024
+  [Data](https://datahub.austintexas.gov/resource/5tye-7ray.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5tye-7ray) | Last update: Aug 2024
 
 - **Water Quality Sampling Locations (deprecated)**  
   [Data](https://datahub.austintexas.gov/resource/cj3v-cz6n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cj3v-cz6n) | Last update: Aug 2023  
   Locations for water quality sampling performed in the Austin, TX area by the Watershed Protection Environmental Resource Management division.
 
 - **Watershed Boundaries**  
-  [Data](https://datahub.austintexas.gov/resource/2829-xbvw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2829-xbvw) | Last update: Mar 2024  
+  [Data](https://datahub.austintexas.gov/resource/2829-xbvw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2829-xbvw) | Last update: Jul 2024  
   This watershed boundary consists of modeled lines and edited lines based on site plans and field investigations.
 
 - **Watershed Reach Index and Problem Scores**  
@@ -3449,7 +3128,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is the official list of watersheds for the Drainage Criteria Manual in the City of Austin and whether or not a watershed generally participates in the Regional Stormwater Management Program. For more information about the RSMP visit our website: http://austintexas.gov/RSMP
 
 - **Weatherization Assistance Program**  
-  [Data](https://datahub.austintexas.gov/resource/fnns-rqqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fnns-rqqh) | Last update: May 2024
+  [Data](https://datahub.austintexas.gov/resource/fnns-rqqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fnns-rqqh) | Last update: Jul 2024
 
 - **Wildfire Hazard Potential Treatment Areas**  
   [Data](https://datahub.austintexas.gov/resource/2x9t-5ctm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2x9t-5ctm) | Last update: Jun 2024
@@ -3467,7 +3146,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is a map of zoning designations for parcels. It is updated as changes are officially made, although it may take several days for the dataset to reflect changes once they have gone into effect.
 
 - **Zoning Cases**  
-  [Data](https://datahub.austintexas.gov/resource/edir-dcnf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/edir-dcnf) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/edir-dcnf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/edir-dcnf) | Last update: Aug 2024  
   Another version of this data in the form of a location dataset exists, showing cases starting in about 2007, when cases were first created in GIS.
 
 - **Zoning by Address**  
@@ -3475,7 +3154,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset shows zones by address.
 
 - **Zoning by Address**  
-  [Data](https://datahub.austintexas.gov/resource/nbzi-qabm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nbzi-qabm) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/nbzi-qabm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nbzi-qabm) | Last update: Aug 2024  
   This dataset is a list of addresses with their zoning provided to answer questions such as "what property addresses have CS zoning."  This data is derived from GIS layer for address and zoning.
 
 [[TOP]](#toc)
@@ -3532,15 +3211,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## internal.agtransport.usda.gov
 
 - **Grain Basis**  
-  [Data](https://internal.agtransport.usda.gov/resource/v85y-3hep.json) | [Docs](https://dev.socrata.com/foundry/internal.agtransport.usda.gov/v85y-3hep) | Last update: Jul 2024  
+  [Data](https://internal.agtransport.usda.gov/resource/v85y-3hep.json) | [Docs](https://dev.socrata.com/foundry/internal.agtransport.usda.gov/v85y-3hep) | Last update: Aug 2024  
   This is one of three companion datasets. The other two are grain prices (https://agtransport.usda.gov/d/g92w-8cn7) and grain price spreads (https://agtransport.usda.gov/d/an4w-mnp7). These datasets are separate, because the coverage lengths differ and missing values are removed (e.g., there needs to be a cash price and a futures price to have a basis price).
 
 - **Grain Prices**  
-  [Data](https://internal.agtransport.usda.gov/resource/g92w-8cn7.json) | [Docs](https://dev.socrata.com/foundry/internal.agtransport.usda.gov/g92w-8cn7) | Last update: Jul 2024  
+  [Data](https://internal.agtransport.usda.gov/resource/g92w-8cn7.json) | [Docs](https://dev.socrata.com/foundry/internal.agtransport.usda.gov/g92w-8cn7) | Last update: Aug 2024  
   This is one of three companion datasets. The other two are grain basis (https://agtransport.usda.gov/d/v85y-3hep) and grain price spreads (https://agtransport.usda.gov/d/an4w-mnp7). These datasets are separate, because the coverage lengths differ and missing values are removed (e.g., there needs to be a cash price and a futures price to have a basis price).
 
 - **Refrigerated Truck Rates and Availability**  
-  [Data](https://internal.agtransport.usda.gov/resource/acar-e3r8.json) | [Docs](https://dev.socrata.com/foundry/internal.agtransport.usda.gov/acar-e3r8) | Last update: Jul 2024  
+  [Data](https://internal.agtransport.usda.gov/resource/acar-e3r8.json) | [Docs](https://dev.socrata.com/foundry/internal.agtransport.usda.gov/acar-e3r8) | Last update: Aug 2024  
   Data from AMS Market News Specialty Crops Program, including weekly refrigerated truck rates and availability by origin, destination, and commodity. The Transportation Services Division assigns a broader region to the origins in order to join to refrigerated truck rate and availability data.
 
 [[TOP]](#toc)
@@ -3750,7 +3429,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Traffic Intersections in the City of Dallas which have a reported accident count of 50 or greater during the five year period 2015 through 2019.
 
 - **Lobbyist Registration**  
-  [Data](https://www.dallasopendata.com/resource/ffkm-63hd.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/ffkm-63hd) | Last update: Feb 2024  
+  [Data](https://www.dallasopendata.com/resource/ffkm-63hd.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/ffkm-63hd) | Last update: Aug 2024  
   Lobbyist Registration
 
 [[TOP]](#toc)

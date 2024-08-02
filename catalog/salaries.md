@@ -16,6 +16,7 @@
 - [data.cityofberkeley.info](#datacityofberkeleyinfo)
 - [data.cityofchicago.org](#datacityofchicagoorg)
 - [data.cityofnewyork.us](#datacityofnewyorkus)
+- [data.colorado.gov](#datacoloradogov)
 - [data.ct.gov](#datactgov)
 - [data.datacenterresearch.org](#datadatacenterresearchorg)
 - [data.delaware.gov](#datadelawaregov)
@@ -89,15 +90,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## citydata.mesaaz.gov
 
 - **Business Services - Monthly Audit Cost Recovery**  
-  [Data](https://citydata.mesaaz.gov/resource/cknj-4bt4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/cknj-4bt4) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/cknj-4bt4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/cknj-4bt4) | Last update: Aug 2024  
   This dataset describes total amount of tax assessed by the City of Mesa by month as well as the salary & fringe benefits of the City of Mesa employees in the collections area.
 
 - **Business Services - Monthly Collection Cost Recovery Factor**  
-  [Data](https://citydata.mesaaz.gov/resource/u7nb-nm2u.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/u7nb-nm2u) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/u7nb-nm2u.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/u7nb-nm2u) | Last update: Aug 2024  
   The amount of tax and non-tax revenue collected and the employee costs to collect.
 
 - **City Expenditures**  
-  [Data](https://citydata.mesaaz.gov/resource/vdg8-dx96.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/vdg8-dx96) | Last update: Jun 2024  
+  [Data](https://citydata.mesaaz.gov/resource/vdg8-dx96.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/vdg8-dx96) | Last update: Jul 2024  
   Listing of all City expenses per department. This data includes transactions paid by check as well as payroll transactions and transactions paid by wire or electronic draft. Includes record date, payee, amount and the accounting string that describes which fund, organizational department and the activity roll up of the department that benefited from the transaction.
 
 [[TOP]](#toc)
@@ -144,7 +145,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bloomington.in.gov
 
 - **Annual Compensation**  
-  [Data](https://data.bloomington.in.gov/resource/fcnf-g862.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/fcnf-g862) | Last update: Jul 2024  
+  [Data](https://data.bloomington.in.gov/resource/fcnf-g862.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/fcnf-g862) | Last update: Aug 2024  
   Compensation is the preferred term over salaries due to the fact that almost all employees are paid hourly. The only Salaried employees are those in elected positions (Mayor, Clerk, City Council people). For historical completed years, an employees compensation may include items such as, but not limited to: overtime, certifications, on call pay, etc.
 
 [[TOP]](#toc)
@@ -174,7 +175,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.calgary.ca
 
 - **Compensation Disclosure List**  
-  [Data](https://data.calgary.ca/resource/9bze-mzx6.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/9bze-mzx6) | Last update: Jul 2023  
+  [Data](https://data.calgary.ca/resource/9bze-mzx6.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/9bze-mzx6) | Last update: Jul 2024  
   The Citys compensation disclosure list includes position titles and base salary ranges as approved by Council from 2014 to present.
 
 [[TOP]](#toc)
@@ -201,11 +202,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cincinnati-oh.gov
 
 - **City of Cincinnati Employees w/Salaries**  
-  [Data](https://data.cincinnati-oh.gov/resource/wmj4-ygbf.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/wmj4-ygbf) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/wmj4-ygbf.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/wmj4-ygbf) | Last update: Aug 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/Employee-Profile/wjqv-hgc9/
 
 - **City of Cincinnati Salary Schedule**  
-  [Data](https://data.cincinnati-oh.gov/resource/yaws-h72m.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/yaws-h72m) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/yaws-h72m.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/yaws-h72m) | Last update: Aug 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/Employee-Profile/wjqv-hgc9/
 
 [[TOP]](#toc)
@@ -334,7 +335,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset follows the format of the equivalent datasets from past years except that  Division Code, Section Code, Subsection Code, and Position Control have changed from Number to Text (not all in the same year) in order to accommodate non-numeric values.
 
 - **Current Employee Names, Salaries, and Position Titles**  
-  [Data](https://data.cityofchicago.org/resource/xzkq-xp2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/xzkq-xp2w) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/xzkq-xp2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/xzkq-xp2w) | Last update: Aug 2024  
   Information disclosed in this dataset is subject to FOIA Exemption Act, 5 ILCS 140/7 (Link:https://www.ilga.gov/legislation/ilcs/documents/000501400K7.htm)
 
 [[TOP]](#toc)
@@ -359,7 +360,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Civil List reports the agency code (DPT), first initial and last name (NAME), agency name (ADDRESS), title code (TTL #), pay class (PC), and salary (SAL-RATE) of individuals who were employed by the City of New York at any given time during the indicated year.
 
 - **Civil Service List Certification**  
-  [Data](https://data.cityofnewyork.us/resource/a9md-ynri.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a9md-ynri) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/a9md-ynri.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a9md-ynri) | Last update: Aug 2024  
   The Certification may contain part of a list, the whole list, or multiple lists at the request of an appointing agency, to fill vacancies and/or replace provisionals.
 
 - **EEO-4 Reports**  
@@ -397,12 +398,29 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains current job postings available on the  City of New Yorks official jobs site (http://www.nyc.gov/html/careers/html/search/search.shtml).
 
 - **NYC Civil Service Titles**  
-  [Data](https://data.cityofnewyork.us/resource/nzjr-3966.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nzjr-3966) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/nzjr-3966.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nzjr-3966) | Last update: Aug 2024  
   This is a list of NYC civil service title codes and  descriptions used by City of New York agencies as well as if the title requires investigation before appointment.
 
 - **Position Schedule**  
   [Data](https://data.cityofnewyork.us/resource/f4wx-5ve6.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f4wx-5ve6) | Last update: May 2024  
   Sum of the full-time active positions in a title description published in alphabetical order. The Position Schedule is updated and included in the Departmental Estimates and the Supporting Schedule (updated twice a year). The minimum salary, maximum salary, mean salary and annual rate are to the dollar.
+
+[[TOP]](#toc)
+
+
+## data.colorado.gov
+
+- **Campaign Reports for Solicitation Notices to Charities in Colorado**  
+  [Data](https://data.colorado.gov/resource/fdcw-ei67.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/fdcw-ei67) | Last update: Aug 2024  
+  Non-profit organization (NPO) data of campaign reports for solicitation notices from the Colorado Department of State (CDOS) Division of Charity.
+
+- **Expenses of Charities Filing IRS Form EZ Operating in Colorado**  
+  [Data](https://data.colorado.gov/resource/xb4j-dshc.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/xb4j-dshc) | Last update: Aug 2024  
+  Charitable organizations expenses from the previous and current tax year as reported to the IRS with Form 990EZ, provided by Colorado Department of State (CDOS) since 2011.
+
+- **Expenses of Charities Operating in Colorado**  
+  [Data](https://data.colorado.gov/resource/x2jf-bvk8.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/x2jf-bvk8) | Last update: Aug 2024  
+  Charitable organizations expenses from the previous and current tax year as reported to the IRS with Form 990, provided by Colorado Department of State (CDOS) since 2011.
 
 [[TOP]](#toc)
 
@@ -475,7 +493,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.fultoncountyga.gov
 
 - **Budget and Expenditures**  
-  [Data](https://data.fultoncountyga.gov/resource/tt9s-7amk.json) | [Docs](https://dev.socrata.com/foundry/data.fultoncountyga.gov/tt9s-7amk) | Last update: Jul 2024  
+  [Data](https://data.fultoncountyga.gov/resource/tt9s-7amk.json) | [Docs](https://dev.socrata.com/foundry/data.fultoncountyga.gov/tt9s-7amk) | Last update: Aug 2024  
   The budget and expenditures are given at the level of the object, which represents a specific type of spending such as salaries, printing, office supplies, professional services, etc. within each program of each department.
 
 [[TOP]](#toc)
@@ -536,7 +554,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.marincounty.org
 
 - **Employee Jobs and Attributes**  
-  [Data](https://data.marincounty.org/resource/w7aq-ay3z.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/w7aq-ay3z) | Last update: Jul 2024  
+  [Data](https://data.marincounty.org/resource/w7aq-ay3z.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/w7aq-ay3z) | Last update: Aug 2024  
   Information about each regular hire employee at specific points in time, at the end of every year. Employee-related information includes ethnicity, gender and age range. Age range can change from year to year. Job-related information includes date of regular hire, date of any termination, department, title, and management level.
 
 - **Employee Jobs and Attributes 2013-2020**  
@@ -544,7 +562,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Job-related information includes date of regular hire, type of regular hire, date of any termination, department, title, SOC job code, SOC job code description, EEO4 job code and management level.
 
 - **Job Classifications and Pay Rates**  
-  [Data](https://data.marincounty.org/resource/w7uw-fvda.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/w7uw-fvda) | Last update: Jul 2024  
+  [Data](https://data.marincounty.org/resource/w7uw-fvda.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/w7uw-fvda) | Last update: Aug 2024  
   The job title, job class code, hours per pay period, number of steps, hourly step rates, and yearly step rates per job classification.
 
 [[TOP]](#toc)
@@ -690,10 +708,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.nj.gov/resource/44xg-bswk.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/44xg-bswk) | Last update: May 2024
 
 - **YourMoney Agency Payroll**  
-  [Data](https://data.nj.gov/resource/iqwc-r2w7.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/iqwc-r2w7) | Last update: Jun 2024
+  [Data](https://data.nj.gov/resource/iqwc-r2w7.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/iqwc-r2w7) | Last update: Jul 2024
 
 - **YourMoney Authority Payroll**  
-  [Data](https://data.nj.gov/resource/kiki-imre.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/kiki-imre) | Last update: Apr 2024
+  [Data](https://data.nj.gov/resource/kiki-imre.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/kiki-imre) | Last update: Jul 2024
 
 - **YourMoney Retired Pension Members**  
   [Data](https://data.nj.gov/resource/nma7-ti96.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/nma7-ti96) | Last update: Jul 2024  
@@ -705,7 +723,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.norfolk.gov
 
 - **Employee Salaries**  
-  [Data](https://data.norfolk.gov/resource/4fsk-z8s8.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/4fsk-z8s8) | Last update: Jul 2024  
+  [Data](https://data.norfolk.gov/resource/4fsk-z8s8.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/4fsk-z8s8) | Last update: Aug 2024  
   This data is provided by Norfolk's Department of Human Resources and is updated daily.
 
 [[TOP]](#toc)
@@ -726,20 +744,20 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The County of Broome Personnel Department produces areport annually containing the Name, Title, Department,Base Earnings and Over Time Earnings of each employee who has held a position within the County anytime duringthat year.
 
 - **Client Semi-Annual Report: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/qym9-xzj6.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qym9-xzj6) | Last update: Apr 2024
+  [Data](https://data.ny.gov/resource/qym9-xzj6.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qym9-xzj6) | Last update: Jul 2024
 
 - **Current Employment Statistics: Beginning 1990**  
-  [Data](https://data.ny.gov/resource/6k74-dgkb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6k74-dgkb) | Last update: Jun 2024
+  [Data](https://data.ny.gov/resource/6k74-dgkb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6k74-dgkb) | Last update: Jul 2024
 
 - **Disbursement of Public Monies Bi-Monthly Report: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/i574-v3dp.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/i574-v3dp) | Last update: Apr 2024  
+  [Data](https://data.ny.gov/resource/i574-v3dp.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/i574-v3dp) | Last update: Jul 2024  
   Disbursement of Public Monies Bi-Monthly Reports (DPM) are required only if the Lobbyist already has at least one active Registration on file for non-public money lobbying, and the Lobbyist exceeds or anticipates exceeding an additional $5,000 related to Attempts to Influence the disbursement of Public Monies in excess of $15,000.
 
 - **Industrial Development Agencies' Project Data**  
   [Data](https://data.ny.gov/resource/9rtk-3fkw.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/9rtk-3fkw) | Last update: Oct 2023
 
 - **Lobbyist Bi-Monthly Reports: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/t9kf-dqbc.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t9kf-dqbc) | Last update: Apr 2024
+  [Data](https://data.ny.gov/resource/t9kf-dqbc.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t9kf-dqbc) | Last update: Aug 2024
 
 - **Occupational Employment and Wage Statistics**  
   [Data](https://data.ny.gov/resource/gkgz-nw24.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/gkgz-nw24) | Last update: Jul 2024  
@@ -758,7 +776,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Caution: The current datasets are based on population data. For tax years prior to 2015, data were based on sample data. Data customers are advised to use caution when drawing conclusions comparing data for tax years prior to 2015 and subsequent tax years. Further details are included in the Overview.
 
 - **Public Corporation Bi-Monthly Report: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/ffd8-nyat.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ffd8-nyat) | Last update: Apr 2024
+  [Data](https://data.ny.gov/resource/ffd8-nyat.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ffd8-nyat) | Last update: Jul 2024
 
 - **Quarterly Census of Employment and Wages Annual Data: Beginning 2000**  
   [Data](https://data.ny.gov/resource/shc7-xcbw.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/shc7-xcbw) | Last update: Jun 2024
@@ -910,7 +928,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Public Libraries in the State of Vermont. Data from 2007 - 2012 including visitor and financial information.
 
 - **State of Vermont Employee Salaries**  
-  [Data](https://data.vermont.gov/resource/jgqy-2smf.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/jgqy-2smf) | Last update: Jun 2024
+  [Data](https://data.vermont.gov/resource/jgqy-2smf.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/jgqy-2smf) | Last update: Jul 2024
 
 - **Total Compensation and Expenses FY2015-2019**  
   [Data](https://data.vermont.gov/resource/69uf-6qeu.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/69uf-6qeu) | Last update: Aug 2021  
@@ -925,7 +943,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Base pay for certain law enforcement positions includes premium pay at overtime rates for a specified number of regularly scheduled hours each pay period. Within FY13/14, categorization of this premium base pay has been reviewed and adjusted. It has been re-categorized to "pay" from "overtime." Total pay is not affected. It was adjusted back to "overtime" in Jan.2014
 
 - **Vermont Vendor Payments**  
-  [Data](https://data.vermont.gov/resource/786x-sbp3.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/786x-sbp3) | Last update: Apr 2024  
+  [Data](https://data.vermont.gov/resource/786x-sbp3.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/786x-sbp3) | Last update: Jul 2024  
   This data is not intended to be legal advice nor is it designed or intended to be relied upon as authoritative financial, investment, or professional advice. No entity affiliated with, employed by, or constituting part of the state of Vermont warrants, endorses, assures the accuracy of, or accepts liability for the content of any information on this site.
 
 [[TOP]](#toc)
@@ -1005,7 +1023,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Salaries and compensation for all employees of the County of San Mateo [Note: 2020 salaries are based on 27 pay periods due to leap year]
 
 - **Job Classification Table (JCT)**  
-  [Data](https://datahub.smcgov.org/resource/i4fw-626v.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/i4fw-626v) | Last update: Jul 2024  
+  [Data](https://datahub.smcgov.org/resource/i4fw-626v.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/i4fw-626v) | Last update: Aug 2024  
   Position & Salary information for San Mateo County Job Classifications
 
 [[TOP]](#toc)
@@ -1478,7 +1496,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains a record of all employee separations, as well as the date, reason, position information, and salary information at time of separation.
 
 - **Vacant Positions Long**  
-  [Data](https://sharefulton.fultoncountyga.gov/resource/2b7m-4w5n.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/2b7m-4w5n) | Last update: Jul 2024  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/2b7m-4w5n.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/2b7m-4w5n) | Last update: Aug 2024  
   Human Resources provides daily reports of all vacant positions within the county. This dataset takes those daily reports, and appends (full joins) them to each other.
 
 [[TOP]](#toc)
@@ -1508,11 +1526,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.datos.gov.co
 
 - **Afiliados activos por rango salarial**  
-  [Data](https://www.datos.gov.co/resource/ptbr-ywzd.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/ptbr-ywzd) | Last update: Jun 2024  
+  [Data](https://www.datos.gov.co/resource/ptbr-ywzd.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/ptbr-ywzd) | Last update: Jul 2024  
   En este enlace encontraras informacin histrica de cantidad de afiliados activos por rango salarial  en el Fondo Nacional del Ahorro
 
 - **Cantidad de pensionados de Colpensiones por rango de edad**  
-  [Data](https://www.datos.gov.co/resource/np5z-haxm.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/np5z-haxm) | Last update: Apr 2024  
+  [Data](https://www.datos.gov.co/resource/np5z-haxm.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/np5z-haxm) | Last update: Jul 2024  
   Cantidad de pensionados de Colpensiones clasificados por rango de edad, gnero, valor de la pensin en cantidad de salarios mnimos legales vigentes y por tipo de pensin.
 
 - **Conjunto servidores públicos**  
@@ -1543,7 +1561,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Personal que labora en la empresa-
 
 - **Número de pensionados de Colpensiones por rango salarial 2**  
-  [Data](https://www.datos.gov.co/resource/h8ui-2iee.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/h8ui-2iee) | Last update: Apr 2024  
+  [Data](https://www.datos.gov.co/resource/h8ui-2iee.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/h8ui-2iee) | Last update: Jul 2024  
   Nmero de Pensionados por Colpensiones clasificados por rango salarial en escala del salario mnimo del ao legal vigente.
 
 - **Vinculación de personas con discapacidad**  

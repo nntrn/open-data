@@ -13,7 +13,6 @@
 - [data.novascotia.ca](#datanovascotiaca)
 - [data.ramseycounty.us](#dataramseycountyus)
 - [data.vermont.gov](#datavermontgov)
-- [datahub.austintexas.gov](#datahubaustintexasgov)
 - [datahub.usaid.gov](#datahubusaidgov)
 - [opendata.maryland.gov](#opendatamarylandgov)
 - [policedata.coloradosprings.gov](#policedatacoloradospringsgov)
@@ -59,7 +58,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bloomington.in.gov
 
 - **Officer Involved Shootings**  
-  [Data](https://data.bloomington.in.gov/resource/63j3-n7jh.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/63j3-n7jh) | Last update: Jul 2024  
+  [Data](https://data.bloomington.in.gov/resource/63j3-n7jh.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/63j3-n7jh) | Last update: Aug 2024  
   Bloomington Police Department cases where officers have fired a gun at an individual.
 
 [[TOP]](#toc)
@@ -68,7 +67,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cincinnati-oh.gov
 
 - **CPD Reported Shootings**  
-  [Data](https://data.cincinnati-oh.gov/resource/sfea-4ksu.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/sfea-4ksu) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/sfea-4ksu.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/sfea-4ksu) | Last update: Aug 2024  
   Disclaimer: In compliance with privacy laws, all Public Safety datasets are anonymized and appropriately redacted prior to publication on the City of Cincinnatis Open Data Portal. This means that for all public safety datasets:  Latitude and Longitude have been randomly skewed to represent values within the same block area (but not the exact location) of the incident.
 
 - **PDI (Police Data Initiative) CPD Shootings**  
@@ -76,7 +75,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/xw7t-5phj
 
 - **PDI (Police Data Initiative) Officer Involved Shootings**  
-  [Data](https://data.cincinnati-oh.gov/resource/r6q4-muts.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/r6q4-muts) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/r6q4-muts.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/r6q4-muts) | Last update: Aug 2024  
   Data Description: This data represents officer involved shooting incidents by the Cincinnati Police Department. An officer involved shooting (OIS) may be defined as the discharge of a firearm, which may include accidental and intentional discharges, by a police officer, whether on or off duty.
 
 [[TOP]](#toc)
@@ -101,7 +100,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Please note that this data set includes fields that are not used to calculate SSL, for example, neither race nor sex are used in the Strategic Subject Algorithm. Portions of the arrest data are de-identified on the basis of privacy concerns. The attributes used in the Strategic Subject Algorithm were revised on an ongoing basis during the lifetime of the program.
 
 - **Violence Reduction - Victims of Homicides and Non-Fatal Shootings**  
-  [Data](https://data.cityofchicago.org/resource/gumc-mgzr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/gumc-mgzr) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/gumc-mgzr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/gumc-mgzr) | Last update: Aug 2024  
   For a criminal homicide, the only sensible IUCR codes are 0110 (first-degree murder) or 0130 (second-degree murder). For a non-fatal shooting, a sensible IUCR code must signify a criminal sexual assault, a robbery, or, most commonly, an aggravated battery. In rare instances, the IUCR code in CPD's Crimes and Victims dataset do not align with the homicide/non-fatal shooting categorization:
 
 [[TOP]](#toc)
@@ -110,7 +109,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cityofnewyork.us
 
 - **Film Permits**  
-  [Data](https://data.cityofnewyork.us/resource/tg4x-b46p.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tg4x-b46p) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/tg4x-b46p.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tg4x-b46p) | Last update: Aug 2024  
   Permits are generally required when asserting the exclusive use of city property, like a sidewalk, a street, or a park. See http://www1.nyc.gov/site/mome/permits/when-permit-required.page
 
 - **NYPD Shooting Incident Data (Historic)**  
@@ -118,7 +117,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of every shooting incident that occurred in NYC going back to 2006 through the end of the previous calendar year.
 
 - **NYPD Shooting Incident Data (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/5ucz-vwe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5ucz-vwe8) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/5ucz-vwe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5ucz-vwe8) | Last update: Jul 2024  
   Each record represents a shooting incident in NYC and includes information about the event, the location and time of occurrence. In addition, information related to suspect and victim demographics is also included. This data can be used by the public to explore the nature of police enforcement activity. Please refer to the attached data footnotes for additional information about this dataset.
 
 [[TOP]](#toc)
@@ -173,30 +172,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Vermont State Police Officer Involved Shootings (1977-Present)**  
   [Data](https://data.vermont.gov/resource/du86-kfnp.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/du86-kfnp) | Last update: Apr 2017  
   This dataset should not be compared to other similar datasets as they often use sources such as news reports, public records, and social media posts that unofficial and unverified.
-
-[[TOP]](#toc)
-
-
-## datahub.austintexas.gov
-
-- **2008-17 OIS Subjects**  
-  [Data](https://datahub.austintexas.gov/resource/u2k2-n8ez.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u2k2-n8ez) | Last update: Jun 2024
-
-- **GUIDE 2017 - Officer Involved Shooting**  
-  [Data](https://datahub.austintexas.gov/resource/eqwy-k8kh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/eqwy-k8kh) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Officer Involved Shooting 2000-2014**  
-  [Data](https://datahub.austintexas.gov/resource/63p6-iegi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/63p6-iegi) | Last update: Jun 2024  
-  This chart displays the number of crime incidents by year, starting with data from 2003.
-
-- **Officer Involved Shootings 2008-17 Incidents**  
-  [Data](https://datahub.austintexas.gov/resource/uzqv-9uza.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzqv-9uza) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Officer Involved Shootings 2008-17 Officers**  
-  [Data](https://datahub.austintexas.gov/resource/8mvp-v9jz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8mvp-v9jz) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
 
 [[TOP]](#toc)
 
@@ -259,7 +234,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.dallasopendata.com
 
 - **Dallas Police Active Calls**  
-  [Data](https://www.dallasopendata.com/resource/9fxf-t2tr.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9fxf-t2tr) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/9fxf-t2tr.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9fxf-t2tr) | Last update: Aug 2024  
   It does not include any calls for service, whether currently being worked or not, that are not releasable due to privacy laws. 
 
 - **Dallas Police Active Calls Geolocation Temporary**  

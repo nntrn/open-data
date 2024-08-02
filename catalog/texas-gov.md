@@ -190,15 +190,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/ctj5-pypw.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ctj5-pypw) | Last update: Jun 2020
 
 - **Eminent Domain Noncompliant Entities List**  
-  [Data](https://data.texas.gov/resource/qpkm-pcgh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qpkm-pcgh) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/qpkm-pcgh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qpkm-pcgh) | Last update: Aug 2024  
   Should an entity that has previously submitted a report of eminent domain authority later inform the Comptroller that a change has occurred such that the entity no longer possesses eminent domain authority or is required to submit a report in accordance with 2206.154, that entity will not be placed on the noncompliant entities list (or will be removed from the list, as the case may be).
 
 - **Eminent Domain Project Data**  
-  [Data](https://data.texas.gov/resource/x7n3-dc7h.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/x7n3-dc7h) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/x7n3-dc7h.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/x7n3-dc7h) | Last update: Aug 2024  
   The Project Data table includes all projects that entities claim they have eminent domain authority to undertake. Also included in the table are entity names, report years, and a unique report ID number. The ID number can be used to cross-reference the project data with the Eminent Domain table.
 
 - **Eminent Domain Provision Data**  
-  [Data](https://data.texas.gov/resource/pmc3-6ynv.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/pmc3-6ynv) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/pmc3-6ynv.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/pmc3-6ynv) | Last update: Aug 2024  
   The Provision Data table includes all legal authorities that entities claim grants them eminent domain powers. Also included in the table are entity names, report years, and a unique report ID number. The ID number can be used to cross-reference the provision data with the Eminent Domain Data table.
 
 - **Expenditure Category Numbers and Titles**  
@@ -214,7 +214,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These are the various 2-digit GAAP fund types and their titles under which GAAP Funds are consolidated for financial reporting. GAAP Fund Types are used to report consolidated fund activity for presentation on the Texas Comprehensive Annual Financial Report, according to Generally Accepted Accounting Principles (GAAP).
 
 - **Licensed Fuels Taxpayers**  
-  [Data](https://data.texas.gov/resource/3fc3-wv7y.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/3fc3-wv7y) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/3fc3-wv7y.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/3fc3-wv7y) | Last update: Aug 2024  
   Fuels tax license holders in Texas including Taxpayer Number, Name, City, Zip Code and Permit Type.
 
 - **Revenue Category Numbers and Titles**  
@@ -260,7 +260,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## See Category Tile
 
 - **Active Cigarette/Tobacco Non-Retailers**  
-  [Data](https://data.texas.gov/resource/mhvi-79zr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mhvi-79zr) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/mhvi-79zr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mhvi-79zr) | Last update: Aug 2024  
   This file contains information for all Cigarette/Tobacco Cigarette and Tobacco Distributors, Manufacturers, Wholesalers, and Importers with an active permit.
 
 - **Active Cigarette/Tobacco Permit Suspensions and Revocations**  
@@ -268,26 +268,22 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   See https://comptroller.texas.gov/about/policies/privacy.php for more information on our agencys privacy and security policies.
 
 - **Active Cigarette/Tobacco Registered Manufacturers**  
-  [Data](https://data.texas.gov/resource/9zju-4437.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/9zju-4437) | Last update: Apr 2024  
+  [Data](https://data.texas.gov/resource/9zju-4437.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/9zju-4437) | Last update: Jul 2024  
   This file contains information for all Cigarette and Tobacco Registered Manufacturers with an active permit.
-
-- **All Cigarette and Tobacco Retailers**  
-  [Data](https://data.texas.gov/resource/yrkr-maw5.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/yrkr-maw5) | Last update: Jul 2024  
-  This file contains information at the outlet level for all Cigarette/Tobacco Retailers with an active permit or that have been active within the last four years. The list is for Distributors to know Authorized Retailers for sales and gives information required for reporting.
 
 - **Attorney General Opinions - Overruled, Modified, Affirmed, Withdrawn**  
   [Data](https://data.texas.gov/resource/ramn-n827.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ramn-n827) | Last update: Jul 2023  
   This dataset includes legal opinions of the Attorney General. The data starts with Price Daniel (1947-1952), and goes to Ken Paxton (2015-Present). The Opinions are given by the appropriate code and year. The status is the outcome of the opinion. Details are the statute, opinion, or court decision that caused the status of the opinion.
 
 - **Bid Tabulations**  
-  [Data](https://data.texas.gov/resource/ad7p-zydi.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ad7p-zydi) | Last update: Jul 2024
+  [Data](https://data.texas.gov/resource/ad7p-zydi.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ad7p-zydi) | Last update: Aug 2024
 
 - **CPS 3.2 Children in Substitute Care by Placement Type on August 31 FY2014-2023**  
   [Data](https://data.texas.gov/resource/kgpb-mxxd.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/kgpb-mxxd) | Last update: Feb 2024  
   Substitute care - all children who are living in a DFPS out of home placement. It does not include children in DFPS custody who are living with a parent on a return and monitor. Unless otherwise noted, it does include youth over 18 who are in extended foster care but are not in DFPS custody.
 
 - **Canceled or Changed Project List**  
-  [Data](https://data.texas.gov/resource/2kmv-4jrh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2kmv-4jrh) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/2kmv-4jrh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2kmv-4jrh) | Last update: Aug 2024  
   The dataset of canceled or changed projects comprises those that have either been canceled or changed within the previous month due to shifts in estimated let dates or changes in project status.
 
 - **Check Verification Entities**  
@@ -307,23 +303,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of Foreign Bank Representative Offices in Texas
 
 - **HHSC CCL Daycare and Residential Operations Data**  
-  [Data](https://data.texas.gov/resource/bc5r-88dy.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/bc5r-88dy) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/bc5r-88dy.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/bc5r-88dy) | Last update: Aug 2024  
   This Data set contains detailed information about Day Care  and/ or Residential Care Operation that is displayed on the Public site. The Operation ID is a unique key that ties to the other data sets for Child Care Licensing data
 
 - **HHSC CCL Inspection Investigation Assessment Data**  
-  [Data](https://data.texas.gov/resource/m5q4-3y3d.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/m5q4-3y3d) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/m5q4-3y3d.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/m5q4-3y3d) | Last update: Aug 2024  
   This data set has information about Inspections, Investigations, Assessments done at each Day care  and/or Residential Care Operation. The Operation ID can be used to link the records to the operation details in the HHSC CCL Operations Data set
 
 - **HHSC CCL Non-Compliance Data**  
-  [Data](https://data.texas.gov/resource/tqgd-mf4x.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/tqgd-mf4x) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/tqgd-mf4x.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/tqgd-mf4x) | Last update: Aug 2024  
   The Operation ID, Activity ID and Section ID can be used to link back to the Activity records, Activity Section record, and Operation record files.
 
 - **HHSC CCL Sections and Standards Evaluated Data**  
-  [Data](https://data.texas.gov/resource/ywgb-2ig8.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ywgb-2ig8) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/ywgb-2ig8.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ywgb-2ig8) | Last update: Aug 2024  
   This data set contains the list of sections evaluated along with number of standards evaluated and violated in each section for activities (inspections, investigations and assessments) done in each operation. The Operation ID and Activity ID can be used to link back to the HHSC CCL  Inspection / Investigation / Assessment Dataset and HHSC CCL Operations Dataset.
 
 - **Interstate Truckers**  
-  [Data](https://data.texas.gov/resource/nhzr-ynmk.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/nhzr-ynmk) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/nhzr-ynmk.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/nhzr-ynmk) | Last update: Aug 2024  
   This file contains a list of licensed interstate truckers in Texas.
 
 - **Licensed CNG/LNG Taxpayers**  
@@ -334,7 +330,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/qf2n-igjr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qf2n-igjr) | Last update: Jul 2023
 
 - **Maquiladora Export-Permitted Taxpayers**  
-  [Data](https://data.texas.gov/resource/meud-pnzp.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/meud-pnzp) | Last update: Jun 2024  
+  [Data](https://data.texas.gov/resource/meud-pnzp.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/meud-pnzp) | Last update: Jul 2024  
   This file contains a list of maquiladora enterprises that currently hold an active maquiladora export permit.
 
 - **Money Services Businesses**  
@@ -414,11 +410,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/srqa-79uf.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/srqa-79uf) | Last update: Apr 2024
 
 - **Motor Fuel Transporters**  
-  [Data](https://data.texas.gov/resource/jy3w-jm2u.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jy3w-jm2u) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/jy3w-jm2u.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jy3w-jm2u) | Last update: Aug 2024  
   This file contains a list of licensed motor fuel transporters (common carriers) in Texas.
 
 - **Official and Unofficial Bid Items**  
-  [Data](https://data.texas.gov/resource/mgnz-ha5q.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mgnz-ha5q) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/mgnz-ha5q.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/mgnz-ha5q) | Last update: Aug 2024  
   Official and Unofficial Bid Items dataset includes data in 42 forward days bid items. 42 days to 22 days is unofficial; 21 days and less is official.
 
 - **Perpetual Care Cemeteries**  
@@ -434,15 +430,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This file contains a list of organizations that have been issued a determination letter and are therefore eligible to apply for local property tax exemptions.
 
 - **Project Information**  
-  [Data](https://data.texas.gov/resource/396g-wqyr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/396g-wqyr) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/396g-wqyr.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/396g-wqyr) | Last update: Aug 2024  
   The Project Information dataset displays detailed project information such as location, type of work, and estimated cost for projects scheduled for letting within the designated two consecutive fiscal years.
 
-- **Recapitulation**  
-  [Data](https://data.texas.gov/resource/jxqk-9dmq.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/jxqk-9dmq) | Last update: Jun 2024  
-  This recapitulation includes information such as the unit of measurement, quantity of work completed, unit price, cost, and vendor information.
-
 - **Signed Statement Registration Numbers**  
-  [Data](https://data.texas.gov/resource/a5y7-t5ih.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/a5y7-t5ih) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/a5y7-t5ih.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/a5y7-t5ih) | Last update: Aug 2024  
   This file contains a list of Signed Statement Registration Numbers in Texas.
 
 - **Star Of Texas Award Recipients 2004-2021**  
@@ -475,34 +467,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/msnc-6hek.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/msnc-6hek) | Last update: Oct 2022
 
 - **Texas Coin-Operated Amusement Machine Taxpayers**  
-  [Data](https://data.texas.gov/resource/ryd4-r7mh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ryd4-r7mh) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/ryd4-r7mh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ryd4-r7mh) | Last update: Aug 2024  
   This file contains a list of Coin-Operated Amusement Machine Operators in Texas.
-
-- **Texas East Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/r8gw-h8cs.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/r8gw-h8cs) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
-
-- **Texas North Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/arek-dthg.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/arek-dthg) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
-
-- **Texas South Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/ugt2-g8xm.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ugt2-g8xm) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
 
 - **Texas State Agency Records Retention Schedule - Revised 5th edition**  
   [Data](https://data.texas.gov/resource/f6ng-hrgc.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/f6ng-hrgc) | Last update: May 2024
-
-- **Texas West Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/g3ex-37ca.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/g3ex-37ca) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
 
 - **Trust Companies**  
   [Data](https://data.texas.gov/resource/2hc4-g945.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/2hc4-g945) | Last update: Jul 2022  
   Listing of Trust Companies in Texas
 
 - **Vendor List**  
-  [Data](https://data.texas.gov/resource/8z7t-vzvc.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/8z7t-vzvc) | Last update: Jul 2024  
+  [Data](https://data.texas.gov/resource/8z7t-vzvc.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/8z7t-vzvc) | Last update: Aug 2024  
   The Vendor List dataset displays the contact information and qualified status related to vendor list.
 
 [[TOP]](#toc)

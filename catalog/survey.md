@@ -19,6 +19,7 @@
 - [data.cityofgainesville.org](#datacityofgainesvilleorg)
 - [data.cityofnewyork.us](#datacityofnewyorkus)
 - [data.cityoforlando.net](#datacityoforlandonet)
+- [data.colorado.gov](#datacoloradogov)
 - [data.countyofnapa.org](#datacountyofnapaorg)
 - [data.ct.gov](#datactgov)
 - [data.delaware.gov](#datadelawaregov)
@@ -49,7 +50,6 @@
 - [data.sccgov.org](#datasccgovorg)
 - [data.somervillema.gov](#datasomervillemagov)
 - [data.sonomacounty.ca.gov](#datasonomacountycagov)
-- [data.texas.gov](#datatexasgov)
 - [data.vermont.gov](#datavermontgov)
 - [data.wa.gov](#datawagov)
 - [data.weho.org](#datawehoorg)
@@ -63,6 +63,7 @@
 - [fusioncenter.nhit.org](#fusioncenternhitorg)
 - [gnb.socrata.com](#gnbsocratacom)
 - [health.data.ny.gov](#healthdatanygov)
+- [healthdata.tn.gov](#healthdatatngov)
 - [highways.hidot.hawaii.gov](#highwayshidothawaiigov)
 - [idp.nz](#idpnz)
 - [impact.stlouisco.com](#impactstlouiscocom)
@@ -180,7 +181,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   City of Mesa population provided by Census Bureau Population Estimates Program (PEP) updated annually as of July 1. See Population and Housing Unit Estimates. Census PEP estimates are used for state revenue sharing per AZ statute (42-5033.01).
 
 - **Citywide Employee Survey Results**  
-  [Data](https://citydata.mesaaz.gov/resource/dbj4-w6rx.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dbj4-w6rx) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/dbj4-w6rx.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dbj4-w6rx) | Last update: Aug 2024  
   Human Resources  Satisfaction with Employee Benefit Offerings (Measured in Citywide Employee Survey Results)
 
 - **Cost Burdened Households**  
@@ -277,7 +278,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bloomington.in.gov
 
 - **City Maintained Streets**  
-  [Data](https://data.bloomington.in.gov/resource/bb3b-6hg6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/bb3b-6hg6) | Last update: Jun 2024
+  [Data](https://data.bloomington.in.gov/resource/bb3b-6hg6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/bb3b-6hg6) | Last update: Jul 2024
 
 - **LocallyDesignatedHistoricDistricts**  
   [Data](https://data.bloomington.in.gov/resource/sbby-5r4b.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/sbby-5r4b) | Last update: May 2024
@@ -291,7 +292,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Historic Districts can be objects, single properties, or multi-resource districts containing several properties. These other Historic Districts can also contain or overlap areas designated as local historic districts by the City of Bloomington
 
 - **Road Centerlines**  
-  [Data](https://data.bloomington.in.gov/resource/8yia-fgp6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/8yia-fgp6) | Last update: Jun 2024
+  [Data](https://data.bloomington.in.gov/resource/8yia-fgp6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/8yia-fgp6) | Last update: Jul 2024
 
 [[TOP]](#toc)
 
@@ -319,7 +320,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying the recorded boundaries or lot lines of property in East Baton Rouge Parish, Louisiana.Metadata
 
 - **Lot Profile**  
-  [Data](https://data.brla.gov/resource/9gt6-rmn8.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9gt6-rmn8) | Last update: Jun 2024  
+  [Data](https://data.brla.gov/resource/9gt6-rmn8.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9gt6-rmn8) | Last update: Jul 2024  
   Polygon geometry with complete attributes displaying the recorded boundaries or lot lines of property in East Baton Rouge Parish, Louisiana.
 
 - **Property Information**  
@@ -348,7 +349,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bts.gov
 
 - **Monthly Transportation Statistics**  
-  [Data](https://data.bts.gov/resource/crem-w557.json) | [Docs](https://dev.socrata.com/foundry/data.bts.gov/crem-w557) | Last update: Jul 2024  
+  [Data](https://data.bts.gov/resource/crem-w557.json) | [Docs](https://dev.socrata.com/foundry/data.bts.gov/crem-w557) | Last update: Aug 2024  
   Monthly Transportation Statistics is a compilation of national statistics on transportation. The Bureau of Transportation Statistics brings together the latest data from across the Federal government and transportation industry. Monthly Transportation Statistics contains over 50 time series from nearly two dozen data sources.
 
 - **Sales Tax Collections by State**  
@@ -425,8 +426,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/vkwg-yswv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vkwg-yswv) | Last update: Mar 2024
 
 - **COVID-19 Hospital Data from the National Hospital Care Survey**  
-  [Data](https://data.cdc.gov/resource/q3t8-zr7t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q3t8-zr7t) | Last update: Sep 2023  
-  The data are from 25 hospitals submitting inpatient and 25 hospitals submitting ED Uniform Bill (UB)-04 administrative claims from March 18, 2020-May 23, 2023.
+  [Data](https://data.cdc.gov/resource/q3t8-zr7t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q3t8-zr7t) | Last update: Jul 2024  
+  The data are from 26 hospitals submitting inpatient and 26 hospitals submitting ED Uniform Bill (UB)-04 administrative claims from March 18, 2020-December 26, 2023.
 
 - **Cumulative Influenza Vaccination Coverage Differences by Race/Ethnicity, Children 6 months through 17 years, United States**  
   [Data](https://data.cdc.gov/resource/2den-c3u2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2den-c3u2) | Last update: May 2024  
@@ -470,9 +471,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/qdzf-zqgy.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/qdzf-zqgy) | Last update: May 2024  
   Data on initial injury-related visits to hospital emergency departments in the United States, by sex, age, and intent and mechanism of injury. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Hospital Ambulatory Medical Care Survey.
 
+- **DQS Cholesterol in adults age 20 and older, by selected characteristics: United States**  
+  [Data](https://data.cdc.gov/resource/k2e8-8t3h.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k2e8-8t3h) | Last update: Jul 2024  
+  Data on cholesterol in adults age 20 and older in the United States, by selected characteristics. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
+
 - **DQS Community hospital beds by state**  
-  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Jul 2024  
   Data on beds per 1,000 resident population in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals. Hospital Statistics.
+
+- **DQS Community hospital beds, by state: United States.7.23.24**  
+  [Data](https://data.cdc.gov/resource/uiux-mrvg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uiux-mrvg) | Last update: Jul 2024  
+  Data on community hospital beds in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals, Hospital Statistics.
 
 - **DQS Delay or nonreceipt of needed medical care, prescription drugs, or dental care during the past 12 months due to cost: United States**  
   [Data](https://data.cdc.gov/resource/p4r5-qsgs.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/p4r5-qsgs) | Last update: May 2024  
@@ -481,6 +490,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **DQS Estimate of Emergency Department Visits in the United States Footnotes**  
   [Data](https://data.cdc.gov/resource/6vwk-ensg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6vwk-ensg) | Last update: May 2024  
   List of footnotes, notes, and source information for The National Hospital Ambulatory Medical Care Survey (NHAMCS). Each row of this dataset contains the accompanying text for a footnote found in NHAMCS dataset. The footnote lookup can be merged onto any NHAMCS dataset using, DATASET_SHORT_NAME, FN_ID, FN_TYPE, and FN_TEXT.
+
+- **DQS Hospital admission, average length of stay, outpatient visits, and outpatient surgery by type of ownership and size of hospital: United States**  
+  [Data](https://data.cdc.gov/resource/rear-2epk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rear-2epk) | Last update: Jul 2024  
+  Data on hospital admission, average length of stay, outpatient visits, and outpatient surgery in the United States, by type of ownership and size of hospital. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals, Hospital Statistics.
 
 - **DQS Medicaid coverage among persons under age 65, by selected characteristics: United States**  
   [Data](https://data.cdc.gov/resource/hdja-ybdg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hdja-ybdg) | Last update: May 2024  
@@ -507,11 +520,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These data represent prevalence estimates of select oral health topics from the National Health and Nutrition Examination Survey (NHANES).
 
 - **DQS NHIS Adult Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/pg2r-sfcx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pg2r-sfcx) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/pg2r-sfcx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pg2r-sfcx) | Last update: Jul 2024  
   Interactive Summary Health Statistics for Adults provide annual estimates of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **DQS NHIS Children Summary Statistics**  
-  [Data](https://data.cdc.gov/resource/b5qi-b3hv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b5qi-b3hv) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/b5qi-b3hv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b5qi-b3hv) | Last update: Jul 2024  
   Interactive Summary Health Statistics for Children provide annual estimates of selected health topics for children under age 18 years based on final data from the National Health Interview Survey.
 
 - **DQS Normal weight, overweight, and obesity among adults aged 20 and over, by selected characteristics: United States**  
@@ -533,7 +546,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/37nu-tuw8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/37nu-tuw8) | Last update: Nov 2023
 
 - **Drug Use Data from Selected Hospitals**  
-  [Data](https://data.cdc.gov/resource/gypc-kpgn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gypc-kpgn) | Last update: Sep 2023
+  [Data](https://data.cdc.gov/resource/gypc-kpgn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gypc-kpgn) | Last update: Jul 2024
 
 - **Global Tobacco Surveillance System (GTSS) - Global Adult Tobacco Survey (GATS)**  
   [Data](https://data.cdc.gov/resource/4xf6-nrwk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/4xf6-nrwk) | Last update: Aug 2023  
@@ -635,11 +648,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Interactive Summary Health Statistics for Adults, by Detailed Race and Ethnicity provide estimates as three-year averages of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **NHIS Adult Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/25m4-6qqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/25m4-6qqq) | Last update: Dec 2023  
+  [Data](https://data.cdc.gov/resource/25m4-6qqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/25m4-6qqq) | Last update: Jul 2024  
   Interactive Summary Health Statistics for Adults provide annual estimates of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **NHIS Child Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/wxz7-ekz9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wxz7-ekz9) | Last update: Dec 2023  
+  [Data](https://data.cdc.gov/resource/wxz7-ekz9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wxz7-ekz9) | Last update: Jul 2024  
   Interactive Summary Health Statistics for Children provide annual estimates of selected health topics for children under age 18 years based on final data from the National Health Interview Survey.
 
 - **NHIS Interactive Biannual Early Release Estimates**  
@@ -676,7 +689,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/tdbk-8ubw.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tdbk-8ubw) | Last update: Sep 2023
 
 - **National Immunization Survey Adult COVID Module (NIS-ACM): COVIDVaxViews| Data | Centers for Disease Control and Prevention (cdc.gov)**  
-  [Data](https://data.cdc.gov/resource/uc4z-hbsd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uc4z-hbsd) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/uc4z-hbsd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uc4z-hbsd) | Last update: Jul 2024  
   The archived data can be found here:
 
 - **National Immunization Survey Adult COVID Module (NIS-ACM): Trends in Behavioral Indicators Among Unvaccinated People**  
@@ -724,7 +737,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/gsea-w83j.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gsea-w83j) | Last update: Jul 2024
 
 - **Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence**  
-  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Aug 2024  
   Sub-national death counts between 1-9 are suppressed in accordance with NCHS data confidentiality standards. Rates based on death counts less than 20 are suppressed in accordance with NCHS standards of reliability as specified in NCHS Data Presentation Standards for Proportions (available from: https://www.cdc.gov/nchs/data/series/sr_02/sr02_175.pdf.).
 
 - **Question Inventory on Tobacco (QIT)**  
@@ -819,7 +832,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Weekly Intent for Vaccination and Cumulative Percentage of Adults 60 Years and Older Vaccinated with RSV Vaccine.
 
 - **Weekly Respiratory Virus Vaccination Data, Children 6 Months-17 Years and Adults 18 Years and Older, National Immunization Survey**  
-  [Data](https://data.cdc.gov/resource/5c6r-xi2t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5c6r-xi2t) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/5c6r-xi2t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5c6r-xi2t) | Last update: Aug 2024
 
 - **Youth Risk Behavioral Surveillance System (YRBSS) Data**  
   [Data](https://data.cdc.gov/resource/3596-ayf6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3596-ayf6) | Last update: Aug 2023
@@ -834,7 +847,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cincinnati-oh.gov
 
 - **Cincinnati 311 (Non-Emergency) Service Requests**  
-  [Data](https://data.cincinnati-oh.gov/resource/4cjh-bm8b.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/4cjh-bm8b) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/4cjh-bm8b.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/4cjh-bm8b) | Last update: Aug 2024  
   Data Description: This dataset captures All Cincinnati 311 (Non-Emergency) Service Requests from 2012 to present including how long customer service requests have been open, by location, service request type, and department work group. Citizen Service Requests (CSR) give Cincinnati residents the opportunity to submit service request for concerns like potholes, tall grass and missed trash pick-up.
 
 - **Customer Service Requests (CSR) Survey Feedback Responses**  
@@ -842,7 +855,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/Customer-Service-CSR-Satisfaction/ks8a-xggj/
 
 - **Inspections & Certificates**  
-  [Data](https://data.cincinnati-oh.gov/resource/ivda-umw7.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/ivda-umw7) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/ivda-umw7.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/ivda-umw7) | Last update: Aug 2024  
   Data Description: This data set contains all inspections issued/performed by City of Cincinnati Departments (including Buildings & Inspections; Cincinnati Fire Department; Cincinnati Health Department; Cincinnati Parks; and Trade/Development), as well as Inspections Bureau Inc (IBI) and Hamilton County departments.
 
 [[TOP]](#toc)
@@ -860,7 +873,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cityofchicago.org
 
 - **Beach Lab Data**  
-  [Data](https://data.cityofchicago.org/resource/2ivx-z93u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ivx-z93u) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/2ivx-z93u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ivx-z93u) | Last update: Aug 2024  
   The Chicago Park District collects and analyzes water samples from beaches along Chicagos Lake Michigan lakefront. The Chicago Park District partners with the University of Illinois at Chicago Department of Public Health Laboratory to analyze water samples using a new DNA testing method called Rapid Testing Method (qPCR analysis) which tests for Enterococci in order to monitor swimming safety.
 
 - **COVID-19 - Vaccinations by Region, Age, and Race-Ethnicity - Historical**  
@@ -942,7 +955,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/qmcw-ur37.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qmcw-ur37) | Last update: Feb 2020
 
 - **DOB Safety Violations**  
-  [Data](https://data.cityofnewyork.us/resource/855j-jady.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/855j-jady) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/855j-jady.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/855j-jady) | Last update: Aug 2024  
   This data set includes violations issued on devices through the New York City Department of Buildings' DOB NOW: Safety Violations module. The data is collected because the Department of Buildings tracks violation issuance and related information. This data include items such as violations number, violations type, violation issuance data, and BIN.
 
 - **DOHMH Community Mental Health Survey**  
@@ -950,7 +963,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The CMHS was conducted in conjunction with the annual 2012 Community health Survey (CHS). The CMHS provides robust data on the mental health of New Yorkers, including neighborhood, borough, and citywide estimates. The data are analyzed and disseminated to influence mental health program decisions, and increase the understanding of the mental health among New Yorkers.
 
 - **DSNY DonateNYC Directory**  
-  [Data](https://data.cityofnewyork.us/resource/gkgs-za6m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gkgs-za6m) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/gkgs-za6m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gkgs-za6m) | Last update: Aug 2024  
   To reduce needless waste and increase diversion of reusable material from landfills, the NYC Department of Sanitation established donateNYC in 2016. donateNYC helps New Yorkers give goods, find goods, and do good, with tools that make it easy to donate or find used goods.
 
 - **ENDGBV In Focus: Survey Findings from the New York City Healthy Relationship Training Academy - Differences by Participant Age and Gender**  
@@ -961,18 +974,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/vtsq-3d95.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vtsq-3d95) | Last update: Jan 2024
 
 - **Electronics Drop Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/wshr-5vic.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wshr-5vic) | Last update: Jul 2024
+  [Data](https://data.cityofnewyork.us/resource/wshr-5vic.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wshr-5vic) | Last update: Aug 2024
 
 - **Entitation**  
   [Data](https://data.cityofnewyork.us/resource/ud2m-5tb4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ud2m-5tb4) | Last update: Jul 2024  
   Entitation is a process of identifying and describing discrete vegetation units (entities). Essentially, it is a general inventory of an area's plant communities conducted by means of aerial photograph interpretation and field reconnaissance. The survey results in the identification of ecologically distinct plant communities based on species and structure.
 
 - **Entitation Parsed Species**  
-  [Data](https://data.cityofnewyork.us/resource/v959-5k2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v959-5k2w) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/v959-5k2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v959-5k2w) | Last update: Aug 2024  
   Entitation is a process of identifying and describing discrete vegetation units (entities). Essentially, it is a general inventory of an area's plant communities conducted by means of aerial photograph interpretation and field reconnaissance. The survey results in the identification of ecologically distinct plant communities based on species and structure.
 
 - **Food Scrap Drop-Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/if26-z6xq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/if26-z6xq) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/if26-z6xq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/if26-z6xq) | Last update: Aug 2024  
   Locations where NYC residents can drop off their food scraps to be composted. For more information, visit https://www.nyc.gov/site/dsny/collection/residents/food-scrap-drop-off.page.
 
 - **Internet Master Plan: Adoption and Infrastructure Data by Neighborhood**  
@@ -980,7 +993,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data Limitations: Data accuracy is limited as of the date of publication and by the methodology and accuracy of the original sources.
 
 - **Leaf Drop-Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/8i9k-4gi5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8i9k-4gi5) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/8i9k-4gi5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8i9k-4gi5) | Last update: Aug 2024  
   Locations where NYC residents can drop off their leaves to be composted. These are seasonal and temporary drop-off options; residents should not drop off leaves at these locations outside of the specific dates listed.
 
 - **Low Income Housing Tax Credits Awarded by HPD: Project-Level (4% Awards)**  
@@ -1023,7 +1036,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Pedestrian ramps provide access on and off streets and sidewalks and are an essential tool for all pedestrians. This data is a comprehensive list of all pedestrian ramps throughout New York City.
 
 - **Pharmaceutical and Syringe Drop-Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/edk2-vkjh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/edk2-vkjh) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/edk2-vkjh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/edk2-vkjh) | Last update: Aug 2024  
   Carefully place household sharps in leak-proof and puncture-resistant container labeled "Home Sharps - not for recycling". Bring to a collection center or drop-off site or discard as trash. ALL New York State hospitals and nursing homes are required by law to act as collection centers for used household sharps, including syringes and lancets, with no identification required.
 
 - **Population and Languages of the Limited English Proficient (LEP) Speakers by Community District**  
@@ -1034,6 +1047,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Pregnancy Risk Assessment Monitoring System (PRAMS)**  
   [Data](https://data.cityofnewyork.us/resource/rqgf-94xs.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rqgf-94xs) | Last update: Nov 2023
+
+- **Safety Events**  
+  [Data](https://data.cityofnewyork.us/resource/3vyj-dkjt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3vyj-dkjt) | Last update: Aug 2024  
+  New York City Department of Transportation hosts various safety events throughout New York City at schools, community centers, senior centers and local playground or parks. Types of events includes child passenger safety, bike safety and helmet distribution, public outreach and more to spread safety awareness.
 
 - **Serious Injury Response, Tracking & Analysis Program (SIRTA)**  
   [Data](https://data.cityofnewyork.us/resource/xeqp-qz8h.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xeqp-qz8h) | Last update: Jul 2024  
@@ -1069,6 +1086,65 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **OrlandoStreetCenterlines**  
   [Data](https://data.cityoforlando.net/resource/dnki-2im5.json) | [Docs](https://dev.socrata.com/foundry/data.cityoforlando.net/dnki-2im5) | Last update: Apr 2024  
   This dataset was compiled using aerial photography, platted subdivisions, surveys and other recorded instruments.
+
+[[TOP]](#toc)
+
+
+## data.colorado.gov
+
+- **Alternative Fuels and Electric Vehicle Charging Station Locations in Colorado**  
+  [Data](https://data.colorado.gov/resource/team-3ugz.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/team-3ugz) | Last update: Aug 2024  
+  Alternative Fuels and Electric Vehicle Charging Station locations are gathered by the National Renewable Energy Laboratory (NREL) and verified annually.
+
+- **Boulder County Building Footprints**  
+  [Data](https://data.colorado.gov/resource/emiz-7jkv.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/emiz-7jkv) | Last update: May 2022  
+  This dataset represents the building footprints for unincorporated Boulder County. The data is updated continuously from building permit records and when new aerial photography becomes available.
+
+- **Building Permit Counts in Colorado**  
+  [Data](https://data.colorado.gov/resource/v4as-sthd.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/v4as-sthd) | Last update: Aug 2024  
+  Number of building permits by type for counties and municipalities in Colorado from 2010 to 2016 from the Colorado Department of Local Affairs (DOLA).
+
+- **Business Improvement Districts Denver**  
+  [Data](https://data.colorado.gov/resource/qtga-qgdf.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/qtga-qgdf) | Last update: Aug 2024  
+  Map of Business improvement districts in Denver, CO.
+
+- **Colorado Snow Ice Control**  
+  [Data](https://data.colorado.gov/resource/8862-9ctg.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/8862-9ctg) | Last update: Dec 2014
+
+- **Colorado's Named Peaks greater than 14,000 feet above sea level.**  
+  [Data](https://data.colorado.gov/resource/9333-96ac.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/9333-96ac) | Last update: Jun 2015  
+  Colorado has 58 Named Peaks greater than 14,000 feet above sea level.
+
+- **DWR Well Water Level**  
+  [Data](https://data.colorado.gov/resource/hfwh-wsgi.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/hfwh-wsgi) | Last update: Jul 2024  
+  The Division of Water Resources, in cooperation with various local groundwater management districts and partners, operates a statewide network to monitor groundwater levels.
+
+- **Employment Wages in Colorado**  
+  [Data](https://data.colorado.gov/resource/busm-qa5b.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/busm-qa5b) | Last update: Aug 2024  
+  Employment wages by industry, year, and area, from Colorado Department of Labor and Employment (CDLE), since 2009
+
+- **EnergizeCO Small Business Resiliency Index (SBRI)**  
+  [Data](https://data.colorado.gov/resource/sn8z-q44h.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/sn8z-q44h) | Last update: Oct 2022
+
+- **General Improvement Districts Denver**  
+  [Data](https://data.colorado.gov/resource/g62i-kdzu.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/g62i-kdzu) | Last update: Aug 2024  
+  Map of General Improvement Districts in Denver. GIDs are allowed to construct, install or acquire any public improvement except solid waste disposal improvements and services.
+
+- **Hours Worked by Employees in Colorado**  
+  [Data](https://data.colorado.gov/resource/pt2g-89wc.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/pt2g-89wc) | Last update: Aug 2024  
+  Estimated employment counts by month and industry with hours worked by industry from Colorado Department of Labor and Employment (CDLE), since 1990.
+
+- **Identified Hydrothermal in Colorado**  
+  [Data](https://data.colorado.gov/resource/u6xi-qwn3.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/u6xi-qwn3) | Last update: Aug 2024  
+  Identified hydrothermal sites from Assessment of Moderate- and High-Temperature Geothermal Resources of the United States (2008).
+
+- **Race Estimates in Colorado**  
+  [Data](https://data.colorado.gov/resource/wv7f-qjj7.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/wv7f-qjj7) | Last update: Aug 2024  
+  Population estimates by race, single age, and gender by counties in Colorado from 2010 to 2016 from the Demography Department of the Colorado Department of Local Affairs (DOLA).
+
+- **Race Forecasts in Colorado**  
+  [Data](https://data.colorado.gov/resource/ab5h-juwk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ab5h-juwk) | Last update: Aug 2024  
+  Population forecasts by race and age in counties in Colorado from 2010 to 2050 from the Demography Department of the Colorado Department of Local Affairs (DOLA).
 
 [[TOP]](#toc)
 
@@ -1144,7 +1220,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The 2021 five-year American Community Survey estimates were used to identify the tracts.
 
 - **Connecticut Business Registry - Business Master**  
-  [Data](https://data.ct.gov/resource/n7gp-d28j.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/n7gp-d28j) | Last update: Jul 2024  
+  [Data](https://data.ct.gov/resource/n7gp-d28j.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/n7gp-d28j) | Last update: Aug 2024  
   This is the master business table (account object) from the Connecticut Business Registry, maintained by the Secretary of the State, Business Services Division.
 
 - **Connecticut Qualified Census Tracts**  
@@ -1159,7 +1235,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ct.gov/resource/xnw3-nytd.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/xnw3-nytd) | Last update: Feb 2024
 
 - **Department of Labor, Office of Research**  
-  [Data](https://data.ct.gov/resource/8zbs-9atu.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/8zbs-9atu) | Last update: May 2024  
+  [Data](https://data.ct.gov/resource/8zbs-9atu.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/8zbs-9atu) | Last update: Jul 2024  
   Historical Employment Statistics 1990 - current.
 
 - **Statewide Immunizations and Exemption Rates by School Year, Grade, Vaccine, and School Type**  
@@ -1773,12 +1849,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   At the time the survey was launched survey invitations were sent to 1639 Insight Community Members. 898 members completed the survey which represents a completion rate of 55%.
 
 - **Open Data - Edmonton Insight Community**  
-  [Data](https://data.edmonton.ca/resource/c77z-pt8p.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/c77z-pt8p) | Last update: Jul 2019  
-  At the time the survey was launched survey invitations were sent to 7,017 Insight Community Members. 1,637 members completed the survey which represents a completion rate of 24%. A total of 1,650 respondents completed the survey: 1,637 Insight Community Members and 13 using the anonymous link(s) which will have no demographic info.
-
-- **Open Data - Edmonton Insight Community**  
   [Data](https://data.edmonton.ca/resource/fraf-umy5.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/fraf-umy5) | Last update: Jul 2019  
   This was one single topic among a couple from the January 2019 Mixed Topic survey. To view the survey questions, click on the following link:
+
+- **Open Data - Edmonton Insight Community**  
+  [Data](https://data.edmonton.ca/resource/c77z-pt8p.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/c77z-pt8p) | Last update: Jul 2019  
+  At the time the survey was launched survey invitations were sent to 7,017 Insight Community Members. 1,637 members completed the survey which represents a completion rate of 24%. A total of 1,650 respondents completed the survey: 1,637 Insight Community Members and 13 using the anonymous link(s) which will have no demographic info.
 
 - **Park And Ride - Edmonton Insight Community**  
   [Data](https://data.edmonton.ca/resource/ankm-bghn.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/ankm-bghn) | Last update: Jul 2019  
@@ -2108,12 +2184,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   At the time the survey was launched survey invitations were sent to 6500 Insight Community Members. 2345 members completed the survey which represents a completion rate of 36%. A total of 2393 respondents completed the survey: 2345 Insight Community Members and 48 using the anonymous link(s) which will have no demographic info.
 
 - **Vehicle for Hire - Edmonton Insight Community**  
-  [Data](https://data.edmonton.ca/resource/h82p-4v64.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/h82p-4v64) | Last update: Jul 2019  
-  At the time the survey was launched survey invitations were sent to 6760 Insight Community Members. 1531 members completed the survey which represents a completion rate of 23%. A total of 1542 respondents completed the survey: 1531 Insight Community Members and 11 using the anonymous link(s) which will have no demographic info.
-
-- **Vehicle for Hire - Edmonton Insight Community**  
   [Data](https://data.edmonton.ca/resource/3cvu-pkdw.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/3cvu-pkdw) | Last update: Jul 2019  
   This was one single topic among several from the November 2018 Mixed Topic survey. To view the survey questions, click on the following link:
+
+- **Vehicle for Hire - Edmonton Insight Community**  
+  [Data](https://data.edmonton.ca/resource/h82p-4v64.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/h82p-4v64) | Last update: Jul 2019  
+  At the time the survey was launched survey invitations were sent to 6760 Insight Community Members. 1531 members completed the survey which represents a completion rate of 23%. A total of 1542 respondents completed the survey: 1531 Insight Community Members and 11 using the anonymous link(s) which will have no demographic info.
 
 - **Vision Zero - Edmonton Insight Community**  
   [Data](https://data.edmonton.ca/resource/reid-48b5.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/reid-48b5) | Last update: Jul 2019  
@@ -2275,7 +2351,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data is released every 2 years following the American Community Survey release in December of the year following the Survey. The most recent data for 2018 was downloaded from the ATSDR website.
 
 - **Washington Health Workforce Survey**  
-  [Data](https://data.kingcounty.gov/resource/pdjq-eqk2.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/pdjq-eqk2) | Last update: Jul 2024  
+  [Data](https://data.kingcounty.gov/resource/pdjq-eqk2.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/pdjq-eqk2) | Last update: Aug 2024  
   The Washington State Department of Health presents this information as a service to the public. This includes information on the work status, practice characteristics, education, and demographics of healthcare providers, provided in response to the Washington Health Workforce Survey.
 
 - **YouthMarijuana0412**  
@@ -2292,7 +2368,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The LA County Arts Ed Profile is a research project by the LA County Arts Education Collective that measures the quantity, quality and equity of arts education in all public schools in the county. This available dataset combines data collected through the Arts Ed Profile school survey and data collected by the California Department of Education.
 
 - **Customer Survey Responses**  
-  [Data](https://data.lacity.org/resource/uj6a-ab47.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/uj6a-ab47) | Last update: Jun 2024  
+  [Data](https://data.lacity.org/resource/uj6a-ab47.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/uj6a-ab47) | Last update: Aug 2024  
   Questionnaires are provided to El Pueblo visitors; a minimum of 50 are tabulated each month.
 
 [[TOP]](#toc)
@@ -2446,7 +2522,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.norfolk.gov/resource/7jsp-eyjg.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/7jsp-eyjg) | Last update: May 2024
 
 - **Plan Reviews**  
-  [Data](https://data.norfolk.gov/resource/dhk3-hr4y.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/dhk3-hr4y) | Last update: Jul 2024  
+  [Data](https://data.norfolk.gov/resource/dhk3-hr4y.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/dhk3-hr4y) | Last update: Aug 2024  
   This dataset offers a listing of plan reviews performed by the City of Norfolk. It encompasses various review types, including Building Code, CBPA Review, Stormwater, Floodplain Review, Surveys, Design Review, Reservoir Review, Environmental Review, and others. This dataset provides valuable insights into the status and outcomes of these reviews. This dataset will be updated daily on weekdays.
 
 [[TOP]](#toc)
@@ -2524,7 +2600,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Results from a questionnaire gauging Nova Scotians opinions related to the provincial tourism industry.
 
 - **Old Growth Forest Policy**  
-  [Data](https://data.novascotia.ca/resource/wanf-acts.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/wanf-acts) | Last update: Aug 2023  
+  [Data](https://data.novascotia.ca/resource/wanf-acts.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/wanf-acts) | Last update: Jul 2024  
   Forest stands identified under the Nova Scotia Old Growth Forest Policy.
 
 - **Perceived safety from crime when home alone at night**  
@@ -2579,11 +2655,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This file provides the boat count information resulting from the Artificial Reef Aerial Survey including the date of flight, reef observed, number of small boats observed, and number of large boats observed. Large boats are defined as party and charter boats.
 
 - **Average Home Heating Oil Prices by Region: Beginning 1997**  
-  [Data](https://data.ny.gov/resource/rc94-5y2u.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rc94-5y2u) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/rc94-5y2u.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rc94-5y2u) | Last update: Aug 2024  
   For current and historical residential retail price data, regional comparisons, and fuel type comparisons, please visit the Home Heating Oil Prices Dashboard: https://www.nyserda.ny.gov/Researchers-and-Policymakers/Energy-Prices/Home-Heating-Oil/Average-Home-Heating-Oil-Prices 
 
 - **Average Residential Retail Propane Prices by Region: Beginning 1997**  
-  [Data](https://data.ny.gov/resource/keug-6vc5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/keug-6vc5) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/keug-6vc5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/keug-6vc5) | Last update: Aug 2024  
   The New York State Energy Research and Development Authority (NYSERDA) offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and reduce reliance on fossil fuels. To learn more about NYSERDAs programs, visit nyserda.ny.gov or follow us on X, Facebook, YouTube, or Instagram.
 
 - **Biodiversity by County - Distribution of Animals, Plants and Natural Communities**  
@@ -2601,7 +2677,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data containing municipal wastewater treatment plant design other features, with data current through the most recent survey.
 
 - **Current Employment Statistics: Beginning 1990**  
-  [Data](https://data.ny.gov/resource/6k74-dgkb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6k74-dgkb) | Last update: Jun 2024
+  [Data](https://data.ny.gov/resource/6k74-dgkb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6k74-dgkb) | Last update: Jul 2024
 
 - **Employment Status of the Civilian Noninstitutional Population (16 Years and Over)**  
   [Data](https://data.ny.gov/resource/wkup-gbbg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/wkup-gbbg) | Last update: Jan 2024  
@@ -2631,11 +2707,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Occupational Employment and Wage Statistics (OEWS) survey is a semiannual mail survey of employers that measures occupational employment and occupational wage rates for wage and salary workers in nonfarm establishments, by industry.
 
 - **Oil, Gas, & Other Regulated Wells: Beginning 1860**  
-  [Data](https://data.ny.gov/resource/szye-wmt3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/szye-wmt3) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/szye-wmt3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/szye-wmt3) | Last update: Aug 2024  
   Information on oil, gas, storage, solution salt, stratigraphic, and geothermal wells in New York State
 
 - **Orphaned Wells**  
-  [Data](https://data.ny.gov/resource/vgue-bamz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/vgue-bamz) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/vgue-bamz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/vgue-bamz) | Last update: Aug 2024  
   List of wells that are regulated under the Oil, Gas and Solution Mining Law (ECL Article 23) in New York State that are orphaned and not plugged.
 
 - **RSBS HVAC: New York State Residential Statewide Baseline Study: Heating, Ventilation, and Air Conditioning (HVAC) Contractor Survey**  
@@ -2891,10 +2967,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.pa.gov
 
 - **American Community Survey (ACS) Computer, Internet and Population Census Tract**  
-  [Data](https://data.pa.gov/resource/suq7-awmm.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/suq7-awmm) | Last update: Jul 2024
+  [Data](https://data.pa.gov/resource/suq7-awmm.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/suq7-awmm) | Last update: Aug 2024
 
 - **Census ACS Educational Attainment Working Age**  
-  [Data](https://data.pa.gov/resource/32q3-hhqg.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/32q3-hhqg) | Last update: Jul 2024  
+  [Data](https://data.pa.gov/resource/32q3-hhqg.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/32q3-hhqg) | Last update: Aug 2024  
   Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 - **Housing Tenure & Costs County**  
@@ -3064,7 +3140,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.sccgov.org/resource/h2qp-3hfs.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/h2qp-3hfs) | Last update: Feb 2023
 
 - **COVID-19 Vaccination among County Residents by Census Tract**  
-  [Data](https://data.sccgov.org/resource/qx2e-7jz2.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/qx2e-7jz2) | Last update: Jul 2024
+  [Data](https://data.sccgov.org/resource/qx2e-7jz2.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/qx2e-7jz2) | Last update: Aug 2024
 
 - **County Map Books**  
   [Data](https://data.sccgov.org/resource/f5uv-khdt.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/f5uv-khdt) | Last update: Dec 2023
@@ -3087,7 +3163,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.somervillema.gov
 
 - **311 Service, Information, and Feedback Requests**  
-  [Data](https://data.somervillema.gov/resource/4pyi-uqq6.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/4pyi-uqq6) | Last update: Jul 2024  
+  [Data](https://data.somervillema.gov/resource/4pyi-uqq6.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/4pyi-uqq6) | Last update: Aug 2024  
   This dataset includes data starting in July 2015. This dataset was updated in November 2023 to include Feedback and Information Requests in addition to Service Requests. Please redownload the data for the most up to date information. This dataset will be updated monthly.
 
 - **Americans with Disabilities Act Community Survey Results**  
@@ -3120,27 +3196,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Point In Time Homeless Survey Data**  
   [Data](https://data.sonomacounty.ca.gov/resource/d5jk-fziy.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/d5jk-fziy) | Last update: Jul 2019  
   The survey data is derived from a sample of about 600 homeless persons countywide per year. The resulting information is statistically reliable only for the county as a whole, not for individual locations. The exception is the City of Santa Rosa, where the sample taken within the city is large enough to be predictive of the overall homeless population in that city.
-
-[[TOP]](#toc)
-
-
-## data.texas.gov
-
-- **Texas East Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/r8gw-h8cs.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/r8gw-h8cs) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
-
-- **Texas North Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/arek-dthg.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/arek-dthg) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
-
-- **Texas South Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/ugt2-g8xm.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ugt2-g8xm) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
-
-- **Texas West Region Original Land Survey Polygons**  
-  [Data](https://data.texas.gov/resource/g3ex-37ca.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/g3ex-37ca) | Last update: Jun 2024  
-  The construction and placement  of these survey polygons are not to be used to define or establish survey boundaries.
 
 [[TOP]](#toc)
 
@@ -3179,11 +3234,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/4wd7-u6b8.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/4wd7-u6b8) | Last update: Oct 2021
 
 - **Childcare Need & Supply (All)**  
-  [Data](https://data.wa.gov/resource/hiqz-y2vv.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/hiqz-y2vv) | Last update: Jun 2024  
+  [Data](https://data.wa.gov/resource/hiqz-y2vv.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/hiqz-y2vv) | Last update: Aug 2024  
   Statewide, DCYF estimates that families of about 293,000 children age B-5 not yet in school need child care, because all available parents in the home are working. Only about 27% of these children are served by licensed child care, preschool, and/or subsidized child care.
 
 - **ECEAP & Head Start Take Up Dashboard**  
-  [Data](https://data.wa.gov/resource/6ra4-baac.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/6ra4-baac) | Last update: Jun 2024  
+  [Data](https://data.wa.gov/resource/6ra4-baac.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/6ra4-baac) | Last update: Aug 2024  
   This data is a summary data set from the ECEAP and Head Start Take Up Dashboard. The dashboard illustrates the number of eligible families who take up ECEAP or Head Start preschool slots. It shows the number of children served by ECEAP or Head Start as a proportion of the selected population filters. https://www.dcyf.wa.gov/practice/oiaa/reports/early-learning-dashboards/eceap-headstart-dashboard
 
 - **Educational Attainment of Washington Population by Age, Race/Ethnicity/, and PUMA Region**  
@@ -3191,11 +3246,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The official population count  including population by age, sex, race and Hispanic origin  comes from the once-a-decade census, supplemented by annual population estimates (which do not typically contain educational attainment variables) from the following groups and surveys:  
 
 - **Electric Vehicle Population Data**  
-  [Data](https://data.wa.gov/resource/f6w7-q2d2.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/f6w7-q2d2) | Last update: Jun 2024  
+  [Data](https://data.wa.gov/resource/f6w7-q2d2.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/f6w7-q2d2) | Last update: Jul 2024  
   This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
 
 - **Electric Vehicle Title and Registration Activity**  
-  [Data](https://data.wa.gov/resource/rpr4-cgyd.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/rpr4-cgyd) | Last update: Jun 2024  
+  [Data](https://data.wa.gov/resource/rpr4-cgyd.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/rpr4-cgyd) | Last update: Jul 2024  
   This shows records of title activity (transactions recording changes of ownership), and registration activity (transactions authorizing vehicles to be used on Washington public roads).
 
 - **LEA Academic and Student Well-being Plans**  
@@ -3226,14 +3281,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Tabular results of the Annual Technology Survey, submitted to the Office of the Superintendent of Public Instruction (OSPI). This dataset combines multiple years of the survey data to allow longitudinal analysis.
 
 - **Subsidy Uptake Dashboard**  
-  [Data](https://data.wa.gov/resource/utij-tv86.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/utij-tv86) | Last update: Jun 2024  
+  [Data](https://data.wa.gov/resource/utij-tv86.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/utij-tv86) | Last update: Aug 2024  
   About 44,000 children are currently served with childcare subsidies. Statewide, we estimate the uptake of subsidies among all eligible children at about 15%. These estimates vary by age group and time. Currently, DCYF estimates about 11% of infants, 25% of toddlers, 31% of preschool-age, and 10% of school-age children in eligible households are participating in subsidized childcare.
 
 - **Vehicle Registration Transactions by Department of Licensing**  
-  [Data](https://data.wa.gov/resource/brw6-jymh.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/brw6-jymh) | Last update: Jun 2024
+  [Data](https://data.wa.gov/resource/brw6-jymh.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/brw6-jymh) | Last update: Jul 2024
 
 - **Vehicle Title Transactions by Department of Licensing**  
-  [Data](https://data.wa.gov/resource/cdk6-5kdf.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/cdk6-5kdf) | Last update: Jun 2024
+  [Data](https://data.wa.gov/resource/cdk6-5kdf.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/cdk6-5kdf) | Last update: Jul 2024
 
 - **Washington Health Workforce Survey Data**  
   [Data](https://data.wa.gov/resource/cvrw-ujje.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/cvrw-ujje) | Last update: Apr 2024  
@@ -3438,11 +3493,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/gprp-i5cz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gprp-i5cz) | Last update: May 2024
 
 - **Traffic Cameras**  
-  [Data](https://datahub.austintexas.gov/resource/b4k4-adkb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b4k4-adkb) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/b4k4-adkb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b4k4-adkb) | Last update: Aug 2024  
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of traffic signals.
 
 - **Traffic Signals Status**  
-  [Data](https://datahub.austintexas.gov/resource/5zpr-dehc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5zpr-dehc) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/5zpr-dehc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5zpr-dehc) | Last update: Aug 2024  
   It also occasionally happens that the event that disables a traffic signal also disables network communication to the signal, in which case the signal outage will not be reported here.
 
 [[TOP]](#toc)
@@ -3736,11 +3791,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usac.org
 
 - **E-Rate Request for Discount on Services: Discount Calculations**  
-  [Data](https://datahub.usac.org/resource/upfy-khtr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/upfy-khtr) | Last update: Jul 2024  
+  [Data](https://datahub.usac.org/resource/upfy-khtr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/upfy-khtr) | Last update: Aug 2024  
   This dataset contains information about the discount calculations included within each FCC Form 471 and related information from the E-Rate Productivity Center (EPC).
 
 - **E-Rate Supplemental Entity Information**  
-  [Data](https://datahub.usac.org/resource/7i5i-83qf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/7i5i-83qf) | Last update: Jul 2024  
+  [Data](https://datahub.usac.org/resource/7i5i-83qf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/7i5i-83qf) | Last update: Aug 2024  
   This dataset contains E-Rate Productivity Center (EPC) information about schools, libraries, school districts, library systems, consortia, and non-instructional facilities (NIFs). For Annexes information, please refer to the "E-Rate Supplemental Entity Information: Annexes" dataset.
 
 [[TOP]](#toc)
@@ -5103,11 +5158,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://health.data.ny.gov/resource/yupb-4vts.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/yupb-4vts) | Last update: Oct 2023
 
 - **New York State Statewide COVID-19 Fatalities by County**  
-  [Data](https://health.data.ny.gov/resource/xymy-pny5.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/xymy-pny5) | Last update: Jul 2024  
+  [Data](https://health.data.ny.gov/resource/xymy-pny5.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/xymy-pny5) | Last update: Aug 2024  
   The information in this dataset is also updated daily on the NYS COVID-19 Tracker at https://www.ny.gov/covid-19tracker.
 
 - **New York State Statewide COVID-19 Hospitalizations and Beds**  
-  [Data](https://health.data.ny.gov/resource/jw46-jpb7.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jw46-jpb7) | Last update: Jul 2024  
+  [Data](https://health.data.ny.gov/resource/jw46-jpb7.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jw46-jpb7) | Last update: Aug 2024  
   This dataset includes information at the reporting facility level on patients hospitalized, admitted, discharged and fatalities.
 
 - **New York State Statewide Certified Home Health Agencies (CHHA) Staff COVID-19 Vaccinations**  
@@ -5127,8 +5182,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset includes LHCSA information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
 
 - **Nursing Home Weekly Bed Census: Last Submission**  
-  [Data](https://health.data.ny.gov/resource/izta-vnpq.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/izta-vnpq) | Last update: Jun 2024  
+  [Data](https://health.data.ny.gov/resource/izta-vnpq.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/izta-vnpq) | Last update: Jul 2024  
   The Department of Health requires nursing homes to complete electronic filing of each facility's licensed nursing home beds and availability by bed category on a weekly basis. This dataset is refreshed monthly.
+
+[[TOP]](#toc)
+
+
+## healthdata.tn.gov
+
+- **Showcase Projects**  
+  [Data](https://healthdata.tn.gov/resource/n5dx-bxii.json) | [Docs](https://dev.socrata.com/foundry/healthdata.tn.gov/n5dx-bxii) | Last update: Jul 2024  
+  Collection of works including conference abstracts, publications, and oral presentations produced by TDH staff.
 
 [[TOP]](#toc)
 
@@ -5136,7 +5200,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## highways.hidot.hawaii.gov
 
 - **Fatal Crash Alternate**  
-  [Data](https://highways.hidot.hawaii.gov/resource/xr73-pg3t.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/xr73-pg3t) | Last update: Jul 2024  
+  [Data](https://highways.hidot.hawaii.gov/resource/xr73-pg3t.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/xr73-pg3t) | Last update: Aug 2024  
   Fatal Crashes from ArcGIS Survey Nightly Updated
 
 - **HDOT Complaints**  
@@ -5282,7 +5346,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Employee engagement data from an employee survey conducted by Pierce County and completed voluntarily by employees. Numeric responses correspond with the following answers: 0=N/A, 1=Strongly Disagree, 2=Disagree, 3=Agree, 4=Strongly Agree.
 
 - **HR U.S. Bureau of Labor Statistics Turnover**  
-  [Data](https://internal.open.piercecountywa.gov/resource/9h52-qp7q.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9h52-qp7q) | Last update: Jul 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/9h52-qp7q.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9h52-qp7q) | Last update: Aug 2024  
   Job Openings and Labor Turnover Survey data from the U.S. Bureau of Labor Statistics
 
 - **HS VCCC Client Gender**  
@@ -5306,7 +5370,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   County and State values are from the American Community Survey (ACS) 1 Year Survey
 
 - **Human Services Customer Satisfaction Results**  
-  [Data](https://internal.open.piercecountywa.gov/resource/x8ga-gfzr.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/x8ga-gfzr) | Last update: Jul 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/x8ga-gfzr.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/x8ga-gfzr) | Last update: Aug 2024  
   Percentage of survey responders rating their satisfaction level at 4 and above.
 
 - **IT Service Desk Customer Satisfaction Survey**  
@@ -5470,7 +5534,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set corresponds to a survey performed between July and September of 2015 on 6 countries from Latin America and the Caribbean. 11,500 citizens provided information about their experience with a specific set of government services.
 
 - **Social Indicators of Latin America and the Caribbean**  
-  [Data](https://mydata.iadb.org/resource/q8e9-eb82.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/q8e9-eb82) | Last update: Jun 2024  
+  [Data](https://mydata.iadb.org/resource/q8e9-eb82.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/q8e9-eb82) | Last update: Jul 2024  
   The management and implementation of the Socimetro are provided by the Social Sector (SCL) of the Vice Presidency of Knowledge and Sectors to strengthen the analytical content of projects and studies. The indicators are not intended to serve as official data for any particular country but instead aim to provide a comparable set of social indicators for the Latin American region.
 
 - **Transformação digital dos governos brasileiros: Satisfação dos cidadãos com os serviços públicos digitais nos estados e no Distrito Federal. Dataset**  
@@ -5501,7 +5565,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains the budget and actual revenue self-reported by each city via their yearly budget forms filed with the Department of Management. Actual revenue data lags budget expenditures by a couple of fiscal years.
 
 - **County Actual Expenditures by Service Area by Fiscal Year**  
-  [Data](https://mydata.iowa.gov/resource/fxbr-vb9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/fxbr-vb9c) | Last update: Aug 2023  
+  [Data](https://mydata.iowa.gov/resource/fxbr-vb9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/fxbr-vb9c) | Last update: Jul 2024  
   This dataset provides actual county expenditure data for every county in the State of Iowa beginning in Fiscal Year 2010 (year ending June 30, 2010).
 
 - **County Boundaries of Iowa**  
@@ -5509,7 +5573,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Boundaries were developed from a set of 99 individual coverages of the Public Land Survey System (PLSS) for each county in the state. The PLSS coverages were digitized from paper copies of 7.5' topographic quadrangle maps. River boundaries were also digitized from 7.5' maps.
 
 - **County Budgeted Expenditures By Service Area By Fiscal Year**  
-  [Data](https://mydata.iowa.gov/resource/gk9s-gz9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gk9s-gz9c) | Last update: Aug 2023  
+  [Data](https://mydata.iowa.gov/resource/gk9s-gz9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gk9s-gz9c) | Last update: Jul 2024  
   This dataset provides budgeted expenditures for the counties within the State of Iowa beginning with FY 2005 (fiscal year ending 6/30/2005).
 
 - **Housing Units in Iowa by Occupancy Status (ACS 5-Year Estimates)**  
@@ -5517,7 +5581,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Iowa housing unit estimate by occupancy status for State of Iowa, individual Iowa counties, Iowa places and census tracts within Iowa.
 
 - **ICN Leased Telecommunications Connections (Part III Sites)**  
-  [Data](https://mydata.iowa.gov/resource/tcu2-q5es.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tcu2-q5es) | Last update: Aug 2023  
+  [Data](https://mydata.iowa.gov/resource/tcu2-q5es.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tcu2-q5es) | Last update: Jul 2024  
   Listing of current leased public and nonpublic school district sites connected to leased fiber-optic infrastructure that contains vendors and current telecommunications connection types. Data does not include Part III sites owned by the State.
 
 - **Iowa Child Abuse Occurrences by Year, County and Type of Abuse**  
@@ -5541,7 +5605,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Iowa population estimate for individuals 16 years and older by employment status for State of Iowa, individual Iowa counties, Iowa places and census tracts within Iowa.
 
 - **Iowa Family Investment Program Recipients and Grants by Month and County**  
-  [Data](https://mydata.iowa.gov/resource/79c3-mzyc.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/79c3-mzyc) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/79c3-mzyc.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/79c3-mzyc) | Last update: Jul 2024  
   Data are provided on the number of cases (families) served, the number of recipients served and the dollar value of the payments provided summed by month and county starting January 2011 and updated monthly. A case is defined as a family group who receives FIP assistance together. A recipient is an individual on a FIP case.
 
 - **Iowa Fleet Summary By Year, County And Vehicle Type**  
@@ -5549,7 +5613,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Vehicle types include: Autocycle, Automobile, Bus, Moped, Motor Home - A, Motor Home - B, Motor Home - C, Motorcycle, Multi-purpose, Regular Trailer, Semi Trailer, Small Regular Trailer, Small Semi Trailer, Truck Tractor, Travel Trailer, Truck, Truck - Business Trade, and Truck - Weight and List.
 
 - **Iowa Food Assistance Program Statistics by Month and County**  
-  [Data](https://mydata.iowa.gov/resource/nqiw-f9td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/nqiw-f9td) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/nqiw-f9td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/nqiw-f9td) | Last update: Jul 2024  
   The Food Assistance Program provides Electronic Benefit Transfer (EBT) cards that can be used to buy groceries at supermarkets, grocery stores and some Farmers Markets. This dataset provides data on the number of households, recipients and cash assistance provided through the Food Assistance Program participation in Iowa by month and county starting in January 2011 and updated monthly.
 
 - **Iowa Geographic Names**  
@@ -5581,7 +5645,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Household type includes Total Households, Family - All Types, Family - Married Couple, Family - All Single Householders, Family - Male Householder - No Wife Present, Family - Female Householder - No Husband Present, Nonfamily - All Types, Nonfamily - Male Householder, Nonfamily - Female Householder, Total Households w/Minors, and Total Households w/o Minors.
 
 - **Iowa Local Area Unemployment Statistics**  
-  [Data](https://mydata.iowa.gov/resource/tjnj-ed6z.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tjnj-ed6z) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/tjnj-ed6z.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tjnj-ed6z) | Last update: Jul 2024  
   This dataset contains employment, unemployment, labor force, and labor force participation rates for Iowa, the counties, cities, and metropolitan statistical areas.
 
 - **Iowa Median Age by Sex (ACS 5-Year Estimates)**  
@@ -5621,7 +5685,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains estimate for median household income in past 12 months for State of Iowa, individual Iowa counties, Iowa places and census tracts within Iowa.
 
 - **Iowa Medicaid Payments & Recipients by Month and County**  
-  [Data](https://mydata.iowa.gov/resource/jmyd-wk9g.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/jmyd-wk9g) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/jmyd-wk9g.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/jmyd-wk9g) | Last update: Jul 2024  
   This dataset contains aggregate Medicaid payments, and counts for eligible recipients and recipients served by month and county in Iowa, starting with month ending 1/31/2011.
 
 - **Iowa Population 16 Years and Over by Sex and Earnings in Past 12 Months (ACS 5-Year Estimates)**  
@@ -5701,7 +5765,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset provides employment, unemployment, labor force and unemployment rate monthly estimates for State of Iowa, Iowa counties, metropolitan statistical areas, and large cities within Iowa.
 
 - **Iowa Unemployment Insurance Benefit Payments and Recipients by County (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/aeyn-twxp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/aeyn-twxp) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/aeyn-twxp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/aeyn-twxp) | Last update: Aug 2024  
   This dataset contains Iowa unemployment insurance benefit payments, weeks compensated, and number of benefit recipients by county.
 
 - **Iowa Unemployment Insurance Benefit Payments and UI Recipients by County (Annual)**  
@@ -5709,22 +5773,22 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Iowa unemployment insurance benefit payments, weeks compensated, and number of benefit recipients by county. County data is based on the recipients place of residence.
 
 - **Iowa Unemployment Insurance Claimants by Age (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/7uss-66ak.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/7uss-66ak) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/7uss-66ak.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/7uss-66ak) | Last update: Jul 2024  
   This dataset provides information on the age composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey.
 
 - **Iowa Unemployment Insurance Claimants by Industry Sector (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/ck65-myxr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ck65-myxr) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/ck65-myxr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ck65-myxr) | Last update: Jul 2024  
   This dataset provides information on the industry composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey. (Source: ETA-203)
 
 - **Iowa Unemployment Insurance Claimants by Occupational Group (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/2ypv-48td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/2ypv-48td) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/2ypv-48td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/2ypv-48td) | Last update: Jul 2024  
   This dataset provides information on the occupational composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey.
 
 - **Iowa Unemployment Insurance Claimants by Race and Ethnicity (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/xhef-iq3u.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xhef-iq3u) | Last update: Jun 2024
+  [Data](https://mydata.iowa.gov/resource/xhef-iq3u.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xhef-iq3u) | Last update: Jul 2024
 
 - **Iowa Unemployment Insurance Claimants by Sex (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/t92x-wtrh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/t92x-wtrh) | Last update: Jun 2024  
+  [Data](https://mydata.iowa.gov/resource/t92x-wtrh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/t92x-wtrh) | Last update: Jul 2024  
   This dataset provides information on the gender composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey. (Source: ETA-203)
 
 - **Iowa Unemployment Insurance Initial Claims by County (Monthly)**  
@@ -5740,11 +5804,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset is from the Iowa Wage survey which is based on the Occupation Employment Statistics (OES) program from the Bureau of Labor Statistics (BLS). This data is updated to reflect more current statistics using cost of living indicators.
 
 - **Low Distortion Projection Boundaries**  
-  [Data](https://mydata.iowa.gov/resource/tka6-67e8.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tka6-67e8) | Last update: Apr 2024  
+  [Data](https://mydata.iowa.gov/resource/tka6-67e8.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tka6-67e8) | Last update: Jul 2024  
   Low Distortion Projection (LDP) Boundaries for Iowa
 
 - **Low Distortion Projection Boundaries**  
-  [Data](https://mydata.iowa.gov/resource/r9u7-vxtg.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/r9u7-vxtg) | Last update: Apr 2024  
+  [Data](https://mydata.iowa.gov/resource/r9u7-vxtg.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/r9u7-vxtg) | Last update: Jul 2024  
   Low Distortion Projection (LDP) Boundaries for Iowa
 
 - **Median Age of Iowa Workers 16 to 64 Years by Sex (ACS 5-Year Estimates)**  
@@ -5780,7 +5844,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset provides forfeiture case information including the money, real estate and vehicles seized in the State of Iowa beginning October 6, 2016.
 
 - **Survey Markers**  
-  [Data](https://mydata.iowa.gov/resource/srqk-5uvp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/srqk-5uvp) | Last update: Apr 2024
+  [Data](https://mydata.iowa.gov/resource/srqk-5uvp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/srqk-5uvp) | Last update: Jul 2024
 
 - **Taxable Property Values in Iowa by Tax District and Year**  
   [Data](https://mydata.iowa.gov/resource/ig9g-pba5.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ig9g-pba5) | Last update: Jul 2024  
@@ -5914,11 +5978,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
 
 - **SkiTrails XC**  
-  [Data](https://opendata.utah.gov/resource/8hhv-avi3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8hhv-avi3) | Last update: Apr 2024  
+  [Data](https://opendata.utah.gov/resource/tfxs-wiqp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tfxs-wiqp) | Last update: Apr 2024  
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
 
 - **SkiTrails XC**  
-  [Data](https://opendata.utah.gov/resource/tfxs-wiqp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tfxs-wiqp) | Last update: Apr 2024  
+  [Data](https://opendata.utah.gov/resource/8hhv-avi3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8hhv-avi3) | Last update: Apr 2024  
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
 
 - **Soils**  
@@ -6113,7 +6177,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://performance.cityofhenderson.com/resource/6cd6-6gb3.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/6cd6-6gb3) | Last update: Dec 2023
 
 - **Public Safety Response Times**  
-  [Data](https://performance.cityofhenderson.com/resource/uymg-gn4m.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/uymg-gn4m) | Last update: May 2024
+  [Data](https://performance.cityofhenderson.com/resource/uymg-gn4m.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/uymg-gn4m) | Last update: Jul 2024
 
 - **Resident Satisfaction with Emergency Preparedness**  
   [Data](https://performance.cityofhenderson.com/resource/yr6e-d6a4.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/yr6e-d6a4) | Last update: May 2023  
@@ -6394,7 +6458,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.data.act.gov.au
 
 - **ACT General Health Survey (GHS) - dashboard**  
-  [Data](https://www.data.act.gov.au/resource/emkf-e7w2.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/emkf-e7w2) | Last update: Apr 2024
+  [Data](https://www.data.act.gov.au/resource/emkf-e7w2.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/emkf-e7w2) | Last update: Jul 2024
 
 - **ACT Physical Activity and Nutrition Survey (ACTPANS) - dashboard**  
   [Data](https://www.data.act.gov.au/resource/65fg-fy8c.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/65fg-fy8c) | Last update: Jun 2024
@@ -6511,11 +6575,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data prior to 2015 is excluded due to the use of different survey sites and collection methodology. Data for site G14 is only available for 2017 and 2018, and no methodology details are currently available for this location.
 
 - **Temporary Traffic Management (TTM) - Planned Footpath Closures (Historical Data)**  
-  [Data](https://www.data.act.gov.au/resource/wjk9-amg5.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/wjk9-amg5) | Last update: Jul 2024  
+  [Data](https://www.data.act.gov.au/resource/wjk9-amg5.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/wjk9-amg5) | Last update: Aug 2024  
   This data set is a record of planned footpath closures within the ACT based on the submission of Temporary Traffic Management (TTM) plans. This data contains all information recorded since the implementation of an ESRI Survey 123 solution to handle TTM Applications.
 
 - **Temporary Traffic Management (TTM) - Planned Road Closures (Historical Data)**  
-  [Data](https://www.data.act.gov.au/resource/dnpz-i67g.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/dnpz-i67g) | Last update: Jul 2024  
+  [Data](https://www.data.act.gov.au/resource/dnpz-i67g.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/dnpz-i67g) | Last update: Aug 2024  
   This data set is a record of planned road closures within the ACT based on the submission of Temporary Traffic Management (TTM) plans. This data contains all information recorded since the implementation of an ESRI Survey 123 solution to handle TTM Applications.
 
 - **Unplanned Footpath Closures (Historical Data)**  
@@ -6532,19 +6596,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.thedatazone.ca
 
 - **Statistics Canada Building Permit Survey Data - Section A**  
-  [Data](https://www.thedatazone.ca/resource/ccb7-58dr.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/ccb7-58dr) | Last update: Jul 2024  
+  [Data](https://www.thedatazone.ca/resource/ccb7-58dr.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/ccb7-58dr) | Last update: Aug 2024  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section A: Major Construction Projects. Section A includes all residential permits which are for more than $50 000 or which result in the creation or demolition of a unit. This section also covers all non-residential permits of more than $250 000.
 
 - **Statistics Canada Building Permit Survey Data - Section B**  
-  [Data](https://www.thedatazone.ca/resource/cd73-9dph.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/cd73-9dph) | Last update: Jul 2024  
+  [Data](https://www.thedatazone.ca/resource/cd73-9dph.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/cd73-9dph) | Last update: Aug 2024  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section B: Minor Residential Additions and Renovations. Section B includes all permits for minor additions and renovations, that is, those of a value of less than $50 000.
 
 - **Statistics Canada Building Permit Survey Data - Section C**  
-  [Data](https://www.thedatazone.ca/resource/uqah-83mx.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/uqah-83mx) | Last update: Jul 2024  
+  [Data](https://www.thedatazone.ca/resource/uqah-83mx.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/uqah-83mx) | Last update: Aug 2024  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section C: Minor Non-Residential Projects. Section C includes all permits for minor non-residential projects with a value of less than $250 000.
 
 - **Statistics Canada Building Permit Survey Data - Section D**  
-  [Data](https://www.thedatazone.ca/resource/k4b5-sybw.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/k4b5-sybw) | Last update: Jul 2024  
+  [Data](https://www.thedatazone.ca/resource/k4b5-sybw.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/k4b5-sybw) | Last update: Aug 2024  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section D: Residential Demolitions. Section D includes all permits for residential demolitions.
 
 [[TOP]](#toc)

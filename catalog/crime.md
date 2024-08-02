@@ -8,7 +8,6 @@
 - [cityofchicago-v2.demo.socrata.com](#cityofchicago-v2demosocratacom)
 - [controllerdata.lacity.org](#controllerdatalacityorg)
 - [corstat.coronaca.gov](#corstatcoronacagov)
-- [dashboard.plano.gov](#dashboardplanogov)
 - [data.albanyny.gov](#dataalbanynygov)
 - [data.bloomington.in.gov](#databloomingtoningov)
 - [data.brla.gov](#databrlagov)
@@ -20,13 +19,13 @@
 - [data.cityofchicago.org](#datacityofchicagoorg)
 - [data.cityofgainesville.org](#datacityofgainesvilleorg)
 - [data.cityofnewyork.us](#datacityofnewyorkus)
+- [data.colorado.gov](#datacoloradogov)
 - [data.cstx.gov](#datacstxgov)
 - [data.delaware.gov](#datadelawaregov)
 - [data.dumfriesva.gov](#datadumfriesvagov)
 - [data.edmonton.ca](#dataedmontonca)
 - [data.everettwa.gov](#dataeverettwagov)
 - [data.fortworthtexas.gov](#datafortworthtexasgov)
-- [data.hartford.gov](#datahartfordgov)
 - [data.honolulu.gov](#datahonolulugov)
 - [data.kcmo.org](#datakcmoorg)
 - [data.kingcounty.gov](#datakingcountygov)
@@ -164,7 +163,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Coming soon, look for a new dataset based on NIBRS, which will provide more complete and comprehensive data for law enforcement, researchers, and the public.
 
 - **Homeless Outreach Project (HOP) - Police**  
-  [Data](https://citydata.mesaaz.gov/resource/w8ps-9kpk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/w8ps-9kpk) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/w8ps-9kpk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/w8ps-9kpk) | Last update: Aug 2024  
   Service Acceptance = No crime or criminal activity is occurring. Individual is contacted and is offered shelter, medical, or mental health services and accepts placement into one of these services. Individual is transported to CBI by officer, Navigators are called and transport individual for shelter, or fire transports subject to an appropriate facility.
 
 - **Police Dispatch Events 2017-2020**  
@@ -206,20 +205,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
-## dashboard.plano.gov
-
-- **5 Year Ongoing Comparison w/Average**  
-  [Data](https://dashboard.plano.gov/resource/g4xq-4ywq.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/g4xq-4ywq) | Last update: Aug 2022
-
-- **5 Year Ongoing Comparison w/o Average**  
-  [Data](https://dashboard.plano.gov/resource/9bja-wc82.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/9bja-wc82) | Last update: Aug 2022
-
-- **Data per Month- 2021**  
-  [Data](https://dashboard.plano.gov/resource/668m-r6js.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/668m-r6js) | Last update: Mar 2022
-
-[[TOP]](#toc)
-
-
 ## data.albanyny.gov
 
 - **APD Arrests Dataset by Neighborhood**  
@@ -251,11 +236,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bloomington.in.gov
 
 - **Hate Crimes**  
-  [Data](https://data.bloomington.in.gov/resource/vzyb-ttns.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/vzyb-ttns) | Last update: Jul 2024  
+  [Data](https://data.bloomington.in.gov/resource/vzyb-ttns.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/vzyb-ttns) | Last update: Aug 2024  
   Information from Bloomington Police Department cases where a hate or bias crime has been reported.
 
 - **Officers Assaulted**  
-  [Data](https://data.bloomington.in.gov/resource/ewe6-uknm.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/ewe6-uknm) | Last update: Jul 2024  
+  [Data](https://data.bloomington.in.gov/resource/ewe6-uknm.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/ewe6-uknm) | Last update: Aug 2024  
   Information found in this report follow the Uniformed Crime Reporting guidelines established by the FBI for LEOKA.
 
 [[TOP]](#toc)
@@ -264,7 +249,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.brla.gov
 
 - **Baton Rouge Police Crime Incidents**  
-  [Data](https://data.brla.gov/resource/pbin-pcm7.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/pbin-pcm7) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/pbin-pcm7.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/pbin-pcm7) | Last update: Aug 2024  
   Crime incident reports beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society that occurred within the City of Baton Rouge and responded to by the Baton Rouge Police Department.
 
 - **Crime Prevention District**  
@@ -272,11 +257,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying crime prevention districts in East Baton Rouge Parish, Louisiana.
 
 - **EBR Sheriff's Office Crime Incidents**  
-  [Data](https://data.brla.gov/resource/7y8j-nrht.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7y8j-nrht) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/7y8j-nrht.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7y8j-nrht) | Last update: Aug 2024  
   Crime incident reports beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society that occurred within the Parish of East Baton Rouge and responded to by the East Baton Rouge Parish Sheriff's Office.
 
 - **East Baton Rouge Parish Combined Crime Incidents**  
-  [Data](https://data.brla.gov/resource/6zc2-imdr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/6zc2-imdr) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/6zc2-imdr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/6zc2-imdr) | Last update: Aug 2024  
   Combination of crime incident reports from the East Baton Rouge Parish Sheriff's Office and the Baton Rouge Police Department, beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society.
 
 - **Legacy Baton Rouge Police Crime Incidents**  
@@ -303,27 +288,27 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset consists of numbers for casualty collision, pedestrian collisions, person crimes, property crimes and total disorder. The numbers are represented for full year for 2014 and 2015 and for each quarter from 2016 onwards
 
 - **Community Crime Statistics**  
-  [Data](https://data.calgary.ca/resource/78gh-n26t.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/78gh-n26t) | Last update: Jul 2024  
+  [Data](https://data.calgary.ca/resource/78gh-n26t.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/78gh-n26t) | Last update: Aug 2024  
   Data is provided monthly by the Calgary Police Service. This data is considered cumulative as late-reported incidents are often received well after an offence has occurred. Therefore, crime counts are subject to change as they are updated.
 
 - **Community Disorder Statistics**  
-  [Data](https://data.calgary.ca/resource/h3h6-kgme.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/h3h6-kgme) | Last update: Jul 2024  
+  [Data](https://data.calgary.ca/resource/h3h6-kgme.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/h3h6-kgme) | Last update: Aug 2024  
   Data source: Computer Aided Dispatch (CAD) run on the 4th of the month (or the closest business day) for the previous month. This data is considered to be static. Property Damage occurrences reported using the online reporting system are included from the CPS records management system (SENTRY). This data is considered to be cumulative.
 
 - **Police Districts**  
-  [Data](https://data.calgary.ca/resource/86mc-9jh2.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/86mc-9jh2) | Last update: Jul 2024  
+  [Data](https://data.calgary.ca/resource/86mc-9jh2.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/86mc-9jh2) | Last update: Aug 2024  
   Each District has a district office. These districts can be used to calculate information submitted by investigators on criminal activity. The crime statistics can be used to develop crime prevention strategies.
 
 - **Police Service**  
-  [Data](https://data.calgary.ca/resource/ap4r-bav3.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/ap4r-bav3) | Last update: Jul 2024  
+  [Data](https://data.calgary.ca/resource/ap4r-bav3.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/ap4r-bav3) | Last update: Aug 2024  
   Location of Calgary Police Service headquarters, district offices, and community stations.
 
 - **Police Zones**  
-  [Data](https://data.calgary.ca/resource/f6ia-q8cs.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/f6ia-q8cs) | Last update: Jul 2024  
+  [Data](https://data.calgary.ca/resource/f6ia-q8cs.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/f6ia-q8cs) | Last update: Aug 2024  
   Zones are smaller sub areas located within Police Districts. Zones are then broken down into geocode areas. Zones may be used for crime analysis.
 
 - **Social Disorder Statistics**  
-  [Data](https://data.calgary.ca/resource/4evm-wx9a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/4evm-wx9a) | Last update: Jul 2024  
+  [Data](https://data.calgary.ca/resource/4evm-wx9a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/4evm-wx9a) | Last update: Aug 2024  
   Social disorder data is provided monthly by Corporate Security and covers physical security operations within nine-block radius of City Hall and the Municipal Complex. Data reflects incidents and activity reported by City of Calgary security staff. Any resulting criminal or bylaw charges are not tracked within this dataset. Data sets posted may change over time.
 
 [[TOP]](#toc)
@@ -380,15 +365,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/5ygy-4y6j
 
 - **PDI (Police Data Initiative) Assaults on Officers**  
-  [Data](https://data.cincinnati-oh.gov/resource/bmmy-avxm.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/bmmy-avxm) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/bmmy-avxm.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/bmmy-avxm) | Last update: Aug 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/mrju-z9ui
 
 - **PDI (Police Data Initiative) Crime Incidents**  
-  [Data](https://data.cincinnati-oh.gov/resource/k59e-2pvf.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/k59e-2pvf) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/k59e-2pvf.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/k59e-2pvf) | Last update: Aug 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/8eaa-xrvz
 
 - **PDI (Police Data Initiative) Police Calls for Service (CAD)**  
-  [Data](https://data.cincinnati-oh.gov/resource/gexm-h6bt.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gexm-h6bt) | Last update: Jul 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/gexm-h6bt.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gexm-h6bt) | Last update: Aug 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/xw7t-5phj
 
 [[TOP]](#toc)
@@ -410,7 +395,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cityofchicago.org
 
 - **Arrests**  
-  [Data](https://data.cityofchicago.org/resource/dpt3-jri9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/dpt3-jri9) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/dpt3-jri9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/dpt3-jri9) | Last update: Aug 2024  
   Each record has an additional set of columns where a charge characteristic (statute, description, type, or class) for all four charges, or fewer if there were not four charges, is concatenated with the | character. These columns can be used with the Filter function's "Contains" operator to find all records where a value appears, without having to search four separate columns.
 
 - **Chicago Police Department - Illinois Uniform Crime Reporting (IUCR) Codes**  
@@ -418,10 +403,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Index offenses are the offenses that are collected nation-wide by the Federal Bureaus of Investigations Uniform Crime Reports program to document crime trends over time (data released semi-annually), and include murder, criminal sexual assault, robbery, aggravated assault & battery, burglary, theft, motor vehicle theft, and arson.
 
 - **Crimes - 2001 to Present**  
-  [Data](https://data.cityofchicago.org/resource/ijzp-q8t2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/ijzp-q8t2) | Last update: Jul 2024
+  [Data](https://data.cityofchicago.org/resource/ijzp-q8t2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/ijzp-q8t2) | Last update: Aug 2024
 
 - **Crimes - One year prior to present**  
-  [Data](https://data.cityofchicago.org/resource/x2n5-8w5q.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/x2n5-8w5q) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/x2n5-8w5q.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/x2n5-8w5q) | Last update: Aug 2024  
   The unauthorized use of the words "Chicago Police Department," "Chicago Police," or any colorable imitation of these words or the unauthorized use of the Chicago Police Department logo is unlawful. This web page does not, in any way, authorize such use.
 
 - **Police Sentiment Scores**  
@@ -429,7 +414,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset was used by Chicago Police Department analysts to create the publicly available Chicago Police Sentiment Dashboard (https://home.chicagopolice.org/statistics-data/data-dashboards/sentiment-dashboard/). This online dashboard displays information related to how safe Chicago residents feel and how much trust they have in the police.
 
 - **Sex Offenders**  
-  [Data](https://data.cityofchicago.org/resource/vc9r-bqvy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/vc9r-bqvy) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/vc9r-bqvy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/vc9r-bqvy) | Last update: Aug 2024  
   Anyone who uses information contained in the Sex Offender Database to commit a criminal act against another person is subject to criminal prosecution.
 
 - **Strategic Subject List - Historical**  
@@ -437,11 +422,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Please note that this data set includes fields that are not used to calculate SSL, for example, neither race nor sex are used in the Strategic Subject Algorithm. Portions of the arrest data are de-identified on the basis of privacy concerns. The attributes used in the Strategic Subject Algorithm were revised on an ongoing basis during the lifetime of the program.
 
 - **Violence Reduction - Shotspotter Alerts**  
-  [Data](https://data.cityofchicago.org/resource/3h7q-7mdb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/3h7q-7mdb) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/3h7q-7mdb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/3h7q-7mdb) | Last update: Aug 2024  
   ShotSpotter does not exist in every CPD district, and it was not rolled out in every district at the same time. ShotSpotter was first deployed in Chicago in 2017, and sensors exist in the following districts as of the May 2021 launch of this dataset: 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 015, and 025.
 
 - **Violence Reduction - Victims of Homicides and Non-Fatal Shootings**  
-  [Data](https://data.cityofchicago.org/resource/gumc-mgzr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/gumc-mgzr) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/gumc-mgzr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/gumc-mgzr) | Last update: Aug 2024  
   For a criminal homicide, the only sensible IUCR codes are 0110 (first-degree murder) or 0130 (second-degree murder). For a non-fatal shooting, a sensible IUCR code must signify a criminal sexual assault, a robbery, or, most commonly, an aggravated battery. In rare instances, the IUCR code in CPD's Crimes and Victims dataset do not align with the homicide/non-fatal shooting categorization:
 
 [[TOP]](#toc)
@@ -502,19 +487,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set contains count data on intimate partner elder abuse incidents, crimes and services provided to elder abuse survivors at the New York City Family Justice Center (FJC).
 
 - **Motor Vehicle Collisions - Crashes**  
-  [Data](https://data.cityofnewyork.us/resource/h9gi-nx95.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/h9gi-nx95.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) | Last update: Aug 2024  
   It should be noted that the data is preliminary and subject to change when the MV-104AN forms are amended based on revised crash details.For the most accurate, up to date statistics on traffic fatalities, please refer to the NYPD Motor Vehicle Collisions page (updated weekly) or Vision Zero View (updated monthly).
 
 - **Motor Vehicle Collisions - Person**  
-  [Data](https://data.cityofnewyork.us/resource/f55k-p6yu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f55k-p6yu) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/f55k-p6yu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f55k-p6yu) | Last update: Aug 2024  
   The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage (https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ny_overlay_mv-104an_rev05_2004.pdf).
 
 - **Motor Vehicle Collisions - Vehicles**  
-  [Data](https://data.cityofnewyork.us/resource/bm4k-52h4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bm4k-52h4) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/bm4k-52h4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bm4k-52h4) | Last update: Aug 2024  
   The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage (https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ny_overlay_mv-104an_rev05_2004.pdf).
 
 - **NYPD Arrest Data (Year to Date)**  
-  [Data](https://data.cityofnewyork.us/resource/uip8-fykc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uip8-fykc) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/uip8-fykc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uip8-fykc) | Last update: Jul 2024  
   Each record represents an arrest effected in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement.
 
 - **NYPD Arrests Data (Historic)**  
@@ -526,7 +511,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The data includes entries generated by members of the public as well as self-initiated entries by NYPD Members of Service. The data can be used for issues being responded to by the NYPD.
 
 - **NYPD Complaint Data Current (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/5uac-w243.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5uac-w243) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/5uac-w243.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5uac-w243) | Last update: Jul 2024  
   This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) for all complete quarters so far this year (2019). For additional details, please see the attached data dictionary in the About section.
 
 - **NYPD Complaint Data Historic**  
@@ -538,11 +523,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data is manually extracted every quarter and reviewed by the Office of Management Analysis and Planning before being posted on the NYPD website. Each record represents a criminal summons issued in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement. In addition, information related to suspect demographics is also included.
 
 - **NYPD Criminal Court Summons Incident Level Data (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/mv4k-y93f.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mv4k-y93f) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/mv4k-y93f.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mv4k-y93f) | Last update: Jul 2024  
   List of every criminal summons issued in NYC during the current calendar year.
 
 - **NYPD Hate Crimes**  
-  [Data](https://data.cityofnewyork.us/resource/bqiq-cu78.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bqiq-cu78) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/bqiq-cu78.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bqiq-cu78) | Last update: Jul 2024  
   Dataset containing confirmed hate crime incidents in NYC
 
 - **NYPD Neighborhood Coordination Officer (NCO) Directory**  
@@ -554,8 +539,48 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of every shooting incident that occurred in NYC going back to 2006 through the end of the previous calendar year.
 
 - **NYPD Shooting Incident Data (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/5ucz-vwe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5ucz-vwe8) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/5ucz-vwe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5ucz-vwe8) | Last update: Jul 2024  
   Each record represents a shooting incident in NYC and includes information about the event, the location and time of occurrence. In addition, information related to suspect and victim demographics is also included. This data can be used by the public to explore the nature of police enforcement activity. Please refer to the attached data footnotes for additional information about this dataset.
+
+- **NYPD Vehicle Stop Reports**  
+  [Data](https://data.cityofnewyork.us/resource/hn9i-dwpr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hn9i-dwpr) | Last update: Jun 2024  
+  Police incident level data documenting vehicular stops. Data is collected under New York City Administrative Code 14-191 and may be used to gain insight into police-initiated vehicle stops, demographics of people stopped, details of vehicles involved and resulting action of stops, if any.
+
+[[TOP]](#toc)
+
+
+## data.colorado.gov
+
+- **Annual Arrests in Colorado by Offense 1970-2022**  
+  [Data](https://data.colorado.gov/resource/xi5f-mkzt.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/xi5f-mkzt) | Last update: Mar 2024  
+  This datasets provides annual counts of arrests made by offense for 243 Police Agencies in Colorado.
+
+- **City of Denver Traffic Accidents**  
+  [Data](https://data.colorado.gov/resource/cpwf-cznk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/cpwf-cznk) | Last update: Aug 2024
+
+- **Colorado Violent Crime Rate vs Incarceration Rate, 1982-2012**  
+  [Data](https://data.colorado.gov/resource/jnqn-fw7d.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/jnqn-fw7d) | Last update: Apr 2022  
+  Murder and non-negligent manslaughter, forcible rape, robbery, and aggravated assault. National or state offense totals are based on data from all reporting agencies and estimates for unreported areas. Rates are the number of reported offenses per 100,000 population. These figures are based on end of calendar year populations.
+
+- **Crime Arrests by Police District 2001-2016 in Colorado**  
+  [Data](https://data.colorado.gov/resource/2e5i-5hfy.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/2e5i-5hfy) | Last update: Aug 2024  
+  Criminal arrests summarized by type of crime for police districts in Colorado from 2001 to 2016 from the Colorado Department of Public Safety (CDPS).
+
+- **Crime Offenses by Police District 2001-2016 in Colorado**  
+  [Data](https://data.colorado.gov/resource/ya69-n6ta.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ya69-n6ta) | Last update: Aug 2024  
+  Criminal offenses summarized by type of crime for police districts in Colorado for 2001 to 2016. Provided by the Colorado Department of Public Safety (CDPS).
+
+- **Crime Rates 1980-2012**  
+  [Data](https://data.colorado.gov/resource/mb89-xnkg.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/mb89-xnkg) | Last update: Dec 2014  
+  Offense Crimes Include: Violent crime (Murder and non-negligent manslaughter, forcible rape, robbery, and aggravated assault) & Property crime (Burglary, larceny-theft, and motor vehicle theft).
+
+- **Crimes in Colorado**  
+  [Data](https://data.colorado.gov/resource/j6g4-gayk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/j6g4-gayk) | Last update: Aug 2024  
+  Offenses in Colorado for 2016 through 2019 by Agency from the FBI's Crime Data Explorer.
+
+- **Crimes in Colorado 1997 to 2015**  
+  [Data](https://data.colorado.gov/resource/6vnq-az4b.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/6vnq-az4b) | Last update: Aug 2024  
+  Crime stats for the State of Colorado from 1997 to 2015. Data provided by the CDPS and the FBI's Crime Data Explorer (CDE).
 
 [[TOP]](#toc)
 
@@ -572,7 +597,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.delaware.gov
 
 - **Inmate Population**  
-  [Data](https://data.delaware.gov/resource/vnau-c4rn.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/vnau-c4rn) | Last update: Jul 2024  
+  [Data](https://data.delaware.gov/resource/vnau-c4rn.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/vnau-c4rn) | Last update: Aug 2024  
   The Delaware Department of Correction (DOC) operates four prison facilities (Level V), eight quasi-incarceration community corrections facilities that serve as violation of probation centers or work release centers (Level IV), and five Probation & Parole locations (Levels III, II, and I).
 
 - **State of Delaware NIBRS Crime Report Totals by Jurisdiction**  
@@ -636,7 +661,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The data is a "shapshot" of crime statistics as they were originally reported to  the Washington Association of Sheriffs and Police Chiefs (WASPC) and the FBI.
 
 - **Police Cases**  
-  [Data](https://data.everettwa.gov/resource/szww-y224.json) | [Docs](https://dev.socrata.com/foundry/data.everettwa.gov/szww-y224) | Last update: Jul 2024  
+  [Data](https://data.everettwa.gov/resource/szww-y224.json) | [Docs](https://dev.socrata.com/foundry/data.everettwa.gov/szww-y224) | Last update: Aug 2024  
   Police Cases represent all police incidents that result in a police report being generated by the responding officer.
 
 - **Violent Crime Rates with Comparisons**  
@@ -655,31 +680,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
-## data.hartford.gov
-
-- **Behind The Rocks SouthWest NRZ Part 1 Crime Data**  
-  [Data](https://data.hartford.gov/resource/gjqg-9572.json) | [Docs](https://dev.socrata.com/foundry/data.hartford.gov/gjqg-9572) | Last update: Jan 2015  
-  This data contains information for the Southwest and Behind The Rocks NRZ Strategic Plan. It is crime data for 1985, 1990, 1995, 2000,2005,2010, and 2013.
-
-- **Police 911 Calls for Service 05122021 to Current**  
-  [Data](https://data.hartford.gov/resource/uaxa-ans5.json) | [Docs](https://dev.socrata.com/foundry/data.hartford.gov/uaxa-ans5) | Last update: Jul 2024
-
-- **Police Incidents 01012005 to 05182021**  
-  [Data](https://data.hartford.gov/resource/889t-nwfu.json) | [Docs](https://dev.socrata.com/foundry/data.hartford.gov/889t-nwfu) | Last update: Mar 2022
-
-- **Police Incidents 05192021 to Current**  
-  [Data](https://data.hartford.gov/resource/w8n8-xfuk.json) | [Docs](https://dev.socrata.com/foundry/data.hartford.gov/w8n8-xfuk) | Last update: Aug 2023
-
-[[TOP]](#toc)
-
-
 ## data.honolulu.gov
 
 - **Crime Incidents**  
   [Data](https://data.honolulu.gov/resource/a96q-gyhq.json) | [Docs](https://dev.socrata.com/foundry/data.honolulu.gov/a96q-gyhq) | Last update: Aug 2016
 
 - **HPD Crime Incidents**  
-  [Data](https://data.honolulu.gov/resource/vg88-5rn5.json) | [Docs](https://dev.socrata.com/foundry/data.honolulu.gov/vg88-5rn5) | Last update: Jul 2024  
+  [Data](https://data.honolulu.gov/resource/vg88-5rn5.json) | [Docs](https://dev.socrata.com/foundry/data.honolulu.gov/vg88-5rn5) | Last update: Aug 2024  
   Visit crimemapping.com (https://www.crimemapping.com/) for a visual view of the data.
 
 [[TOP]](#toc)
@@ -693,10 +700,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Crimes by Type by 1980 Block - 2000 to 2006**  
   [Data](https://data.kcmo.org/resource/4c6g-hqvh.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/4c6g-hqvh) | Last update: Mar 2023
-
-- **KCPD Crime Data (2015-2023)**  
-  [Data](https://data.kcmo.org/resource/a36y-bdvq.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/a36y-bdvq) | Last update: May 2024  
-  This dataset reflects the KCPD Crime Reports, provided by KCPD, for the years of 2015 to 2023.
 
 - **KCPD Crime Data 2010 Final**  
   [Data](https://data.kcmo.org/resource/tk79-kf9y.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/tk79-kf9y) | Last update: Dec 2023
@@ -741,7 +744,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.kingcounty.gov
 
 - **KCSO Offense Reports: 2020 to Present**  
-  [Data](https://data.kingcounty.gov/resource/4kmt-kfqf.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/4kmt-kfqf) | Last update: Jul 2024  
+  [Data](https://data.kingcounty.gov/resource/4kmt-kfqf.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/4kmt-kfqf) | Last update: Aug 2024  
   Once a report is re-approved, it will show back up in the data set. Other than approval status, the report case status is factored into what can be released in the daily data set. As soon as a report case status matches the criteria for release, it will be included in the data set. For a list of offenses that are included in the data set, please see the attached pdf.
 
 [[TOP]](#toc)
@@ -750,7 +753,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.lacity.org
 
 - **Arrest Data from 2010 to 2019**  
-  [Data](https://data.lacity.org/resource/yru6-6re4.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/yru6-6re4) | Last update: May 2023
+  [Data](https://data.lacity.org/resource/yru6-6re4.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/yru6-6re4) | Last update: Aug 2024
 
 - **Arrest Data from 2020 to Present**  
   [Data](https://data.lacity.org/resource/amvf-fr72.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/amvf-fr72) | Last update: Jul 2024  
@@ -764,7 +767,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Starting on March 7th, 2024, the Los Angeles Police Department (LAPD) will adopt a new Records Management System for reporting crimes and arrests. This new system is being implemented to comply with the FBI's mandate to collect NIBRS-only data (NIBRS  FBI - https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs).
 
 - **LAPD RIPA (AB 953) STOP Person Detail from 7/1/2018 to Present**  
-  [Data](https://data.lacity.org/resource/bwdf-y5fe.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/bwdf-y5fe) | Last update: Jul 2024  
+  [Data](https://data.lacity.org/resource/bwdf-y5fe.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/bwdf-y5fe) | Last update: Aug 2024  
   This dataset contains data fields mandated by AB 953, The Racial and Identity Profiling Act (RIPA) and other data fields that are collected during a STOP.
 
 - **Traffic Collision Data from 2010 to Present**  
@@ -797,7 +800,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Reported crimes of the Marin County Sheriff's Department. Data is updated every four hours. Data begins as of January 1, 2013. Each reported crime includes its date/time, approximate location, crime type, and crime classification.
 
 - **Defendant Court Dates - Public Defender**  
-  [Data](https://data.marincounty.org/resource/f8iq-5syg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/f8iq-5syg) | Last update: Jul 2024  
+  [Data](https://data.marincounty.org/resource/f8iq-5syg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/f8iq-5syg) | Last update: Aug 2024  
   Information about each Defendant includes the number of text notifications he or she received, whether the court date is for a misdemeanor or felony, the crime type, the age range of the defendant at the time of the court date, ethnicity and gender.
 
 [[TOP]](#toc)
@@ -810,11 +813,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset shows the number of major property crimes and major violent crimes reported by MPD each month.
 
 - **Memphis Police Department: Public Safety Incidents**  
-  [Data](https://data.memphistn.gov/resource/ybsi-jur4.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/ybsi-jur4) | Last update: Apr 2024  
-  Update 4/30/2024: We are currently transitioning to a new dataset for MPD Incident data a this dataset is no longer being updated. New dataset coming soon!
+  [Data](https://data.memphistn.gov/resource/puh4-eea4.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/puh4-eea4) | Last update: Aug 2024  
+  This dataset contains all crime incidents where a police report was taken. Data goes back to 2019 and is updated each morning by 8:30am. Note that sex crimes and juvenile specific crime types are omitted from this dataset. Please see the data dictionary attached for more details.
 
 - **Police Academy Applicants & Recruits**  
-  [Data](https://data.memphistn.gov/resource/szjn-whbu.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/szjn-whbu) | Last update: Jun 2024  
+  [Data](https://data.memphistn.gov/resource/szjn-whbu.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/szjn-whbu) | Last update: Jul 2024  
   Aggregated information on the number of applicants to the Memphis Police Department's Police Academy.
 
 [[TOP]](#toc)
@@ -831,23 +834,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.montgomerycountymd.gov
 
 - **Central Processing Unit (CPU) Processing/Booking of Arrestees**  
-  [Data](https://data.montgomerycountymd.gov/resource/sari-cs3z.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/sari-cs3z) | Last update: Jun 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/sari-cs3z.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/sari-cs3z) | Last update: Jul 2024  
   Update Frequency : Monthly
 
 - **Crime**  
-  [Data](https://data.montgomerycountymd.gov/resource/icn6-v9z3.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/icn6-v9z3) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/icn6-v9z3.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/icn6-v9z3) | Last update: Aug 2024  
   Update Frequency: Daily
 
 - **MCPD Bias Incidents**  
-  [Data](https://data.montgomerycountymd.gov/resource/7bhj-887p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/7bhj-887p) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/7bhj-887p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/7bhj-887p) | Last update: Aug 2024  
   This data will capture all incidents and criminal offenses that may be motivated by an offender's bias against a race, national or ethnic origin, religion, sex, mental or physical disability, sexual orientation or gender identity.
 
 - **Police Criminal Citations**  
-  [Data](https://data.montgomerycountymd.gov/resource/juxb-wv7p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/juxb-wv7p) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/juxb-wv7p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/juxb-wv7p) | Last update: Aug 2024  
   This data set contains data from individuals cited by a police officer in Montgomery County.
 
 - **Police Dispatched Incidents**  
-  [Data](https://data.montgomerycountymd.gov/resource/98cc-bc7d.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/98cc-bc7d) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/98cc-bc7d.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/98cc-bc7d) | Last update: Aug 2024  
   This dataset contains a list of Police Dispatched Incidents records.
 
 - **Trespass Towing Report**  
@@ -974,23 +977,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset reflects incidents that have been reported to the New Orleans Police Department in 2023. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. Please request 911 audio via our public records request system here: https://nola.nextrequest.com.
 
 - **Calls for Service 2024**  
-  [Data](https://data.nola.gov/resource/2zcj-b6ts.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/2zcj-b6ts) | Last update: Jul 2024  
+  [Data](https://data.nola.gov/resource/2zcj-b6ts.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/2zcj-b6ts) | Last update: Aug 2024  
   This dataset reflects incidents that have been reported to the New Orleans Police Department in 2023. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. Please request 911 audio via our public records request system here: https://nola.nextrequest.com.
 
 - **Electronic Police Report 2020**  
-  [Data](https://data.nola.gov/resource/hjbe-qzaz.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/hjbe-qzaz) | Last update: Jun 2024
+  [Data](https://data.nola.gov/resource/hjbe-qzaz.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/hjbe-qzaz) | Last update: Jul 2024
 
 - **Electronic Police Report 2021**  
-  [Data](https://data.nola.gov/resource/6pqh-bfxa.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/6pqh-bfxa) | Last update: Jun 2024
+  [Data](https://data.nola.gov/resource/6pqh-bfxa.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/6pqh-bfxa) | Last update: Jul 2024
 
 - **Electronic Police Report 2022**  
-  [Data](https://data.nola.gov/resource/9wdb-bznc.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/9wdb-bznc) | Last update: Jun 2024
+  [Data](https://data.nola.gov/resource/9wdb-bznc.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/9wdb-bznc) | Last update: Jul 2024
 
 - **Electronic Police Report 2023**  
-  [Data](https://data.nola.gov/resource/j3gz-62a2.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/j3gz-62a2) | Last update: Jun 2024
+  [Data](https://data.nola.gov/resource/j3gz-62a2.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/j3gz-62a2) | Last update: Jul 2024
 
 - **Electronic Police Report 2024**  
-  [Data](https://data.nola.gov/resource/c5iy-ew8n.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/c5iy-ew8n) | Last update: Jul 2024
+  [Data](https://data.nola.gov/resource/c5iy-ew8n.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/c5iy-ew8n) | Last update: Aug 2024
 
 [[TOP]](#toc)
 
@@ -998,7 +1001,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.norfolk.gov
 
 - **Police Active Warrants**  
-  [Data](https://data.norfolk.gov/resource/cab7-wvn5.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/cab7-wvn5) | Last update: Jul 2024  
+  [Data](https://data.norfolk.gov/resource/cab7-wvn5.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/cab7-wvn5) | Last update: Aug 2024  
   This dataset represents all active warrants recorded by the Norfolk Police Department. Warrants can be searched by type of crime, demographics of persons involved and total number of outstanding warrants.
 
 - **Police Use of Force and Citizen Complaint Incidents**  
@@ -1108,11 +1111,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Division of Criminal Justice Services (DCJS) collects personnel statistics from more than 500 New York State police and sheriffs departments. In New York State, law enforcement agencies use the Uniform Crime Reporting (UCR) system to report their annual personnel counts to DCJS.
 
 - **MTA Major Felonies**  
-  [Data](https://data.ny.gov/resource/yeek-jhmu.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/yeek-jhmu) | Last update: May 2024  
+  [Data](https://data.ny.gov/resource/yeek-jhmu.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/yeek-jhmu) | Last update: Jul 2024  
   Major felonies reflect the count of arrests made in relation to seven major felony offenses within the MTA system. These offenses are classified as murder, rape, robbery, felony assault, burglary, grand larceny, and grand larceny auto.
 
 - **MTA Subway Trains Delayed: Beginning 2020**  
-  [Data](https://data.ny.gov/resource/wx2t-qtaz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/wx2t-qtaz) | Last update: Jun 2024  
+  [Data](https://data.ny.gov/resource/wx2t-qtaz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/wx2t-qtaz) | Last update: Jul 2024  
   This dataset reflects the number and percentage of subway trains delayed per weekday based on scheduled service, broken down into specific delay categories.
 
 - **MTA Subway and Bus Vandalism: Beginning 2021**  
@@ -1120,7 +1123,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset reflects the monthly number of units vandalized for select elements of the subway and bus system.
 
 - **MTA Summonses and Arrests: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/7tfn-twae.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7tfn-twae) | Last update: Jun 2024  
+  [Data](https://data.ny.gov/resource/7tfn-twae.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7tfn-twae) | Last update: Jul 2024  
   The number of summonses and arrests made by NYPD or MTAPD for fare evasion and other violations of the rules of conduct of the transit system.
 
 - **MTA Workplace Violence Labor Law Incidents: Beginning 2019**  
@@ -1150,7 +1153,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Division of Criminal Justice Services (DCJS) collects information regarding Probationers Under Supervision from New York City Probation and the 57 county probation departments outside New York City.
 
 - **Public Assistance and Supplemental Nutrition Assistance (SNAP) Program Fraud Prevention Performance Measures: Beginning 2013**  
-  [Data](https://data.ny.gov/resource/uubd-eei2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/uubd-eei2) | Last update: Apr 2024  
+  [Data](https://data.ny.gov/resource/uubd-eei2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/uubd-eei2) | Last update: Jul 2024  
   These data contain the results of several local district investigations initiated by flagged cases of the States cash public assistance programs, and the Supplemental Nutrition Assistance Program (SNAP).
 
 - **Releasees Under Community Supervision: Beginning 2008**  
@@ -1173,11 +1176,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oaklandca.gov/resource/957n-urxz.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/957n-urxz) | Last update: May 2016
 
 - **CrimeWatch Data**  
-  [Data](https://data.oaklandca.gov/resource/ppgh-7dqv.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ppgh-7dqv) | Last update: Jul 2024  
+  [Data](https://data.oaklandca.gov/resource/ppgh-7dqv.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ppgh-7dqv) | Last update: Aug 2024  
   The file that you are about to electronically download, copy, or otherwise retrieve by other means is a tabular representation of the same data without maps or reporting capabilities. Be advised that the exact address of each crime has been substituted with the block address to protect the privacy of the victim.
 
 - **CrimeWatch Maps Past 90-Days**  
-  [Data](https://data.oaklandca.gov/resource/ym6k-rx7a.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ym6k-rx7a) | Last update: Jul 2024  
+  [Data](https://data.oaklandca.gov/resource/ym6k-rx7a.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ym6k-rx7a) | Last update: Aug 2024  
   The file that you are about to electronically download, copy, or otherwise retrieve by other means is a tabular representation of the same data without maps or reporting capabilities. Be advised that the exact address of each crime has been substituted with the block address to protect the privacy of the victim.
 
 - **Jan 2014 To May 2015**  
@@ -1242,7 +1245,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.princegeorgescountymd.gov/resource/wb4e-w4nf.json) | [Docs](https://dev.socrata.com/foundry/data.princegeorgescountymd.gov/wb4e-w4nf) | Last update: Jul 2023
 
 - **Crime Incidents July 2023 to Present**  
-  [Data](https://data.princegeorgescountymd.gov/resource/xjru-idbe.json) | [Docs](https://dev.socrata.com/foundry/data.princegeorgescountymd.gov/xjru-idbe) | Last update: Jul 2024
+  [Data](https://data.princegeorgescountymd.gov/resource/xjru-idbe.json) | [Docs](https://dev.socrata.com/foundry/data.princegeorgescountymd.gov/xjru-idbe) | Last update: Aug 2024
 
 [[TOP]](#toc)
 
@@ -1274,7 +1277,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/jwym-iqm3.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/jwym-iqm3) | Last update: Apr 2024
 
 - **Ramsey County Attorney's Office Adult and Youth Referral and Charging Data**  
-  [Data](https://data.ramseycounty.us/resource/rksi-6vdw.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/rksi-6vdw) | Last update: May 2024  
+  [Data](https://data.ramseycounty.us/resource/rksi-6vdw.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/rksi-6vdw) | Last update: Jul 2024  
   There is a second data set for youth school attendance matters diversion; located here https://data.ramseycounty.us/Public-Safety-and-Justice/RCAO-Youth-SAM-Data/hqh4-qxri
 
 - **Serious Crime Rate by County (Part II Crime Rate)**  
@@ -1321,7 +1324,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Santa Clara County Sheriff's Office incident dataset
 
 - **Santa Clara County Cases of Media Interest**  
-  [Data](https://data.sccgov.org/resource/3gws-n3a5.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/3gws-n3a5) | Last update: Jul 2024  
+  [Data](https://data.sccgov.org/resource/3gws-n3a5.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/3gws-n3a5) | Last update: Aug 2024  
   Information related to criminal cases in the media.
 
 [[TOP]](#toc)
@@ -1330,7 +1333,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.somervillema.gov
 
 - **Police Data: Crime Reports**  
-  [Data](https://data.somervillema.gov/resource/aghs-hqvg.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/aghs-hqvg) | Last update: Jul 2024  
+  [Data](https://data.somervillema.gov/resource/aghs-hqvg.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/aghs-hqvg) | Last update: Aug 2024  
   This dataset contains crime reports from the City of Somerville Police Department's records management system from 2017 to present. Each data point represents an incident, which may involve multiple offenses (the most severe offense is provided here).
 
 - **Public Safety for All Community Survey Results**  
@@ -1346,11 +1349,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.sonomacounty.ca.gov
 
 - **Sonoma County Sheriff's Office Arrest Data**  
-  [Data](https://data.sonomacounty.ca.gov/resource/f6uf-eqmk.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/f6uf-eqmk) | Last update: Jul 2024  
+  [Data](https://data.sonomacounty.ca.gov/resource/f6uf-eqmk.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/f6uf-eqmk) | Last update: Aug 2024  
   Each row of data represents an arrest or citation. Arrest charges are grouped together in the charge description column. Charge details are delimited by semicolons and charges are delimited by line breaks with multiple hyphens. Location information has been generalized to the nearest intersection.
 
 - **Sonoma County Sheriff's Office Incident Data**  
-  [Data](https://data.sonomacounty.ca.gov/resource/3rsj-iche.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/3rsj-iche) | Last update: Jul 2024
+  [Data](https://data.sonomacounty.ca.gov/resource/3rsj-iche.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/3rsj-iche) | Last update: Aug 2024
 
 [[TOP]](#toc)
 
@@ -1476,186 +1479,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.winnipeg.ca
 
 - **Business Licenses**  
-  [Data](https://data.winnipeg.ca/resource/d5k3-sfzx.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/d5k3-sfzx) | Last update: Jul 2024
+  [Data](https://data.winnipeg.ca/resource/d5k3-sfzx.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/d5k3-sfzx) | Last update: Aug 2024
 
 [[TOP]](#toc)
 
 
 ## datahub.austintexas.gov
 
-- **(%)S.B.1a Crimes Against Persons**  
-  [Data](https://datahub.austintexas.gov/resource/x2sd-h8fk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x2sd-h8fk) | Last update: Jun 2024  
-  The number of crimes against persons by crime type in the city of Austin for 2019. Official numbers come from the FBI. It is used to calculate the crimes against persons rate per 1,000 population
-
-- **(%)S.B.1b Crimes Against Property**  
-  [Data](https://datahub.austintexas.gov/resource/hga7-a8wy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hga7-a8wy) | Last update: Jun 2024  
-  Calculation: (S. B. 1b) Crime rate = Total crimes against property/(Austin 2019 population/1,000)
-
-- **(%)S.B.1c Crimes Against Society**  
-  [Data](https://datahub.austintexas.gov/resource/aj2f-fmnm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/aj2f-fmnm) | Last update: Jun 2024  
-  The number of crimes against society by crime type in the city of Austin for 2019. Official numbers come from the FBI. It is used to calculate the crimes against society rate per 1,000 population
-
-- **2008-17 OIS Subjects**  
-  [Data](https://datahub.austintexas.gov/resource/u2k2-n8ez.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u2k2-n8ez) | Last update: Jun 2024
-
-- **2012 APD Crash Fatality Data**  
-  [Data](https://datahub.austintexas.gov/resource/ergh-7g8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ergh-7g8p) | Last update: May 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **2013 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/vggi-9ddh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vggi-9ddh) | Last update: Jun 2024
-
-- **2014 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/gm9p-snyb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gm9p-snyb) | Last update: Jun 2024
-
-- **2014 Racial Profiling Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/fk9e-2udt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fk9e-2udt) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2014 Racial Profiling Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/tqet-vty2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tqet-vty2) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2015 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/p658-umsa.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/p658-umsa) | Last update: Jun 2024
-
-- **2015 RP Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/v6rq-ainw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/v6rq-ainw) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2015 Racial Profiling Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/nbjz-52e4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nbjz-52e4) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2016 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/tiqb-wv3c.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tiqb-wv3c) | Last update: Jun 2024
-
-- **2016 Annual Crime Data**  
-  [Data](https://datahub.austintexas.gov/resource/8iue-zpf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8iue-zpf6) | Last update: Jun 2024
-
-- **2016 RP Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/bmz9-cdnt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/bmz9-cdnt) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2016 RP Citations**  
-  [Data](https://datahub.austintexas.gov/resource/urfd-wng9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/urfd-wng9) | Last update: Jun 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **2016 RP Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/qhi8-a9bc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qhi8-a9bc) | Last update: Jun 2024  
-  This Racial Profiling dataset provides the raw data needed to identify trends in traffic stops. It is used to help identify potential improvements in department policy, tactics, and training. This data is used to produce the annual Racial Profiling report, posted on APD's website here: 
-
-- **2017 APD Traffic Fatalities**  
-  [Data](https://datahub.austintexas.gov/resource/ijds-pcyq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ijds-pcyq) | Last update: Jun 2024
-
-- **2017 Annual Crime**  
-  [Data](https://datahub.austintexas.gov/resource/3t4q-mqs5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3t4q-mqs5) | Last update: Jun 2024  
-  Note: The official crime counts used to produce the Annual Crime and Traffic report are available only as aggregate counts and use the FBI's counting method (i.e., victims, premises). The data contained in this dataset counts incidents instead; it approximates the aggregate counts, but will vary slightly.
-
-- **2017 R2R Dataset**  
-  [Data](https://datahub.austintexas.gov/resource/5evd-3tba.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5evd-3tba) | Last update: Jun 2024
-
-- **2017 R2R Subjects**  
-  [Data](https://datahub.austintexas.gov/resource/5w6q-adh8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5w6q-adh8) | Last update: Jun 2024
-
-- **2017 Racial Profiling Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/x4p3-hj3y.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x4p3-hj3y) | Last update: Jun 2024
-
-- **2017 Racial Profiling Dataset Citations**  
-  [Data](https://datahub.austintexas.gov/resource/7guv-wkre.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7guv-wkre) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **2017 Racial Profiling Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/5asp-dw2k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5asp-dw2k) | Last update: Jun 2024
-
-- **2017-2019 Non-Motor Vehicle Stops Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/qpbg-wcus.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qpbg-wcus) | Last update: Jun 2024
-
-- **2017-2019 Non-Motor Vehicle Stops Citations**  
-  [Data](https://datahub.austintexas.gov/resource/9uzk-fyxx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9uzk-fyxx) | Last update: Jun 2024
-
-- **2017-2019 Non-Motor Vehicle Stops Warnings**  
-  [Data](https://datahub.austintexas.gov/resource/sykw-k45z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sykw-k45z) | Last update: Jun 2024
-
-- **2018 APD Traffic Fatality Data 021219**  
-  [Data](https://datahub.austintexas.gov/resource/9jd4-zjmx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9jd4-zjmx) | Last update: Jun 2024
-
-- **2018 Annual Crime**  
-  [Data](https://datahub.austintexas.gov/resource/pgvh-cpyq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pgvh-cpyq) | Last update: Jun 2024  
-  Note: The official crime counts used to produce the Annual Crime and Traffic report are available only as aggregate counts and use the FBI's counting method (i.e., victims, premises). The data contained in this dataset counts incidents instead; it approximates the aggregate counts, but will vary slightly.
-
-- **2018 Discharge of Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/dnev-ei5x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dnev-ei5x) | Last update: Jul 2024  
-  It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
-- **2018 RP Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/xfke-9bsj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xfke-9bsj) | Last update: Jun 2024
-
-- **2018 RP Citations**  
-  [Data](https://datahub.austintexas.gov/resource/b9rk-dixy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b9rk-dixy) | Last update: Jun 2024
-
-- **2018 RP Warnings + Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/vchc-c622.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vchc-c622) | Last update: Jun 2024
-
-- **2018 Response to Resistance Data**  
-  [Data](https://datahub.austintexas.gov/resource/rus9-w6q5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rus9-w6q5) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2018. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2018.
-
-- **2018 Response to Resistance Subjects Data**  
-  [Data](https://datahub.austintexas.gov/resource/c7is-tz8m.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/c7is-tz8m) | Last update: Jun 2024  
-  The number of use of force subjects in the city of Austin for 2018. This dataset is used to provide additional insight visualizations on use of force subjects in the city of Austin in 2018.
-
-- **2019 APD Traffic Fatality Data**  
-  [Data](https://datahub.austintexas.gov/resource/egpd-hqdi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/egpd-hqdi) | Last update: Jun 2024
-
-- **2019 Discharge of a Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/9qgn-zgva.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9qgn-zgva) | Last update: Jun 2024  
-  This dataset accounts for incidents where an APD officer discharged a firearm against a dog in 2019. It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
-- **2019 Racial Profiling (RP) Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/m4cc-q8pr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/m4cc-q8pr) | Last update: Jun 2024  
-  See 2019 Racial Profiling Guide for a description of fields.
-
 - **2019 Racial Profiling (RP) Citations**  
   [Data](https://datahub.austintexas.gov/resource/uzta-a386.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzta-a386) | Last update: Jun 2024  
   See 2019 Racial Profiling Guide for a description of fields.
-
-- **2019 Racial Profiling (RP) Guide**  
-  [Data](https://datahub.austintexas.gov/resource/f59a-wt7w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/f59a-wt7w) | Last update: Jun 2024
-
-- **2019 Racial Profiling (RP) Warning and Field Observations**  
-  [Data](https://datahub.austintexas.gov/resource/djcn-eje6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/djcn-eje6) | Last update: Jun 2024  
-  See 2019 Racial Profiling Guide for a description of fields.
-
-- **2019 Response to Resistance Data**  
-  [Data](https://datahub.austintexas.gov/resource/3bfz-mri4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3bfz-mri4) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2019. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2019.
-
-- **2019 Response to Resistance Subject Data**  
-  [Data](https://datahub.austintexas.gov/resource/dwrk-z7q9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dwrk-z7q9) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2019. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2019.
-
-- **2020 Discharge of a Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/yvev-bseh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/yvev-bseh) | Last update: Jun 2024  
-  This dataset accounts for incidents where an APD officer discharged a firearm against a dog in 2020. It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
-
-- **2020 Racial Profiling (RP) Guide**  
-  [Data](https://datahub.austintexas.gov/resource/64yt-89ub.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/64yt-89ub) | Last update: Jun 2024
-
-- **2020 Racial Profiling (RP) dataset**  
-  [Data](https://datahub.austintexas.gov/resource/c65h-gw3m.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/c65h-gw3m) | Last update: Jun 2024
-
-- **2020 Response to Resistance Data**  
-  [Data](https://datahub.austintexas.gov/resource/n3c7-xtu8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/n3c7-xtu8) | Last update: Jun 2024  
-  This dataset supports measure(s) S.D.3 of SD23. (the update for 2020 story page is in progress)
-
-- **2020 Response to Resistance Subject Data**  
-  [Data](https://datahub.austintexas.gov/resource/xu5c-p4hq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xu5c-p4hq) | Last update: Jun 2024  
-  The number of use of force incidents in the city of Austin for 2020. This dataset is used to provide additional insight visualizations on use of force incidents in the city of Austin in 2020.
-
-- **2021 Discharge of a Firearm Against a Dog**  
-  [Data](https://datahub.austintexas.gov/resource/a6pt-bywy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/a6pt-bywy) | Last update: Jun 2024  
-  This dataset accounts for incidents where an APD officer discharged a firearm against a dog in 2021. It is a requirement for APD to annually post this information as a result of the 2017 settlement of the lawsuit of Reyes vs. the City of Austin.
 
 - **APD Arrests**  
   [Data](https://datahub.austintexas.gov/resource/9tem-ywan.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9tem-ywan) | Last update: Jul 2024  
@@ -1693,84 +1526,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/qwt7-pfwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qwt7-pfwv) | Last update: Jul 2024  
   This dataset provides the case report number, the date the incident occurred, subject race and gender at the time of the interaction and the lead charge. This dataset contains only instances where a warning was issued to the subject of the interaction for a violation.
 
-- **Annual Crime 2014**  
-  [Data](https://datahub.austintexas.gov/resource/7g8v-xxja.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7g8v-xxja) | Last update: Jun 2024  
-  This dataset encompasses all of the Part 1 crimes in Austin, Texas from January 1 2014 - December 31 2014.
-
-- **Annual Crime Dataset 2015**  
-  [Data](https://datahub.austintexas.gov/resource/spbg-9v94.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/spbg-9v94) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Crime Reports**  
-  [Data](https://datahub.austintexas.gov/resource/fdj4-gpfu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fdj4-gpfu) | Last update: Jul 2024  
-  Pursuant to section 552.301 (c) of the Government Code, the City of Austin has designated certain addresses to receive requests for public information sent by electronic mail. For requests seeking public records held by the Austin Police Department, please submit by utilizing the following link:
-
-- **GUIDE - Annual Crime**  
-  [Data](https://datahub.austintexas.gov/resource/csxt-6s3k.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/csxt-6s3k) | Last update: Jun 2024  
-  Note: The official crime counts used to produce the Annual Crime and Traffic report are available only as aggregate counts and use the FBI's counting method (i.e., victims, premises). The data contained in this dataset counts incidents instead; it approximates the aggregate counts, but will vary slightly.
-
-- **GUIDE 2017 - Officer Involved Shooting**  
-  [Data](https://datahub.austintexas.gov/resource/eqwy-k8kh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/eqwy-k8kh) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **GUIDE 2018 - Racial Profiling**  
-  [Data](https://datahub.austintexas.gov/resource/mipf-8at9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mipf-8at9) | Last update: Jun 2024
-
-- **Guide 2018 Response to Resistance (R2R)**  
-  [Data](https://datahub.austintexas.gov/resource/gwvt-96uf.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gwvt-96uf) | Last update: Jun 2024  
-  This is a guide to assist in understanding the 2018 Response to Resistance (R2R) datasets.
-
-- **Hate Crimes 2017**  
-  [Data](https://datahub.austintexas.gov/resource/79qh-wdpx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/79qh-wdpx) | Last update: May 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Hate Crimes 2018 Final**  
-  [Data](https://datahub.austintexas.gov/resource/idj2-d9th.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/idj2-d9th) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2019**  
-  [Data](https://datahub.austintexas.gov/resource/e3qf-htd9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/e3qf-htd9) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2020**  
-  [Data](https://datahub.austintexas.gov/resource/mi2a-twn5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/mi2a-twn5) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2021**  
-  [Data](https://datahub.austintexas.gov/resource/dmxv-zsfa.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dmxv-zsfa) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2022**  
-  [Data](https://datahub.austintexas.gov/resource/73qr-3v9c.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/73qr-3v9c) | Last update: May 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2023**  
-  [Data](https://datahub.austintexas.gov/resource/xtu5-exci.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xtu5-exci) | Last update: Jun 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
-- **Hate Crimes 2024**  
-  [Data](https://datahub.austintexas.gov/resource/t99n-5ib4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t99n-5ib4) | Last update: Jul 2024  
-  In APD's opinion these cases have met the FBI's definition as well as the State's definition and Federal hate crime law of a hate crime and are being investigated as such. The ultimate decision to prosecute lies with the appropriate County District Attorney.
-
 - **NIBRS Group A Offense Crimes**  
   [Data](https://datahub.austintexas.gov/resource/i7fg-wrk5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i7fg-wrk5) | Last update: Jul 2024  
   The Austin Police Department as of January 1, 2019, become a Uniform Crime Reporting -National Incident Based Reporting System (NIBRS) reporting agency. Crime is reported by persons, property and society.
-
-- **Officer Involved Shooting 2000-2014**  
-  [Data](https://datahub.austintexas.gov/resource/63p6-iegi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/63p6-iegi) | Last update: Jun 2024  
-  This chart displays the number of crime incidents by year, starting with data from 2003.
-
-- **Officer Involved Shootings 2008-17 Incidents**  
-  [Data](https://datahub.austintexas.gov/resource/uzqv-9uza.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzqv-9uza) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Officer Involved Shootings 2008-17 Officers**  
-  [Data](https://datahub.austintexas.gov/resource/8mvp-v9jz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8mvp-v9jz) | Last update: Jun 2024  
-  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
-
-- **Racial Profiling Dataset 2015- Citations**  
-  [Data](https://datahub.austintexas.gov/resource/sc6h-qr9f.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sc6h-qr9f) | Last update: Jun 2024  
-  Due to several factors (offense reclassification, reported versus occurred dates, etc.) comparisons should not be made between numbers generated with this database to any other official police reports. Data provided represents only calls for police service where a report was written.
 
 [[TOP]](#toc)
 
@@ -2215,6 +1973,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## internal-ct.data.socrata.com
 
+- **Litchfield County Court African Americans and Native Americans Collection, 1753 - 1852**  
+  [Data](https://internal-ct.data.socrata.com/resource/qfdg-i76h.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/qfdg-i76h) | Last update: Jul 2024  
+  Collection Overview
+
 - **Wethersfield Prison Records 1800-1903**  
   [Data](https://internal-ct.data.socrata.com/resource/nawq-c5qc.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/nawq-c5qc) | Last update: Jul 2024  
   The Warrants of Commitment, 1800-1903, contain the name of the prisoner, any known aliases, the crime, sentence, court, and date of incarceration. This information can be used to determine the probable location of court records relating to the individual prisoners.
@@ -2342,7 +2104,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.maryland.gov/resource/h3ax-xbn9.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/h3ax-xbn9) | Last update: Jan 2020
 
 - **Maryland State Police Performance Dashboard - Quarterly Data**  
-  [Data](https://opendata.maryland.gov/resource/tx73-47dk.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/tx73-47dk) | Last update: Apr 2024  
+  [Data](https://opendata.maryland.gov/resource/tx73-47dk.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/tx73-47dk) | Last update: Jul 2024  
   Data from the Maryland State Police (MSP) for the Governor's Office of Performance Improvement Dashboard.
 
 - **Non-Fatal Shootings - 2013**  
@@ -2618,12 +2380,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Smithfield Police Crime Data
 
 - **South Jordan Police Crime Data**  
-  [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
-  This data set contains Police & Crime data from the South Jordan Police department.
-
-- **South Jordan Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/p6he-fvtd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/p6he-fvtd) | Last update: Oct 2018  
   This data set contains South Jordan Police calls for service and crime data from 2014-2018
+
+- **South Jordan Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
+  This data set contains Police & Crime data from the South Jordan Police department.
 
 - **South Ogden Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/r65x-476f.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/r65x-476f) | Last update: Apr 2019  
@@ -2832,7 +2594,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## policedata.coloradosprings.gov
 
 - **Arrest Data Subject Level**  
-  [Data](https://policedata.coloradosprings.gov/resource/34jw-x9zp.json) | [Docs](https://dev.socrata.com/foundry/policedata.coloradosprings.gov/34jw-x9zp) | Last update: Jul 2024  
+  [Data](https://policedata.coloradosprings.gov/resource/34jw-x9zp.json) | [Docs](https://dev.socrata.com/foundry/policedata.coloradosprings.gov/34jw-x9zp) | Last update: Aug 2024  
   This dataset includes the arrest, arrest location, and demographic information about the arrested person. This dataset is provided for an easy method of viewing data about arrestees.
 
 - **Crime Level Data**  
@@ -2897,7 +2659,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://sharefulton.fultoncountyga.gov/resource/9w3w-ynjw.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/9w3w-ynjw) | Last update: Jan 2023
 
 - **Superior Court Case Assignments**  
-  [Data](https://sharefulton.fultoncountyga.gov/resource/e8ne-c2s2.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/e8ne-c2s2) | Last update: Jul 2024  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/e8ne-c2s2.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/e8ne-c2s2) | Last update: Aug 2024  
   Information provided on each case includes the case number, case type (e.g., non-complex felony, capital felony), the date filed, the date assigned, the judge assigned, the current status (e.g. open, closed), and flags indicating whether the defendant is in jail and whether the assignment is current (or the last assignment in the case of closed cases).
 
 [[TOP]](#toc)
@@ -2917,7 +2679,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Park Walk and Talk program, a type of directed patrol, is intended to support the Department's community policing strategy by encouraging police officers to interact with citizens to improve community-police relations and reduce the fear of crime.
 
 - **St. Petersburg Service Center Data**  
-  [Data](https://stat.stpete.org/resource/qdms-3kn3.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/qdms-3kn3) | Last update: Jul 2024  
+  [Data](https://stat.stpete.org/resource/qdms-3kn3.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/qdms-3kn3) | Last update: Aug 2024  
   This dataset is updated daily and contains a log of citizen requests to the St Pete Service Center dating back to June 2014. These records describe requests for assistance with City services or reported problems, such as potholes, graffiti, broken sidewalks, storm drain issues, traffic signal/sign problems, special pick-up of dumped items, codes violations, etc.
 
 - **StPete Police Crime Tracts GEOG**  
@@ -2968,7 +2730,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   View Survey - https://www.dallasopendata.com/api/views/8uai-e8aw/files/qTtqNtLAZzSj75XuR3NhHu5JejJ586NcjZGFfjEmsYw?download=true&filename=Dallas-2014-DF-Survey.pdf
 
 - **Dallas Police Active Calls**  
-  [Data](https://www.dallasopendata.com/resource/9fxf-t2tr.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9fxf-t2tr) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/9fxf-t2tr.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9fxf-t2tr) | Last update: Aug 2024  
   It does not include any calls for service, whether currently being worked or not, that are not releasable due to privacy laws. 
 
 - **Dallas Police Active Calls Geolocation Temporary**  
@@ -2988,29 +2750,29 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Dallas Police Public Data - RMS Incidents-With GeoLocation
 
 - **Police Arrest Charges**  
-  [Data](https://www.dallasopendata.com/resource/9u3q-af6p.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9u3q-af6p) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/9u3q-af6p.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9u3q-af6p) | Last update: Aug 2024  
   Dallas Police Public Data - RMS Arrest Charge
 
 - **Police Arrests**  
-  [Data](https://www.dallasopendata.com/resource/sdr7-6v3j.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/sdr7-6v3j) | Last update: Jul 2024
+  [Data](https://www.dallasopendata.com/resource/sdr7-6v3j.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/sdr7-6v3j) | Last update: Aug 2024
 
 - **Police Bulk Data 2014**  
   [Data](https://www.dallasopendata.com/resource/ftja-9jxd.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/ftja-9jxd) | Last update: Aug 2021
 
 - **Police Incidents**  
-  [Data](https://www.dallasopendata.com/resource/qv6i-rri7.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/qv6i-rri7) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/qv6i-rri7.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/qv6i-rri7) | Last update: Aug 2024  
   This dataset is published by the City of Dallas for research purposes only. The authoritative source for crime data is the Crime Analytics Dashboard.
 
 - **Police Involved Vehicles**  
-  [Data](https://www.dallasopendata.com/resource/hd9z-g72a.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/hd9z-g72a) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/hd9z-g72a.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/hd9z-g72a) | Last update: Aug 2024  
   Dallas Police Public Data - RMS Vehicle
 
 - **Police Modus Operandi**  
-  [Data](https://www.dallasopendata.com/resource/esgn-ar5t.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/esgn-ar5t) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/esgn-ar5t.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/esgn-ar5t) | Last update: Aug 2024  
   Dallas Police Public Data - RMS MO
 
 - **Police Person**  
-  [Data](https://www.dallasopendata.com/resource/chez-ydz4.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/chez-ydz4) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/chez-ydz4.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/chez-ydz4) | Last update: Aug 2024  
   This dataset is published by the City of Dallas for research purposes only. The authoritative source for crime data is the Crime Analytics Dashboard.
 
 - **Police Response to Resistance 2013**  
@@ -3046,7 +2808,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset contains details of incidents where police encountered resistance.
 
 - **Police Unknown Suspects**  
-  [Data](https://www.dallasopendata.com/resource/jitt-qwwh.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/jitt-qwwh) | Last update: Jul 2024  
+  [Data](https://www.dallasopendata.com/resource/jitt-qwwh.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/jitt-qwwh) | Last update: Aug 2024  
   Dallas Police Public Data - Unknown Suspects
 
 [[TOP]](#toc)
@@ -3064,7 +2826,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.transparentrichmond.org
 
 - **Richmond Police Department - Crime Incidents**  
-  [Data](https://www.transparentrichmond.org/resource/t3nu-7bbq.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/t3nu-7bbq) | Last update: Jul 2024  
+  [Data](https://www.transparentrichmond.org/resource/t3nu-7bbq.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/t3nu-7bbq) | Last update: Aug 2024  
   Note: Each report only counts the top crime offense, so it may differ from NIBRS/DOJ count and published Crime-Stat reports on the RPD website (for example, if 1 incident report had multiple offenses occur, only the first/top offense is counted in this).
 
 [[TOP]](#toc)
