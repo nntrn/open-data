@@ -38,7 +38,7 @@ def neat_view:
     domain: .domaincname,
     description: $desc,
     summary:($desc|map(select(length < 400 and test("^[A-Z][a-z]")))|max_by(length)),
-    last_update: (.rowsupdatedat|strflocaltime("%b %Y")?)
+    last_update: (if .days_since_update < 60 then  "Recent"  else (.rowsupdatedat|strflocaltime("%b %Y")?) end)
   };
 
 def slugify($text):
@@ -84,6 +84,7 @@ def exclude(field;$str):select(field|test("\($str)";"ix")|not) ;
 
 def write_markdown($groupby):
   (input_filename|title_from_filename) as $filename
+  | (now|strflocaltime("%F")) as $today
   | map(select((.category|length)>0 and (.name|test("[A-Z][a-z]";"x"))) | 
       exclude(.name;"DEMO|[Dd]emo|TEST|[Tt]est|ARCHIVE|[Aa]rchive|UTILITIES") 
   )
@@ -98,7 +99,8 @@ def write_markdown($groupby):
       "</details></br>",
       "",
       "> **NOTE**  ",
-      "> (%) denotes strategic dataset",
+      "> * (%) denotes strategic dataset",
+      "> * Datasets updated in the last 60 days (as of \($today)) are considered 'Recent' ",
       "",
       "Data source: \((env.CATALOG_URL // $catalog )? // "" )"
      ]|flatten|join("\n")
@@ -124,6 +126,11 @@ def view:
   | map(deep_flatten)
   | map(neat_view);
 
+def days_since_update($dt;$fmt):
+  ($dt |strptime($fmt) |mktime) as $d 
+  | (now - $d)/86400
+;
+
 def results:
   .results
   | map(
@@ -134,6 +141,8 @@ def results:
       domain_category: .classification.domain_category,
       category: (.classification.domain_category// .strategic_area_strategic_direction_outcome //.ownership_department_name ), 
       domaincname: .metadata.domain,
+      # rowsupdatedat: normalizeDate(.resource.updatedAt; "%Y-%m-%dT%H:%M:%S.000Z"),
+      days_since_update: days_since_update(.resource.updatedAt; "%Y-%m-%dT%H:%M:%S.000Z"),
       rowsupdatedat: (.resource.updatedAt|gsub("\\..*";"")|strptime("%Y-%m-%dT%H:%M:%S")|mktime )
     })
   ) 

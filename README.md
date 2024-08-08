@@ -15,7 +15,16 @@
 - [texas-gov.md](./catalog/texas-gov.md)
 - [texas.md](./catalog/texas.md)
 
-## Update Catalogs
+---
+
+Read my answers on StackOverflow:  
+https://stackoverflow.com/search?q=user:7460613+socrata
+
+View (unorganized) notes:  
+https://github.com/nntrn/open-data/wiki
+
+
+## Scripts
 
 ```sh
 # update documents in ./catalogs
@@ -23,9 +32,60 @@
 
 # update domains list in docs/domains.md
 ./scripts/domains.sh >docs/domains.md
+
+# remove commit history for catalog docs
+./scripts/flush-commits.sh  'catalog/*.md'
 ```
 
-## Personal Favorite
+## Socrata
+
+Get views for domain: [/api/views.json](https://data.austintexas.gov/api/views.json)
+
+List of open government domains:  
+https://api.us.socrata.com/api/catalog/v1/domains
+
+```
+https://api.us.socrata.com/api/catalog/v1
+?order=updatedAt%20DESC
+&domains=datahub.austintexas.gov,data.texas.gov
+&only=dataset
+&limit=2000
+```
+[View](https://api.us.socrata.com/api/catalog/v1?order=updatedAt%20DESC&domains=datahub.austintexas.gov,data.texas.gov&only=dataset&limit=2000)
+
+
+## Datasets I like
+
+### Texas
+
+- [Austin Demographics]  
+  % living alon, median home price, % below poverty, income bracket
+
+- [Austin District 7 Housing Directory]
+
+- [Austin Workforce Demographics]  
+  Group by: [age group]
+
+- [Texas life sentences]
+
+### APD
+
+- [APD Computer Aided Dispatch Incidents]
+
+- [Austin Crime Charges]  
+  gender, officer, race, gender, etc [(count)][austin_crime_count]
+
+- [Use of Force]  
+  This dataset contains offense incidents where any physical contact with a subject was made by an officer
+
+- [Arrests]  
+  Group by: [ethnicity and gender]
+
+- [Austin Hate Crimes]  
+  Group by: [Race] | [Bias]
+
+
+### Misc 
 
 - [Waste Summary] in Texas  
   &dash; [limit to waste by Tesla]  
@@ -39,34 +99,8 @@
 
 - [Washington State Hospital Quarterly Revenue]  
   This dataset provides revenue figures for several clinical units and patient-types
-
-### Austin
-
-- [Austin Demographics]  
-  % living alon, median home price, % below poverty, income bracket
-
-- [Austin District 7 Housing Directory]
-
-- [Austin Workforce Demographics]  
-  Group by: [age group]
-
-- Crime
-
-  - [Texas life sentences](https://data.texas.gov/id/fgzd-wjkz.json?sentence_years=%27Life%27&$limit=10000)
-
-  - [APD Computer Aided Dispatch Incidents]
-
-  - [Austin Crime Charges]  
-    gender, officer, race, gender, etc [(count)](<https://datahub.austintexas.gov/resource/mv2b-q2wb.json?$group=charges_description&$select=charges_description,count(*)>)
-
-  - [Use of Force]  
-    This dataset contains offense incidents where any physical contact with a subject was made by an officer
-
-  - [Arrests]  
-    Group by: [ethnicity and gender]
-  - [Austin Hate Crimes]  
-    Group by: [Race] | [Bias]
-
+  
+  
 <!-- URLs -->
 
 [Waste Summary]: https://data.texas.gov/resource/79s2-9ack.json
@@ -80,6 +114,7 @@
 [ethnicity and gender]: https://data.austintexas.gov/resource/9tem-ywan.json?$group=subject_race_ethnicity,subject_gender&$select=subject_race_ethnicity,subject_gender,count(*)&$order=subject_race_ethnicity
 [APD Computer Aided Dispatch Incidents]: https://data.austintexas.gov/resource/22de-7rzg.json?$order=response_datetime%20DESC
 [Austin Crime Charges]: https://datahub.austintexas.gov/resource/mv2b-q2wb.json
+[austin_crime_count]: https://datahub.austintexas.gov/resource/mv2b-q2wb.json?$group=charges_description&$select=charges_description,count(*)
 [Austin District 7 Housing Directory]: https://data.austintexas.gov/resource/4syj-z4ky.json?council_district=7
 [Austin Demographics]: https://datahub.austintexas.gov/resource/puux-7swp.json
 [Austin Workforce Demographics]: https://datahub.austintexas.gov/resource/fxtq-ff2c.json
@@ -87,3 +122,4 @@
 [Austin Hate Crimes]: https://data.austintexas.gov/resource/xtu5-exci.json
 [Bias]: https://data.austintexas.gov/resource/xtu5-exci.json?$group=bias&$select=bias,count(race_ethnicity_of_offenders)&$order=bias
 [Race]: https://data.austintexas.gov/resource/xtu5-exci.json?$group=race_ethnicity_of_offenders&$select=race_ethnicity_of_offenders,count(bias)
+[Texas life sentences]: https://data.texas.gov/id/fgzd-wjkz.json?sentence_years=%27Life%27&$limit=10000
