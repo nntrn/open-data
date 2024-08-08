@@ -97,7 +97,8 @@
 </details></br>
 
 > **NOTE**  
-> (%) denotes strategic dataset
+> * (%) denotes strategic dataset
+> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=survey
 
@@ -141,23 +142,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## citydata.mesaaz.gov
 
 - **Arts and Culture - i.d.e.a. Museum Customer Satisfaction**  
-  [Data](https://citydata.mesaaz.gov/resource/xret-6id3.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/xret-6id3) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/xret-6id3.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/xret-6id3) | Last update: Recent  
   Customer satisfaction at i.d.e.a. Museum in three areas; overall museum quality, experience meeting customer expectations, and overall customer experience which are aggregated into a total satisfaction score. Dataset changes quarterly therefore Max Expected Data Age can be as many as 120 days.
 
 - **Arts and Culture AZMNH Surveys**  
-  [Data](https://citydata.mesaaz.gov/resource/qg3p-xczw.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/qg3p-xczw) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/qg3p-xczw.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/qg3p-xczw) | Last update: Recent  
   Surveys recording customer satisfaction with Cultural Programming and Operations. While dataset updates quarterly, update job checks monthly for prior quarter's data, therefore Max Expected Data Age can be as many as 120 days.
 
 - **Arts and Culture MAC Satisfaction Surveys**  
-  [Data](https://citydata.mesaaz.gov/resource/nkdr-2wqe.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/nkdr-2wqe) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/nkdr-2wqe.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/nkdr-2wqe) | Last update: Recent  
   Survey responses measuring customer satisfaction with Performing Live, Studios Classes, and Engagement Programs.
 
 - **Business Services - Customer Service Satisfaction**  
-  [Data](https://citydata.mesaaz.gov/resource/4wak-2uiv.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/4wak-2uiv) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/4wak-2uiv.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/4wak-2uiv) | Last update: Recent  
   The percent of number of surveyed mail and print services customers who mark satisfied or very satisfied on services received.
 
 - **Business Services - Employee Survey Results**  
-  [Data](https://citydata.mesaaz.gov/resource/mfbh-pibf.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/mfbh-pibf) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/mfbh-pibf.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/mfbh-pibf) | Last update: Recent  
   This dataset contains the employee survey results for Business Services.
 
 - **CARES Surveys Completed**  
@@ -165,7 +166,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Initial 3-day community assessment involved 120 staff contacting the community via phone calls and electronic surveys posted via Nextdoor, neighborhood leaders and at mesaaz.gov.
 
 - **COVID-19 Cases by Zip Code**  
-  [Data](https://citydata.mesaaz.gov/resource/bcxg-q9nz.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/bcxg-q9nz) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/bcxg-q9nz.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/bcxg-q9nz) | Last update: Recent  
   Information reported weekly by the Arizona Department of Health of confirmed COVID-19 cases by zip code and displayed here to better visualize the data. Direct REST Endpoint URL in Source Link field below. Statewide data available at https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/covid-19/dashboards/index.php.
 
 - **Census Variables (1-year Estimates)**  
@@ -177,11 +178,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Selected American Community Survey (ACS) variables from Mesa and other nearby municipalities. Visit https://www.census.gov/data/developers/data-sets/acs-5year.html for more information about the US Census Bureau's ACS ongoing survey. See https://www.census.gov/programs-surveys/acs/news/data-releases.html for data annual release schedules.
 
 - **City of Mesa Population**  
-  [Data](https://citydata.mesaaz.gov/resource/89tz-2g4j.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/89tz-2g4j) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/89tz-2g4j.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/89tz-2g4j) | Last update: Recent  
   City of Mesa population provided by Census Bureau Population Estimates Program (PEP) updated annually as of July 1. See Population and Housing Unit Estimates. Census PEP estimates are used for state revenue sharing per AZ statute (42-5033.01).
 
 - **Citywide Employee Survey Results**  
-  [Data](https://citydata.mesaaz.gov/resource/dbj4-w6rx.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dbj4-w6rx) | Last update: Aug 2024  
+  [Data](https://citydata.mesaaz.gov/resource/dbj4-w6rx.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dbj4-w6rx) | Last update: Recent  
   Human Resources  Satisfaction with Employee Benefit Offerings (Measured in Citywide Employee Survey Results)
 
 - **Cost Burdened Households**  
@@ -192,11 +193,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Temporary dataset for customer satisfaction survey results by season, trade area and overall rating. Note: This dataset is temporary for use during the Fall 2020 MesaSTAT and will be replaced in the future by the full customer satisfaction dataset.
 
 - **Homeowners Comparison**  
-  [Data](https://citydata.mesaaz.gov/resource/annh-6khi.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/annh-6khi) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/annh-6khi.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/annh-6khi) | Last update: Recent  
   Mesa. While some neighboring municipalities have a different resource mix than Mesa, bringing them all together allows for comparison to ensure that Mesa remains an affordable place to live, work and play. Sources include applicable Tax Year Limited Property Value, Maricopa County Assessor's Office, and Maricopa County Tax Levy and Rates page.
 
 - **IT Performance Customer Satisfaction**  
-  [Data](https://citydata.mesaaz.gov/resource/t3t3-7hsk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/t3t3-7hsk) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/t3t3-7hsk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/t3t3-7hsk) | Last update: Recent  
   The survey asks employees to rate their overall satisfaction with Information Technology Services. This metric reports the score of those who report satisfied or very satisfied with overall performance of IT services
 
 - **PEX Training Follow-up Survey**  
@@ -207,7 +208,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Percentage of special event promoters or hosts responding they were satisfied with the venue and management of the venue.
 
 - **Print Services - Job Quality**  
-  [Data](https://citydata.mesaaz.gov/resource/24qg-xnn4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/24qg-xnn4) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/24qg-xnn4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/24qg-xnn4) | Last update: Recent  
   Dataset provides monthly information about the accuracy and timeliness of print jobs generated by the citys print services. These measures are verified from data collected on customer service satisfaction surveys, percent of jobs delivered by the due date and percent of jobs free of defect. The fields in this dataset pertain to percent of print jobs completed by the due date.
 
 - **Shareholder Ratings of OMB Services**  
@@ -219,7 +220,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The data is derived from the surveys provided by the Operations group in which the success of the survey is based on a rating between Strongly Disagree and Strongly Agree.
 
 - **Transportation Pavement Inventory**  
-  [Data](https://citydata.mesaaz.gov/resource/2gx3-zdvf.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/2gx3-zdvf) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/2gx3-zdvf.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/2gx3-zdvf) | Last update: Recent  
   This feature class identifies all roadways and parking areas that are maintained by the City of Mesa. This includes streets, intersections, parking lots, paved alleys, unpaved alleys, and dirt roads. Data are stored as a line geometry type feature class in the City Enterprise Geodatabase. The projected coordinate system is NAD 1983 State Plane Arizona Central FIPS 0202 Feet.
 
 - **Unsheltered Point in Time (PIT) Count Phoenix Metro Area**  
@@ -232,7 +233,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## corstat.coronaca.gov
 
 - **Building - Customer Service Surveys**  
-  [Data](https://corstat.coronaca.gov/resource/cn5w-sm8e.json) | [Docs](https://dev.socrata.com/foundry/corstat.coronaca.gov/cn5w-sm8e) | Last update: Jul 2024  
+  [Data](https://corstat.coronaca.gov/resource/cn5w-sm8e.json) | [Docs](https://dev.socrata.com/foundry/corstat.coronaca.gov/cn5w-sm8e) | Last update: Recent  
   Data received from customers, applicants, contractors, etc. regarding the quality of customer service received during their permitting process.
 
 [[TOP]](#toc)
@@ -278,13 +279,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bloomington.in.gov
 
 - **City Maintained Streets**  
-  [Data](https://data.bloomington.in.gov/resource/bb3b-6hg6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/bb3b-6hg6) | Last update: Jul 2024
+  [Data](https://data.bloomington.in.gov/resource/bb3b-6hg6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/bb3b-6hg6) | Last update: Recent
 
 - **LocallyDesignatedHistoricDistricts**  
   [Data](https://data.bloomington.in.gov/resource/sbby-5r4b.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/sbby-5r4b) | Last update: May 2024
 
 - **Multiuse Sidepaths**  
-  [Data](https://data.bloomington.in.gov/resource/dwr9-4gq9.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/dwr9-4gq9) | Last update: Jun 2024  
+  [Data](https://data.bloomington.in.gov/resource/dwr9-4gq9.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/dwr9-4gq9) | Last update: Recent  
   This paths features captures pedestrian features managed by Planning and Transportation department, Public Works group. Generally paths are adjacent to roads and trails are usually within Park areas.
 
 - **OtherDesignatedHistoricDistricts**  
@@ -292,7 +293,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Historic Districts can be objects, single properties, or multi-resource districts containing several properties. These other Historic Districts can also contain or overlap areas designated as local historic districts by the City of Bloomington
 
 - **Road Centerlines**  
-  [Data](https://data.bloomington.in.gov/resource/8yia-fgp6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/8yia-fgp6) | Last update: Jul 2024
+  [Data](https://data.bloomington.in.gov/resource/8yia-fgp6.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/8yia-fgp6) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -316,15 +317,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying hydrography in East Baton Rouge Parish, Louisiana.
 
 - **Lot**  
-  [Data](https://data.brla.gov/resource/9ygd-j4f4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ygd-j4f4) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/9ygd-j4f4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ygd-j4f4) | Last update: Recent  
   Polygon geometry with attributes displaying the recorded boundaries or lot lines of property in East Baton Rouge Parish, Louisiana.Metadata
 
 - **Lot Profile**  
-  [Data](https://data.brla.gov/resource/9gt6-rmn8.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9gt6-rmn8) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/9gt6-rmn8.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9gt6-rmn8) | Last update: Recent  
   Polygon geometry with complete attributes displaying the recorded boundaries or lot lines of property in East Baton Rouge Parish, Louisiana.
 
 - **Property Information**  
-  [Data](https://data.brla.gov/resource/re5c-hrw9.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/re5c-hrw9) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/re5c-hrw9.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/re5c-hrw9) | Last update: Recent  
   This dataset is a combination of attribute information from the master address table and the lot or property records table. The address points are created within a building footprint and in the case where there is no building, then the point is the center of the lot.
 
 - **Public Land Survey System**  
@@ -349,11 +350,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bts.gov
 
 - **Monthly Transportation Statistics**  
-  [Data](https://data.bts.gov/resource/crem-w557.json) | [Docs](https://dev.socrata.com/foundry/data.bts.gov/crem-w557) | Last update: Aug 2024  
+  [Data](https://data.bts.gov/resource/crem-w557.json) | [Docs](https://dev.socrata.com/foundry/data.bts.gov/crem-w557) | Last update: Recent  
   Monthly Transportation Statistics is a compilation of national statistics on transportation. The Bureau of Transportation Statistics brings together the latest data from across the Federal government and transportation industry. Monthly Transportation Statistics contains over 50 time series from nearly two dozen data sources.
 
 - **Sales Tax Collections by State**  
-  [Data](https://data.bts.gov/resource/3qgg-2u2a.json) | [Docs](https://dev.socrata.com/foundry/data.bts.gov/3qgg-2u2a) | Last update: Jul 2024  
+  [Data](https://data.bts.gov/resource/3qgg-2u2a.json) | [Docs](https://dev.socrata.com/foundry/data.bts.gov/3qgg-2u2a) | Last update: Recent  
   Tax collections primarily rely on unaudited data collected from existing state reports or state data sources available from and posted on the Internet. Secondarily, states report the data via the Quarterly Survey of State and Local Tax Revenue. Data are updated monthly, but due to differing reporting cycles data for some states may lag.
 
 - **VIUS Public Use File Data**  
@@ -426,7 +427,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/vkwg-yswv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vkwg-yswv) | Last update: Mar 2024
 
 - **COVID-19 Hospital Data from the National Hospital Care Survey**  
-  [Data](https://data.cdc.gov/resource/q3t8-zr7t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q3t8-zr7t) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/q3t8-zr7t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q3t8-zr7t) | Last update: Recent  
   The data are from 26 hospitals submitting inpatient and 26 hospitals submitting ED Uniform Bill (UB)-04 administrative claims from March 18, 2020-December 26, 2023.
 
 - **Cumulative Influenza Vaccination Coverage Differences by Race/Ethnicity, Children 6 months through 17 years, United States**  
@@ -472,15 +473,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data on initial injury-related visits to hospital emergency departments in the United States, by sex, age, and intent and mechanism of injury. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Hospital Ambulatory Medical Care Survey.
 
 - **DQS Cholesterol in adults age 20 and older, by selected characteristics: United States**  
-  [Data](https://data.cdc.gov/resource/k2e8-8t3h.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k2e8-8t3h) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/k2e8-8t3h.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k2e8-8t3h) | Last update: Recent  
   Data on cholesterol in adults age 20 and older in the United States, by selected characteristics. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
 
 - **DQS Community hospital beds by state**  
-  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Recent  
   Data on beds per 1,000 resident population in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals. Hospital Statistics.
 
 - **DQS Community hospital beds, by state: United States.7.23.24**  
-  [Data](https://data.cdc.gov/resource/uiux-mrvg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uiux-mrvg) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/uiux-mrvg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uiux-mrvg) | Last update: Recent  
   Data on community hospital beds in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals, Hospital Statistics.
 
 - **DQS Delay or nonreceipt of needed medical care, prescription drugs, or dental care during the past 12 months due to cost: United States**  
@@ -492,8 +493,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of footnotes, notes, and source information for The National Hospital Ambulatory Medical Care Survey (NHAMCS). Each row of this dataset contains the accompanying text for a footnote found in NHAMCS dataset. The footnote lookup can be merged onto any NHAMCS dataset using, DATASET_SHORT_NAME, FN_ID, FN_TYPE, and FN_TEXT.
 
 - **DQS Hospital admission, average length of stay, outpatient visits, and outpatient surgery by type of ownership and size of hospital: United States**  
-  [Data](https://data.cdc.gov/resource/rear-2epk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rear-2epk) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/rear-2epk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rear-2epk) | Last update: Recent  
   Data on hospital admission, average length of stay, outpatient visits, and outpatient surgery in the United States, by type of ownership and size of hospital. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals, Hospital Statistics.
+
+- **DQS Hypertension in adults age 20 and older, by selected characteristics: United States.**  
+  [Data](https://data.cdc.gov/resource/c49c-tp7w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/c49c-tp7w) | Last update: Recent  
+  Data on hypertension in adults age 20 and older in the United States, by selected characteristics. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
 
 - **DQS Medicaid coverage among persons under age 65, by selected characteristics: United States**  
   [Data](https://data.cdc.gov/resource/hdja-ybdg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hdja-ybdg) | Last update: May 2024  
@@ -520,11 +525,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These data represent prevalence estimates of select oral health topics from the National Health and Nutrition Examination Survey (NHANES).
 
 - **DQS NHIS Adult Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/pg2r-sfcx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pg2r-sfcx) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/pg2r-sfcx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pg2r-sfcx) | Last update: Recent  
   Interactive Summary Health Statistics for Adults provide annual estimates of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **DQS NHIS Children Summary Statistics**  
-  [Data](https://data.cdc.gov/resource/b5qi-b3hv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b5qi-b3hv) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/b5qi-b3hv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b5qi-b3hv) | Last update: Recent  
   Interactive Summary Health Statistics for Children provide annual estimates of selected health topics for children under age 18 years based on final data from the National Health Interview Survey.
 
 - **DQS Normal weight, overweight, and obesity among adults aged 20 and over, by selected characteristics: United States**  
@@ -534,6 +539,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **DQS Obesity among children and adolescents aged 2–19 years, by selected characteristics: United States**  
   [Data](https://data.cdc.gov/resource/w9cp-q6sg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/w9cp-q6sg) | Last update: May 2024  
   Data on obesity among children and adolescents aged 2-19 years in the United States, by selected characteristics, including sex, age, race, Hispanic origin, and poverty level. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
+
+- **DQS Prescription drug use in the past 30 days by sex race and Hispanic origin and age group: United States**  
+  [Data](https://data.cdc.gov/resource/b666-c5v5.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b666-c5v5) | Last update: Recent  
+  Data on prescription drug use in the past 30 days in the United States, by sex, race and Hispanic origin, and age group. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
 
 - **DQS Visits to physician offices, hospital outpatient departments, and hospital emergency departments, by age, sex, and race: United States**  
   [Data](https://data.cdc.gov/resource/xmjk-wh9b.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xmjk-wh9b) | Last update: May 2024  
@@ -546,7 +555,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/37nu-tuw8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/37nu-tuw8) | Last update: Nov 2023
 
 - **Drug Use Data from Selected Hospitals**  
-  [Data](https://data.cdc.gov/resource/gypc-kpgn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gypc-kpgn) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/gypc-kpgn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gypc-kpgn) | Last update: Recent
 
 - **Global Tobacco Surveillance System (GTSS) - Global Adult Tobacco Survey (GATS)**  
   [Data](https://data.cdc.gov/resource/4xf6-nrwk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/4xf6-nrwk) | Last update: Aug 2023  
@@ -572,11 +581,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/u4vw-xsmf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/u4vw-xsmf) | Last update: Sep 2023
 
 - **Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days**  
-  [Data](https://data.cdc.gov/resource/8pt5-q6wp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8pt5-q6wp) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/8pt5-q6wp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8pt5-q6wp) | Last update: Recent  
   The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
 
 - **Indicators of Health Insurance Coverage at the Time of Interview**  
-  [Data](https://data.cdc.gov/resource/jb9g-gnvr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jb9g-gnvr) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/jb9g-gnvr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jb9g-gnvr) | Last update: Recent  
   The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
 
 - **Indicators of Reduced Access to Care Due to the Coronavirus Pandemic During Last 4 Weeks**  
@@ -592,7 +601,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   On December 20 2021, all estimates and standard errors for 20172018 were revised in this table to correct programming errors.
 
 - **Lack of Social Connection**  
-  [Data](https://data.cdc.gov/resource/mnaa-qctp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mnaa-qctp) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/mnaa-qctp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mnaa-qctp) | Last update: Recent
 
 - **Long-term Care and COVID-19**  
   [Data](https://data.cdc.gov/resource/3j26-kg6d.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3j26-kg6d) | Last update: Sep 2022
@@ -609,11 +618,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
 
 - **Monthly Cumulative Number and Percent of Adults 60 Years and Older Who Received at least one RSV Vaccination Doses by Jurisdiction, United States**  
-  [Data](https://data.cdc.gov/resource/scrf-8d7w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/scrf-8d7w) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/scrf-8d7w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/scrf-8d7w) | Last update: Recent  
   Starting in July 2023, the CDC recommended the RSV vaccine to protect against serious illness from RSV. (https://www.cdc.gov/respiratory-viruses/whats-new/rsv-update-2023-09-22.html)
 
 - **Monthly Cumulative Number and Percent of Children <20 Months Who Received Nirsevimab by Age Group and Jurisdiction, United States**  
-  [Data](https://data.cdc.gov/resource/ku7p-zn4c.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ku7p-zn4c) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/ku7p-zn4c.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ku7p-zn4c) | Last update: Recent  
   Starting in July 2023, the CDC recommended the RSV vaccine to protect against serious illness from RSV. (https://www.cdc.gov/respiratory-viruses/whats-new/rsv-update-2023-09-22.html)
 
 - **Monthly Cumulative Number and Percent of Persons Who Received ≥1 Influenza Vaccination Doses, by Flu Season, Age Group, and Jurisdiction**  
@@ -648,18 +657,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Interactive Summary Health Statistics for Adults, by Detailed Race and Ethnicity provide estimates as three-year averages of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **NHIS Adult Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/25m4-6qqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/25m4-6qqq) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/25m4-6qqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/25m4-6qqq) | Last update: Recent  
   Interactive Summary Health Statistics for Adults provide annual estimates of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **NHIS Child Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/wxz7-ekz9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wxz7-ekz9) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/wxz7-ekz9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wxz7-ekz9) | Last update: Recent  
   Interactive Summary Health Statistics for Children provide annual estimates of selected health topics for children under age 18 years based on final data from the National Health Interview Survey.
 
 - **NHIS Interactive Biannual Early Release Estimates**  
   [Data](https://data.cdc.gov/resource/trpk-sp8z.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/trpk-sp8z) | Last update: May 2024
 
 - **NHIS Interactive Quarterly Early Release Estimates**  
-  [Data](https://data.cdc.gov/resource/wpti-gvdi.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wpti-gvdi) | Last update: May 2024
+  [Data](https://data.cdc.gov/resource/wpti-gvdi.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wpti-gvdi) | Last update: Recent
 
 - **NHIS Teen**  
   [Data](https://data.cdc.gov/resource/5pqj-rvh4.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5pqj-rvh4) | Last update: Dec 2023  
@@ -689,7 +698,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/tdbk-8ubw.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tdbk-8ubw) | Last update: Sep 2023
 
 - **National Immunization Survey Adult COVID Module (NIS-ACM): COVIDVaxViews| Data | Centers for Disease Control and Prevention (cdc.gov)**  
-  [Data](https://data.cdc.gov/resource/uc4z-hbsd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uc4z-hbsd) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/uc4z-hbsd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uc4z-hbsd) | Last update: Recent  
   The archived data can be found here:
 
 - **National Immunization Survey Adult COVID Module (NIS-ACM): Trends in Behavioral Indicators Among Unvaccinated People**  
@@ -708,7 +717,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/de4p-4g3k.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/de4p-4g3k) | Last update: Sep 2023
 
 - **Nationwide Commercial Laboratory Seroprevalence Survey**  
-  [Data](https://data.cdc.gov/resource/d2tw-32xv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/d2tw-32xv) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/d2tw-32xv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/d2tw-32xv) | Last update: Recent  
   This dataset contains the data used to by the Nationwide Commercial Laboratory Seroprevalence Survey interactive visualization available at https://covid.cdc.gov/covid-data-tracker/#national-lab.
 
 - **Normal weight, overweight, and obesity among adults aged 20 and over, by selected characteristics: United States**  
@@ -734,10 +743,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Estimates were derived from interviews with physicians in periods 3 and 4 of 2020 NAMCS and periods 1 through 4 of 2021 NAMCS, which occurred between December 15, 2020 and May 6, 2022.
 
 - **Post-COVID Conditions**  
-  [Data](https://data.cdc.gov/resource/gsea-w83j.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gsea-w83j) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/gsea-w83j.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gsea-w83j) | Last update: Recent
 
 - **Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence**  
-  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Recent  
   Sub-national death counts between 1-9 are suppressed in accordance with NCHS data confidentiality standards. Rates based on death counts less than 20 are suppressed in accordance with NCHS standards of reliability as specified in NCHS Data Presentation Standards for Proportions (available from: https://www.cdc.gov/nchs/data/series/sr_02/sr02_175.pdf.).
 
 - **Question Inventory on Tobacco (QIT)**  
@@ -751,7 +760,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Participating laboratories vary in size, testing capabilities, and areas served. Some institutions may receive and test samples from sites across a given state or even from multiple states. Without direct knowledge of the population base, NREVSS cannot be used to determine the prevalence or incidence of infection.
 
 - **State Tobacco Related Disparities Dashboard Data**  
-  [Data](https://data.cdc.gov/resource/jxu8-x79m.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jxu8-x79m) | Last update: Apr 2024
+  [Data](https://data.cdc.gov/resource/jxu8-x79m.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jxu8-x79m) | Last update: Recent
 
 - **Survey Data - Restaurant Grading**  
   [Data](https://data.cdc.gov/resource/6zuv-bn3z.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6zuv-bn3z) | Last update: Oct 2022
@@ -832,7 +841,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Weekly Intent for Vaccination and Cumulative Percentage of Adults 60 Years and Older Vaccinated with RSV Vaccine.
 
 - **Weekly Respiratory Virus Vaccination Data, Children 6 Months-17 Years and Adults 18 Years and Older, National Immunization Survey**  
-  [Data](https://data.cdc.gov/resource/5c6r-xi2t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5c6r-xi2t) | Last update: Aug 2024
+  [Data](https://data.cdc.gov/resource/5c6r-xi2t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5c6r-xi2t) | Last update: Recent
 
 - **Youth Risk Behavioral Surveillance System (YRBSS) Data**  
   [Data](https://data.cdc.gov/resource/3596-ayf6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3596-ayf6) | Last update: Aug 2023
@@ -847,7 +856,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cincinnati-oh.gov
 
 - **Cincinnati 311 (Non-Emergency) Service Requests**  
-  [Data](https://data.cincinnati-oh.gov/resource/4cjh-bm8b.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/4cjh-bm8b) | Last update: Aug 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/4cjh-bm8b.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/4cjh-bm8b) | Last update: Recent  
   Data Description: This dataset captures All Cincinnati 311 (Non-Emergency) Service Requests from 2012 to present including how long customer service requests have been open, by location, service request type, and department work group. Citizen Service Requests (CSR) give Cincinnati residents the opportunity to submit service request for concerns like potholes, tall grass and missed trash pick-up.
 
 - **Customer Service Requests (CSR) Survey Feedback Responses**  
@@ -855,7 +864,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/Customer-Service-CSR-Satisfaction/ks8a-xggj/
 
 - **Inspections & Certificates**  
-  [Data](https://data.cincinnati-oh.gov/resource/ivda-umw7.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/ivda-umw7) | Last update: Aug 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/ivda-umw7.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/ivda-umw7) | Last update: Recent  
   Data Description: This data set contains all inspections issued/performed by City of Cincinnati Departments (including Buildings & Inspections; Cincinnati Fire Department; Cincinnati Health Department; Cincinnati Parks; and Trade/Development), as well as Inspections Bureau Inc (IBI) and Hamilton County departments.
 
 [[TOP]](#toc)
@@ -873,7 +882,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cityofchicago.org
 
 - **Beach Lab Data**  
-  [Data](https://data.cityofchicago.org/resource/2ivx-z93u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ivx-z93u) | Last update: Aug 2024  
+  [Data](https://data.cityofchicago.org/resource/2ivx-z93u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ivx-z93u) | Last update: Recent  
   The Chicago Park District collects and analyzes water samples from beaches along Chicagos Lake Michigan lakefront. The Chicago Park District partners with the University of Illinois at Chicago Department of Public Health Laboratory to analyze water samples using a new DNA testing method called Rapid Testing Method (qPCR analysis) which tests for Enterococci in order to monitor swimming safety.
 
 - **COVID-19 - Vaccinations by Region, Age, and Race-Ethnicity - Historical**  
@@ -915,7 +924,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset was used by Chicago Police Department analysts to create the publicly available Chicago Police Sentiment Dashboard (https://home.chicagopolice.org/statistics-data/data-dashboards/sentiment-dashboard/). This online dashboard displays information related to how safe Chicago residents feel and how much trust they have in the police.
 
 - **Socioeconomically Disadvantaged Areas**  
-  [Data](https://data.cityofchicago.org/resource/2ui7-wiq8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ui7-wiq8) | Last update: Jul 2024  
+  [Data](https://data.cityofchicago.org/resource/2ui7-wiq8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ui7-wiq8) | Last update: Recent  
   Areas of Chicago, based on census tracts, that are the most socioeconomically disadvantaged, for the purpose of promoting equitable hiring within areas of economic need. Qualifying areas were identified using three criteria, based on data from the 2014 American Community Survey: household income, poverty rate, and unemployment rate.
 
 [[TOP]](#toc)
@@ -941,7 +950,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data is from an annual report to be provided in compliance of Local Law 40 of 2019, covering the time period July 1, 2019 through  June 30, 2021. The dataset includes: services received, utilization of language interpretation services, language of interpretation, what the client found most helpful about visit to FJC and would the client recommend the Family Justice Center to others.
 
 - **Block Planting**  
-  [Data](https://data.cityofnewyork.us/resource/h426-x5gi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h426-x5gi) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/h426-x5gi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h426-x5gi) | Last update: Recent  
   City blocks surveyed for tree planting by NYC Parks foresters.
 
 - **Broadway Curb Cut Survey Data**  
@@ -955,7 +964,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/qmcw-ur37.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qmcw-ur37) | Last update: Feb 2020
 
 - **DOB Safety Violations**  
-  [Data](https://data.cityofnewyork.us/resource/855j-jady.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/855j-jady) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/855j-jady.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/855j-jady) | Last update: Recent  
   This data set includes violations issued on devices through the New York City Department of Buildings' DOB NOW: Safety Violations module. The data is collected because the Department of Buildings tracks violation issuance and related information. This data include items such as violations number, violations type, violation issuance data, and BIN.
 
 - **DOHMH Community Mental Health Survey**  
@@ -963,7 +972,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The CMHS was conducted in conjunction with the annual 2012 Community health Survey (CHS). The CMHS provides robust data on the mental health of New Yorkers, including neighborhood, borough, and citywide estimates. The data are analyzed and disseminated to influence mental health program decisions, and increase the understanding of the mental health among New Yorkers.
 
 - **DSNY DonateNYC Directory**  
-  [Data](https://data.cityofnewyork.us/resource/gkgs-za6m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gkgs-za6m) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/gkgs-za6m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gkgs-za6m) | Last update: Recent  
   To reduce needless waste and increase diversion of reusable material from landfills, the NYC Department of Sanitation established donateNYC in 2016. donateNYC helps New Yorkers give goods, find goods, and do good, with tools that make it easy to donate or find used goods.
 
 - **ENDGBV In Focus: Survey Findings from the New York City Healthy Relationship Training Academy - Differences by Participant Age and Gender**  
@@ -974,18 +983,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/vtsq-3d95.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vtsq-3d95) | Last update: Jan 2024
 
 - **Electronics Drop Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/wshr-5vic.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wshr-5vic) | Last update: Aug 2024
+  [Data](https://data.cityofnewyork.us/resource/wshr-5vic.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wshr-5vic) | Last update: Recent
 
 - **Entitation**  
-  [Data](https://data.cityofnewyork.us/resource/ud2m-5tb4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ud2m-5tb4) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/ud2m-5tb4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ud2m-5tb4) | Last update: Recent  
   Entitation is a process of identifying and describing discrete vegetation units (entities). Essentially, it is a general inventory of an area's plant communities conducted by means of aerial photograph interpretation and field reconnaissance. The survey results in the identification of ecologically distinct plant communities based on species and structure.
 
 - **Entitation Parsed Species**  
-  [Data](https://data.cityofnewyork.us/resource/v959-5k2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v959-5k2w) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/v959-5k2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v959-5k2w) | Last update: Recent  
   Entitation is a process of identifying and describing discrete vegetation units (entities). Essentially, it is a general inventory of an area's plant communities conducted by means of aerial photograph interpretation and field reconnaissance. The survey results in the identification of ecologically distinct plant communities based on species and structure.
 
 - **Food Scrap Drop-Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/if26-z6xq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/if26-z6xq) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/if26-z6xq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/if26-z6xq) | Last update: Recent  
   Locations where NYC residents can drop off their food scraps to be composted. For more information, visit https://www.nyc.gov/site/dsny/collection/residents/food-scrap-drop-off.page.
 
 - **Internet Master Plan: Adoption and Infrastructure Data by Neighborhood**  
@@ -993,7 +1002,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data Limitations: Data accuracy is limited as of the date of publication and by the methodology and accuracy of the original sources.
 
 - **Leaf Drop-Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/8i9k-4gi5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8i9k-4gi5) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/8i9k-4gi5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8i9k-4gi5) | Last update: Recent  
   Locations where NYC residents can drop off their leaves to be composted. These are seasonal and temporary drop-off options; residents should not drop off leaves at these locations outside of the specific dates listed.
 
 - **Low Income Housing Tax Credits Awarded by HPD: Project-Level (4% Awards)**  
@@ -1008,10 +1017,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/8kic-uvpz.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8kic-uvpz) | Last update: Aug 2021
 
 - **NYC EV Fleet Station Network**  
-  [Data](https://data.cityofnewyork.us/resource/fc53-9hrv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fc53-9hrv) | Last update: Jul 2024
+  [Data](https://data.cityofnewyork.us/resource/fc53-9hrv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fc53-9hrv) | Last update: Recent
 
 - **NYC Pool Inspections**  
-  [Data](https://data.cityofnewyork.us/resource/3kfa-rvez.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3kfa-rvez) | Last update: Jun 2024  
+  [Data](https://data.cityofnewyork.us/resource/3kfa-rvez.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3kfa-rvez) | Last update: Recent  
   Due to the COVID-19 public health emergency, there were periods of time in 2020 when facilities were subject to mandatory closure orders or chose not to open, and inspections were subsequently paused or modified.
 
 - **New York City Community Health Survey**  
@@ -1026,7 +1035,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This tab provides the number of designated full-time and part-time physical education certified instructors. Does not include elementary, early childhood and K-8 physical education teachers that provide physical education instruction under a common branches license.
 
 - **Parks Signs**  
-  [Data](https://data.cityofnewyork.us/resource/hv9n-xgy4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hv9n-xgy4) | Last update: Jul 2024
+  [Data](https://data.cityofnewyork.us/resource/hv9n-xgy4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hv9n-xgy4) | Last update: Recent
 
 - **Participatory Budgeting Survey Data**  
   [Data](https://data.cityofnewyork.us/resource/wa6b-r9jh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wa6b-r9jh) | Last update: Feb 2020
@@ -1036,7 +1045,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Pedestrian ramps provide access on and off streets and sidewalks and are an essential tool for all pedestrians. This data is a comprehensive list of all pedestrian ramps throughout New York City.
 
 - **Pharmaceutical and Syringe Drop-Off Locations in NYC**  
-  [Data](https://data.cityofnewyork.us/resource/edk2-vkjh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/edk2-vkjh) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/edk2-vkjh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/edk2-vkjh) | Last update: Recent  
   Carefully place household sharps in leak-proof and puncture-resistant container labeled "Home Sharps - not for recycling". Bring to a collection center or drop-off site or discard as trash. ALL New York State hospitals and nursing homes are required by law to act as collection centers for used household sharps, including syringes and lancets, with no identification required.
 
 - **Population and Languages of the Limited English Proficient (LEP) Speakers by Community District**  
@@ -1049,11 +1058,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/rqgf-94xs.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rqgf-94xs) | Last update: Nov 2023
 
 - **Safety Events**  
-  [Data](https://data.cityofnewyork.us/resource/3vyj-dkjt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3vyj-dkjt) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/3vyj-dkjt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3vyj-dkjt) | Last update: Recent  
   New York City Department of Transportation hosts various safety events throughout New York City at schools, community centers, senior centers and local playground or parks. Types of events includes child passenger safety, bike safety and helmet distribution, public outreach and more to spread safety awareness.
 
 - **Serious Injury Response, Tracking & Analysis Program (SIRTA)**  
-  [Data](https://data.cityofnewyork.us/resource/xeqp-qz8h.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xeqp-qz8h) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/xeqp-qz8h.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xeqp-qz8h) | Last update: Recent  
   For more information, please visit the NYC DOT website: https://www.nyc.gov/html/dot/html/about/dotlibrary.shtml#data
 
 - **State of Good Repair Needs**  
@@ -1093,7 +1102,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.colorado.gov
 
 - **Alternative Fuels and Electric Vehicle Charging Station Locations in Colorado**  
-  [Data](https://data.colorado.gov/resource/team-3ugz.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/team-3ugz) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/team-3ugz.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/team-3ugz) | Last update: Recent  
   Alternative Fuels and Electric Vehicle Charging Station locations are gathered by the National Renewable Energy Laboratory (NREL) and verified annually.
 
 - **Boulder County Building Footprints**  
@@ -1101,11 +1110,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset represents the building footprints for unincorporated Boulder County. The data is updated continuously from building permit records and when new aerial photography becomes available.
 
 - **Building Permit Counts in Colorado**  
-  [Data](https://data.colorado.gov/resource/v4as-sthd.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/v4as-sthd) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/v4as-sthd.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/v4as-sthd) | Last update: Recent  
   Number of building permits by type for counties and municipalities in Colorado from 2010 to 2016 from the Colorado Department of Local Affairs (DOLA).
 
 - **Business Improvement Districts Denver**  
-  [Data](https://data.colorado.gov/resource/qtga-qgdf.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/qtga-qgdf) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/qtga-qgdf.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/qtga-qgdf) | Last update: Recent  
   Map of Business improvement districts in Denver, CO.
 
 - **Colorado Snow Ice Control**  
@@ -1116,34 +1125,34 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Colorado has 58 Named Peaks greater than 14,000 feet above sea level.
 
 - **DWR Well Water Level**  
-  [Data](https://data.colorado.gov/resource/hfwh-wsgi.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/hfwh-wsgi) | Last update: Jul 2024  
+  [Data](https://data.colorado.gov/resource/hfwh-wsgi.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/hfwh-wsgi) | Last update: Recent  
   The Division of Water Resources, in cooperation with various local groundwater management districts and partners, operates a statewide network to monitor groundwater levels.
 
 - **Employment Wages in Colorado**  
-  [Data](https://data.colorado.gov/resource/busm-qa5b.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/busm-qa5b) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/busm-qa5b.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/busm-qa5b) | Last update: Recent  
   Employment wages by industry, year, and area, from Colorado Department of Labor and Employment (CDLE), since 2009
 
 - **EnergizeCO Small Business Resiliency Index (SBRI)**  
   [Data](https://data.colorado.gov/resource/sn8z-q44h.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/sn8z-q44h) | Last update: Oct 2022
 
 - **General Improvement Districts Denver**  
-  [Data](https://data.colorado.gov/resource/g62i-kdzu.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/g62i-kdzu) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/g62i-kdzu.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/g62i-kdzu) | Last update: Recent  
   Map of General Improvement Districts in Denver. GIDs are allowed to construct, install or acquire any public improvement except solid waste disposal improvements and services.
 
 - **Hours Worked by Employees in Colorado**  
-  [Data](https://data.colorado.gov/resource/pt2g-89wc.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/pt2g-89wc) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/pt2g-89wc.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/pt2g-89wc) | Last update: Recent  
   Estimated employment counts by month and industry with hours worked by industry from Colorado Department of Labor and Employment (CDLE), since 1990.
 
 - **Identified Hydrothermal in Colorado**  
-  [Data](https://data.colorado.gov/resource/u6xi-qwn3.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/u6xi-qwn3) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/u6xi-qwn3.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/u6xi-qwn3) | Last update: Recent  
   Identified hydrothermal sites from Assessment of Moderate- and High-Temperature Geothermal Resources of the United States (2008).
 
 - **Race Estimates in Colorado**  
-  [Data](https://data.colorado.gov/resource/wv7f-qjj7.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/wv7f-qjj7) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/wv7f-qjj7.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/wv7f-qjj7) | Last update: Recent  
   Population estimates by race, single age, and gender by counties in Colorado from 2010 to 2016 from the Demography Department of the Colorado Department of Local Affairs (DOLA).
 
 - **Race Forecasts in Colorado**  
-  [Data](https://data.colorado.gov/resource/ab5h-juwk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ab5h-juwk) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/ab5h-juwk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ab5h-juwk) | Last update: Recent  
   Population forecasts by race and age in counties in Colorado from 2010 to 2050 from the Demography Department of the Colorado Department of Local Affairs (DOLA).
 
 [[TOP]](#toc)
@@ -1209,7 +1218,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.ct.gov
 
 - **CT Municipalities**  
-  [Data](https://data.ct.gov/resource/5c5g-mddb.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/5c5g-mddb) | Last update: Jun 2024
+  [Data](https://data.ct.gov/resource/5c5g-mddb.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/5c5g-mddb) | Last update: Recent
 
 - **Census Tracts Identified for PA 23-205**  
   [Data](https://data.ct.gov/resource/axzu-dqxm.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/axzu-dqxm) | Last update: Jul 2023  
@@ -1220,7 +1229,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The 2021 five-year American Community Survey estimates were used to identify the tracts.
 
 - **Connecticut Business Registry - Business Master**  
-  [Data](https://data.ct.gov/resource/n7gp-d28j.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/n7gp-d28j) | Last update: Aug 2024  
+  [Data](https://data.ct.gov/resource/n7gp-d28j.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/n7gp-d28j) | Last update: Recent  
   This is the master business table (account object) from the Connecticut Business Registry, maintained by the Secretary of the State, Business Services Division.
 
 - **Connecticut Qualified Census Tracts**  
@@ -1232,10 +1241,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The annual pre-kindergarten (pre-K) through 12th grade school immunization survey collects school-level, grade-specific data on vaccine coverage and exemptions. The survey collects vaccination and exemption status data on children who entered the school system on or before a specified date during the fall semester. Individual vaccine information on each student is not collected.
 
 - **Department of Economic and Community Development (DECD) – Business Assistance Portfolio**  
-  [Data](https://data.ct.gov/resource/xnw3-nytd.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/xnw3-nytd) | Last update: Feb 2024
+  [Data](https://data.ct.gov/resource/xnw3-nytd.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/xnw3-nytd) | Last update: Recent
 
 - **Department of Labor, Office of Research**  
-  [Data](https://data.ct.gov/resource/8zbs-9atu.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/8zbs-9atu) | Last update: Jul 2024  
+  [Data](https://data.ct.gov/resource/8zbs-9atu.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/8zbs-9atu) | Last update: Recent  
   Historical Employment Statistics 1990 - current.
 
 - **Statewide Immunizations and Exemption Rates by School Year, Grade, Vaccine, and School Type**  
@@ -1511,7 +1520,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This was one single topic among many, from the March 2018 Mixed Topic survey. To view the survey questions, click on the following link:
 
 - **Driver Feedback Sign Locations**  
-  [Data](https://data.edmonton.ca/resource/u5kr-rbif.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/u5kr-rbif) | Last update: Jul 2024  
+  [Data](https://data.edmonton.ca/resource/u5kr-rbif.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/u5kr-rbif) | Last update: Recent  
   This dataset is a master listing of DFS units and where they can be found in the city.
 
 - **Drones - Edmonton Insight Community**  
@@ -1816,7 +1825,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   At the time the survey was launched survey invitations were sent to 4847 Insight Community Members. 1885 members completed the survey which represents a completion rate of 39%. A total of 1893 respondents completed the survey: 1885 Insight Community Members and 8 using the anonymous link which will have no demographic info.
 
 - **Mosquito Trap Data**  
-  [Data](https://data.edmonton.ca/resource/dg7f-ubac.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/dg7f-ubac) | Last update: Jul 2024  
+  [Data](https://data.edmonton.ca/resource/dg7f-ubac.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/dg7f-ubac) | Last update: Recent  
   To complement this dataset, there is the Rainfall Gauge data which measures rainfall data in the Greater Edmonton area:
 
 - **My Property Website - Edmonton Insight Community**  
@@ -2048,12 +2057,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/dptt-n7dz.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/dptt-n7dz) | Last update: Jul 2019
 
 - **Secondary Suites - Edmonton Insight Community**  
-  [Data](https://data.edmonton.ca/resource/jcyt-m93g.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jcyt-m93g) | Last update: Jul 2019  
-  At the time the survey was launched survey invitations were sent to 7,017 Insight Community Members. 1,637 members completed the survey which represents a completion rate of 24%. A total of 1,650 respondents completed the survey: 1,637 Insight Community Members and 13 using the anonymous link(s) which will have no demographic info.
-
-- **Secondary Suites - Edmonton Insight Community**  
   [Data](https://data.edmonton.ca/resource/veph-fadt.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/veph-fadt) | Last update: Jul 2019  
   At the time the survey was launched survey invitations were sent to 6766 Insight Community Members. 1750 members completed the survey which represents a completion rate of 26%. A total of 1779 respondents completed the survey: 1750 Insight Community Members and 29 using the anonymous link(s) which will have no demographic info.
+
+- **Secondary Suites - Edmonton Insight Community**  
+  [Data](https://data.edmonton.ca/resource/jcyt-m93g.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jcyt-m93g) | Last update: Jul 2019  
+  At the time the survey was launched survey invitations were sent to 7,017 Insight Community Members. 1,637 members completed the survey which represents a completion rate of 24%. A total of 1,650 respondents completed the survey: 1,637 Insight Community Members and 13 using the anonymous link(s) which will have no demographic info.
 
 - **Semi-detached Housing - Edmonton Insight Community**  
   [Data](https://data.edmonton.ca/resource/58pb-fwp6.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/58pb-fwp6) | Last update: Jul 2019  
@@ -2351,7 +2360,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data is released every 2 years following the American Community Survey release in December of the year following the Survey. The most recent data for 2018 was downloaded from the ATSDR website.
 
 - **Washington Health Workforce Survey**  
-  [Data](https://data.kingcounty.gov/resource/pdjq-eqk2.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/pdjq-eqk2) | Last update: Aug 2024  
+  [Data](https://data.kingcounty.gov/resource/pdjq-eqk2.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/pdjq-eqk2) | Last update: Recent  
   The Washington State Department of Health presents this information as a service to the public. This includes information on the work status, practice characteristics, education, and demographics of healthcare providers, provided in response to the Washington Health Workforce Survey.
 
 - **YouthMarijuana0412**  
@@ -2368,7 +2377,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The LA County Arts Ed Profile is a research project by the LA County Arts Education Collective that measures the quantity, quality and equity of arts education in all public schools in the county. This available dataset combines data collected through the Arts Ed Profile school survey and data collected by the California Department of Education.
 
 - **Customer Survey Responses**  
-  [Data](https://data.lacity.org/resource/uj6a-ab47.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/uj6a-ab47) | Last update: Aug 2024  
+  [Data](https://data.lacity.org/resource/uj6a-ab47.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/uj6a-ab47) | Last update: Recent  
   Questionnaires are provided to El Pueblo visitors; a minimum of 50 are tabulated each month.
 
 [[TOP]](#toc)
@@ -2401,11 +2410,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Detailed information regarding the median home value, by location, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Households by Income, Age and Race**  
-  [Data](https://data.marincounty.org/resource/yjpq-ija2.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/yjpq-ija2) | Last update: Jun 2024  
+  [Data](https://data.marincounty.org/resource/yjpq-ija2.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/yjpq-ija2) | Last update: Recent  
   Detailed household information in regards to income, age, and race, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Housing Affordability**  
-  [Data](https://data.marincounty.org/resource/gz7z-2nj9.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/gz7z-2nj9) | Last update: Jun 2024  
+  [Data](https://data.marincounty.org/resource/gz7z-2nj9.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/gz7z-2nj9) | Last update: Recent  
   Detailed information regarding rental and home owner's cost as a percentage of annual median household income, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Landbird Abundance Index**  
@@ -2417,7 +2426,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Tracking of demographic information for various participant groups in Marin County arts and culture organizations.
 
 - **Median Household Income**  
-  [Data](https://data.marincounty.org/resource/kn6f-gx3p.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/kn6f-gx3p) | Last update: Jun 2024  
+  [Data](https://data.marincounty.org/resource/kn6f-gx3p.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/kn6f-gx3p) | Last update: Recent  
   Detailed information regarding median household income by age and race, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Northern Spotted Owl Breeding Success**  
@@ -2446,7 +2455,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.mesaaz.gov
 
 - **CanalROW**  
-  [Data](https://data.mesaaz.gov/resource/2z3a-nnqd.json) | [Docs](https://dev.socrata.com/foundry/data.mesaaz.gov/2z3a-nnqd) | Last update: Jun 2024
+  [Data](https://data.mesaaz.gov/resource/2z3a-nnqd.json) | [Docs](https://dev.socrata.com/foundry/data.mesaaz.gov/2z3a-nnqd) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -2476,7 +2485,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of Case Names, Settlement Amounts, and Parties Demographic Information if available, for the prior fiscal year. Demographic survey is not applicable to cases settled prior to Bill 19-21s effective date 1/12/2022 NA = Not applicable, NR = Not responded, OO = Opt Out.The Settlement amount shown is for the entire matter, not for each individual plaintiff. Report updates annually.
 
 - **Cable Inspections**  
-  [Data](https://data.montgomerycountymd.gov/resource/tzyi-s757.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/tzyi-s757) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/tzyi-s757.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/tzyi-s757) | Last update: Recent  
   Information on Cable Inspections performed by the Montgomery County Cable Office since September 1, 2010.
 
 [[TOP]](#toc)
@@ -2522,7 +2531,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.norfolk.gov/resource/7jsp-eyjg.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/7jsp-eyjg) | Last update: May 2024
 
 - **Plan Reviews**  
-  [Data](https://data.norfolk.gov/resource/dhk3-hr4y.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/dhk3-hr4y) | Last update: Aug 2024  
+  [Data](https://data.norfolk.gov/resource/dhk3-hr4y.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/dhk3-hr4y) | Last update: Recent  
   This dataset offers a listing of plan reviews performed by the City of Norfolk. It encompasses various review types, including Building Code, CBPA Review, Stormwater, Floodplain Review, Surveys, Design Review, Reservoir Review, Environmental Review, and others. This dataset provides valuable insights into the status and outcomes of these reviews. This dataset will be updated daily on weekdays.
 
 [[TOP]](#toc)
@@ -2553,7 +2562,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/mrvf-vpe5.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/mrvf-vpe5) | Last update: Nov 2023
 
 - **Employee Engagement Survey Results for "How's Work Going"**  
-  [Data](https://data.novascotia.ca/resource/m5ke-g2xy.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/m5ke-g2xy) | Last update: Jul 2024  
+  [Data](https://data.novascotia.ca/resource/m5ke-g2xy.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/m5ke-g2xy) | Last update: Recent  
   How's Work Going? Workplace Engagement Survey summary results to all questions for all of Government and by Department.
 
 - **Familiarity with the Nova Scotia Justice System**  
@@ -2568,7 +2577,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/pfje-8tuj.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/pfje-8tuj) | Last update: Aug 2022
 
 - **Nova Scotia Control Monuments**  
-  [Data](https://data.novascotia.ca/resource/jdf8-5rt8.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/jdf8-5rt8) | Last update: Jul 2024  
+  [Data](https://data.novascotia.ca/resource/jdf8-5rt8.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/jdf8-5rt8) | Last update: Recent  
   The Nova Scotia Control Monuments (NSCM) dataset is updated and maintained from ongoing observations on survey monuments. The NSCM indicates the locations of physical survey monuments in Nova Scotia. Information includes the Station Number, Station Name, Station Description, Monument Type, Monument Status, Status Date, Construction Date, GPS suitability and general comments.
 
 - **Nova Scotia Department of Justice - Perceived Safety from Crime when Walking Alone in Area After Dark**  
@@ -2596,11 +2605,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Non-resident overnight visitors to Nova Scotia are asked why they travelled to the province. Responses are grouped into various categories.
 
 - **Nova Scotians Engagement in Tourism Industry**  
-  [Data](https://data.novascotia.ca/resource/2ur5-nrja.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/2ur5-nrja) | Last update: Jun 2024  
+  [Data](https://data.novascotia.ca/resource/2ur5-nrja.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/2ur5-nrja) | Last update: Recent  
   Results from a questionnaire gauging Nova Scotians opinions related to the provincial tourism industry.
 
 - **Old Growth Forest Policy**  
-  [Data](https://data.novascotia.ca/resource/wanf-acts.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/wanf-acts) | Last update: Jul 2024  
+  [Data](https://data.novascotia.ca/resource/wanf-acts.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/wanf-acts) | Last update: Recent  
   Forest stands identified under the Nova Scotia Old Growth Forest Policy.
 
 - **Perceived safety from crime when home alone at night**  
@@ -2655,11 +2664,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This file provides the boat count information resulting from the Artificial Reef Aerial Survey including the date of flight, reef observed, number of small boats observed, and number of large boats observed. Large boats are defined as party and charter boats.
 
 - **Average Home Heating Oil Prices by Region: Beginning 1997**  
-  [Data](https://data.ny.gov/resource/rc94-5y2u.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rc94-5y2u) | Last update: Aug 2024  
+  [Data](https://data.ny.gov/resource/rc94-5y2u.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rc94-5y2u) | Last update: Recent  
   For current and historical residential retail price data, regional comparisons, and fuel type comparisons, please visit the Home Heating Oil Prices Dashboard: https://www.nyserda.ny.gov/Researchers-and-Policymakers/Energy-Prices/Home-Heating-Oil/Average-Home-Heating-Oil-Prices 
 
 - **Average Residential Retail Propane Prices by Region: Beginning 1997**  
-  [Data](https://data.ny.gov/resource/keug-6vc5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/keug-6vc5) | Last update: Aug 2024  
+  [Data](https://data.ny.gov/resource/keug-6vc5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/keug-6vc5) | Last update: Recent  
   The New York State Energy Research and Development Authority (NYSERDA) offers objective information and analysis, innovative programs, technical expertise, and support to help New Yorkers increase energy efficiency, save money, use renewable energy, and reduce reliance on fossil fuels. To learn more about NYSERDAs programs, visit nyserda.ny.gov or follow us on X, Facebook, YouTube, or Instagram.
 
 - **Biodiversity by County - Distribution of Animals, Plants and Natural Communities**  
@@ -2677,7 +2686,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data containing municipal wastewater treatment plant design other features, with data current through the most recent survey.
 
 - **Current Employment Statistics: Beginning 1990**  
-  [Data](https://data.ny.gov/resource/6k74-dgkb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6k74-dgkb) | Last update: Jul 2024
+  [Data](https://data.ny.gov/resource/6k74-dgkb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6k74-dgkb) | Last update: Recent
 
 - **Employment Status of the Civilian Noninstitutional Population (16 Years and Over)**  
   [Data](https://data.ny.gov/resource/wkup-gbbg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/wkup-gbbg) | Last update: Jan 2024  
@@ -2688,7 +2697,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Reports estimated industrial timber harvest production level from New Yorks forests, the consumption level of New Yorks primary wood processors, and the flow of harvested timber products to/from New York.
 
 - **Long Term Occupational Projections**  
-  [Data](https://data.ny.gov/resource/pqm4-9qqb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pqm4-9qqb) | Last update: Jul 2024
+  [Data](https://data.ny.gov/resource/pqm4-9qqb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pqm4-9qqb) | Last update: Recent
 
 - **Long-term Industry Projections**  
   [Data](https://data.ny.gov/resource/b7d6-zygf.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/b7d6-zygf) | Last update: Jun 2023  
@@ -2703,15 +2712,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing  OpenNY@nyserda.ny.gov.
 
 - **Occupational Employment and Wage Statistics**  
-  [Data](https://data.ny.gov/resource/gkgz-nw24.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/gkgz-nw24) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/gkgz-nw24.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/gkgz-nw24) | Last update: Recent  
   The Occupational Employment and Wage Statistics (OEWS) survey is a semiannual mail survey of employers that measures occupational employment and occupational wage rates for wage and salary workers in nonfarm establishments, by industry.
 
 - **Oil, Gas, & Other Regulated Wells: Beginning 1860**  
-  [Data](https://data.ny.gov/resource/szye-wmt3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/szye-wmt3) | Last update: Aug 2024  
+  [Data](https://data.ny.gov/resource/szye-wmt3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/szye-wmt3) | Last update: Recent  
   Information on oil, gas, storage, solution salt, stratigraphic, and geothermal wells in New York State
 
 - **Orphaned Wells**  
-  [Data](https://data.ny.gov/resource/vgue-bamz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/vgue-bamz) | Last update: Aug 2024  
+  [Data](https://data.ny.gov/resource/vgue-bamz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/vgue-bamz) | Last update: Recent  
   List of wells that are regulated under the Oil, Gas and Solution Mining Law (ECL Article 23) in New York State that are orphaned and not plugged.
 
 - **RSBS HVAC: New York State Residential Statewide Baseline Study: Heating, Ventilation, and Air Conditioning (HVAC) Contractor Survey**  
@@ -2751,7 +2760,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The New York State Energy Research and Development Authority (NYSERDA), in collaboration with the New York State Department of Public Service (DPS), conducted a statewide residential baseline study (study) from 2011 to 2014 of the single-family and multifamily residential housing segments, including new construction, and a broad range of energy uses and efficiency measures.
 
 - **Regional Economic Development Councils (REDC)**  
-  [Data](https://data.ny.gov/resource/6u6d-i2fg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6u6d-i2fg) | Last update: Jul 2024
+  [Data](https://data.ny.gov/resource/6u6d-i2fg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6u6d-i2fg) | Last update: Recent
 
 - **Selected Labor Force Characteristics of Youth Aged 16 to 24**  
   [Data](https://data.ny.gov/resource/rrw8-ncwn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rrw8-ncwn) | Last update: Sep 2023  
@@ -2967,10 +2976,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.pa.gov
 
 - **American Community Survey (ACS) Computer, Internet and Population Census Tract**  
-  [Data](https://data.pa.gov/resource/suq7-awmm.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/suq7-awmm) | Last update: Aug 2024
+  [Data](https://data.pa.gov/resource/suq7-awmm.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/suq7-awmm) | Last update: Recent
 
 - **Census ACS Educational Attainment Working Age**  
-  [Data](https://data.pa.gov/resource/32q3-hhqg.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/32q3-hhqg) | Last update: Aug 2024  
+  [Data](https://data.pa.gov/resource/32q3-hhqg.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/32q3-hhqg) | Last update: Recent  
   Estimates of urban and rural populations, housing units, and characteristics reflect boundaries of urban areas defined based on Census 2010 data. As a result, data for urban and rural areas from the ACS do not necessarily reflect the results of ongoing urbanization.
 
 - **Housing Tenure & Costs County**  
@@ -3140,7 +3149,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.sccgov.org/resource/h2qp-3hfs.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/h2qp-3hfs) | Last update: Feb 2023
 
 - **COVID-19 Vaccination among County Residents by Census Tract**  
-  [Data](https://data.sccgov.org/resource/qx2e-7jz2.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/qx2e-7jz2) | Last update: Aug 2024
+  [Data](https://data.sccgov.org/resource/qx2e-7jz2.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/qx2e-7jz2) | Last update: Recent
 
 - **County Map Books**  
   [Data](https://data.sccgov.org/resource/f5uv-khdt.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/f5uv-khdt) | Last update: Dec 2023
@@ -3163,7 +3172,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.somervillema.gov
 
 - **311 Service, Information, and Feedback Requests**  
-  [Data](https://data.somervillema.gov/resource/4pyi-uqq6.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/4pyi-uqq6) | Last update: Aug 2024  
+  [Data](https://data.somervillema.gov/resource/4pyi-uqq6.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/4pyi-uqq6) | Last update: Recent  
   This dataset includes data starting in July 2015. This dataset was updated in November 2023 to include Feedback and Information Requests in addition to Service Requests. Please redownload the data for the most up to date information. This dataset will be updated monthly.
 
 - **Americans with Disabilities Act Community Survey Results**  
@@ -3175,7 +3184,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   All responses to the community survey on perceptions of police and public safety run by the Somerville Department of Racial and Social Justice from September 2022 to March 2023 as part of the Public Safety for All program.
 
 - **Somerville Happiness Survey Responses**  
-  [Data](https://data.somervillema.gov/resource/pfjr-vzaw.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/pfjr-vzaw) | Last update: Jul 2024
+  [Data](https://data.somervillema.gov/resource/pfjr-vzaw.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/pfjr-vzaw) | Last update: Recent
 
 - **Somerville Public School Staff MBTA Pass Pilot - Travel & Survey Data**  
   [Data](https://data.somervillema.gov/resource/qsv6-v7hu.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/qsv6-v7hu) | Last update: Apr 2024
@@ -3203,7 +3212,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.vermont.gov
 
 - **County**  
-  [Data](https://data.vermont.gov/resource/3dr5-ewdb.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/3dr5-ewdb) | Last update: Jul 2024
+  [Data](https://data.vermont.gov/resource/3dr5-ewdb.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/3dr5-ewdb) | Last update: Recent
 
 - **State of Vermont Employee Survey Engagement Score Summary by Year**  
   [Data](https://data.vermont.gov/resource/vymh-5p4g.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/vymh-5p4g) | Last update: Aug 2022  
@@ -3234,11 +3243,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/4wd7-u6b8.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/4wd7-u6b8) | Last update: Oct 2021
 
 - **Childcare Need & Supply (All)**  
-  [Data](https://data.wa.gov/resource/hiqz-y2vv.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/hiqz-y2vv) | Last update: Aug 2024  
+  [Data](https://data.wa.gov/resource/hiqz-y2vv.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/hiqz-y2vv) | Last update: Recent  
   Statewide, DCYF estimates that families of about 293,000 children age B-5 not yet in school need child care, because all available parents in the home are working. Only about 27% of these children are served by licensed child care, preschool, and/or subsidized child care.
 
 - **ECEAP & Head Start Take Up Dashboard**  
-  [Data](https://data.wa.gov/resource/6ra4-baac.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/6ra4-baac) | Last update: Aug 2024  
+  [Data](https://data.wa.gov/resource/6ra4-baac.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/6ra4-baac) | Last update: Recent  
   This data is a summary data set from the ECEAP and Head Start Take Up Dashboard. The dashboard illustrates the number of eligible families who take up ECEAP or Head Start preschool slots. It shows the number of children served by ECEAP or Head Start as a proportion of the selected population filters. https://www.dcyf.wa.gov/practice/oiaa/reports/early-learning-dashboards/eceap-headstart-dashboard
 
 - **Educational Attainment of Washington Population by Age, Race/Ethnicity/, and PUMA Region**  
@@ -3246,11 +3255,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The official population count  including population by age, sex, race and Hispanic origin  comes from the once-a-decade census, supplemented by annual population estimates (which do not typically contain educational attainment variables) from the following groups and surveys:  
 
 - **Electric Vehicle Population Data**  
-  [Data](https://data.wa.gov/resource/f6w7-q2d2.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/f6w7-q2d2) | Last update: Jul 2024  
+  [Data](https://data.wa.gov/resource/f6w7-q2d2.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/f6w7-q2d2) | Last update: Recent  
   This dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL).
 
 - **Electric Vehicle Title and Registration Activity**  
-  [Data](https://data.wa.gov/resource/rpr4-cgyd.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/rpr4-cgyd) | Last update: Jul 2024  
+  [Data](https://data.wa.gov/resource/rpr4-cgyd.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/rpr4-cgyd) | Last update: Recent  
   This shows records of title activity (transactions recording changes of ownership), and registration activity (transactions authorizing vehicles to be used on Washington public roads).
 
 - **LEA Academic and Student Well-being Plans**  
@@ -3281,14 +3290,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Tabular results of the Annual Technology Survey, submitted to the Office of the Superintendent of Public Instruction (OSPI). This dataset combines multiple years of the survey data to allow longitudinal analysis.
 
 - **Subsidy Uptake Dashboard**  
-  [Data](https://data.wa.gov/resource/utij-tv86.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/utij-tv86) | Last update: Aug 2024  
+  [Data](https://data.wa.gov/resource/utij-tv86.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/utij-tv86) | Last update: Recent  
   About 44,000 children are currently served with childcare subsidies. Statewide, we estimate the uptake of subsidies among all eligible children at about 15%. These estimates vary by age group and time. Currently, DCYF estimates about 11% of infants, 25% of toddlers, 31% of preschool-age, and 10% of school-age children in eligible households are participating in subsidized childcare.
 
 - **Vehicle Registration Transactions by Department of Licensing**  
-  [Data](https://data.wa.gov/resource/brw6-jymh.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/brw6-jymh) | Last update: Jul 2024
+  [Data](https://data.wa.gov/resource/brw6-jymh.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/brw6-jymh) | Last update: Recent
 
 - **Vehicle Title Transactions by Department of Licensing**  
-  [Data](https://data.wa.gov/resource/cdk6-5kdf.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/cdk6-5kdf) | Last update: Jul 2024
+  [Data](https://data.wa.gov/resource/cdk6-5kdf.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/cdk6-5kdf) | Last update: Recent
 
 - **Washington Health Workforce Survey Data**  
   [Data](https://data.wa.gov/resource/cvrw-ujje.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/cvrw-ujje) | Last update: Apr 2024  
@@ -3324,7 +3333,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.winnipeg.ca
 
 - **Annual Citizen Satisfaction Survey**  
-  [Data](https://data.winnipeg.ca/resource/qe87-rrs6.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/qe87-rrs6) | Last update: Jun 2024  
+  [Data](https://data.winnipeg.ca/resource/qe87-rrs6.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/qe87-rrs6) | Last update: Recent  
   Six hundred Winnipeg residents were randomly surveyed by telephone by an external research company. Adjusted quota sampling methodology is used to improve representation by gender and age, and an additional quota of 27% inner city residents is applied to ensure geographic representation of this group.
 
 [[TOP]](#toc)
@@ -3333,7 +3342,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.austintexas.gov
 
 - **(%)Austin's ParkScore ranking**  
-  [Data](https://datahub.austintexas.gov/resource/4e5n-wnfg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4e5n-wnfg) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/4e5n-wnfg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4e5n-wnfg) | Last update: Recent  
   The Austin Parks and Recreation System's ranking on the Trust for Public Land ParkScore Index. This index ranks the park systems of the 100 largest cities in the U.S. based on park acreage, park size, park funding, park access, and a variety of other factors.
 
 - **(%)CLL.C.2 Percentage of all Austin ZIP Codes where 70 percent or more of residents are the same race**  
@@ -3384,7 +3393,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset supports measure CLL.B.6, CLL.A.2 of SD23 and was collected from individual artists and arts organizations; both for-profit and non-profit. This data has very specific space needs by arts discipline. Data sourced from the Cultural Arts Space Survey.
 
 - **(%)Percent of Median Household Income Spent on the Average Annual Residential Austin Water Bill**  
-  [Data](https://datahub.austintexas.gov/resource/unww-rhuk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/unww-rhuk) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/unww-rhuk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/unww-rhuk) | Last update: Recent  
   This dataset demonstrates the affordability of the average Austin Water residential customers annual combined water and wastewater bill as a percentage of median household income.
 
 - **(%)Percent split of modes based on commute to work**  
@@ -3429,7 +3438,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This table contains aggregated street condition data for each fiscal year beginning in FY2018. A contract vendor surveys street conditions for one-third to one-half of the City of Austin each year. The reported value each year represents the aggregate reported conditions for the three most recent years as of the year reported.
 
 - **Austin Digital Assessment - Aggregated Responses by Geography**  
-  [Data](https://datahub.austintexas.gov/resource/xf72-sbj4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xf72-sbj4) | Last update: Apr 2023
+  [Data](https://datahub.austintexas.gov/resource/xf72-sbj4.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xf72-sbj4) | Last update: Recent
 
 - **Austin Energy Customer Satisfaction**  
   [Data](https://datahub.austintexas.gov/resource/aw6n-x665.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/aw6n-x665) | Last update: May 2024
@@ -3445,11 +3454,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/8huy-gqxm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8huy-gqxm) | Last update: Apr 2023
 
 - **Cohort Training Dataset- NRR**  
-  [Data](https://datahub.austintexas.gov/resource/fuz8-c222.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fuz8-c222) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/fuz8-c222.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fuz8-c222) | Last update: Recent  
   Dataset for the SD23 Cohort Training
 
 - **Corridor Properties**  
-  [Data](https://datahub.austintexas.gov/resource/cqnh-m8ab.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cqnh-m8ab) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/cqnh-m8ab.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cqnh-m8ab) | Last update: Recent  
   This layer includes polygons of properties along the designated corridors where regulatory changes could apply per Ordinance No. 20221201-056. This layer is for informational purposes to show the general areas where the new regulations apply and should not be used for legal, engineering, or surveying purposes.
 
 - **EMS - Customer Satisfaction By Month**  
@@ -3460,7 +3469,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/7c6r-hcmz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7c6r-hcmz) | Last update: Jun 2024
 
 - **LGBTQIA+ Quality of Life Study All Responses**  
-  [Data](https://datahub.austintexas.gov/resource/34qp-i76m.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/34qp-i76m) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/34qp-i76m.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/34qp-i76m) | Last update: Recent  
   Dataset description
 
 - **LeasedPropertyPoints**  
@@ -3472,7 +3481,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of property boundaries.
 
 - **Prototype Draft - Strategic Measure Street Conditions**  
-  [Data](https://datahub.austintexas.gov/resource/7g2z-bzms.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7g2z-bzms) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/7g2z-bzms.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7g2z-bzms) | Last update: Recent  
   Data collected from an annual street condition survey is used to classify the street condition where the streets rated fair to excellent are considered satisfactory (and everything below fair is unsatisfactory).
 
 - **Summary of Cultural Centers Audit Millenium Youth Entertainment Complex (MYEC) Stakeholder Survey**  
@@ -3486,18 +3495,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of traffic signals.
 
 - **TPL ParkScore Data**  
-  [Data](https://datahub.austintexas.gov/resource/6dg2-ywe7.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6dg2-ywe7) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/6dg2-ywe7.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6dg2-ywe7) | Last update: Recent  
   This is a collection of data submitted to Trust for Public Land (TPL) as part of the scoring process for the annual TPL Park Score ranking.
 
 - **Temporary Use Permits**  
   [Data](https://datahub.austintexas.gov/resource/gprp-i5cz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gprp-i5cz) | Last update: May 2024
 
 - **Traffic Cameras**  
-  [Data](https://datahub.austintexas.gov/resource/b4k4-adkb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b4k4-adkb) | Last update: Aug 2024  
+  [Data](https://datahub.austintexas.gov/resource/b4k4-adkb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b4k4-adkb) | Last update: Recent  
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of traffic signals.
 
 - **Traffic Signals Status**  
-  [Data](https://datahub.austintexas.gov/resource/5zpr-dehc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5zpr-dehc) | Last update: Aug 2024  
+  [Data](https://datahub.austintexas.gov/resource/5zpr-dehc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5zpr-dehc) | Last update: Recent  
   It also occasionally happens that the event that disables a traffic signal also disables network communication to the signal, in which case the signal outage will not be reported here.
 
 [[TOP]](#toc)
@@ -3506,7 +3515,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.hhs.gov
 
 - **Child Welfare Information Gateway Survey**  
-  [Data](https://datahub.hhs.gov/resource/sm22-7pf7.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/sm22-7pf7) | Last update: Jun 2024  
+  [Data](https://datahub.hhs.gov/resource/sm22-7pf7.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/sm22-7pf7) | Last update: Recent  
   Units of Response: Child Welfare Agencies
 
 - **HHS COVID-19 Monthly Outcome Survey - Wave 01**  
@@ -3723,7 +3732,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.hhs.gov/resource/6dii-j4w3.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/6dii-j4w3) | Last update: Aug 2023
 
 - **Project Outcomes Assessment Survey**  
-  [Data](https://datahub.hhs.gov/resource/2wie-5x3w.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/2wie-5x3w) | Last update: Jun 2024  
+  [Data](https://datahub.hhs.gov/resource/2wie-5x3w.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/2wie-5x3w) | Last update: Recent  
   Respondents are Tribal Governments, Native American nonprofit organizations, and Tribal Colleges and Universities.
 
 [[TOP]](#toc)
@@ -3740,7 +3749,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Customer satisfaction rating of good or better. HSA performance measure 7010P ID 421.
 
 - **DP02 American Community Survey 5-Year Estimates**  
-  [Data](https://datahub.smcgov.org/resource/s4j5-6584.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/s4j5-6584) | Last update: Jun 2024  
+  [Data](https://datahub.smcgov.org/resource/s4j5-6584.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/s4j5-6584) | Last update: Recent  
   This dataset contains variables from Data Profile 2. Topics include: households by type, relationship, marital status, fertility, grandparents, school enrollment, educational attainment, veteran status, disability status, residence, place of birth, language spoken at home, ancestry, computer access, and internet use, all at the Census Tract level for the entire County.
 
 - **DP03 American Community Survey 5-Year Estimates**  
@@ -3748,11 +3757,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains variables from Data Profile 3 (DP03). Topics include: employment status, commuting to work, occupation, industry, class of worker, income and benefits, health insurance coverage, and poverty level, all at the State, County, and Census Tract level for each Tract in the County.
 
 - **DP04 American Community Survey 5-Year Estimates**  
-  [Data](https://datahub.smcgov.org/resource/2kka-6i3k.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/2kka-6i3k) | Last update: Jun 2024  
+  [Data](https://datahub.smcgov.org/resource/2kka-6i3k.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/2kka-6i3k) | Last update: Recent  
   This dataset contains variables from Data Profile 4 (DP04). Topics include: housing, housing characteristics, vehicle access, occupancy, housing cost, mortgage cost, rent cost, and gross rent as a percentage of income (GRAPI), all at the State, County, and Census Tract level for each Tract in the County.
 
 - **DP05 American Community Survey 5-Year Estimates**  
-  [Data](https://datahub.smcgov.org/resource/v6vf-twrr.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/v6vf-twrr) | Last update: Jun 2024  
+  [Data](https://datahub.smcgov.org/resource/v6vf-twrr.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/v6vf-twrr) | Last update: Recent  
   This dataset, which is automatically updated contains American Community Survey 5-Year Estimates. This dataset is updated by a Socrata process; please contact support@socrata.com if you encounter any questions or issues.
 
 - **Educational Attainment**  
@@ -3791,11 +3800,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usac.org
 
 - **E-Rate Request for Discount on Services: Discount Calculations**  
-  [Data](https://datahub.usac.org/resource/upfy-khtr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/upfy-khtr) | Last update: Aug 2024  
+  [Data](https://datahub.usac.org/resource/upfy-khtr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/upfy-khtr) | Last update: Recent  
   This dataset contains information about the discount calculations included within each FCC Form 471 and related information from the E-Rate Productivity Center (EPC).
 
 - **E-Rate Supplemental Entity Information**  
-  [Data](https://datahub.usac.org/resource/7i5i-83qf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/7i5i-83qf) | Last update: Aug 2024  
+  [Data](https://datahub.usac.org/resource/7i5i-83qf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/7i5i-83qf) | Last update: Recent  
   This dataset contains E-Rate Productivity Center (EPC) information about schools, libraries, school districts, library systems, consortia, and non-instructional facilities (NIFs). For Annexes information, please refer to the "E-Rate Supplemental Entity Information: Annexes" dataset.
 
 [[TOP]](#toc)
@@ -3804,144 +3813,144 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usaid.gov
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Agriculture Practices: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/h7kg-yxdw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h7kg-yxdw) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/h7kg-yxdw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h7kg-yxdw) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Agriculture Practices: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/abv5-ef5d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/abv5-ef5d) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/abv5-ef5d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/abv5-ef5d) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Agriculture Practices.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/jn7r-kht7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jn7r-kht7) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/jn7r-kht7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jn7r-kht7) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/uby3-zt62.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uby3-zt62) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/uby3-zt62.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uby3-zt62) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of fourin the Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/svv9-vmat.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/svv9-vmat) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/svv9-vmat.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/svv9-vmat) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of fourin the Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/qhr3-dstm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qhr3-dstm) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/qhr3-dstm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qhr3-dstm) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fourth spreadsheet of fourin the Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Asset Value and Consumption.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Child Health**  
-  [Data](https://datahub.usaid.gov/resource/mkec-gk6e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mkec-gk6e) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/mkec-gk6e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mkec-gk6e) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Household Description**  
-  [Data](https://datahub.usaid.gov/resource/tur3-c2we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tur3-c2we) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tur3-c2we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tur3-c2we) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Maternal Health and Household Sanitation**  
-  [Data](https://datahub.usaid.gov/resource/d7ka-5mp2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d7ka-5mp2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/d7ka-5mp2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d7ka-5mp2) | Last update: Recent  
   This dataset captures data about the mothers in the households surveyed  as part of the Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda as well as the water and sanitation resources available to the household.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Karamoja, Uganda--Sampling Weights**  
-  [Data](https://datahub.usaid.gov/resource/xyzs-rfpg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xyzs-rfpg) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/xyzs-rfpg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xyzs-rfpg) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger-- Household Sanitation and Maternal Health**  
-  [Data](https://datahub.usaid.gov/resource/cvza-mwy2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cvza-mwy2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/cvza-mwy2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cvza-mwy2) | Last update: Recent  
   The main purpose of the Title II program is to improve long-term food security of chronically food insecure population in the target regions. FFP contracted a firm, ICF International to conduct a baseline study in targeted areas of the country prior to the start of the new program.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Access to Health Services**  
-  [Data](https://datahub.usaid.gov/resource/6vgs-ix5s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6vgs-ix5s) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6vgs-ix5s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6vgs-ix5s) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Agricultural Practices: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/vmq9-8q2y.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vmq9-8q2y) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vmq9-8q2y.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vmq9-8q2y) | Last update: Recent  
   The study was conducted in 2013, while FFP expects to conduct final evaluations as close as possible to the end of the program five years later. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Agricultural Practices: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/hbgf-57ng.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hbgf-57ng) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/hbgf-57ng.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hbgf-57ng) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Agricultural Practices.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Child Health**  
-  [Data](https://datahub.usaid.gov/resource/fqgg-p3nf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fqgg-p3nf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/fqgg-p3nf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fqgg-p3nf) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Household Description**  
-  [Data](https://datahub.usaid.gov/resource/2yce-yrp5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2yce-yrp5) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2yce-yrp5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2yce-yrp5) | Last update: Recent  
   This dataset describes the households and its members surveyed as part of the Baseline Study of Food for Peace Title II Development Food Assistance Program in the Maradi and Zinder regions in Niger.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Niger--Mother Pregnancy**  
-  [Data](https://datahub.usaid.gov/resource/rce7-pcn2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rce7-pcn2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/rce7-pcn2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rce7-pcn2) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Study of Food for Peace Title II Development Food Assistance Program in Segamil and Paisano in Guatemala--Household Description Data**  
-  [Data](https://datahub.usaid.gov/resource/2b2q-4uba.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2b2q-4uba) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2b2q-4uba.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2b2q-4uba) | Last update: Recent  
   The purpose of the study was to assess the current status of key indicators, have a better understanding of prevailing conditions and perceptions of the population in the implementation areas, and serve as a point of comparison for future final evaluations.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/g8yw-xjem.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g8yw-xjem) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/g8yw-xjem.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g8yw-xjem) | Last update: Recent  
   They should be reassembled by the user to understand the data fully.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/6mm5-xsxs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6mm5-xsxs) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6mm5-xsxs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6mm5-xsxs) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/udkg-kivn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/udkg-kivn) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/udkg-kivn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/udkg-kivn) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/8v57-rt7e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8v57-rt7e) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/8v57-rt7e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8v57-rt7e) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fourth spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 5**  
-  [Data](https://datahub.usaid.gov/resource/3467-jsvw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3467-jsvw) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/3467-jsvw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3467-jsvw) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fifth spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 6**  
-  [Data](https://datahub.usaid.gov/resource/jyag-5ia6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jyag-5ia6) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/jyag-5ia6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jyag-5ia6) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the sixth spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 7**  
-  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the seventh spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Household Dataset**  
-  [Data](https://datahub.usaid.gov/resource/j94c-exxy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j94c-exxy) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/j94c-exxy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j94c-exxy) | Last update: Recent
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Household Net Roster Dataset**  
-  [Data](https://datahub.usaid.gov/resource/q2az-2exj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q2az-2exj) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/q2az-2exj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q2az-2exj) | Last update: Recent
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Men's Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9zgx-yjxn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9zgx-yjxn) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/9zgx-yjxn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9zgx-yjxn) | Last update: Recent  
   The mens questionnaire dataset is a compiliation of all the responses to the men's questionnaire of the Malaria Behavior Survey in Malawi.
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Women's Dataset**  
-  [Data](https://datahub.usaid.gov/resource/d77e-tpgu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d77e-tpgu) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/d77e-tpgu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d77e-tpgu) | Last update: Recent  
   The women's questionnaire dataset is a compiliation of all the responses to the women's questionnaire of the Malaria Behavior Survey.
 
 - **Building Energy Performance Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/ysq6-gikg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ysq6-gikg) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ysq6-gikg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ysq6-gikg) | Last update: Recent
 
 - **Community Resilience Activity (CRA) Safe Charity Assessment: Phase 1 Business Data**  
-  [Data](https://datahub.usaid.gov/resource/xcyw-a2zr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xcyw-a2zr) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/xcyw-a2zr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xcyw-a2zr) | Last update: Recent  
   These surveys established a baseline of current knowledge and practices with respect to safe charity in Multan and Karachi during each giving period and identified changes in knowledge and practices that could be plausibly linked to the safe charity campaign.
 
 - **Community Resilience Activity (CRA) Safe Charity Assessment: Phase 1 Exhibit Data**  
-  [Data](https://datahub.usaid.gov/resource/n7sv-crqs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n7sv-crqs) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/n7sv-crqs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n7sv-crqs) | Last update: Recent  
   These surveys established a baseline of current knowledge and practices with respect to safe charity in Multan and Karachi during each giving period and identified changes in knowledge and practices that could be plausibly linked to the safe charity campaign.
 
 - **Community Resilience Activity (CRA) Safe Charity Assessment: Phase 1 Farmer Leaders Data**  
-  [Data](https://datahub.usaid.gov/resource/t86q-3w5n.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t86q-3w5n) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/t86q-3w5n.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t86q-3w5n) | Last update: Recent  
   These surveys established a baseline of current knowledge and practices with respect to safe charity in Multan and Karachi during each giving period and identified changes in knowledge and practices that could be plausibly linked to the safe charity campaign.
 
 - **Community Resilience Activity (CRA) Safe Charity Assessment: Phase 1 Indirect Farmers Data**  
-  [Data](https://datahub.usaid.gov/resource/xstq-w7gc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xstq-w7gc) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/xstq-w7gc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xstq-w7gc) | Last update: Recent  
   These surveys established a baseline of current knowledge and practices with respect to safe charity in Multan and Karachi during each giving period and identified changes in knowledge and practices that could be plausibly linked to the safe charity campaign.
 
 - **Community Resilience Activity (CRA) Safe Charity Assessment: Phase 1 Workshop Data**  
-  [Data](https://datahub.usaid.gov/resource/fisz-2f66.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fisz-2f66) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/fisz-2f66.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fisz-2f66) | Last update: Recent  
   These surveys established a baseline of current knowledge and practices with respect to safe charity in Multan and Karachi during each giving period and identified changes in knowledge and practices that could be plausibly linked to the safe charity campaign.
 
 - **Community Resilience Activity (CRA) Safe Charity Assessment: Phase 2 Farmers Data**  
-  [Data](https://datahub.usaid.gov/resource/fcyc-8vij.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fcyc-8vij) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/fcyc-8vij.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fcyc-8vij) | Last update: Recent  
   These surveys established a baseline of current knowledge and practices with respect to safe charity in Multan and Karachi during each giving period and identified changes in knowledge and practices that could be plausibly linked to the safe charity campaign.
 
 - **Coral Data for MINISTRY OF MARINE AFFAIRS AND FISHERIES REPUBLIC OF INDONESIA - Global Coral Reef Monitoring Network (GCRMN)**  
@@ -3952,66 +3961,66 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.usaid.gov/resource/jcv4-isv7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jcv4-isv7) | Last update: Jun 2024
 
 - **Data on agricultural practices in Segamil and Paisano in Guatemala: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/5hrw-uxp9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5hrw-uxp9) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/5hrw-uxp9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5hrw-uxp9) | Last update: Recent  
   The data asset is comprised of six datasets: Agricultural Practices, Child Health, Household Description, Maternal Health and Household Sanitation, Food Consumption and the sample weights to be applied during analysis. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Data on agricultural practices in Segamil and Paisano in Guatemala: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/iez5-p5fw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/iez5-p5fw) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/iez5-p5fw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/iez5-p5fw) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the Data on agricultural practices in Segamil and Paisano in Guatemala.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/p275-zzf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p275-zzf6) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/p275-zzf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p275-zzf6) | Last update: Recent  
   The study was conducted in 2013, while FFP expects to conduct final evaluations as close as possible to the end of the program five years later. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 10**  
-  [Data](https://datahub.usaid.gov/resource/n8cf-25cx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n8cf-25cx) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/n8cf-25cx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n8cf-25cx) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the tenth spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/thju-5k9s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/thju-5k9s) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/thju-5k9s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/thju-5k9s) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/778v-b68h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/778v-b68h) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/778v-b68h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/778v-b68h) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/u5nz-v4bq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u5nz-v4bq) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/u5nz-v4bq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u5nz-v4bq) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fourth spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 5**  
-  [Data](https://datahub.usaid.gov/resource/qdau-cju2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qdau-cju2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/qdau-cju2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qdau-cju2) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fifth spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 6**  
-  [Data](https://datahub.usaid.gov/resource/42s5-jqec.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/42s5-jqec) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/42s5-jqec.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/42s5-jqec) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the sixth spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 7**  
-  [Data](https://datahub.usaid.gov/resource/pbsx-cywu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pbsx-cywu) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/pbsx-cywu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pbsx-cywu) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the seventh spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 8**  
-  [Data](https://datahub.usaid.gov/resource/uvqr-uffa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uvqr-uffa) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/uvqr-uffa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uvqr-uffa) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the eigth spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **Data on food consumption in Zinder and Maradi in Niger: Section 9**  
-  [Data](https://datahub.usaid.gov/resource/a8c7-6n94.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a8c7-6n94) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/a8c7-6n94.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a8c7-6n94) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the ninth spreadsheet of tenin the Data on food consumption in Zinder and Maradi in Niger.
 
 - **ELTAP ELAP Baseline Wives Dataset**  
-  [Data](https://datahub.usaid.gov/resource/v9kp-v6dt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v9kp-v6dt) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/v9kp-v6dt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v9kp-v6dt) | Last update: Recent  
   The attached data is from the baseline surveys conducted prior
 
 - **ELTAP ELAP Woreda Dataset**  
-  [Data](https://datahub.usaid.gov/resource/4hsg-xes8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4hsg-xes8) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/4hsg-xes8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4hsg-xes8) | Last update: Recent  
   The attached data is from the endline surveys conducted after to the ELTAP
 
 - **Effect of Participatory Video Extension on Adoption of Drought-Tolerant Maize, Kenya: Post Intervention Survey**  
-  [Data](https://datahub.usaid.gov/resource/bg7b-rn8x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bg7b-rn8x) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/bg7b-rn8x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bg7b-rn8x) | Last update: Recent
 
 - **Effect of Participatory Video Extension on Adoption of Drought-Tolerant Maize, Kenya: Pre Intervention Survey**  
-  [Data](https://datahub.usaid.gov/resource/fckq-tt4s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fckq-tt4s) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/fckq-tt4s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fckq-tt4s) | Last update: Recent
 
 - **Ethiopia Pastoralist Areas Resilience Improvement and Market Expansion (PRIME) Project IE- Children File**  
   [Data](https://datahub.usaid.gov/resource/ivqq-a5az.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ivqq-a5az) | Last update: Jun 2024  
@@ -4054,121 +4063,121 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains the data describing non-food expenditures over the twelve months prior to the survey collected as part of the baseline survey generated in support of an impact evaluation of the Ethiopia Pastoralist Areas Resilience Improvement and Market Expansion (PRIME) Project.
 
 - **FTF "Don't Lose the Plot" Impact Assessment: Kenya Dataset**  
-  [Data](https://datahub.usaid.gov/resource/jh27-jpa9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jh27-jpa9) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/jh27-jpa9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jh27-jpa9) | Last update: Recent  
   Dataset file can be found in the metadata below under "Attachments".
 
 - **FTF "Don't Lose the Plot" Impact Assessment: Tanzania Dataset**  
-  [Data](https://datahub.usaid.gov/resource/qahj-fxcx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qahj-fxcx) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/qahj-fxcx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qahj-fxcx) | Last update: Recent  
   Dataset file can be found in the metadata below under "Attachments".
 
 - **Farm Plots Survey for Agriculture for Children Empowerment (ACE) in Liberia- Harvest Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/6tcg-icus.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6tcg-icus) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/6tcg-icus.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6tcg-icus) | Last update: Recent  
   This dataset contains information about each plot the household owns, their size, the crops grown on them, and the methods used to grow plants on those plots.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Farm Plots Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/i2qz-bxga.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i2qz-bxga) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/i2qz-bxga.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i2qz-bxga) | Last update: Recent  
   This dataset contains baseline information about each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Farm Plots Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hw9c-ghjx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hw9c-ghjx) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/hw9c-ghjx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hw9c-ghjx) | Last update: Recent  
   This dataset contains endline information about each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Fertilizer and Seed Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/ufvg-5699.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ufvg-5699) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/ufvg-5699.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ufvg-5699) | Last update: Recent  
   This dataset contains baseline information about the fertilizer and seed used on each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Fertilizer and Seed Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/n3zs-kyr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n3zs-kyr3) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/n3zs-kyr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n3zs-kyr3) | Last update: Recent  
   This dataset contains endline information about the fertilizer and seed used on each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Harvest Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/deac-eeew.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/deac-eeew) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/deac-eeew.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/deac-eeew) | Last update: Recent  
   This dataset contains endline information about each plot the household owns, their size, the crops grown on them, and the methods used to grow plants on those plots.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/qarj-m47b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qarj-m47b) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/qarj-m47b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qarj-m47b) | Last update: Recent  
   This dataset contains information about each household surveyed.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/btry-8frb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/btry-8frb) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/btry-8frb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/btry-8frb) | Last update: Recent  
   This dataset contains information about each household.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Member Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/txb9-i5bk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/txb9-i5bk) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/txb9-i5bk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/txb9-i5bk) | Last update: Recent  
   This dataset contains information about the members of each household surveyed.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Member Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/2mzx-geke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2mzx-geke) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/2mzx-geke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2mzx-geke) | Last update: Recent  
   This dataset contains information about members of each household surveyed.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Workforce Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/f8ea-tddm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f8ea-tddm) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/f8ea-tddm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f8ea-tddm) | Last update: Recent  
   This dataset contains information about the workforce described in the survey.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Workforce Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/3iif-stim.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3iif-stim) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/3iif-stim.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3iif-stim) | Last update: Recent  
   This dataset contains information about the workforce described in the survey.
 
 - **FarmerLink Baseline - All - 1x1 - Mine**  
-  [Data](https://datahub.usaid.gov/resource/vqpv-nw4f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqpv-nw4f) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/vqpv-nw4f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqpv-nw4f) | Last update: Recent
 
 - **FarmerLink Baseline - All - Annual Production**  
-  [Data](https://datahub.usaid.gov/resource/u9p7-jyqg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u9p7-jyqg) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/u9p7-jyqg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u9p7-jyqg) | Last update: Recent  
   Baseline survey profiling socio-economic and agronomic information of 2050 small holder coconut and cacao farmers in 4 provinces of Mindanao region of Philippines
 
 - **FarmerLink Baseline - Control - Annual Production**  
-  [Data](https://datahub.usaid.gov/resource/pr2x-t9gq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pr2x-t9gq) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/pr2x-t9gq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pr2x-t9gq) | Last update: Recent  
   Baseline survey profiling socio-economic and agronomic information of 2050 small holder coconut and cacao farmers in 4 provinces of Mindanao region of Philippines
 
 - **FarmerLink Baseline - Control - Mine Control**  
-  [Data](https://datahub.usaid.gov/resource/yuyc-ihc8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yuyc-ihc8) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/yuyc-ihc8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yuyc-ihc8) | Last update: Recent  
   Baseline survey profiling socio-economic and agronomic information of 2050 small holder coconut and cacao farmers in 4 provinces of Mindanao region of Philippines
 
 - **FarmerLink Perception Data**  
-  [Data](https://datahub.usaid.gov/resource/kszr-9axs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kszr-9axs) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/kszr-9axs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kszr-9axs) | Last update: Recent
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module D, Dwelling Characteristics**  
-  [Data](https://datahub.usaid.gov/resource/ipw8-fbb2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ipw8-fbb2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ipw8-fbb2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ipw8-fbb2) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-02, Foods Consumed During the Last Week**  
-  [Data](https://datahub.usaid.gov/resource/8b4n-hp3f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8b4n-hp3f) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/8b4n-hp3f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8b4n-hp3f) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-03, Quantities of Foods Consumed During the Last Week: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/b86s-gn4h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b86s-gn4h) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/b86s-gn4h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b86s-gn4h) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-04, Quantities of Foods Purchased During the Last Week: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/3sig-5z5w.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3sig-5z5w) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/3sig-5z5w.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3sig-5z5w) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-05, Expenditures on Food Actually Consumed During the Last Week**  
-  [Data](https://datahub.usaid.gov/resource/w4df-c7ag.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w4df-c7ag) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/w4df-c7ag.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w4df-c7ag) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-06, Quantity of Food Consumed Produced at Home During the Last Week: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/npud-36vy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/npud-36vy) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/npud-36vy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/npud-36vy) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-07, Quantity of Food Consumed that Came from Other Sources: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/cuu4-xy8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cuu4-xy8a) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/cuu4-xy8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cuu4-xy8a) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Module E1-08, Food Shared With Others During the Last Week**  
-  [Data](https://datahub.usaid.gov/resource/ms75-z9en.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ms75-z9en) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ms75-z9en.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ms75-z9en) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Modules F-G, Hunger Scale and Women's Empowerment: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/2e4s-fhde.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2e4s-fhde) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2e4s-fhde.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2e4s-fhde) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia, Modules H-I, Anthropometry and Food Consumed by Children: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/ntcb-7qxm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ntcb-7qxm) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ntcb-7qxm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ntcb-7qxm) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Interim Population-Based Assessment of Cambodia-Module E2, Non-food Expenditures Over Past 7 Days: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/de9b-f4gx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/de9b-f4gx) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/de9b-f4gx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/de9b-f4gx) | Last update: Recent  
   In the first stage, 84 villages were selected; in the second stage, households were selected within each sampled village. The sampling of villages was stratified by province, with the number of villages in each stratum proportional to the population in the stratum and with villages selected with probability proportional to size, based on the 2013 Commune Database.
 
 - **Feed The Future Rwanda Baseline Household Survey, Household Data**  
@@ -4238,83 +4247,83 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Zambia Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in five districts  Chipata, Katete, Lundazi, Nyimba, and Petauke in Zambia.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Children's File**  
-  [Data](https://datahub.usaid.gov/resource/k3ij-9jgw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k3ij-9jgw) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/k3ij-9jgw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k3ij-9jgw) | Last update: Recent  
   This dataset includes data from Module I for childrens anthropometry and infant and young child feeding practices. The anthropometry Z-scores were calculated in SAS during the data management process, using the World Health Organization (WHO) SAS igrowup package. The unique identifiers for this file are pbs_id + idcode.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Construction Expenditures Over Past 12 Months**  
-  [Data](https://datahub.usaid.gov/resource/dwab-pz6j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dwab-pz6j) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/dwab-pz6j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dwab-pz6j) | Last update: Recent  
   This dataset contains data from sub-Module E5 regarding non-food items that may or may not have been purchased (e.g., construction items such as wood/bamboo poles and thatching grass). It is part of the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Durable Goods Expenditures**  
-  [Data](https://datahub.usaid.gov/resource/wrg6-k5yy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wrg6-k5yy) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/wrg6-k5yy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wrg6-k5yy) | Last update: Recent  
   This dataset contains data from sub-Module E7: Durable Goods Expenditures. It is part of the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Food Consumption-Past 7 Days**  
-  [Data](https://datahub.usaid.gov/resource/6e4n-dkr5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6e4n-dkr5) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6e4n-dkr5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6e4n-dkr5) | Last update: Recent  
   Each household with food consumption data has multiple records (for the 113 food items in sub-Module E1). (115,373 records  113 food items = 1,021 Module E households with sub-Module E1 data.) The unique identifiers in this long file are pbs_id + e101.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Household Consumption Expenditures**  
-  [Data](https://datahub.usaid.gov/resource/judh-8udi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/judh-8udi) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/judh-8udi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/judh-8udi) | Last update: Recent  
   This dataset includes household-level derived variables (including the expenditure and poverty indicator variables), as well as variables from sub-Module E6: Housing Expenditures. The unique identifier in this household-level file is pbs_id.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Household File**  
-  [Data](https://datahub.usaid.gov/resource/hw36-g6pk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hw36-g6pk) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/hw36-g6pk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hw36-g6pk) | Last update: Recent  
   The unique identifier for this file is pbs_id, Please note that all key household-level derived variables are also included in the household dataset, including, for example, gendered household type (ghht) and the household hunger indicator (hhhunger)
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Household Members File**  
-  [Data](https://datahub.usaid.gov/resource/keue-3ma6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/keue-3ma6) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/keue-3ma6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/keue-3ma6) | Last update: Recent  
   This dataset contains the household member roster for the households included in the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Non-Food Expenditures Over Past 12 Months**  
-  [Data](https://datahub.usaid.gov/resource/mrs2-qnbi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mrs2-qnbi) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/mrs2-qnbi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mrs2-qnbi) | Last update: Recent  
   It is part of the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Non-Food Expenditures Over Past One Month**  
-  [Data](https://datahub.usaid.gov/resource/k8g7-svs9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k8g7-svs9) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/k8g7-svs9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k8g7-svs9) | Last update: Recent  
   It ias part of the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Non-Food Expenditures Over Past Three Months**  
-  [Data](https://datahub.usaid.gov/resource/nsve-4tky.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nsve-4tky) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/nsve-4tky.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nsve-4tky) | Last update: Recent  
   Each household with data for non-food expenditures over the past three months has multiple records (for the 39 non-food items in sub-Module E4). (39,819 records  39 non-food items = 1,021 Module E households with sub-Module E4 data.) The unique identifiers in this long file are pbs_id + e401.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Non-Food Expenditures Over the Past 7 Days**  
-  [Data](https://datahub.usaid.gov/resource/cy6p-mumr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cy6p-mumr) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/cy6p-mumr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cy6p-mumr) | Last update: Recent  
   It is part of the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Women's Empowerment in Agriculture Index-File 1**  
-  [Data](https://datahub.usaid.gov/resource/7s2q-5769.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7s2q-5769) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/7s2q-5769.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7s2q-5769) | Last update: Recent  
   This dataset contains Module G data from the primary adult (18+) female decision maker within each household (for the sub-sample of households with a primary adult female decision maker). The unique identifiers for this file are pbs_id + idcode.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Women's Empowerment in Agriculture Index-Recode File**  
-  [Data](https://datahub.usaid.gov/resource/75qt-x4hk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/75qt-x4hk) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/75qt-x4hk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/75qt-x4hk) | Last update: Recent  
   It is part of the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Women's Empowerment in Agriculture Index-Time Use File**  
-  [Data](https://datahub.usaid.gov/resource/tded-qgat.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tded-qgat) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tded-qgat.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tded-qgat) | Last update: Recent  
   It includes all of the 24-hour time allocation data from Module G6, the time use questionnaire, and thus each respondent in Module G has multiple recordsone for each of the 18 time use activities (17,064 records  18 activities = 948 WEAI respondents). The unique identifiers are pbs_id + idcode + activity.
 
 - **Feed the Future Malawi Interim Survey in the Zone of Infuence, Women's File**  
-  [Data](https://datahub.usaid.gov/resource/c5qj-pmev.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/c5qj-pmev) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/c5qj-pmev.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/c5qj-pmev) | Last update: Recent  
   This dataset contains records describing all women age 15-49 sampled during the 2015 Feed the Future Malawi Interim Survey in the Zone of Influence. The survey was designed to monitor program performance by periodic assessments of a number of standardized indicators.
 
 - **Feed the Future Malawi: Baseline Household Survey, Household Data Used for the Women's Empowerment in Agriculture Index**  
-  [Data](https://datahub.usaid.gov/resource/5thr-j4sz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5thr-j4sz) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/5thr-j4sz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5thr-j4sz) | Last update: Recent  
   The Malawi Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in seven districts in the Central and Southern Regions: Mchinji, Lilongwe, Dedza, Ntcheu, Balaka, Machinga, and Mangochi.
 
 - **Feed the Future Malawi: Baseline Household Survey, Household Descriptions**  
-  [Data](https://datahub.usaid.gov/resource/a4ce-qaef.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a4ce-qaef) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/a4ce-qaef.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a4ce-qaef) | Last update: Recent  
   The Malawi Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in seven districts in the Central and Southern Regions: Mchinji, Lilongwe, Dedza, Ntcheu, Balaka, Machinga, and Mangochi.
 
 - **Feed the Future Malawi: Baseline Household Survey, Household Members**  
-  [Data](https://datahub.usaid.gov/resource/wtrw-5if2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wtrw-5if2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/wtrw-5if2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wtrw-5if2) | Last update: Recent  
   The Malawi Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in seven districts in the Central and Southern Regions: Mchinji, Lilongwe, Dedza, Ntcheu, Balaka, Machinga, and Mangochi.
 
 - **Feed the Future Malawi: Baseline Household Survey, Mothers File**  
-  [Data](https://datahub.usaid.gov/resource/xi32-ju8k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xi32-ju8k) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/xi32-ju8k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xi32-ju8k) | Last update: Recent  
   The Malawi Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in seven districts in the Central and Southern Regions: Mchinji, Lilongwe, Dedza, Ntcheu, Balaka, Machinga, and Mangochi.
 
 - **Feed the Future Malawi: Baseline Household Survey, the Calculated Women's Empowerment in Agriculture Index**  
-  [Data](https://datahub.usaid.gov/resource/6645-iuyg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6645-iuyg) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6645-iuyg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6645-iuyg) | Last update: Recent  
   The Malawi Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in seven districts in the Central and Southern Regions: Mchinji, Lilongwe, Dedza, Ntcheu, Balaka, Machinga, and Mangochi.
 
 - **Feed the Future Mozambique Baseline Population Survey, Children Data**  
@@ -4386,7 +4395,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The data asset is comprised of 7 datasets: households, household members, women, children and the three daatsets needed to calculate the womens empowerment in agriculture index.
 
 - **Feed the Future Nepal Interim Survey in the Zone of Influence, Household Members File**  
-  [Data](https://datahub.usaid.gov/resource/fzi9-js48.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fzi9-js48) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/fzi9-js48.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fzi9-js48) | Last update: Recent  
   Feed the Future Nepal Interim Survey in the Zone of Influence: This dataset is the household roster file with one record per household member captured in Module C of the questionnaire (n=4,002, vars=35).
 
 - **Feed the Future Nepal Interim Survey in the Zone of Influence, Women's Empowerment in Agriculture Index-File 1**  
@@ -4456,117 +4465,117 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Feed the Future Northern Kenya Interim Survey in the Zone of Influence: This dataset is an individual -dataset with all women age 15-49 with a completed interview in Module H of the questionnaire (n=1,476, vars=140).
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Children Dataset**  
-  [Data](https://datahub.usaid.gov/resource/mg7g-p9by.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mg7g-p9by) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/mg7g-p9by.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mg7g-p9by) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Construction Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/gf5y-geey.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gf5y-geey) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/gf5y-geey.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gf5y-geey) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Durable Goods Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/bnma-ukqk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnma-ukqk) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/bnma-ukqk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnma-ukqk) | Last update: Recent  
   This dataset (n=69,540, vars=23) contains data from sub-Module E7: Durable Goods Expenditures. Each household with data for durable goods expenditures has multiple records (for the 38 durable goods in sub-Module E7). (69,540 records divided by 38 non-food items = 1,830 Module E households with sub-Module E7 data.)
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Food Consumption Dataset**  
-  [Data](https://datahub.usaid.gov/resource/wp3g-2r2g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wp3g-2r2g) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/wp3g-2r2g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wp3g-2r2g) | Last update: Recent  
   This dataset (n=243,789, vars=28) contains variables from Module E1, Food Consumption Over Past 7 Days. Each household with food consumption data has multiple records (for the 133 food items in sub-Module E1). (243,789 records divided by 133 food items =1,833 Module E households with sub-Module E1 data.).
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Household Dataset**  
-  [Data](https://datahub.usaid.gov/resource/4htd-xesf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4htd-xesf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/4htd-xesf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4htd-xesf) | Last update: Recent  
   This baseline survey seeks to capture data on womens empowerment in agriculture, household food security, consumption, nutrition, and wellbeing of households in the geographic areas targeted by Feed the Future interventions, known as Feed the Future Zones of Influence (ZOI). The ZOI in northern Kenya comprises nine counties and approximately two-thirds of Kenyas total land area.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Household Members Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9dne-w6fk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9dne-w6fk) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/9dne-w6fk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9dne-w6fk) | Last update: Recent  
   This baseline survey seeks to capture data on womens empowerment in agriculture, household food security, consumption, nutrition, and wellbeing of households in the geographic areas targeted by Feed the Future interventions, known as Feed the Future Zones of Influence (ZOI). The ZOI in northern Kenya comprises nine counties and approximately two-thirds of Kenyas total land area.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Housing Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/q78n-tndz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q78n-tndz) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/q78n-tndz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q78n-tndz) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Income Sources Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hq3v-yixf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hq3v-yixf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/hq3v-yixf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hq3v-yixf) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Income Sources During Stress Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hudi-67us.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hudi-67us) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/hudi-67us.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hudi-67us) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Non-Food Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/wfxm-ff2v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wfxm-ff2v) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/wfxm-ff2v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wfxm-ff2v) | Last update: Recent  
   This dataset (n=18,300, vars=17) contains variables from sub-Module E2, Non-Food Expenditures over Past 7 Days. Each household with data for non-food expenditurs over the past week has multiple records (for the 10 non-food items in sub-Module E2) (18,300 records divided by 10 non-food items=1,830 Module E households with sub-Module E2 data.)
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Women Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hiw5-p28g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hiw5-p28g) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/hiw5-p28g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hiw5-p28g) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Women's Empowerment in Agriculture Index (WEAI) Dataset**  
-  [Data](https://datahub.usaid.gov/resource/7bzx-qaw7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7bzx-qaw7) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/7bzx-qaw7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7bzx-qaw7) | Last update: Recent  
   This dataset (n=14,055, var=11) is the first of two datasets needed to calculate the WEAI-related measures. It contains Module G data from the primary adult (18+) female decisionmaker within each household (for the sub-sample of households with a primary adult female decisionmaker).
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Women's Empowerment in Agriculture Index (WEAI) Household Dataset**  
-  [Data](https://datahub.usaid.gov/resource/nsvj-fw25.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nsvj-fw25) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/nsvj-fw25.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nsvj-fw25) | Last update: Recent  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Rwanda Interim Survey in the Zone of Influence, Children's File**  
-  [Data](https://datahub.usaid.gov/resource/p9ur-t8we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p9ur-t8we) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/p9ur-t8we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p9ur-t8we) | Last update: Recent  
   Feed the Future Rwanda Interim Survey in the Zone of Influence: This dataset contains records for all children under 3 years of age (0-35 months) (n=438, vars=31) . This file includes data in Module I. Note that the children's anthropometry indicators and dietary intake indicators were calculated with secondary data, the 2014-2015 Rwanda Demographic and Health Survey.
 
 - **Feed the Future Rwanda Interim Survey in the Zone of Influence, Household File**  
-  [Data](https://datahub.usaid.gov/resource/f7f2-6g7z.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f7f2-6g7z) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/f7f2-6g7z.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f7f2-6g7z) | Last update: Recent  
   Feed the Future Rwanda Interim Survey in the Zone of Influence: This dataset is a household-level file with records for each sampled household with a completed interview (n=1,066, variables=89). The file contains one record per household including data from Modules A, D, and F.
 
 - **Feed the Future Rwanda Interim Survey in the Zone of Influence, Women's Empowerment in Agriculture Index-File 1**  
-  [Data](https://datahub.usaid.gov/resource/e738-r7rs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e738-r7rs) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/e738-r7rs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e738-r7rs) | Last update: Recent  
   Feed the Future Rwanda Interim Survey in the Zone of Influence: This dataset (n=998, var=162) is the first of two datasets needed to calculate the WEAI-related measures. It contains Module G data from the primary adult (18+) female decisionmaker within each household (for the sub-sample of households with a primary adult female decisionmaker).
 
 - **Feed the Future Rwanda Interim Survey in the Zone of Influence, Women's Empowerment in Agriculture Index-Recode File**  
-  [Data](https://datahub.usaid.gov/resource/vb82-9p35.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vb82-9p35) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vb82-9p35.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vb82-9p35) | Last update: Recent  
   Feed the Future Rwanda Interim Survey in the Zone of Influence: This dataset (n=998, vars=164) contains the analytical variables derived in the WEAI analysis.
 
 - **Feed the Future Rwanda Interim Survey in the Zone of Influence, Women's Empowerment in Agriculture Index-Time Use File**  
-  [Data](https://datahub.usaid.gov/resource/4r7p-smh6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4r7p-smh6) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/4r7p-smh6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4r7p-smh6) | Last update: Recent
 
 - **Feed the Future Rwanda Interim Survey in the Zone of Influence, Women's File**  
-  [Data](https://datahub.usaid.gov/resource/ajp5-66kf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ajp5-66kf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ajp5-66kf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ajp5-66kf) | Last update: Recent  
   Feed the Future Rwanda Interim Survey in the Zone of Influence: This dataset is an individual-level dataset with the data for all women age 15-49 with a completed interview captured in Module H of the questionnaire (n=1,155, vars=31).
 
 - **Feed the Future South Sudan: Farmer-Based Organization Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/ijnf-cs3n.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ijnf-cs3n) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ijnf-cs3n.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ijnf-cs3n) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Children Data**  
-  [Data](https://datahub.usaid.gov/resource/mhrn-ihhn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mhrn-ihhn) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/mhrn-ihhn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mhrn-ihhn) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Durable Goods Expenditures**  
-  [Data](https://datahub.usaid.gov/resource/yq4f-i2hy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yq4f-i2hy) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/yq4f-i2hy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yq4f-i2hy) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Food Consumption Data**  
-  [Data](https://datahub.usaid.gov/resource/8b7m-byxb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8b7m-byxb) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/8b7m-byxb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8b7m-byxb) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Household Consumption Expenditures**  
-  [Data](https://datahub.usaid.gov/resource/b5uh-j97h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b5uh-j97h) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/b5uh-j97h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b5uh-j97h) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Household Data**  
-  [Data](https://datahub.usaid.gov/resource/vbjw-in7x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vbjw-in7x) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/vbjw-in7x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vbjw-in7x) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Household Members Data**  
-  [Data](https://datahub.usaid.gov/resource/5szg-32k4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5szg-32k4) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/5szg-32k4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5szg-32k4) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Non-food Expenditures Over Past 7 Days**  
-  [Data](https://datahub.usaid.gov/resource/f8an-s3d3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f8an-s3d3) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/f8an-s3d3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f8an-s3d3) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Women's Empowerment in Agriculture Index-File 1**  
-  [Data](https://datahub.usaid.gov/resource/xxev-rp79.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xxev-rp79) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/xxev-rp79.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xxev-rp79) | Last update: Recent
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Women's Empowerment in Agriculture Index-Household File**  
-  [Data](https://datahub.usaid.gov/resource/uu86-thaw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uu86-thaw) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/uu86-thaw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uu86-thaw) | Last update: Recent  
   This file reports household level data from the Women's Empowerment in Agriculture Index (WEAI). The WEAI measures the empowerment, agency, and inclusion of women in the agriculture sector in an effort to identify and address the constraints that limit womens full engagement in the agriculture sector.
 
 - **Feed the Future Tajikistan Zone of Influence Population Based Survey, Women's File**  
-  [Data](https://datahub.usaid.gov/resource/22zc-pnbc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/22zc-pnbc) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/22zc-pnbc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/22zc-pnbc) | Last update: Recent  
   This file is an individual-level dataset with the data for all women age 15-49 with a completed interview captured in Module H of the questionnaire.
 
 - **Feed the Future Uganda Enabling Environment for Agriculture Climate Change Survey**  
-  [Data](https://datahub.usaid.gov/resource/54nn-uhhw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/54nn-uhhw) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/54nn-uhhw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/54nn-uhhw) | Last update: Recent  
   Aimed at collecting information on decisionmakers capacity at the district-level to adapt to climate change. The study employed a quantitative methodology that entailed administering a structured questionnaire to the 8 district officials from each of the target districts.
 
 - **Feed the Future Uganda Interim Survey in the Zone of Influence, Analytical Variables Created About the Use of Agricultural Technologies**  
@@ -4630,14 +4639,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Feed the Future Zambia Interim Survey in the Zone of Infuence: This dataset is the data for all women age 15-49 with a completed interview captured in Module H of the questionnaire (n=932, vars=112).
 
 - **Feed the Future: Zambia Interim Survey in the Zone of Influence, Women's Empowerment in Agriculture Index-Time Use File**  
-  [Data](https://datahub.usaid.gov/resource/fhej-fd39.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fhej-fd39) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/fhej-fd39.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fhej-fd39) | Last update: Recent
 
 - **Final Performance Evaluation of the USAID/Jamaica Social Enterprise Boost Initiative (SEBI), Beneficiary Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/9njk-wzk7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9njk-wzk7) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/9njk-wzk7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9njk-wzk7) | Last update: Recent  
   The ET pursued three separate, yet interlinked, data collection activities that formed the basis of its methodological approach to conducting the SEBI evaluation as follows:
 
 - **Final Performance Evaluation of the USAID/Jamaica Social Enterprise Boost Initiative (SEBI), Household Perception Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/2euu-4fc4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2euu-4fc4) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2euu-4fc4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2euu-4fc4) | Last update: Recent  
   The purpose of this evaluation of the Social Enterprise Boost Initiative (SEBI) is to determine whether the SEBI activity achieved its objectives and gain lessons for implemen
 
 - **Fish Data for MINISTRY OF MARINE AFFAIRS AND FISHERIES REPUBLIC OF INDONESIA - Global Coral Reef Monitoring Network (GCRMN)**  
@@ -4657,115 +4666,115 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Survey of energy and water end-use to update the Markal Allocation Model (MARKAL Georgia), Commercial Sector
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Baseline Head Teacher Dataset**  
-  [Data](https://datahub.usaid.gov/resource/s6bm-82r7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s6bm-82r7) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/s6bm-82r7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s6bm-82r7) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Baseline Pupil Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9m62-y6hr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9m62-y6hr) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/9m62-y6hr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9m62-y6hr) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Baseline Structured Observation Data**  
-  [Data](https://datahub.usaid.gov/resource/6d75-ez9c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6d75-ez9c) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/6d75-ez9c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6d75-ez9c) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Head Teacher Dataset**  
-  [Data](https://datahub.usaid.gov/resource/uw38-mxj2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uw38-mxj2) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/uw38-mxj2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uw38-mxj2) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Math Coach Dataset**  
-  [Data](https://datahub.usaid.gov/resource/yn4n-9iqu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn4n-9iqu) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/yn4n-9iqu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn4n-9iqu) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Pupil Data**  
-  [Data](https://datahub.usaid.gov/resource/u73b-yrcp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u73b-yrcp) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/u73b-yrcp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u73b-yrcp) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Structured Observation Dataset**  
-  [Data](https://datahub.usaid.gov/resource/k6mp-c5mk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k6mp-c5mk) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/k6mp-c5mk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k6mp-c5mk) | Last update: Recent
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Teacher Dataset**  
-  [Data](https://datahub.usaid.gov/resource/cp8a-qisd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cp8a-qisd) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/cp8a-qisd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cp8a-qisd) | Last update: Recent
 
 - **Ghana G-SAM Impact Evaluation Baseline Administrator Survey**  
-  [Data](https://datahub.usaid.gov/resource/jhy5-ce9c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jhy5-ce9c) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/jhy5-ce9c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jhy5-ce9c) | Last update: Recent
 
 - **Ghana G-SAM Impact Evaluation Baseline Household Survey**  
-  [Data](https://datahub.usaid.gov/resource/7awm-7hty.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7awm-7hty) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/7awm-7hty.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7awm-7hty) | Last update: Recent
 
 - **Ghana G-SAM Impact Evaluation Baseline Politician Survey**  
-  [Data](https://datahub.usaid.gov/resource/aksn-4s8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/aksn-4s8p) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/aksn-4s8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/aksn-4s8p) | Last update: Recent
 
 - **Ghana G-SAM Impact Evaluation Endline Administrator Survey**  
-  [Data](https://datahub.usaid.gov/resource/hm6e-u9cj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hm6e-u9cj) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/hm6e-u9cj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hm6e-u9cj) | Last update: Recent
 
 - **Ghana G-SAM Impact Evaluation Endline Household Survey**  
-  [Data](https://datahub.usaid.gov/resource/ezs9-pf9y.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ezs9-pf9y) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/ezs9-pf9y.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ezs9-pf9y) | Last update: Recent
 
 - **Ghana G-SAM Impact Evaluation Endline Politician Survey**  
-  [Data](https://datahub.usaid.gov/resource/chhs-uafd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/chhs-uafd) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/chhs-uafd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/chhs-uafd) | Last update: Recent
 
 - **Guatemala Anthropometry Data**  
-  [Data](https://datahub.usaid.gov/resource/r2py-9cjt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r2py-9cjt) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/r2py-9cjt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r2py-9cjt) | Last update: Recent  
   Data describing the anthropometry in Segamil and Paisano in Guatemala
 
 - **Guatemala Child Health Data**  
-  [Data](https://datahub.usaid.gov/resource/gazt-8tm5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gazt-8tm5) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/gazt-8tm5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gazt-8tm5) | Last update: Recent  
   Data on child health in Segamil and Paisano in Guatemala
 
 - **Guatemala Food Consumption Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/pcma-mau9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pcma-mau9) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/pcma-mau9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pcma-mau9) | Last update: Recent  
   Data on food consumption in Segamil and Paisano in Guatemala In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Food Consumption Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/7u62-dnwx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7u62-dnwx) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/7u62-dnwx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7u62-dnwx) | Last update: Recent  
   In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Food Consumption Data: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/yi56-9r93.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yi56-9r93) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/yi56-9r93.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yi56-9r93) | Last update: Recent  
   In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Food Consumption Data: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/3hkt-uxc3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3hkt-uxc3) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/3hkt-uxc3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3hkt-uxc3) | Last update: Recent  
   In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Food Consumption Data: Section 5**  
-  [Data](https://datahub.usaid.gov/resource/k2ft-ssjh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k2ft-ssjh) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/k2ft-ssjh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k2ft-ssjh) | Last update: Recent  
   In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Food Consumption Data: Section 6**  
-  [Data](https://datahub.usaid.gov/resource/6b89-9wbv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6b89-9wbv) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6b89-9wbv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6b89-9wbv) | Last update: Recent  
   In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Maternal health and Sanitation Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/69kn-ckhv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/69kn-ckhv) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/69kn-ckhv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/69kn-ckhv) | Last update: Recent  
   Data on maternal Health and household sanitation in Segamil and Paisano in Guatemala In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **Guatemala Maternal health and Sanitation Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/8a88-96us.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8a88-96us) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/8a88-96us.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/8a88-96us) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of sixin the Guatemala Maternal health and Sanitation Data.
 
 - **Guatemala Maternal health and Sanitation Data: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/mki4-df8t.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mki4-df8t) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/mki4-df8t.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mki4-df8t) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of sixin the Guatemala Maternal health and Sanitation Data.
 
 - **Guatemala Maternal health and Sanitation Data: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/v9zq-dvbb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v9zq-dvbb) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/v9zq-dvbb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v9zq-dvbb) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fourth spreadsheet of sixin the Guatemala Maternal health and Sanitation Data.
 
 - **Guatemala Maternal health and Sanitation Data: Section 5**  
-  [Data](https://datahub.usaid.gov/resource/exev-sb8v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/exev-sb8v) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/exev-sb8v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/exev-sb8v) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fifth spreadsheet of sixin the Guatemala Maternal health and Sanitation Data.
 
 - **Guatemala Maternal health and Sanitation Data: Section 6**  
-  [Data](https://datahub.usaid.gov/resource/icah-5qgn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/icah-5qgn) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/icah-5qgn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/icah-5qgn) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the sixth spreadsheet of sixin the Guatemala Maternal health and Sanitation Data.
 
 - **Health Policy Plus (HP+) Midterm Performance Evaluation Dataset**  
-  [Data](https://datahub.usaid.gov/resource/pawq-y4ya.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pawq-y4ya) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/pawq-y4ya.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pawq-y4ya) | Last update: Recent
 
 - **Impact Evaluation Website (Data)**  
-  [Data](https://datahub.usaid.gov/resource/ki9g-tgzn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ki9g-tgzn) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/ki9g-tgzn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ki9g-tgzn) | Last update: Recent  
   This dataset contains responses by government officials from India, Tanzania and Peru who were interviewed during June-August 2017. They filled out a short survey and were introduced to the Impact Evidence website.
 
 - **Impact Evaluation of Feed the Future Cambodia HARVEST Project - Community Survey**  
-  [Data](https://datahub.usaid.gov/resource/6srz-vxmk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6srz-vxmk) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/6srz-vxmk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6srz-vxmk) | Last update: Recent
 
 - **Impact Surveys for Smallholder Customers of Agricultural technologies in Kenya and Mozambique as Part of the Feed the Future Initiative- Data**  
-  [Data](https://datahub.usaid.gov/resource/tfpb-zy79.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tfpb-zy79) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tfpb-zy79.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tfpb-zy79) | Last update: Recent  
   These measures guarantee greater data quality of both sales data and assumptions used to calculate indicators, such as the number of farmers applying improved technologies, as well as promote better precision on farmer-level impact and impact on women.
 
 - **Kedougou Nutrient Diversity - Household Survey Dataset**  
@@ -4775,88 +4784,88 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.usaid.gov/resource/4vki-3fuv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4vki-3fuv) | Last update: Jun 2024
 
 - **MEASURE-BiH: High Judicial and Prosecutorial Council Administrative Data Dataset**  
-  [Data](https://datahub.usaid.gov/resource/jbf9-2yi7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jbf9-2yi7) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/jbf9-2yi7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jbf9-2yi7) | Last update: Recent  
   The JEI-BiH was developed by USAID/MEASURE-BiH in close partnership with the BiH High Judicial and Prosecutorial Council. As such, it is not only a tool for donors but also for BiH authorities for informed decision-making and monitoring of progress towards establishing a more accountable, effective, and independent judiciary.
 
 - **Malawi Baseline Impact Evaluation: Asset Consumption Data**  
-  [Data](https://datahub.usaid.gov/resource/b67v-zk9w.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b67v-zk9w) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/b67v-zk9w.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b67v-zk9w) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Children's Data**  
-  [Data](https://datahub.usaid.gov/resource/e2zt-9xr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e2zt-9xr3) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/e2zt-9xr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e2zt-9xr3) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Community Data**  
-  [Data](https://datahub.usaid.gov/resource/4gye-9wpi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4gye-9wpi) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/4gye-9wpi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4gye-9wpi) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Farmer Data**  
-  [Data](https://datahub.usaid.gov/resource/jfk4-x2a8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jfk4-x2a8) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/jfk4-x2a8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jfk4-x2a8) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Food Consumption Data**  
-  [Data](https://datahub.usaid.gov/resource/2z2a-vfru.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2z2a-vfru) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2z2a-vfru.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2z2a-vfru) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Household Data**  
-  [Data](https://datahub.usaid.gov/resource/4gks-wm4n.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4gks-wm4n) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/4gks-wm4n.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4gks-wm4n) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Non-Food Consumption Data**  
-  [Data](https://datahub.usaid.gov/resource/acpu-qijj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/acpu-qijj) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/acpu-qijj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/acpu-qijj) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Roster**  
-  [Data](https://datahub.usaid.gov/resource/t5ne-wnhp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t5ne-wnhp) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/t5ne-wnhp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t5ne-wnhp) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Malawi Baseline Impact Evaluation: Women's Data**  
-  [Data](https://datahub.usaid.gov/resource/trja-w748.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/trja-w748) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/trja-w748.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/trja-w748) | Last update: Recent  
   Feed the Future initiative in Malawi is committed to improving food security and nutrition in farming households while reducing rural poverty through an agriculture-led, integrated economic growth, nutrition, and natural resource management strategy. The goal of the impact evaluation is to determine whether integrating nutrition interventions
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Survey-response data**  
-  [Data](https://datahub.usaid.gov/resource/3k79-mim5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3k79-mim5) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/3k79-mim5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3k79-mim5) | Last update: Recent
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/aact-93wb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/aact-93wb) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/aact-93wb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/aact-93wb) | Last update: Recent  
   They should be reassembled by the user to understand the data fully.
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/vr44-vemq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vr44-vemq) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vr44-vemq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vr44-vemq) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of six in the Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data.
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/tgrj-3uzp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tgrj-3uzp) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tgrj-3uzp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tgrj-3uzp) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of six in the Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data.
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/rvt8-dnwm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rvt8-dnwm) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/rvt8-dnwm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rvt8-dnwm) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fourth spreadsheet of six in the Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data.
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data: Section 5**  
-  [Data](https://datahub.usaid.gov/resource/4np2-hm4f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4np2-hm4f) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/4np2-hm4f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4np2-hm4f) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fifth spreadsheet of six in the Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data.
 
 - **Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data: Section 6**  
-  [Data](https://datahub.usaid.gov/resource/vcgh-uh7x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vcgh-uh7x) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vcgh-uh7x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vcgh-uh7x) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the sixth spreadsheet of six in the Measuring Impact of Stabilization Initiatives Survey Data (MISTI), Village data.
 
 - **Mini Survey Data for the Advancing National Integration in Georgia Activity Mid-term Performance Evaluation**  
-  [Data](https://datahub.usaid.gov/resource/sa2k-wmvn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/sa2k-wmvn) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/sa2k-wmvn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/sa2k-wmvn) | Last update: Recent  
   During the course of an evaluation, the Evaluation Team conducted a mini-survey among the members of the 13 youth centers supported under a program to promote integration of diverse population groups into Georgian society.
 
 - **Morbidity Management and Disability Prevention Project: Lymphatic Filariasis Disease Management**  
-  [Data](https://datahub.usaid.gov/resource/q9fm-pzqt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q9fm-pzqt) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/q9fm-pzqt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q9fm-pzqt) | Last update: Recent  
   All data is aggregate and reported through the Ministries of Health, routine Project data collection and reporting tools, and various surveys and assessments.
 
 - **Morbidity Management and Disability Prevention Project: Trachomatous Trichiasis Disease Management**  
-  [Data](https://datahub.usaid.gov/resource/d54f-5tyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d54f-5tyf) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/d54f-5tyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d54f-5tyf) | Last update: Recent
 
 - **Morbidity Management and Disability Prevention Project: Trainings**  
-  [Data](https://datahub.usaid.gov/resource/ejzu-w28b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ejzu-w28b) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ejzu-w28b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ejzu-w28b) | Last update: Recent
 
 - **Needs assessment of safety and health practices of urban livestock owners in Nicaragua**  
-  [Data](https://datahub.usaid.gov/resource/j84b-rwrj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j84b-rwrj) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/j84b-rwrj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j84b-rwrj) | Last update: Recent  
   This data asset was produced by The Ohio State University in cooperation with CIAT Nicaragua under a US Borlaug Fellows in Food Security grant.
 
 - **Nepal Business Literacy Impact Evaluation - Baseline Household Dataset**  
@@ -4868,229 +4877,229 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset (n=11,760, vars=25) is the household roster for the 2016 Nepal IE Baseline Survey. It has one record per household member listed in Module C. The unique identifiers for this file are pbs_id + hm_id (household member id). Derived variables (e.g., age group, agegrp15+) are also included in this dataset.
 
 - **New Alliance ICT Extension Challenge Fund: Baseline Survey for Aybar and Bio Fertilizer**  
-  [Data](https://datahub.usaid.gov/resource/rrdn-g8qa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rrdn-g8qa) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/rrdn-g8qa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rrdn-g8qa) | Last update: Recent  
   Dataset for the baseline surveys for Aybar BBM & biofertilizer. This dataset explores demographic details as well as knowledge, attitudes and practices of farmers in intervention zones in Ethiopia in relation to the above agricultural innovations. Furthermore, the surveys provide radio and ICT exposure information which will be used to measure changes in KAPs at endline.
 
 - **New Alliance ICT Extension Challenge Fund: Baseline Survey for Blended Fertilizer**  
-  [Data](https://datahub.usaid.gov/resource/ku2f-jezn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ku2f-jezn) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ku2f-jezn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ku2f-jezn) | Last update: Recent  
   Data sets for the baseline survey for blended fertilizer. This dataset explores demographic details as well as knowledge, attitudes and practices of farmers in intervention zones in Ethiopia in relation to the above agricultural innovations. Furthermore, the surveys provide radio and ICT exposure information which will be used to measure changes in KAPs at endline.
 
 - **New Alliance ICT Extension Challenge Fund: Midterm Survey for Aybar and Bio Fertilizer**  
-  [Data](https://datahub.usaid.gov/resource/e426-9ygt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e426-9ygt) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/e426-9ygt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e426-9ygt) | Last update: Recent  
   Dataset for the midterm evaluation for Aybar BBM & biofertilizer. This dataset explores demographic details as well as knowledge, attitudes and practices of farmers in intervention zones in Ethiopia in relation to the above agricultural innovations. Furthermore, the surveys provide radio and ICT exposure information which will be used to measure changes in KAPs at endline.
 
 - **PRESTIJ National Perceptions of the Teaching Profession Survey Dataset**  
-  [Data](https://datahub.usaid.gov/resource/fhxq-4w2b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fhxq-4w2b) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/fhxq-4w2b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fhxq-4w2b) | Last update: Recent
 
 - **Resilient Africa Network: Quantitative assessment of resilience factors in target communities in the Eastern Africa Resilience Innovation Lab: A case for Uganda**  
-  [Data](https://datahub.usaid.gov/resource/bpic-abe3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bpic-abe3) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/bpic-abe3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bpic-abe3) | Last update: Recent
 
 - **Resilient Africa Network: Resilience Dimensions of the Effects of Recurrent Droughts in Borana Zone, Southern Ethiopia**  
-  [Data](https://datahub.usaid.gov/resource/pyty-cnej.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pyty-cnej) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/pyty-cnej.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pyty-cnej) | Last update: Recent
 
 - **Resilient Africa Network: The State of Internally Displaced Persons (IDPs) in the Benadir Region, Somalia**  
-  [Data](https://datahub.usaid.gov/resource/tgbz-fw28.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tgbz-fw28) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tgbz-fw28.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tgbz-fw28) | Last update: Recent  
   This survey was carried out in Benadir region in the Federal Republic of Somalia and the goal was to investigate the status of resilience of the internally displaced communities in Benadir region.
 
 - **SNP Polymorphism Survey of the Parental Lines of ISRA Sorghum Breeding Program as Part of the Feed the Future - Data**  
-  [Data](https://datahub.usaid.gov/resource/5kkm-4jfs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5kkm-4jfs) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/5kkm-4jfs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5kkm-4jfs) | Last update: Recent  
   This is the data file generated from the activity where Polymorphism of SNP Markers (single nucleotide polymorphisms) was assessed on 24 parental lines of the ISRA sorghum breeding program .
 
 - **Section A Household Roster**  
-  [Data](https://datahub.usaid.gov/resource/ghqk-j643.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ghqk-j643) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ghqk-j643.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ghqk-j643) | Last update: Recent
 
 - **Section B Ownership and Management of Cattle**  
-  [Data](https://datahub.usaid.gov/resource/qchg-9hw3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qchg-9hw3) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/qchg-9hw3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qchg-9hw3) | Last update: Recent
 
 - **Section C Changes in Stock of Cattle in the Last 12 Months**  
-  [Data](https://datahub.usaid.gov/resource/9wt9-d8t2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9wt9-d8t2) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/9wt9-d8t2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9wt9-d8t2) | Last update: Recent
 
 - **Section D1 Dairy Output Use over the Last 12 Months**  
-  [Data](https://datahub.usaid.gov/resource/x4p7-zj3b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/x4p7-zj3b) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/x4p7-zj3b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/x4p7-zj3b) | Last update: Recent
 
 - **Section D2 Dairy Output Use Over the Last Month by Type of Dairy Products**  
-  [Data](https://datahub.usaid.gov/resource/kt8g-vwtk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kt8g-vwtk) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/kt8g-vwtk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kt8g-vwtk) | Last update: Recent
 
 - **Section E Dairy Production**  
-  [Data](https://datahub.usaid.gov/resource/mdaw-wv6q.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mdaw-wv6q) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/mdaw-wv6q.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mdaw-wv6q) | Last update: Recent
 
 - **Section F1 Milk Sales**  
-  [Data](https://datahub.usaid.gov/resource/d774-pnzi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d774-pnzi) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/d774-pnzi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d774-pnzi) | Last update: Recent
 
 - **Section F2 Non-Successful Milk Sales**  
-  [Data](https://datahub.usaid.gov/resource/9nw6-3ew6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9nw6-3ew6) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/9nw6-3ew6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9nw6-3ew6) | Last update: Recent
 
 - **Section F3 Sales of Processed Dairy Products and Prices Q0-Q13**  
-  [Data](https://datahub.usaid.gov/resource/h7tq-m9zn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h7tq-m9zn) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/h7tq-m9zn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h7tq-m9zn) | Last update: Recent
 
 - **Section F4 Fasting versus Non-Fasting**  
-  [Data](https://datahub.usaid.gov/resource/bdxy-wre3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bdxy-wre3) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/bdxy-wre3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bdxy-wre3) | Last update: Recent
 
 - **Section G Food Safety Measures**  
-  [Data](https://datahub.usaid.gov/resource/k2gu-6yfu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k2gu-6yfu) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/k2gu-6yfu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k2gu-6yfu) | Last update: Recent
 
 - **Section H1.1 Feeding and Watering of Cows**  
-  [Data](https://datahub.usaid.gov/resource/q3yp-pauj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q3yp-pauj) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/q3yp-pauj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q3yp-pauj) | Last update: Recent
 
 - **Section H1.2 Feeding and Watering of Cows Q24**  
-  [Data](https://datahub.usaid.gov/resource/xchx-93z4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xchx-93z4) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/xchx-93z4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xchx-93z4) | Last update: Recent
 
 - **Section H1.3 Feeding and Watering of Cows Q27**  
-  [Data](https://datahub.usaid.gov/resource/96sh-nbn9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/96sh-nbn9) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/96sh-nbn9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/96sh-nbn9) | Last update: Recent
 
 - **Section H2-H5 Breeding and AI Animal Health Manure Handling Record Keeping**  
-  [Data](https://datahub.usaid.gov/resource/b6gp-2i4b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b6gp-2i4b) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/b6gp-2i4b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b6gp-2i4b) | Last update: Recent
 
 - **Section H6 Labor Use**  
-  [Data](https://datahub.usaid.gov/resource/9y7m-czvf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9y7m-czvf) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/9y7m-czvf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9y7m-czvf) | Last update: Recent
 
 - **Section H6 Labor Use Q10**  
-  [Data](https://datahub.usaid.gov/resource/svum-vswd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/svum-vswd) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/svum-vswd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/svum-vswd) | Last update: Recent
 
 - **Section H6 Labor Use Q15**  
-  [Data](https://datahub.usaid.gov/resource/feuc-ba5v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/feuc-ba5v) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/feuc-ba5v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/feuc-ba5v) | Last update: Recent
 
 - **Section H6 Labor Use Q17**  
-  [Data](https://datahub.usaid.gov/resource/kty3-bvyv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kty3-bvyv) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/kty3-bvyv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kty3-bvyv) | Last update: Recent
 
 - **Section H6 Labor Use Q6**  
-  [Data](https://datahub.usaid.gov/resource/kgng-9ruv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kgng-9ruv) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/kgng-9ruv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kgng-9ruv) | Last update: Recent
 
 - **Section I Changes in Dairy Production**  
-  [Data](https://datahub.usaid.gov/resource/ns7x-zge6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ns7x-zge6) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ns7x-zge6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ns7x-zge6) | Last update: Recent
 
 - **Section J Access to Agricultural Services and Knowledge Technology**  
-  [Data](https://datahub.usaid.gov/resource/jiqe-6gzs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jiqe-6gzs) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/jiqe-6gzs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jiqe-6gzs) | Last update: Recent
 
 - **Section K Perceptions**  
-  [Data](https://datahub.usaid.gov/resource/483y-e6i5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/483y-e6i5) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/483y-e6i5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/483y-e6i5) | Last update: Recent
 
 - **Section L1 Food Consumption by Head of Household**  
-  [Data](https://datahub.usaid.gov/resource/5u5p-ve3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5u5p-ve3x) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/5u5p-ve3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5u5p-ve3x) | Last update: Recent
 
 - **Section L2 Food Consumption by Spouse**  
-  [Data](https://datahub.usaid.gov/resource/9mna-8x5f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9mna-8x5f) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/9mna-8x5f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9mna-8x5f) | Last update: Recent
 
 - **Section L3 Food Consumption by the Youngest Child Q6-Q7**  
-  [Data](https://datahub.usaid.gov/resource/dzeh-h2nj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dzeh-h2nj) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/dzeh-h2nj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dzeh-h2nj) | Last update: Recent
 
 - **Section L5 Food Security**  
-  [Data](https://datahub.usaid.gov/resource/u8am-hbtx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u8am-hbtx) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/u8am-hbtx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/u8am-hbtx) | Last update: Recent
 
 - **Section M Land Ownership and Cultivation**  
-  [Data](https://datahub.usaid.gov/resource/gs99-u2ka.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gs99-u2ka) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/gs99-u2ka.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gs99-u2ka) | Last update: Recent
 
 - **Section N Crop Production**  
-  [Data](https://datahub.usaid.gov/resource/w4xk-t929.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w4xk-t929) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/w4xk-t929.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w4xk-t929) | Last update: Recent
 
 - **Section O Non-Crop and Non-Dairy Income**  
-  [Data](https://datahub.usaid.gov/resource/twva-xzpj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/twva-xzpj) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/twva-xzpj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/twva-xzpj) | Last update: Recent
 
 - **Section P1 Livestock Assets**  
-  [Data](https://datahub.usaid.gov/resource/wvyq-vrnj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wvyq-vrnj) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/wvyq-vrnj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wvyq-vrnj) | Last update: Recent
 
 - **Section P2 Agricultural and Household Assets**  
-  [Data](https://datahub.usaid.gov/resource/xytt-93nx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xytt-93nx) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/xytt-93nx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xytt-93nx) | Last update: Recent
 
 - **Section Q Livestock Ownership Other than Cattle**  
-  [Data](https://datahub.usaid.gov/resource/x7qd-fibd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/x7qd-fibd) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/x7qd-fibd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/x7qd-fibd) | Last update: Recent
 
 - **Section R Housing Quality and Household Assets**  
-  [Data](https://datahub.usaid.gov/resource/fxgt-6kc3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fxgt-6kc3) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/fxgt-6kc3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fxgt-6kc3) | Last update: Recent
 
 - **Section S Farmer Characteristics**  
-  [Data](https://datahub.usaid.gov/resource/bcs9-5ntc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bcs9-5ntc) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/bcs9-5ntc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bcs9-5ntc) | Last update: Recent
 
 - **Section T Credit**  
-  [Data](https://datahub.usaid.gov/resource/3n22-refw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3n22-refw) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/3n22-refw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3n22-refw) | Last update: Recent
 
 - **Senegal USAID/PEPAM Ex-Post Evaluation Sanitation Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/6vdm-zt6g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6vdm-zt6g) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/6vdm-zt6g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6vdm-zt6g) | Last update: Recent  
   The Senegal USAID/PEPAM Ex-Post Evaluation Sanitation Survey Dataset includes all survey data related to the household sanitation survey and household latrine direct observations.
 
 - **Senegal USAID/PEPAM Ex-Post Evaluation Water Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/r4wb-4esh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r4wb-4esh) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/r4wb-4esh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r4wb-4esh) | Last update: Recent  
   The Senegal USAID/PEPAM Ex-Post evaluation Water Survey Data includes the water survey data collected as a part of the evaluation.
 
 - **South Sudan Unity State Baseline Report: Food Security and Livelihoods**  
-  [Data](https://datahub.usaid.gov/resource/gphr-4y65.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gphr-4y65) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/gphr-4y65.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gphr-4y65) | Last update: Recent
 
 - **South Sudan Unity State Baseline Report: Nutrition**  
-  [Data](https://datahub.usaid.gov/resource/ctu5-pd4i.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ctu5-pd4i) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ctu5-pd4i.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ctu5-pd4i) | Last update: Recent
 
 - **South Sudan Unity State Baseline Report: WASH**  
-  [Data](https://datahub.usaid.gov/resource/bkew-bfiq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bkew-bfiq) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/bkew-bfiq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bkew-bfiq) | Last update: Recent
 
 - **Survey data for weed seedbank across farms with varying tillage practices in Eastern India**  
-  [Data](https://datahub.usaid.gov/resource/m7vb-rcbw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/m7vb-rcbw) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/m7vb-rcbw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/m7vb-rcbw) | Last update: Recent
 
 - **Telephonic Survey of Domestic Election Observers Trained Under Citizen Voice Project (CVP): Dataset**  
-  [Data](https://datahub.usaid.gov/resource/k5ya-p2kd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k5ya-p2kd) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/k5ya-p2kd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k5ya-p2kd) | Last update: Recent
 
 - **USAID Construction Assessment, Analysis**  
-  [Data](https://datahub.usaid.gov/resource/dkam-7fqw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dkam-7fqw) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/dkam-7fqw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dkam-7fqw) | Last update: Recent
 
 - **USAID Construction Assessment, Primary Awards: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/78sy-m3wq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/78sy-m3wq) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/78sy-m3wq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/78sy-m3wq) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of three in the USAID Construction Assessment, Primary Awards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/wf7k-pcg2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wf7k-pcg2) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/wf7k-pcg2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wf7k-pcg2) | Last update: Recent  
   This dataset contains data on subwards identified in the survey of USAID construction carried out between June 1, 2011 to June 20 to learn about the character, scope, value and management of USAID supported construction activities. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **USAID Construction Assessment, Subawards: Section 10**  
-  [Data](https://datahub.usaid.gov/resource/s9sr-f7nh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s9sr-f7nh) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/s9sr-f7nh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s9sr-f7nh) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the tenth spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/gi5y-3auf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gi5y-3auf) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/gi5y-3auf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gi5y-3auf) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 3**  
-  [Data](https://datahub.usaid.gov/resource/mzfp-rktk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mzfp-rktk) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/mzfp-rktk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mzfp-rktk) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 4**  
-  [Data](https://datahub.usaid.gov/resource/kwdq-phjc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kwdq-phjc) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/kwdq-phjc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kwdq-phjc) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fourth spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 5**  
-  [Data](https://datahub.usaid.gov/resource/2cvh-4vtk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2cvh-4vtk) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/2cvh-4vtk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2cvh-4vtk) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the fifth spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 6**  
-  [Data](https://datahub.usaid.gov/resource/fb5u-22ed.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fb5u-22ed) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/fb5u-22ed.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fb5u-22ed) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the sixth spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 7**  
-  [Data](https://datahub.usaid.gov/resource/v6bg-cqj8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v6bg-cqj8) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/v6bg-cqj8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v6bg-cqj8) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the seventh spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID Construction Assessment, Subawards: Section 8**  
-  [Data](https://datahub.usaid.gov/resource/ydqi-p5pq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ydqi-p5pq) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/ydqi-p5pq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ydqi-p5pq) | Last update: Recent
 
 - **USAID Construction Assessment, Subawards: Section 9**  
-  [Data](https://datahub.usaid.gov/resource/gydy-ge4k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gydy-ge4k) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/gydy-ge4k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gydy-ge4k) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the ninth spreadsheet of thirteenin the USAID Construction Assessment, Subawards. The USAID construction assessment is a survey of the character, scope, value and management of construction activities supported by USAID during the period from June 1, 2011 to June 20, 2013.
 
 - **USAID University Online Course Catalog**  
-  [Data](https://datahub.usaid.gov/resource/rvwf-9khn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rvwf-9khn) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/rvwf-9khn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rvwf-9khn) | Last update: Recent  
   Learning Management System online courses for USAID staff to access.
 
 - **YYC Kenya Mobilization: Bunge Data**  
-  [Data](https://datahub.usaid.gov/resource/kyzu-reiy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kyzu-reiy) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/kyzu-reiy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kyzu-reiy) | Last update: Recent
 
 - **YYC Kenya Mobilization: Evaluation Data**  
-  [Data](https://datahub.usaid.gov/resource/t7tg-pgmf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t7tg-pgmf) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/t7tg-pgmf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t7tg-pgmf) | Last update: Recent
 
 - **YYC Kenya Mobilization: Mobilization Data**  
-  [Data](https://datahub.usaid.gov/resource/afp6-45sz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/afp6-45sz) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/afp6-45sz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/afp6-45sz) | Last update: Recent
 
 - **YYC Kenya Mobilization: Scholarship Applicant Data**  
-  [Data](https://datahub.usaid.gov/resource/gqb4-pg99.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gqb4-pg99) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/gqb4-pg99.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gqb4-pg99) | Last update: Recent
 
 - **Zambia: TGCC Rapid Chiefdom Village Assessment - Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/gn4u-v3fz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gn4u-v3fz) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/gn4u-v3fz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gn4u-v3fz) | Last update: Recent  
   This dataset contains 666 observations at the village level across four chiefdoms in Zambia. Data was collected by enumerators from June to July 2017. This baseline development status information fed into and informed later land documentation efforts under the USAID funded Tenure and Global Climate Change program.
 
 [[TOP]](#toc)
@@ -5142,7 +5151,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Monthly survey of food services and drinking places (x 1,000) / Enqute mensuelle sur les services de restauration et les dbits de boissons (x 1000)
 
 - **Protected Natural Areas /Zones naturelles protégées**  
-  [Data](https://gnb.socrata.com/resource/bv9d-7nra.json) | [Docs](https://dev.socrata.com/foundry/gnb.socrata.com/bv9d-7nra) | Last update: Jun 2024  
+  [Data](https://gnb.socrata.com/resource/bv9d-7nra.json) | [Docs](https://dev.socrata.com/foundry/gnb.socrata.com/bv9d-7nra) | Last update: Recent  
   Les zones naturelles protges sont des refuges qui permettent  la nature d'exister avec un minimum d'interfrence humaine. Elles abritent toute une diversit despces fauniques et vgtales au sein de milieux varis : forts, lacs, rivires, ruisseaux et terres humides. Pour de plus amples renseignements
 
 [[TOP]](#toc)
@@ -5158,19 +5167,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://health.data.ny.gov/resource/yupb-4vts.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/yupb-4vts) | Last update: Oct 2023
 
 - **New York State Statewide COVID-19 Fatalities by County**  
-  [Data](https://health.data.ny.gov/resource/xymy-pny5.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/xymy-pny5) | Last update: Aug 2024  
+  [Data](https://health.data.ny.gov/resource/xymy-pny5.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/xymy-pny5) | Last update: Recent  
   The information in this dataset is also updated daily on the NYS COVID-19 Tracker at https://www.ny.gov/covid-19tracker.
 
 - **New York State Statewide COVID-19 Hospitalizations and Beds**  
-  [Data](https://health.data.ny.gov/resource/jw46-jpb7.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jw46-jpb7) | Last update: Aug 2024  
+  [Data](https://health.data.ny.gov/resource/jw46-jpb7.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jw46-jpb7) | Last update: Recent  
   This dataset includes information at the reporting facility level on patients hospitalized, admitted, discharged and fatalities.
 
 - **New York State Statewide Certified Home Health Agencies (CHHA) Staff COVID-19 Vaccinations**  
-  [Data](https://health.data.ny.gov/resource/9b98-uh9t.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/9b98-uh9t) | Last update: Jul 2024  
+  [Data](https://health.data.ny.gov/resource/9b98-uh9t.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/9b98-uh9t) | Last update: Recent  
   The dataset includes CHHA information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
 
 - **New York State Statewide Hospice Staff COVID-19 Vaccinations**  
-  [Data](https://health.data.ny.gov/resource/jzye-bcub.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jzye-bcub) | Last update: Jul 2024  
+  [Data](https://health.data.ny.gov/resource/jzye-bcub.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jzye-bcub) | Last update: Recent  
   The dataset includes hospice information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
 
 - **New York State Statewide Hospital Staff COVID-19 Vaccinations**  
@@ -5178,11 +5187,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Note: This dataset is no longer updated as of 7/28/2023.
 
 - **New York State Statewide Licensed Home Care Services Agencies (LHCSAs) Staff COVID-19 Vaccinations**  
-  [Data](https://health.data.ny.gov/resource/n3ke-5g88.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/n3ke-5g88) | Last update: Jul 2024  
+  [Data](https://health.data.ny.gov/resource/n3ke-5g88.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/n3ke-5g88) | Last update: Recent  
   The dataset includes LHCSA information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
 
 - **Nursing Home Weekly Bed Census: Last Submission**  
-  [Data](https://health.data.ny.gov/resource/izta-vnpq.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/izta-vnpq) | Last update: Jul 2024  
+  [Data](https://health.data.ny.gov/resource/izta-vnpq.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/izta-vnpq) | Last update: Recent  
   The Department of Health requires nursing homes to complete electronic filing of each facility's licensed nursing home beds and availability by bed category on a weekly basis. This dataset is refreshed monthly.
 
 [[TOP]](#toc)
@@ -5191,7 +5200,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## healthdata.tn.gov
 
 - **Showcase Projects**  
-  [Data](https://healthdata.tn.gov/resource/n5dx-bxii.json) | [Docs](https://dev.socrata.com/foundry/healthdata.tn.gov/n5dx-bxii) | Last update: Jul 2024  
+  [Data](https://healthdata.tn.gov/resource/n5dx-bxii.json) | [Docs](https://dev.socrata.com/foundry/healthdata.tn.gov/n5dx-bxii) | Last update: Recent  
   Collection of works including conference abstracts, publications, and oral presentations produced by TDH staff.
 
 [[TOP]](#toc)
@@ -5200,7 +5209,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## highways.hidot.hawaii.gov
 
 - **Fatal Crash Alternate**  
-  [Data](https://highways.hidot.hawaii.gov/resource/xr73-pg3t.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/xr73-pg3t) | Last update: Aug 2024  
+  [Data](https://highways.hidot.hawaii.gov/resource/xr73-pg3t.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/xr73-pg3t) | Last update: Recent  
   Fatal Crashes from ArcGIS Survey Nightly Updated
 
 - **HDOT Complaints**  
@@ -5208,11 +5217,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Public Complaints Dataset From ArcGIS Survey at https://arcg.is/19O4nm0
 
 - **HDOTHighwaySoftwareSurvey**  
-  [Data](https://highways.hidot.hawaii.gov/resource/m53e-n2yh.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/m53e-n2yh) | Last update: Jul 2024  
+  [Data](https://highways.hidot.hawaii.gov/resource/m53e-n2yh.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/m53e-n2yh) | Last update: Recent  
   This dataset houses the survey data collected from the Highways on all software being utilized by the Division.
 
 - **Oahu Pedestrian and Bicycle Crash Cluster Classified Streets**  
-  [Data](https://highways.hidot.hawaii.gov/resource/e8m6-umhs.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/e8m6-umhs) | Last update: Jul 2024  
+  [Data](https://highways.hidot.hawaii.gov/resource/e8m6-umhs.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/e8m6-umhs) | Last update: Recent  
   This dataset provides a list of pedestrian and bicycle crashes with location data. Some relevant columns include: street name,  type of road, island, roadway owner, and type of crash.
 
 [[TOP]](#toc)
@@ -5282,7 +5291,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## internal.open.piercecountywa.gov
 
 - **American Community Survey 5 Year Estimates - Pierce County, WA**  
-  [Data](https://internal.open.piercecountywa.gov/resource/hi5f-njq3.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/hi5f-njq3) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/hi5f-njq3.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/hi5f-njq3) | Last update: Recent  
   Population over 60 (S0101), Women Who Had a Birth in the Past 12 Months (B13002), Below Poverty Level (B17015), No Health Insurance (B27001), Household Receiving SNAP Assistance (S2201), No Internet Access (B28002), Total Population (B01003) and Language at Home (C16001)
 
 - **Average Commute Time to Work**  
@@ -5306,7 +5315,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Median Earnings: The middle value of individual earnings in an area,(B08121). County and State values are from the ACS 1 Year Survey. Includes workers 16 years and over with earnings.
 
 - **Economic Poverty Rate by County WA**  
-  [Data](https://internal.open.piercecountywa.gov/resource/xyg9-chf5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xyg9-chf5) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/xyg9-chf5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xyg9-chf5) | Last update: Recent  
   Count and rate of population with income in the last 12 months below poverty level in an area. ( B17001). County and State values are from ACS  1-year survey.
 
 - **Educational Attainment**  
@@ -5318,11 +5327,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Employee engagement survey, positive response percentages.
 
 - **FIN - Criminal Justice - Population and Arrest Percentages by Race**  
-  [Data](https://internal.open.piercecountywa.gov/resource/gpe4-tin2.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/gpe4-tin2) | Last update: Jul 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/gpe4-tin2.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/gpe4-tin2) | Last update: Recent  
   Arrest data from the Washington Association of Sheriffs and Police Chiefs (WASPC). Population and demographic data from the U.S. Census Bureau American Community Survey.
 
 - **Families Paying More Than 30% of Income in Housing Costs**  
-  [Data](https://internal.open.piercecountywa.gov/resource/3qbi-wy3u.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/3qbi-wy3u) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/3qbi-wy3u.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/3qbi-wy3u) | Last update: Recent  
   Tenure by Housing Costs as a Percentage of Household Income in the Past 12 Months
 
 - **Family Wage Jobs**  
@@ -5346,7 +5355,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Employee engagement data from an employee survey conducted by Pierce County and completed voluntarily by employees. Numeric responses correspond with the following answers: 0=N/A, 1=Strongly Disagree, 2=Disagree, 3=Agree, 4=Strongly Agree.
 
 - **HR U.S. Bureau of Labor Statistics Turnover**  
-  [Data](https://internal.open.piercecountywa.gov/resource/9h52-qp7q.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9h52-qp7q) | Last update: Aug 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/9h52-qp7q.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9h52-qp7q) | Last update: Recent  
   Job Openings and Labor Turnover Survey data from the U.S. Bureau of Labor Statistics
 
 - **HS VCCC Client Gender**  
@@ -5358,31 +5367,31 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains the number of clients served by Valley Cities Counseling and Consultations (VCCC). VCCC is a program that provides outpatient mental health treatment for post-9/11 veterans and their family members.
 
 - **Health Insurance Coverage by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/9df5-saeu.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9df5-saeu) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/9df5-saeu.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9df5-saeu) | Last update: Recent  
   Health insurance coverage data from ACS-1 (DP03_0095E, DP03_0096E, DP03_0096PE).
 
 - **Households with Broadband Internet by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/aw8f-qfrs.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/aw8f-qfrs) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/aw8f-qfrs.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/aw8f-qfrs) | Last update: Recent  
   Number and percent of households that have broadband internet. Data from ACS1 year for county and state level.
 
 - **Housing Cost Burden By Ownership and Income**  
-  [Data](https://internal.open.piercecountywa.gov/resource/b2c8-cpv5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/b2c8-cpv5) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/b2c8-cpv5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/b2c8-cpv5) | Last update: Recent  
   County and State values are from the American Community Survey (ACS) 1 Year Survey
 
 - **Human Services Customer Satisfaction Results**  
-  [Data](https://internal.open.piercecountywa.gov/resource/x8ga-gfzr.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/x8ga-gfzr) | Last update: Aug 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/x8ga-gfzr.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/x8ga-gfzr) | Last update: Recent  
   Percentage of survey responders rating their satisfaction level at 4 and above.
 
 - **IT Service Desk Customer Satisfaction Survey**  
-  [Data](https://internal.open.piercecountywa.gov/resource/xbrp-qqc6.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xbrp-qqc6) | Last update: Jul 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/xbrp-qqc6.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xbrp-qqc6) | Last update: Recent  
   Results of IT Service desk customer satisfaction survey
 
 - **Median Household Income**  
-  [Data](https://internal.open.piercecountywa.gov/resource/49e4-8ct5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/49e4-8ct5) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/49e4-8ct5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/49e4-8ct5) | Last update: Recent  
   Census Tract values are from the ACS 5 Year Survey while County and State values are from the ACS 1 Year Survey.
 
 - **Median Property Value**  
-  [Data](https://internal.open.piercecountywa.gov/resource/5rnp-brr9.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/5rnp-brr9) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/5rnp-brr9.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/5rnp-brr9) | Last update: Recent  
   County and State values are from the ACS 1 Year Survey
 
 - **Percent Increase in Housing Stock**  
@@ -5390,7 +5399,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   County and State values are from the ACS 1 Year Survey.
 
 - **Pierce County Population by Gender**  
-  [Data](https://internal.open.piercecountywa.gov/resource/rtmt-3uif.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/rtmt-3uif) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/rtmt-3uif.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/rtmt-3uif) | Last update: Recent  
   Each year represents the end of a five-year estimate period (e.g. 2018-12-31 contains the 2013-2018 five-year estimates).
 
 - **Population by Race Pierce County**  
@@ -5406,15 +5415,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Employment levels and percentages of veterans and non-veterans in the labor force over time.
 
 - **Youth Obesity Rate By County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/m82h-u5vd.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/m82h-u5vd) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/m82h-u5vd.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/m82h-u5vd) | Last update: Recent  
   Youth (8th, 10th  and 12th grade)  obesity and overweight rate from Washington State Healthy Youth Survey (HYS). The Healthy Youth Survey (HYS) is a collaborative effort of the Office of the Superintendent of Public Instruction, the Department of Health, the Health Care Authority - Division of Behavioral Health and Recovery, and Liquor and Cannabis Board.
 
 - **Youth Suicide Attempt Rate**  
-  [Data](https://internal.open.piercecountywa.gov/resource/c86h-wg9s.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c86h-wg9s) | Last update: Jun 2024  
+  [Data](https://internal.open.piercecountywa.gov/resource/c86h-wg9s.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c86h-wg9s) | Last update: Recent  
   Youth (6th, 8th, 10th, and 12th grade students)  suicide attempt rate from Washington State Healthy Youth Survey (HYS). The Healthy Youth Survey (HYS) is a collaborative effort of the Office of the Superintendent of Public Instruction, the Department of Health, the Health Care Authority - Division of Behavioral Health and Recovery, and Liquor and Cannabis Board.
 
 - **Youth Tobacco Use Rates**  
-  [Data](https://internal.open.piercecountywa.gov/resource/rc6h-vs2p.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/rc6h-vs2p) | Last update: Jun 2024
+  [Data](https://internal.open.piercecountywa.gov/resource/rc6h-vs2p.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/rc6h-vs2p) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -5534,7 +5543,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set corresponds to a survey performed between July and September of 2015 on 6 countries from Latin America and the Caribbean. 11,500 citizens provided information about their experience with a specific set of government services.
 
 - **Social Indicators of Latin America and the Caribbean**  
-  [Data](https://mydata.iadb.org/resource/q8e9-eb82.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/q8e9-eb82) | Last update: Jul 2024  
+  [Data](https://mydata.iadb.org/resource/q8e9-eb82.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/q8e9-eb82) | Last update: Recent  
   The management and implementation of the Socimetro are provided by the Social Sector (SCL) of the Vice Presidency of Knowledge and Sectors to strengthen the analytical content of projects and studies. The indicators are not intended to serve as official data for any particular country but instead aim to provide a comparable set of social indicators for the Latin American region.
 
 - **Transformação digital dos governos brasileiros: Satisfação dos cidadãos com os serviços públicos digitais nos estados e no Distrito Federal. Dataset**  
@@ -5561,11 +5570,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Subgroups in this dataset include: Individualized Education Program, Free or Reduced Lunch, English Language Learners, African American, Hispanic, American Indian, Asian, Hawaiian/Pacific Islander, White, Two or More Races, Migrant, Female, and Male.
 
 - **City Budget and Actual Revenue**  
-  [Data](https://mydata.iowa.gov/resource/bzed-t5zc.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/bzed-t5zc) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/bzed-t5zc.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/bzed-t5zc) | Last update: Recent  
   This dataset contains the budget and actual revenue self-reported by each city via their yearly budget forms filed with the Department of Management. Actual revenue data lags budget expenditures by a couple of fiscal years.
 
 - **County Actual Expenditures by Service Area by Fiscal Year**  
-  [Data](https://mydata.iowa.gov/resource/fxbr-vb9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/fxbr-vb9c) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/fxbr-vb9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/fxbr-vb9c) | Last update: Recent  
   This dataset provides actual county expenditure data for every county in the State of Iowa beginning in Fiscal Year 2010 (year ending June 30, 2010).
 
 - **County Boundaries of Iowa**  
@@ -5573,7 +5582,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Boundaries were developed from a set of 99 individual coverages of the Public Land Survey System (PLSS) for each county in the state. The PLSS coverages were digitized from paper copies of 7.5' topographic quadrangle maps. River boundaries were also digitized from 7.5' maps.
 
 - **County Budgeted Expenditures By Service Area By Fiscal Year**  
-  [Data](https://mydata.iowa.gov/resource/gk9s-gz9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gk9s-gz9c) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/gk9s-gz9c.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gk9s-gz9c) | Last update: Recent  
   This dataset provides budgeted expenditures for the counties within the State of Iowa beginning with FY 2005 (fiscal year ending 6/30/2005).
 
 - **Housing Units in Iowa by Occupancy Status (ACS 5-Year Estimates)**  
@@ -5581,7 +5590,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Iowa housing unit estimate by occupancy status for State of Iowa, individual Iowa counties, Iowa places and census tracts within Iowa.
 
 - **ICN Leased Telecommunications Connections (Part III Sites)**  
-  [Data](https://mydata.iowa.gov/resource/tcu2-q5es.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tcu2-q5es) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/tcu2-q5es.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tcu2-q5es) | Last update: Recent  
   Listing of current leased public and nonpublic school district sites connected to leased fiber-optic infrastructure that contains vendors and current telecommunications connection types. Data does not include Part III sites owned by the State.
 
 - **Iowa Child Abuse Occurrences by Year, County and Type of Abuse**  
@@ -5605,7 +5614,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Iowa population estimate for individuals 16 years and older by employment status for State of Iowa, individual Iowa counties, Iowa places and census tracts within Iowa.
 
 - **Iowa Family Investment Program Recipients and Grants by Month and County**  
-  [Data](https://mydata.iowa.gov/resource/79c3-mzyc.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/79c3-mzyc) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/79c3-mzyc.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/79c3-mzyc) | Last update: Recent  
   Data are provided on the number of cases (families) served, the number of recipients served and the dollar value of the payments provided summed by month and county starting January 2011 and updated monthly. A case is defined as a family group who receives FIP assistance together. A recipient is an individual on a FIP case.
 
 - **Iowa Fleet Summary By Year, County And Vehicle Type**  
@@ -5613,11 +5622,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Vehicle types include: Autocycle, Automobile, Bus, Moped, Motor Home - A, Motor Home - B, Motor Home - C, Motorcycle, Multi-purpose, Regular Trailer, Semi Trailer, Small Regular Trailer, Small Semi Trailer, Truck Tractor, Travel Trailer, Truck, Truck - Business Trade, and Truck - Weight and List.
 
 - **Iowa Food Assistance Program Statistics by Month and County**  
-  [Data](https://mydata.iowa.gov/resource/nqiw-f9td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/nqiw-f9td) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/nqiw-f9td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/nqiw-f9td) | Last update: Recent  
   The Food Assistance Program provides Electronic Benefit Transfer (EBT) cards that can be used to buy groceries at supermarkets, grocery stores and some Farmers Markets. This dataset provides data on the number of households, recipients and cash assistance provided through the Food Assistance Program participation in Iowa by month and county starting in January 2011 and updated monthly.
 
 - **Iowa Geographic Names**  
-  [Data](https://mydata.iowa.gov/resource/uedc-2fk7.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/uedc-2fk7) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/uedc-2fk7.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/uedc-2fk7) | Last update: Recent  
   This dataset provides the geographic names data for Iowa. All names data products are extracted from the Geographic Names Information System (GNIS), the Federal Government's repository of official geographic names.
 
 - **Iowa Households by Household Income in Last 12 Months, and Presence and Type of Internet Subscriptions (ACS 5-Year Estimates)**  
@@ -5645,7 +5654,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Household type includes Total Households, Family - All Types, Family - Married Couple, Family - All Single Householders, Family - Male Householder - No Wife Present, Family - Female Householder - No Husband Present, Nonfamily - All Types, Nonfamily - Male Householder, Nonfamily - Female Householder, Total Households w/Minors, and Total Households w/o Minors.
 
 - **Iowa Local Area Unemployment Statistics**  
-  [Data](https://mydata.iowa.gov/resource/tjnj-ed6z.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tjnj-ed6z) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/tjnj-ed6z.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tjnj-ed6z) | Last update: Recent  
   This dataset contains employment, unemployment, labor force, and labor force participation rates for Iowa, the counties, cities, and metropolitan statistical areas.
 
 - **Iowa Median Age by Sex (ACS 5-Year Estimates)**  
@@ -5685,7 +5694,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains estimate for median household income in past 12 months for State of Iowa, individual Iowa counties, Iowa places and census tracts within Iowa.
 
 - **Iowa Medicaid Payments & Recipients by Month and County**  
-  [Data](https://mydata.iowa.gov/resource/jmyd-wk9g.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/jmyd-wk9g) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/jmyd-wk9g.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/jmyd-wk9g) | Last update: Recent  
   This dataset contains aggregate Medicaid payments, and counts for eligible recipients and recipients served by month and county in Iowa, starting with month ending 1/31/2011.
 
 - **Iowa Population 16 Years and Over by Sex and Earnings in Past 12 Months (ACS 5-Year Estimates)**  
@@ -5765,7 +5774,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset provides employment, unemployment, labor force and unemployment rate monthly estimates for State of Iowa, Iowa counties, metropolitan statistical areas, and large cities within Iowa.
 
 - **Iowa Unemployment Insurance Benefit Payments and Recipients by County (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/aeyn-twxp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/aeyn-twxp) | Last update: Aug 2024  
+  [Data](https://mydata.iowa.gov/resource/aeyn-twxp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/aeyn-twxp) | Last update: Recent  
   This dataset contains Iowa unemployment insurance benefit payments, weeks compensated, and number of benefit recipients by county.
 
 - **Iowa Unemployment Insurance Benefit Payments and UI Recipients by County (Annual)**  
@@ -5773,26 +5782,26 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains Iowa unemployment insurance benefit payments, weeks compensated, and number of benefit recipients by county. County data is based on the recipients place of residence.
 
 - **Iowa Unemployment Insurance Claimants by Age (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/7uss-66ak.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/7uss-66ak) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/7uss-66ak.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/7uss-66ak) | Last update: Recent  
   This dataset provides information on the age composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey.
 
 - **Iowa Unemployment Insurance Claimants by Industry Sector (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/ck65-myxr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ck65-myxr) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/ck65-myxr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ck65-myxr) | Last update: Recent  
   This dataset provides information on the industry composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey. (Source: ETA-203)
 
 - **Iowa Unemployment Insurance Claimants by Occupational Group (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/2ypv-48td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/2ypv-48td) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/2ypv-48td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/2ypv-48td) | Last update: Recent  
   This dataset provides information on the occupational composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey.
 
 - **Iowa Unemployment Insurance Claimants by Race and Ethnicity (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/xhef-iq3u.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xhef-iq3u) | Last update: Jul 2024
+  [Data](https://mydata.iowa.gov/resource/xhef-iq3u.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xhef-iq3u) | Last update: Recent
 
 - **Iowa Unemployment Insurance Claimants by Sex (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/t92x-wtrh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/t92x-wtrh) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/t92x-wtrh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/t92x-wtrh) | Last update: Recent  
   This dataset provides information on the gender composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey. (Source: ETA-203)
 
 - **Iowa Unemployment Insurance Initial Claims by County (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/rigx-2vau.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/rigx-2vau) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/rigx-2vau.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/rigx-2vau) | Last update: Recent  
   This dataset contains Iowa unemployment insurance initial claims by county.
 
 - **Iowa Veterans Home Current and Past Residents**  
@@ -5804,11 +5813,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset is from the Iowa Wage survey which is based on the Occupation Employment Statistics (OES) program from the Bureau of Labor Statistics (BLS). This data is updated to reflect more current statistics using cost of living indicators.
 
 - **Low Distortion Projection Boundaries**  
-  [Data](https://mydata.iowa.gov/resource/tka6-67e8.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tka6-67e8) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/tka6-67e8.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tka6-67e8) | Last update: Recent  
   Low Distortion Projection (LDP) Boundaries for Iowa
 
 - **Low Distortion Projection Boundaries**  
-  [Data](https://mydata.iowa.gov/resource/r9u7-vxtg.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/r9u7-vxtg) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/r9u7-vxtg.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/r9u7-vxtg) | Last update: Recent  
   Low Distortion Projection (LDP) Boundaries for Iowa
 
 - **Median Age of Iowa Workers 16 to 64 Years by Sex (ACS 5-Year Estimates)**  
@@ -5824,7 +5833,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Primary points are generally at or near the geographic center of the county.
 
 - **Public Wells**  
-  [Data](https://mydata.iowa.gov/resource/6g9t-5dhu.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/6g9t-5dhu) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/6g9t-5dhu.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/6g9t-5dhu) | Last update: Recent  
   The data are derived from the Iowa Geological and Water Survey Geologic Sample database and supplemented with derived aquifer properties and attributes required for preparing simple groundwater flow models.
 
 - **RTN Base Station**  
@@ -5836,18 +5845,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Meandered sovereign rivers means those rivers which, at the time of the original federal government surveys, were surveyed as navigable and important water bodies and were transferred to the states upon their admission to the union to be transferred or retained by the public in accordance with the laws of the respective states upon their admission to the union.
 
 - **State of Iowa - Monthly Voter Registration Totals by County**  
-  [Data](https://mydata.iowa.gov/resource/cp55-uurs.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/cp55-uurs) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/cp55-uurs.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/cp55-uurs) | Last update: Recent  
   Inactive voters are those to whom official mailings have been sent from the county auditors office, the notice was returned as undeliverable by the United States Postal Service and the voter has not responded to a follow up confirmation notice. [48A.37]
 
 - **State of Iowa Forfeiture Cases**  
-  [Data](https://mydata.iowa.gov/resource/wenv-4h8b.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/wenv-4h8b) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/wenv-4h8b.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/wenv-4h8b) | Last update: Recent  
   This dataset provides forfeiture case information including the money, real estate and vehicles seized in the State of Iowa beginning October 6, 2016.
 
 - **Survey Markers**  
-  [Data](https://mydata.iowa.gov/resource/srqk-5uvp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/srqk-5uvp) | Last update: Jul 2024
+  [Data](https://mydata.iowa.gov/resource/srqk-5uvp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/srqk-5uvp) | Last update: Recent
 
 - **Taxable Property Values in Iowa by Tax District and Year**  
-  [Data](https://mydata.iowa.gov/resource/ig9g-pba5.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ig9g-pba5) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/ig9g-pba5.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ig9g-pba5) | Last update: Recent  
   This dataset contains taxable property values for classes of real property in Iowa by tax district. Taxable values are based on assessed valuations after application of the statutory assessment limitation (i.e. rollback), and is the value to which tax rates are applied (e.g. 2012 net taxable valuations are used for the FY 2014 property tax levies).
 
 - **Vacant Housing Units in Iowa by Vacancy Status (ACS 5-Year Estimates)**  
@@ -5978,11 +5987,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
 
 - **SkiTrails XC**  
-  [Data](https://opendata.utah.gov/resource/tfxs-wiqp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tfxs-wiqp) | Last update: Apr 2024  
+  [Data](https://opendata.utah.gov/resource/8hhv-avi3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8hhv-avi3) | Last update: Apr 2024  
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
 
 - **SkiTrails XC**  
-  [Data](https://opendata.utah.gov/resource/8hhv-avi3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8hhv-avi3) | Last update: Apr 2024  
+  [Data](https://opendata.utah.gov/resource/tfxs-wiqp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tfxs-wiqp) | Last update: Apr 2024  
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
 
 - **Soils**  
@@ -6177,7 +6186,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://performance.cityofhenderson.com/resource/6cd6-6gb3.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/6cd6-6gb3) | Last update: Dec 2023
 
 - **Public Safety Response Times**  
-  [Data](https://performance.cityofhenderson.com/resource/uymg-gn4m.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/uymg-gn4m) | Last update: Jul 2024
+  [Data](https://performance.cityofhenderson.com/resource/uymg-gn4m.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/uymg-gn4m) | Last update: Recent
 
 - **Resident Satisfaction with Emergency Preparedness**  
   [Data](https://performance.cityofhenderson.com/resource/yr6e-d6a4.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/yr6e-d6a4) | Last update: May 2023  
@@ -6458,16 +6467,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.data.act.gov.au
 
 - **ACT General Health Survey (GHS) - dashboard**  
-  [Data](https://www.data.act.gov.au/resource/emkf-e7w2.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/emkf-e7w2) | Last update: Jul 2024
+  [Data](https://www.data.act.gov.au/resource/emkf-e7w2.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/emkf-e7w2) | Last update: Recent
 
 - **ACT Physical Activity and Nutrition Survey (ACTPANS) - dashboard**  
-  [Data](https://www.data.act.gov.au/resource/65fg-fy8c.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/65fg-fy8c) | Last update: Jun 2024
-
-- **ACT Year 6 Physical Activity and Nutrition Survey (ACTPANS)**  
-  [Data](https://www.data.act.gov.au/resource/mh4n-petg.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/mh4n-petg) | Last update: Mar 2021
-
-- **ACT Year 6 Physical Activity and Nutrition Survey (ACTPANS) Weight status**  
-  [Data](https://www.data.act.gov.au/resource/ef5e-89nc.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/ef5e-89nc) | Last update: Jun 2022
+  [Data](https://www.data.act.gov.au/resource/65fg-fy8c.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/65fg-fy8c) | Last update: Recent
 
 - **ACTQP HTS - Average Travel Time Categorised by Selected Measurements**  
   [Data](https://www.data.act.gov.au/resource/yh3p-8mx9.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/yh3p-8mx9) | Last update: Nov 2021  
@@ -6536,50 +6539,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Australian Secondary School Students Alcohol and Drug (ASSAD) Survey - dashboard**  
   [Data](https://www.data.act.gov.au/resource/xm7i-5vqp.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/xm7i-5vqp) | Last update: Apr 2024
 
-- **Australian Secondary Students Alcohol and Drug Survey (ASSAD) - Weight**  
-  [Data](https://www.data.act.gov.au/resource/axqp-57jm.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/axqp-57jm) | Last update: May 2022
-
-- **Australian Secondary Students Alcohol and Drug survey, tobacco and e-cigarettes**  
-  [Data](https://www.data.act.gov.au/resource/ebkn-c8r4.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/ebkn-c8r4) | Last update: Jan 2024
-
-- **Kindyscreen Body Mass Index categories**  
-  [Data](https://www.data.act.gov.au/resource/77yu-kfrs.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/77yu-kfrs) | Last update: Sep 2022  
-  Kindyscreen ACT also known as Kindergarten Health Check
-
-- **NATSIHS Aboriginal and Torres Strait Islander general characteristics**  
-  [Data](https://www.data.act.gov.au/resource/74fv-c5jz.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/74fv-c5jz) | Last update: Jan 2021  
-  Data from the Australian Bureau of Statistics National Aboriginal and Torres Strait Islander Health Survey
-
-- **National Aboriginal and Torres Strait Islander Social Survey (NATSISS)**  
-  [Data](https://www.data.act.gov.au/resource/yr7u-dicx.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/yr7u-dicx) | Last update: Nov 2018  
-  Selected data from the National Aboriginal and Torres Strait Islander Social Survey
-
-- **National Drugs Strategy Household Survey (NDSHS) - Alcohol**  
-  [Data](https://www.data.act.gov.au/resource/wcdt-dmed.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/wcdt-dmed) | Last update: Feb 2021  
-  Note: The calculation of drinking status and alcohol risk variables was updated for all years in 2019. Trend data may not match previously published results.
-
-- **National Drugs Strategy Household Survey (NDSHS) - Illicit drugs**  
-  [Data](https://www.data.act.gov.au/resource/rpnd-v9g3.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/rpnd-v9g3) | Last update: Feb 2021  
-  Estimate has a high level of sampling error (relative standard error of 51% to 90%), meaning that it is unsuitable for most uses.
-
-- **National Health Survey (NHS) Waist circumference**  
-  [Data](https://www.data.act.gov.au/resource/fbu7-z9kk.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/fbu7-z9kk) | Last update: Apr 2022  
-  In 2017-18, 35.4% of respondents aged 18 years and over did not have their waist measured. For these respondents, imputation was used to obtain waist. For more information see Appendix 2: Physical measurements in the National Health Survey.
-
-- **National Health Survey: First Results (NHS)**  
-  [Data](https://www.data.act.gov.au/resource/t978-qm62.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/t978-qm62) | Last update: Nov 2018  
-  Cells in this table containing data have been randomly adjusted to avoid the release of confidential data. Discrepancies may occur between sums of the component items and totals.
-
 - **Pedestrian & Cycling Cordon Counts**  
   [Data](https://www.data.act.gov.au/resource/cz2x-tuqb.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/cz2x-tuqb) | Last update: Nov 2021  
   Data prior to 2015 is excluded due to the use of different survey sites and collection methodology. Data for site G14 is only available for 2017 and 2018, and no methodology details are currently available for this location.
 
 - **Temporary Traffic Management (TTM) - Planned Footpath Closures (Historical Data)**  
-  [Data](https://www.data.act.gov.au/resource/wjk9-amg5.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/wjk9-amg5) | Last update: Aug 2024  
+  [Data](https://www.data.act.gov.au/resource/wjk9-amg5.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/wjk9-amg5) | Last update: Recent  
   This data set is a record of planned footpath closures within the ACT based on the submission of Temporary Traffic Management (TTM) plans. This data contains all information recorded since the implementation of an ESRI Survey 123 solution to handle TTM Applications.
 
 - **Temporary Traffic Management (TTM) - Planned Road Closures (Historical Data)**  
-  [Data](https://www.data.act.gov.au/resource/dnpz-i67g.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/dnpz-i67g) | Last update: Aug 2024  
+  [Data](https://www.data.act.gov.au/resource/dnpz-i67g.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/dnpz-i67g) | Last update: Recent  
   This data set is a record of planned road closures within the ACT based on the submission of Temporary Traffic Management (TTM) plans. This data contains all information recorded since the implementation of an ESRI Survey 123 solution to handle TTM Applications.
 
 - **Unplanned Footpath Closures (Historical Data)**  
@@ -6596,19 +6565,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.thedatazone.ca
 
 - **Statistics Canada Building Permit Survey Data - Section A**  
-  [Data](https://www.thedatazone.ca/resource/ccb7-58dr.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/ccb7-58dr) | Last update: Aug 2024  
+  [Data](https://www.thedatazone.ca/resource/ccb7-58dr.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/ccb7-58dr) | Last update: Recent  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section A: Major Construction Projects. Section A includes all residential permits which are for more than $50 000 or which result in the creation or demolition of a unit. This section also covers all non-residential permits of more than $250 000.
 
 - **Statistics Canada Building Permit Survey Data - Section B**  
-  [Data](https://www.thedatazone.ca/resource/cd73-9dph.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/cd73-9dph) | Last update: Aug 2024  
+  [Data](https://www.thedatazone.ca/resource/cd73-9dph.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/cd73-9dph) | Last update: Recent  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section B: Minor Residential Additions and Renovations. Section B includes all permits for minor additions and renovations, that is, those of a value of less than $50 000.
 
 - **Statistics Canada Building Permit Survey Data - Section C**  
-  [Data](https://www.thedatazone.ca/resource/uqah-83mx.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/uqah-83mx) | Last update: Aug 2024  
+  [Data](https://www.thedatazone.ca/resource/uqah-83mx.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/uqah-83mx) | Last update: Recent  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section C: Minor Non-Residential Projects. Section C includes all permits for minor non-residential projects with a value of less than $250 000.
 
 - **Statistics Canada Building Permit Survey Data - Section D**  
-  [Data](https://www.thedatazone.ca/resource/k4b5-sybw.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/k4b5-sybw) | Last update: Aug 2024  
+  [Data](https://www.thedatazone.ca/resource/k4b5-sybw.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/k4b5-sybw) | Last update: Recent  
   Building permit data for Statistics Canada Building Permit Survey (BDP) Section D: Residential Demolitions. Section D includes all permits for residential demolitions.
 
 [[TOP]](#toc)
