@@ -53,7 +53,8 @@
 </details></br>
 
 > **NOTE**  
-> (%) denotes strategic dataset
+> * (%) denotes strategic dataset
+> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&domains=data.cdc.gov
 
@@ -221,17 +222,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/8v6a-z6zq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8v6a-z6zq) | Last update: Jun 2023
 
 - **COVID-19 Coverage Assistance Fund: Claims Reimbursement to Health Care Providers and Facilities for Services to the Underinsured**  
-  [Data](https://data.cdc.gov/resource/xgy8-wnft.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xgy8-wnft) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/xgy8-wnft.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xgy8-wnft) | Last update: Recent  
   This dataset represents the list of health care entities who have agreed to the Terms and Conditions and received claims reimbursement for costs associated with administering COVID-19 vaccines to underinsured individuals.
 
 - **COVID-19 State, Tribal, Local, and Territorial Funding**  
   [Data](https://data.cdc.gov/resource/tt3f-rr33.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tt3f-rr33) | Last update: Sep 2023
 
 - **HHS Provider Relief Fund**  
-  [Data](https://data.cdc.gov/resource/kh8y-3es6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kh8y-3es6) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/kh8y-3es6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kh8y-3es6) | Last update: Recent
 
 - **Provider Relief Fund & Accelerated and Advance Payments**  
-  [Data](https://data.cdc.gov/resource/v2pi-w3up.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/v2pi-w3up) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/v2pi-w3up.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/v2pi-w3up) | Last update: Recent  
   The Department allocated $50 billion of the Provider Relief Fund for general distribution to Medicare facilities and providers impacted by COVID-19, based on eligible providers' net reimbursement. It allocated another $22 billion to providers in areas particularly impacted by the COVID-19 outbreak, rural providers, and providers who serve low-income populations and uninsured Americans.
 
 - **Provider Relief Fund COVID-19 High-Impact Payments**  
@@ -309,11 +310,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Case Surveillance
 
 - **COVID-19 Case Surveillance Public Use Data**  
-  [Data](https://data.cdc.gov/resource/vbim-akqf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vbim-akqf) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/vbim-akqf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vbim-akqf) | Last update: Recent  
   Reporting of new COVID-19 Case Surveillance data will be discontinued July 1, 2024, to align with the process of removing SARS-CoV-2 infections (COVID-19 cases) from the list of nationally notifiable diseases. Although these data will continue to be publicly available, the dataset will no longer be updated.
 
 - **COVID-19 Case Surveillance Public Use Data with Geography**  
-  [Data](https://data.cdc.gov/resource/n8mc-b4w4.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/n8mc-b4w4) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/n8mc-b4w4.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/n8mc-b4w4) | Last update: Recent  
   Reporting of new COVID-19 Case Surveillance data will be discontinued July 1, 2024, to align with the process of removing SARS-CoV-2 infections (COVID-19 cases) from the list of nationally notifiable diseases. Although these data will continue to be publicly available, the dataset will no longer be updated.
 
 - **Rates of Laboratory-Confirmed COVID-19 Hospitalizations by Vaccination Status from the COVID-NET Surveillance System**  
@@ -326,7 +327,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Cessation Coverage 
 
 - **Medicaid Coverage Of Cessation Treatments And Barriers To Treatments**  
-  [Data](https://data.cdc.gov/resource/ntaa-dtex.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ntaa-dtex) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/ntaa-dtex.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ntaa-dtex) | Last update: Recent  
   Medicaid data compiled by the Centers for Disease Control and Preventions Office on Smoking and Health were obtained from the State Tobacco Cessation Coverage Database, developed and administered by the American Lung Association.
 
 [[TOP]](#toc)
@@ -376,7 +377,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Disability & Health
 
 - **Disability and Health Data System (DHDS)**  
-  [Data](https://data.cdc.gov/resource/k62p-6esq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k62p-6esq) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/k62p-6esq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k62p-6esq) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -496,7 +497,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Laws and policies regarding the submission of vaccination data to an IIS vary by state, which may impact the completeness of vaccination coverage reflected for a jurisdiction. More information on laws and policies are found at https://www.cdc.gov/vaccines/programs/iis/policy-legislation.html.
 
 - **Vaccines.gov: Flu vaccinating provider locations**  
-  [Data](https://data.cdc.gov/resource/bugr-bbfr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/bugr-bbfr) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/bugr-bbfr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/bugr-bbfr) | Last update: Recent  
   Because inventory reporting is no longer required, Vaccines.gov information will not be updated on this site after July 2024. Please direct any questions to VaccineFinder@cdc.gov.
 
 - **Weekly Cumulative Influenza Vaccination Coverage, Adults 18 and Older, United States**  
@@ -509,11 +510,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Foodborne, Waterborne, and Related Diseases
 
 - **BEAM Dashboard - Isolates by HHS Region**  
-  [Data](https://data.cdc.gov/resource/khic-yj26.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/khic-yj26) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/khic-yj26.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/khic-yj26) | Last update: Recent  
   The BEAM (Bacteria, Enterics, Amoeba, and Mycotics) Dashboard is an interactive tool to access and visualize data from the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC). The BEAM Dashboard provides timely data on pathogen trends and serotype details to inform work to prevent illnesses from food and animal contact.
 
 - **BEAM Dashboard - Report Data**  
-  [Data](https://data.cdc.gov/resource/jbhn-e8xn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jbhn-e8xn) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/jbhn-e8xn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jbhn-e8xn) | Last update: Recent  
   The BEAM (Bacteria, Enterics, Amoeba, and Mycotics) Dashboard is an interactive tool to access and visualize data from the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC). The BEAM Dashboard provides timely data on pathogen trends and serotype details to inform work to prevent illnesses from food and animal contact.
 
 - **BEAM Dashboard - Serotypes of concern: Burden and Trajectory**  
@@ -525,7 +526,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The BEAM (Bacteria, Enterics, Amoeba, and Mycotics) Dashboard is an interactive tool to access and visualize data from the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC). The BEAM Dashboard provides timely data on pathogen trends and serotype details to inform work to prevent illnesses from food and animal contact.
 
 - **BEAM Dashboard – Top 30 Most Common Serotypes**  
-  [Data](https://data.cdc.gov/resource/ch83-ush6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ch83-ush6) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/ch83-ush6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ch83-ush6) | Last update: Recent  
   The BEAM (Bacteria, Enterics, Amoeba, and Mycotics) Dashboard is an interactive tool to access and visualize data from the System for Enteric Disease Response, Investigation, and Coordination (SEDRIC). The BEAM Dashboard provides timely data on pathogen trends and serotype details to inform work to prevent illnesses from food and animal contact.
 
 - **Botulism**  
@@ -767,19 +768,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Laboratory Surveillance
 
 - **2020-2021 Nationwide Blood Donor Seroprevalence Survey Combined Infection- and Vaccination-Induced Seroprevalence Estimates**  
-  [Data](https://data.cdc.gov/resource/wi5c-cscz.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wi5c-cscz) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/wi5c-cscz.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wi5c-cscz) | Last update: Recent  
   This link connects to a webpage that displays the data from the Nationwide Blood Donor Seroprevalence Survey. It offers an interactive visualization available at https://covid.cdc.gov/covid-data-tracker/#nationwide-blood-donor-seroprevalence
 
 - **2020-2021 Nationwide Blood Donor Seroprevalence Survey Infection-Induced Seroprevalence Estimates**  
-  [Data](https://data.cdc.gov/resource/mtc3-kq6r.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mtc3-kq6r) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/mtc3-kq6r.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mtc3-kq6r) | Last update: Recent  
   This link connects to a webpage that displays the data from the Nationwide Blood Donor Seroprevalence Survey. It offers an interactive visualization available at https://covid.cdc.gov/covid-data-tracker/#nationwide-blood-donor-seroprevalence
 
 - **2022–2023 Nationwide Blood Donor Seroprevalence Survey Combined Infection- and Vaccination-Induced Seroprevalence Estimates**  
-  [Data](https://data.cdc.gov/resource/ar8q-3jhn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ar8q-3jhn) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/ar8q-3jhn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ar8q-3jhn) | Last update: Recent  
   Combined infection-Induced and Vaccination-Induced seroprevalence estimates the proportion of the population with antibody evidence of previous SARS-CoV-2 infection, COVID-19 vaccination, or both, and refers to the percent of the population that has anti-spike antibodies, anti-nucleocapsid antibodies, or both.
 
 - **Nationwide Commercial Laboratory Seroprevalence Survey**  
-  [Data](https://data.cdc.gov/resource/d2tw-32xv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/d2tw-32xv) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/d2tw-32xv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/d2tw-32xv) | Last update: Recent  
   This dataset contains the data used to by the Nationwide Commercial Laboratory Seroprevalence Survey interactive visualization available at https://covid.cdc.gov/covid-data-tracker/#national-lab.
 
 - **Respiratory Syncytial Virus Laboratory Data (NREVSS)**  
@@ -787,7 +788,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Participating laboratories vary in size, testing capabilities, and areas served. Some institutions may receive and test samples from sites across a given state or even from multiple states. Without direct knowledge of the population base, NREVSS cannot be used to determine the prevalence or incidence of infection.
 
 - **SARS-CoV-2 Variant Proportions**  
-  [Data](https://data.cdc.gov/resource/jr58-6ysp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jr58-6ysp) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/jr58-6ysp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jr58-6ysp) | Last update: Recent  
   Lambrou AS, Shirk P, Steele MK, et al. Genomic Surveillance for SARS-CoV-2 Variants: Predominance of the Delta (B.1.617.2) and Omicron (B.1.1.529) Variants  United States, June 2021January 2022. MMWR Morb Mortal Wkly Rep 2022;71:206211. DOI: http://dx.doi.org/10.15585/mmwr.mm7106a4
 
 [[TOP]](#toc)
@@ -796,62 +797,62 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Legislation
 
 - **CDC STATE System E-Cigarette Legislation - Licensure**  
-  [Data](https://data.cdc.gov/resource/ne52-uraz.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ne52-uraz) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/ne52-uraz.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ne52-uraz) | Last update: Recent  
   Data are reported on a quarterly basis. Data include information related to requirements, restrictions and penalties associated with holding a retail license to sell e-cigarettes over-the-counter and through vending machines.
 
 - **CDC STATE System E-Cigarette Legislation - Preemption**  
-  [Data](https://data.cdc.gov/resource/piju-vf3p.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/piju-vf3p) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/piju-vf3p.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/piju-vf3p) | Last update: Recent  
   Data are reported on a quarterly basis. Data include information related to statutory state preemption of more stringent local laws on advertising, smokefree indoor air, youth access and licensure.
 
 - **CDC STATE System E-Cigarette Legislation - Preemption Summary**  
-  [Data](https://data.cdc.gov/resource/88eg-qzed.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/88eg-qzed) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/88eg-qzed.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/88eg-qzed) | Last update: Recent
 
 - **CDC STATE System E-Cigarette Legislation - Smokefree Campus**  
-  [Data](https://data.cdc.gov/resource/itia-u6fu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/itia-u6fu) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/itia-u6fu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/itia-u6fu) | Last update: Recent
 
 - **CDC STATE System E-Cigarette Legislation - Smokefree Indoor Air**  
-  [Data](https://data.cdc.gov/resource/wan8-w4er.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wan8-w4er) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/wan8-w4er.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wan8-w4er) | Last update: Recent  
   State Tobacco Activities Tracking and Evaluation (STATE) System.
 
 - **CDC STATE System E-Cigarette Legislation - Smokefree Indoor Air Summary**  
-  [Data](https://data.cdc.gov/resource/i8t6-whzd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/i8t6-whzd) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/i8t6-whzd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/i8t6-whzd) | Last update: Recent
 
 - **CDC STATE System E-Cigarette Legislation - Tax**  
-  [Data](https://data.cdc.gov/resource/kwbr-syv2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kwbr-syv2) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/kwbr-syv2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kwbr-syv2) | Last update: Recent
 
 - **CDC STATE System E-Cigarette Legislation - Youth Access**  
-  [Data](https://data.cdc.gov/resource/8zea-kwnt.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8zea-kwnt) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/8zea-kwnt.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8zea-kwnt) | Last update: Recent  
   Data are reported on a quarterly basis. Data include information related to restrictions, enforcement and penalties associated with the sale of e-cigarettes to youth through retail sales and vending machines.
 
 - **CDC STATE System Tobacco Legislation - Fire Safety**  
-  [Data](https://data.cdc.gov/resource/isz8-idbx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/isz8-idbx) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/isz8-idbx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/isz8-idbx) | Last update: Recent
 
 - **CDC STATE System Tobacco Legislation - Licensure**  
-  [Data](https://data.cdc.gov/resource/eb4y-d4ic.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/eb4y-d4ic) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/eb4y-d4ic.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/eb4y-d4ic) | Last update: Recent  
   Data are reported on a quarterly basis. Data include information related to requirements, restrictions and penalties associated with holding a retail license to sell tobacco products over-the-counter and through vending machines.
 
 - **CDC STATE System Tobacco Legislation - Preemption**  
-  [Data](https://data.cdc.gov/resource/xsta-sbh5.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xsta-sbh5) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/xsta-sbh5.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xsta-sbh5) | Last update: Recent  
   Data are reported on a quarterly basis. Data include information related to statutory state preemption of more stringent local laws on advertising, smokefree indoor air, youth access and licensure.
 
 - **CDC STATE System Tobacco Legislation - Preemption Summary**  
-  [Data](https://data.cdc.gov/resource/hj2x-85ya.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hj2x-85ya) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/hj2x-85ya.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hj2x-85ya) | Last update: Recent
 
 - **CDC STATE System Tobacco Legislation - Smokefree Campus**  
-  [Data](https://data.cdc.gov/resource/yhkp-cczf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/yhkp-cczf) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/yhkp-cczf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/yhkp-cczf) | Last update: Recent  
   State Tobacco Activities Tracking and Evaluation (STATE) System. Legislation  Smokefree Campuses. The STATE System houses current and historical state-level legislative data on tobacco use prevention and control policies. Data are reported on a quarterly basis. Data include state smokefree indoor air policies in areas such as: Smokefree campuses for private and public colleges and schools (K-12).
 
 - **CDC STATE System Tobacco Legislation - Smokefree Indoor Air**  
-  [Data](https://data.cdc.gov/resource/32fd-hyzc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/32fd-hyzc) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/32fd-hyzc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/32fd-hyzc) | Last update: Recent
 
 - **CDC STATE System Tobacco Legislation - Smokefree Indoor Air Summary**  
-  [Data](https://data.cdc.gov/resource/2snk-eav4.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2snk-eav4) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/2snk-eav4.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2snk-eav4) | Last update: Recent
 
 - **CDC STATE System Tobacco Legislation - Tax**  
-  [Data](https://data.cdc.gov/resource/2dwv-vfam.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2dwv-vfam) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/2dwv-vfam.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2dwv-vfam) | Last update: Recent
 
 - **CDC STATE System Tobacco Legislation - Youth Access**  
-  [Data](https://data.cdc.gov/resource/hgv5-3wrn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hgv5-3wrn) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/hgv5-3wrn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hgv5-3wrn) | Last update: Recent  
   Data are reported on a quarterly basis. Data include information related to restrictions, enforcement and penalties associated with the sale of cigarettes to youth through retail sales and vending machines.
 
 [[TOP]](#toc)
@@ -1229,7 +1230,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/wibz-pb5q.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wibz-pb5q) | Last update: Sep 2023
 
 - **COVID-19 Hospital Data from the National Hospital Care Survey**  
-  [Data](https://data.cdc.gov/resource/q3t8-zr7t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q3t8-zr7t) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/q3t8-zr7t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q3t8-zr7t) | Last update: Recent  
   The data are from 26 hospitals submitting inpatient and 26 hospitals submitting ED Uniform Bill (UB)-04 administrative claims from March 18, 2020-December 26, 2023.
 
 - **Conditions Contributing to COVID-19 Deaths, by State and Age, Provisional 2020-2023**  
@@ -1241,7 +1242,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data on initial injury-related visits to hospital emergency departments in the United States, by sex, age, and intent and mechanism of injury. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Hospital Ambulatory Medical Care Survey.
 
 - **DQS Community hospital beds by state**  
-  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Recent  
   Data on beds per 1,000 resident population in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals. Hospital Statistics.
 
 - **DQS Death rates for heart disease, by sex, race, Hispanic origin, and age: United States from CDC WONDER**  
@@ -1257,7 +1258,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data on delay or nonreceipt of needed medical care, nonreceipt of needed prescription drugs, or nonreceipt of needed dental care during the past 12 months due to cost, in the United States, by selected population characteristics. Data from Health, United States. SOURCE: National Center for Health Statistics, National Health Interview Survey.
 
 - **DQS Dentists, by state: United States.**  
-  [Data](https://data.cdc.gov/resource/9epi-jrff.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/9epi-jrff) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/9epi-jrff.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/9epi-jrff) | Last update: Recent  
   Data on active dentists in the United States by state. Data are from Health, United States. SOURCE: American Dental Association, Health Policy Institute.
 
 - **DQS Drug overdose death rates, by drug type, sex, age, race, and Hispanic origin: United States from CDC WONDER**  
@@ -1297,19 +1298,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These data represent prevalence estimates of select oral health topics from the National Health and Nutrition Examination Survey (NHANES).
 
 - **DQS NHIS Adult Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/pg2r-sfcx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pg2r-sfcx) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/pg2r-sfcx.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pg2r-sfcx) | Last update: Recent  
   Interactive Summary Health Statistics for Adults provide annual estimates of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **DQS NHIS Adult Summary Statistics Footnotes**  
-  [Data](https://data.cdc.gov/resource/gpsd-ru5i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gpsd-ru5i) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/gpsd-ru5i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gpsd-ru5i) | Last update: Recent  
   List of footnotes, notes, and source information for NHIS Adult Summary Statistics. Each row of this dataset contains the accompanying text for a footnote found in the NHIS Adults Summary Statistics Dataset.
 
 - **DQS NHIS Children Summary Statistics**  
-  [Data](https://data.cdc.gov/resource/b5qi-b3hv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b5qi-b3hv) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/b5qi-b3hv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b5qi-b3hv) | Last update: Recent  
   Interactive Summary Health Statistics for Children provide annual estimates of selected health topics for children under age 18 years based on final data from the National Health Interview Survey.
 
 - **DQS NHIS Children Summary Statistics Footnotes**  
-  [Data](https://data.cdc.gov/resource/48ev-2ygq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/48ev-2ygq) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/48ev-2ygq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/48ev-2ygq) | Last update: Recent  
   List of footnotes, notes, and source information for NHIS Child Summary Statistics. Each row of this dataset contains the accompanying text for a footnote found in the NHIS Child Summary Statistics Dataset.
 
 - **DQS Normal weight, overweight, and obesity among adults aged 20 and over, by selected characteristics: United States**  
@@ -1336,7 +1337,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This visualization provides data that can be used to illustrate potential differences in the burden of deaths due to COVID-19 by race and ethnicity.
 
 - **Drug Use Data from Selected Hospitals**  
-  [Data](https://data.cdc.gov/resource/gypc-kpgn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gypc-kpgn) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/gypc-kpgn.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gypc-kpgn) | Last update: Recent
 
 - **Drug overdose death rates, by drug type, sex, age, race, and Hispanic origin: United States**  
   [Data](https://data.cdc.gov/resource/95ax-ymtc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/95ax-ymtc) | Last update: Apr 2022  
@@ -1347,7 +1348,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Rossen LM, Hedegaard H, Warner M, Ahmad FB, Sutton PD. Early provisional estimates of drug overdose, suicide, and transportation-related deaths: Nowcasting methods to account for reporting lags. Vital Statistics Rapid Release; no 11. Hyattsville, MD: National Center for Health Statistics. February 2021. DOI: https://doi.org/10.15620/ cdc:101132
 
 - **Estimates of Emergency Department Visits in the United States from 2016-2022**  
-  [Data](https://data.cdc.gov/resource/ycxr-emue.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ycxr-emue) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/ycxr-emue.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ycxr-emue) | Last update: Recent  
   The data include counts and rates of emergency department visits from 2016-2022 for the 10 leading primary diagnoses and reasons for visit, stratified by selected patient and hospital characteristics. Rankings for the 10 leading categories were identified using weighted data from 2022 and were then assessed in prior years.
 
 - **Excess Deaths Associated with COVID-19**  
@@ -1374,11 +1375,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data for additional years during the HP2020 tracking period that are not included in the Overview of Health Disparities are available on the HP2020 website (https://www.healthypeople.gov/2020/).
 
 - **Indicators of Anxiety or Depression Based on Reported Frequency of Symptoms During Last 7 Days**  
-  [Data](https://data.cdc.gov/resource/8pt5-q6wp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8pt5-q6wp) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/8pt5-q6wp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8pt5-q6wp) | Last update: Recent  
   The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
 
 - **Indicators of Health Insurance Coverage at the Time of Interview**  
-  [Data](https://data.cdc.gov/resource/jb9g-gnvr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jb9g-gnvr) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/jb9g-gnvr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jb9g-gnvr) | Last update: Recent  
   The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
 
 - **Indicators of Reduced Access to Care Due to the Coronavirus Pandemic During Last 4 Weeks**  
@@ -1394,7 +1395,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   On December 20 2021, all estimates and standard errors for 20172018 were revised in this table to correct programming errors.
 
 - **Lack of Social Connection**  
-  [Data](https://data.cdc.gov/resource/mnaa-qctp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mnaa-qctp) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/mnaa-qctp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mnaa-qctp) | Last update: Recent
 
 - **Long-term Care and COVID-19**  
   [Data](https://data.cdc.gov/resource/3j26-kg6d.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3j26-kg6d) | Last update: Sep 2022
@@ -1543,7 +1544,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Provisional estimates of infant mortality (deaths of infants under 1 year per 1,000 live births), neonatal mortality (deaths of infants aged 0-27 days per 1,000 live births), postneonatal mortality (deaths of infants aged 28 days through 11 months per 1,000 live births), and death rates for the five leading causes of infant death.
 
 - **NCHS - VSRR Quarterly provisional estimates for selected birth indicators**  
-  [Data](https://data.cdc.gov/resource/76vv-a7x8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/76vv-a7x8) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/76vv-a7x8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/76vv-a7x8) | Last update: Recent  
   Provisional estimates of selected reproductive indicators. Estimates are presented for: general fertility rates, age-specific birth rates, total and low risk cesarean delivery rates, preterm birth rates and other gestational age categories.
 
 - **NCHS - VSRR Quarterly provisional estimates for selected indicators of mortality**  
@@ -1574,18 +1575,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Interactive Summary Health Statistics for Adults, by Detailed Race and Ethnicity provide estimates as three-year averages of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **NHIS Adult Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/25m4-6qqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/25m4-6qqq) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/25m4-6qqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/25m4-6qqq) | Last update: Recent  
   Interactive Summary Health Statistics for Adults provide annual estimates of selected health topics for adults aged 18 years and over based on final data from the National Health Interview Survey.
 
 - **NHIS Child Summary Health Statistics**  
-  [Data](https://data.cdc.gov/resource/wxz7-ekz9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wxz7-ekz9) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/wxz7-ekz9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wxz7-ekz9) | Last update: Recent  
   Interactive Summary Health Statistics for Children provide annual estimates of selected health topics for children under age 18 years based on final data from the National Health Interview Survey.
 
 - **NHIS Interactive Biannual Early Release Estimates**  
   [Data](https://data.cdc.gov/resource/trpk-sp8z.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/trpk-sp8z) | Last update: May 2024
 
 - **NHIS Interactive Quarterly Early Release Estimates**  
-  [Data](https://data.cdc.gov/resource/wpti-gvdi.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wpti-gvdi) | Last update: May 2024
+  [Data](https://data.cdc.gov/resource/wpti-gvdi.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wpti-gvdi) | Last update: Recent
 
 - **NHIS Teen**  
   [Data](https://data.cdc.gov/resource/5pqj-rvh4.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5pqj-rvh4) | Last update: Dec 2023  
@@ -1608,10 +1609,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data for additional years during the HP2020 tracking period that are not included in the Overview of Health Disparities are available on the HP2020 website (https://www.healthypeople.gov/2020/).
 
 - **Post-COVID Conditions**  
-  [Data](https://data.cdc.gov/resource/gsea-w83j.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gsea-w83j) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/gsea-w83j.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gsea-w83j) | Last update: Recent
 
 - **Preliminary Estimates of Visits to Health Centers in the United States, January 2022-December 2023**  
-  [Data](https://data.cdc.gov/resource/367e-pucc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/367e-pucc) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/367e-pucc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/367e-pucc) | Last update: Recent  
   The data include preliminary, biannual counts and rates of health center visits from January 2022-December 2023 by medical diagnosis chapters and by maternal health-related diagnoses, stratified by selected patient characteristics. Estimates are split into biannual time periods (January to June, and July to December) and are considered preliminary, meaning they may differ from final estimates.
 
 - **Prevalence of Selected Measures Among Adults Aged 20 and Over: United States, 1999-2000 through 2017-2018**  
@@ -1623,7 +1624,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Effective June 28, 2023, this dataset will no longer be updated. Similar data are accessible from CDC WONDER (https://wonder.cdc.gov/mcd-icd10-provisional.html).
 
 - **Provisional COVID-19 Death Counts by Week Ending Date and State**  
-  [Data](https://data.cdc.gov/resource/r8kw-7aab.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/r8kw-7aab) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/r8kw-7aab.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/r8kw-7aab) | Last update: Recent  
   Deaths involving COVID-19, pneumonia, and influenza reported to NCHS by week ending date and by state
 
 - **Provisional COVID-19 Death Counts in the United States by County**  
@@ -1675,7 +1676,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Effective June 28, 2023, this dataset will no longer be updated. Similar data are accessible from CDC WONDER (https://wonder.cdc.gov/mcd-icd10-provisional.html).
 
 - **Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence**  
-  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/mpx5-t7tu.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/mpx5-t7tu) | Last update: Recent  
   Sub-national death counts between 1-9 are suppressed in accordance with NCHS data confidentiality standards. Rates based on death counts less than 20 are suppressed in accordance with NCHS standards of reliability as specified in NCHS Data Presentation Standards for Proportions (available from: https://www.cdc.gov/nchs/data/series/sr_02/sr02_175.pdf.).
 
 - **Provisional Death Counts for Coronavirus Disease (COVID-19)**  
@@ -1691,15 +1692,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For more information on NCHS urban-rural classification, see: https://www.cdc.gov/nchs/data/series/sr_02/sr02_166.pdf
 
 - **Provisional Percent of Deaths for COVID-19, Influenza, and RSV**  
-  [Data](https://data.cdc.gov/resource/4bc2-bbpq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/4bc2-bbpq) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/4bc2-bbpq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/4bc2-bbpq) | Last update: Recent  
   This file contains the provisional percent of total deaths by week for COVID-19, Influenza, and Respiratory Syncytial Virus for deaths occurring among residents in the United States. Provisional data are based on non-final counts of deaths based on the flow of mortality data in National Vital Statistics System.
 
 - **Provisional Percent of Deaths for COVID-19, Influenza, and RSV by Select Characteristics**  
-  [Data](https://data.cdc.gov/resource/53g5-jf7x.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/53g5-jf7x) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/53g5-jf7x.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/53g5-jf7x) | Last update: Recent  
   This file contains the provisional percent of total deaths by week for COVID-19, Influenza, and Respiratory Syncytial Virus for deaths occurring among residents in the United States, by sex, age group, and race and Hispanic origin. Provisional data are based on non-final counts of deaths based on the flow of mortality data in National Vital Statistics System.
 
 - **Provisional drug overdose death counts for specific drugs**  
-  [Data](https://data.cdc.gov/resource/8hzs-zshh.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8hzs-zshh) | Last update: Jul 2024
+  [Data](https://data.cdc.gov/resource/8hzs-zshh.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8hzs-zshh) | Last update: Recent
 
 - **Reduced Access to Care During COVID-19**  
   [Data](https://data.cdc.gov/resource/th9n-ghnr.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/th9n-ghnr) | Last update: Apr 2023
@@ -1728,11 +1729,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/hmz2-vwda.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hmz2-vwda) | Last update: Jan 2024
 
 - **VSRR Provisional County-Level Drug Overdose Death Counts**  
-  [Data](https://data.cdc.gov/resource/gb4e-yj24.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gb4e-yj24) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/gb4e-yj24.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/gb4e-yj24) | Last update: Recent  
   The provisional data presented on the dashboard below include reported 12 month-ending provisional counts of death due to drug overdose by the decedents county of residence and the month in which death occurred.
 
 - **VSRR Provisional Drug Overdose Death Counts**  
-  [Data](https://data.cdc.gov/resource/xkb8-kh2a.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xkb8-kh2a) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/xkb8-kh2a.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xkb8-kh2a) | Last update: Recent  
   For more information please visit: https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
 
 - **VSRR Provisional Maternal Death Counts and Rates**  
@@ -1791,11 +1792,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Notice: Due to data processing issues at CDC, data for the following jurisdictions may be incomplete for week 7: Alaska, Arizona, California, Connecticut, Delaware, Florida, Hawaii, Louisiana, Maryland, Michigan, Missouri, North Dakota, New Hampshire, New York City, Oregon, Pennsylvania, and Rhode Island.
 
 - **NNDSS - TABLE 1AA. Poliovirus infection, nonparalytic to Psittacosis**  
-  [Data](https://data.cdc.gov/resource/52kh-2h7i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/52kh-2h7i) | Last update: Jan 2021  
+  [Data](https://data.cdc.gov/resource/q9sm-44y3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q9sm-44y3) | Last update: Jan 2020  
   Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data).
 
 - **NNDSS - TABLE 1AA. Poliovirus infection, nonparalytic to Psittacosis**  
-  [Data](https://data.cdc.gov/resource/q9sm-44y3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/q9sm-44y3) | Last update: Jan 2020  
+  [Data](https://data.cdc.gov/resource/52kh-2h7i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/52kh-2h7i) | Last update: Jan 2021  
   Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data).
 
 - **NNDSS - TABLE 1AA. Poliovirus infection, nonparalytic to Psittacosis**  
@@ -2943,7 +2944,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Case counts for reporting year 2014 and 2015 are provisional through the end of the quarter,  January 2, 2016. For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf Data for TB are displayed quarterly.
 
 - **NNDSS Weekly Data**  
-  [Data](https://data.cdc.gov/resource/x9gk-5huc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/x9gk-5huc) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/x9gk-5huc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/x9gk-5huc) | Last update: Recent  
   The list of national notifiable infectious diseases and conditions and their national surveillance case definitions are available at https://ndc.services.cdc.gov/. This list incorporates the Council of State and Territorial Epidemiologists (CSTE) position statements approved by CSTE for national surveillance.
 
 [[TOP]](#toc)
@@ -2960,11 +2961,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## National Center for Health Statistics
 
 - **DQS Cholesterol in adults age 20 and older, by selected characteristics: United States**  
-  [Data](https://data.cdc.gov/resource/k2e8-8t3h.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k2e8-8t3h) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/k2e8-8t3h.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k2e8-8t3h) | Last update: Recent  
   Data on cholesterol in adults age 20 and older in the United States, by selected characteristics. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
 
 - **DQS Community hospital beds, by state: United States.7.23.24**  
-  [Data](https://data.cdc.gov/resource/uiux-mrvg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uiux-mrvg) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/uiux-mrvg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uiux-mrvg) | Last update: Recent  
   Data on community hospital beds in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals, Hospital Statistics.
 
 - **DQS Estimate of Emergency Department Visits in the United States Footnotes**  
@@ -2976,8 +2977,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These data include counts and rates of emergency department visits from 2016-2021 for selected primary diagnoses and reasons for visit, stratified by selected patient and hospital characteristics.
 
 - **DQS Hospital admission, average length of stay, outpatient visits, and outpatient surgery by type of ownership and size of hospital: United States**  
-  [Data](https://data.cdc.gov/resource/rear-2epk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rear-2epk) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/rear-2epk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rear-2epk) | Last update: Recent  
   Data on hospital admission, average length of stay, outpatient visits, and outpatient surgery in the United States, by type of ownership and size of hospital. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals, Hospital Statistics.
+
+- **DQS Hypertension in adults age 20 and older, by selected characteristics: United States.**  
+  [Data](https://data.cdc.gov/resource/c49c-tp7w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/c49c-tp7w) | Last update: Recent  
+  Data on hypertension in adults age 20 and older in the United States, by selected characteristics. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
+
+- **DQS Prescription drug use in the past 30 days by sex race and Hispanic origin and age group: United States**  
+  [Data](https://data.cdc.gov/resource/b666-c5v5.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b666-c5v5) | Last update: Recent  
+  Data on prescription drug use in the past 30 days in the United States, by sex, race and Hispanic origin, and age group. Data are from Health, United States. SOURCE: National Center for Health Statistics, National Health and Nutrition Examination Survey.
 
 [[TOP]](#toc)
 
@@ -2985,7 +2994,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## National Center for Immunization and Respiratory Diseases
 
 - **An aggregated dataset of serially collected influenza A virus morbidity and titer measurements from virus-infected ferrets.**  
-  [Data](https://data.cdc.gov/resource/cr56-k9wj.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/cr56-k9wj) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/cr56-k9wj.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/cr56-k9wj) | Last update: Recent  
   Belser JA, Kieran TJ, Mitchell ZA, Sun X, Mayfield K, Tumpey TM, Spengler JR, Maines TR. 2024. Key considerations to improve the normalization, interpretation and reproducibility of morbidity data in mammalian models of viral disease. Dis Model Mech; 17 (3): dmm050511. doi: https://doi.org/10.1242/dmm.050511
 
 [[TOP]](#toc)
@@ -3193,19 +3202,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## Public Health Surveillance
 
 - **1998-2022 Serotype Data for Invasive Pneumococcal Disease Cases by Age Group from Active Bacterial Core surveillance**  
-  [Data](https://data.cdc.gov/resource/qvzb-qs6p.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/qvzb-qs6p) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/qvzb-qs6p.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/qvzb-qs6p) | Last update: Recent  
   This table reports IPD case counts in the ABCs catchment area by serotype for years 1998 through 2022. Cases are grouped into the following mutually exclusive age groups: age https://www.cdc.gov/abcs/methodology/index.html.
 
 - **2023 Respiratory Virus Response - NSSP Emergency Department Visit Trajectories by State and Sub State Regions- COVID-19, Flu, RSV, Combined**  
-  [Data](https://data.cdc.gov/resource/rdmq-nq56.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rdmq-nq56) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/rdmq-nq56.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rdmq-nq56) | Last update: Recent  
   Note that the reported sub-state trends are from Health Service Areas (HSA) and the data reported from the health care facilities located within the given HSA. Health Service Areas are regions of one or more counties that align to patterns of care seeking. The HSA level data are reported for each county in the HSA.
 
 - **2023 Respiratory Virus Response - NSSP Emergency Department Visit Trajectories by State- COVID-19, Flu, RSV, Combined**  
-  [Data](https://data.cdc.gov/resource/7mra-9cq9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/7mra-9cq9) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/7mra-9cq9.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/7mra-9cq9) | Last update: Recent  
   For the emergency department time series, trajectory classifications reported on the opening page are based on rolling regression model assessments of the slope for each respiratory illness. Weeks with a significant time term (p 
 
 - **2023 Respiratory Virus Response - NSSP Emergency Department Visits - COVID-19, Flu, RSV, Combined**  
-  [Data](https://data.cdc.gov/resource/vutn-jzwm.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vutn-jzwm) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/vutn-jzwm.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vutn-jzwm) | Last update: Recent  
   For additional information, please see:  Companion Guide: NSSP Emergency Department Data on Respiratory Illness
 
 - **Active Bacterial Core surveillance (ABCs) Group A Streptococcus**  
@@ -3237,7 +3246,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Unplanned public K-12 school district and individual school closures due to COVID-19 in the United States from August 1, 2020June 30, 2022.
 
 - **Clinical Characteristics of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System**  
-  [Data](https://data.cdc.gov/resource/bigw-pgk2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/bigw-pgk2) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/bigw-pgk2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/bigw-pgk2) | Last update: Recent  
   The Coronavirus Disease 2019 (COVID-19) Hospitalization Surveillance Network (COVID-NET) is designed to conduct population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations among children and adults.
 
 - **HAICViz - CDI**  
@@ -3258,39 +3267,39 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Unplanned public K-12 school district and individual school closures due to influenza and influenza-like illness in the United States from August 1, 2011June 30, 2022.
 
 - **Monthly COVID-19 Death Rates per 100,000 Population by Age Group, Race and Ethnicity, Sex, and Region**  
-  [Data](https://data.cdc.gov/resource/89qs-mr7i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/89qs-mr7i) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/89qs-mr7i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/89qs-mr7i) | Last update: Recent  
   Monthly COVID-19 death rates per 100,000 population stratified by age group, race/ethnicity, sex, and region
 
 - **Monthly COVID-19 Death Rates per 100,000 Population by Age Group, Race and Ethnicity, Sex, and Region with Double Stratification**  
-  [Data](https://data.cdc.gov/resource/exs3-hbne.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/exs3-hbne) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/exs3-hbne.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/exs3-hbne) | Last update: Recent  
   Monthly COVID-19 death rates per 100,000 population stratified by age group, race/ethnicity, sex, and region, with race/ethnicity by age group and age group by race/ethnicity double stratification
 
 - **Monthly Rates of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System**  
-  [Data](https://data.cdc.gov/resource/cf5u-bm9w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/cf5u-bm9w) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/cf5u-bm9w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/cf5u-bm9w) | Last update: Recent  
   The Coronavirus Disease 2019 (COVID-19) Hospitalization Surveillance Network (COVID-NET) is designed to conduct population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations among children and adults.
 
 - **Monthly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System**  
-  [Data](https://data.cdc.gov/resource/pbq2-7wr2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pbq2-7wr2) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/pbq2-7wr2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/pbq2-7wr2) | Last update: Recent  
   The Respiratory Syncytial Virus Hospitalization Surveillance Network (RSV-NET) is a network that conducts active, population-based surveillance for laboratory-confirmed RSV-associated hospitalizations in children younger than 18 years of age and adults. The network currently includes 58 counties in 12 states, and data are collected and reported during the October 1-April 30 season each year.
 
 - **NWSS Public SARS-CoV-2 Concentration in Wastewater Data**  
-  [Data](https://data.cdc.gov/resource/g653-rqe2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/g653-rqe2) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/g653-rqe2.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/g653-rqe2) | Last update: Recent  
   This dataset provides a complete time history of SARS-CoV-2 concentrations in wastewater for each sampling location.
 
 - **NWSS Public SARS-CoV-2 Wastewater Metric Data**  
-  [Data](https://data.cdc.gov/resource/2ew6-ywp6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2ew6-ywp6) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/2ew6-ywp6.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/2ew6-ywp6) | Last update: Recent  
   This dataset provides a complete time history of metrics calculated using SARS-CoV-2 concentrations in wastewater.
 
 - **Outpatient Respiratory Illness Activity Map**  
-  [Data](https://data.cdc.gov/resource/6svj-q4zv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6svj-q4zv) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/6svj-q4zv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6svj-q4zv) | Last update: Recent  
   More information is available on FluView Interactive.
 
 - **Pathogen Detections Among Enrolled Children in the New Vaccine Surveillance Network (NVSN), Acute Respiratory Illnesses (ARI), 12 Month Rolling Period**  
-  [Data](https://data.cdc.gov/resource/r229-z6ma.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/r229-z6ma) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/r229-z6ma.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/r229-z6ma) | Last update: Recent  
   Percent positivity of 9 viral pathogens, and enrollment counts of children with ARI by week for the past 12 months (rolling x-axis).
 
 - **Percent Positivity of Viral Detections Among Enrolled Children in the New Vaccine Surveillance Network (NVSN), Acute Respiratory Illnesses (ARI), 2017–Present**  
-  [Data](https://data.cdc.gov/resource/kipu-qxy8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kipu-qxy8) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/kipu-qxy8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kipu-qxy8) | Last update: Recent  
   Percent positivity of 9 viral pathogens, by season and age group, 2017Present.
 
 - **Prolonged Unplanned School Closures: USA, 2011-2019**  
@@ -3314,15 +3323,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These data were posted on October 21, 2022, archived on November 18, 2022, and revised on February 22, 2023. These data reflect cases among persons with a positive specimen collection date through September 24, 2022, and deaths among persons with a positive specimen collection date through September 3, 2022.
 
 - **Rates of Laboratory-Confirmed RSV, COVID-19, and Flu Hospitalizations from the RESP-NET Surveillance Systems**  
-  [Data](https://data.cdc.gov/resource/kvib-3txy.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kvib-3txy) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/kvib-3txy.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kvib-3txy) | Last update: Recent  
   Data are preliminary and subject to change as more data become available. Data will be updated weekly.
 
 - **Total COVID-19 Deaths since January 1, 2020 by Age Group, Race/Ethnicity, and Sex**  
-  [Data](https://data.cdc.gov/resource/kmxt-xb3i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kmxt-xb3i) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/kmxt-xb3i.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kmxt-xb3i) | Last update: Recent  
   Count and percent of total COVID-19 deaths since January 1, 2020, by age group, race/ethnicity, and sex
 
 - **United States COVID-19 Community Levels by County**  
-  [Data](https://data.cdc.gov/resource/3nnm-4jni.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3nnm-4jni) | Last update: Jun 2024  
+  [Data](https://data.cdc.gov/resource/3nnm-4jni.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3nnm-4jni) | Last update: Recent  
   For the most accurate and up-to-date data for any county or state, visit the relevant health department website. COVID Data Tracker may display data that differ from state and local websites. This can be due to differences in how data were collected, how metrics were calculated, or the timing of web updates.
 
 - **Weekly COVID-19 cases among persons ≥5 years old among unvaccinated and vaccinated with a BNT162b2 (Pfizer-BioNTech) primary series by age group — 22 U.S. jurisdictions, January 16 to May 28, 2022**  
@@ -3334,18 +3343,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Coronavirus Disease 2019 (COVID-19) Hospitalization Surveillance Network (COVID-NET) is designed to conduct population-based surveillance for laboratory-confirmed COVID-19-associated hospitalizations among children and adults.
 
 - **Weekly Rates of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System**  
-  [Data](https://data.cdc.gov/resource/6jg4-xsqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6jg4-xsqq) | Last update: Aug 2024
+  [Data](https://data.cdc.gov/resource/6jg4-xsqq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6jg4-xsqq) | Last update: Recent
 
 - **Weekly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System**  
-  [Data](https://data.cdc.gov/resource/29hc-w46k.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/29hc-w46k) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/29hc-w46k.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/29hc-w46k) | Last update: Recent  
   The Respiratory Syncytial Virus Hospitalization Surveillance Network (RSV-NET) is a network that conducts active, population-based surveillance for laboratory-confirmed RSV-associated hospitalizations in children younger than 18 years of age and adults. The network currently includes 58 counties in 12 states, and data are collected and reported during the October 1-April 30 season each year.
 
 - **Weekly United States Hospitalization Metrics by Jurisdiction, During Mandatory Reporting Period from August 1, 2020 to April 30, 2024, and for Data Reported Voluntarily Beginning May 1, 2024, National Healthcare Safety Network (NHSN)**  
-  [Data](https://data.cdc.gov/resource/aemt-mg7g.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/aemt-mg7g) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/aemt-mg7g.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/aemt-mg7g) | Last update: Recent  
   May 31, 2024:  Data for Commonwealth of the Northern Mariana Islands (CNMI), Virgin Islands (VI), Massachusetts (MA), and Minnesota (MN) for the May 19, 2024 through May 25, 2024 reporting period are not available for the Weekly NHSN Hospitalization Metrics report released on May 31, 2024.
 
 - **Weekly United States Hospitalization Metrics by Jurisdiction, During Mandatory Reporting Period from August 1, 2020 to April 30, 2024, and for Data Reported Voluntarily Beginning May 1, 2024, National Healthcare Safety Network (NHSN) (Historical)**  
-  [Data](https://data.cdc.gov/resource/ype6-idgy.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ype6-idgy) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/ype6-idgy.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ype6-idgy) | Last update: Recent  
   May 31, 2024:  Data for Commonwealth of the Northern Mariana Islands (CNMI), Virgin Islands (VI), Massachusetts (MA), and Minnesota (MN) for the May 19, 2024 through May 25, 2024 reporting period are not available for the Weekly NHSN Hospitalization Metrics report released on May 31, 2024.
 
 [[TOP]](#toc)
@@ -3407,7 +3416,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/tbfm-vbpp.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tbfm-vbpp) | Last update: Aug 2023
 
 - **State Tobacco Related Disparities Dashboard Data**  
-  [Data](https://data.cdc.gov/resource/jxu8-x79m.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jxu8-x79m) | Last update: Apr 2024
+  [Data](https://data.cdc.gov/resource/jxu8-x79m.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jxu8-x79m) | Last update: Recent
 
 - **Tobacco Use Supplement to the Current Population Survey (TUS-CPS) Data**  
   [Data](https://data.cdc.gov/resource/4y6p-yphk.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/4y6p-yphk) | Last update: Aug 2023  
@@ -3541,23 +3550,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/u4vw-xsmf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/u4vw-xsmf) | Last update: Sep 2023
 
 - **Monthly Cumulative Number and Percent of Adults 60 Years and Older Who Received at least one RSV Vaccination Doses by Jurisdiction, United States**  
-  [Data](https://data.cdc.gov/resource/scrf-8d7w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/scrf-8d7w) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/scrf-8d7w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/scrf-8d7w) | Last update: Recent  
   Starting in July 2023, the CDC recommended the RSV vaccine to protect against serious illness from RSV. (https://www.cdc.gov/respiratory-viruses/whats-new/rsv-update-2023-09-22.html)
 
 - **Monthly Cumulative Number and Percent of Children <20 Months Who Received Nirsevimab by Age Group and Jurisdiction, United States**  
-  [Data](https://data.cdc.gov/resource/ku7p-zn4c.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ku7p-zn4c) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/ku7p-zn4c.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/ku7p-zn4c) | Last update: Recent  
   Starting in July 2023, the CDC recommended the RSV vaccine to protect against serious illness from RSV. (https://www.cdc.gov/respiratory-viruses/whats-new/rsv-update-2023-09-22.html)
 
 - **Monthly Cumulative Number and Percent of Persons Who Received 1+ updated 2023-24 COVID-19 Vaccination Doses by Age Group and Jurisdiction, United States**  
-  [Data](https://data.cdc.gov/resource/vugp-mqip.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vugp-mqip) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/vugp-mqip.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/vugp-mqip) | Last update: Recent  
   Starting in September 2023, the CDC recommended the 2023-2024 updated COVID-19 vaccine to protect against serious illness from COVID-19. (https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
 
 - **Monthly Cumulative Number and Percent of Persons Who Received 1+ updated 2023-24 COVID-19 Vaccination Doses by Age Group and Jurisdiction, United States**  
-  [Data](https://data.cdc.gov/resource/wtw5-4wi3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wtw5-4wi3) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/wtw5-4wi3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/wtw5-4wi3) | Last update: Recent  
   Starting in September 2023, the CDC recommended the 2023-2024 updated COVID-19 vaccine to protect against serious illness from COVID-19. (https://www.cdc.gov/coronavirus/2019-ncov/vaccines/stay-up-to-date.html)
 
 - **National Immunization Survey Adult COVID Module (NIS-ACM): COVIDVaxViews| Data | Centers for Disease Control and Prevention (cdc.gov)**  
-  [Data](https://data.cdc.gov/resource/uc4z-hbsd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uc4z-hbsd) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/uc4z-hbsd.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/uc4z-hbsd) | Last update: Recent  
   The archived data can be found here:
 
 - **National Immunization Survey Adult COVID Module (NIS-ACM): Trends in Behavioral Indicators Among Unvaccinated People**  
@@ -3593,7 +3602,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Due to the change in the survey instrument regarding intention to vaccinate, our estimates for hesitant or unsure or hesitant derived from April 14-26, 2021, are not directly comparable with prior Household Pulse Survey data and should not be used to examine trends in hesitancy.
 
 - **Vaccines.gov: COVID-19 vaccinating provider locations**  
-  [Data](https://data.cdc.gov/resource/5jp2-pgaw.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5jp2-pgaw) | Last update: Aug 2024  
+  [Data](https://data.cdc.gov/resource/5jp2-pgaw.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5jp2-pgaw) | Last update: Recent  
   Because inventory reporting is no longer required, Vaccines.gov information will not be updated on this site after July 2024. Please direct any questions to VaccineFinder@cdc.gov.
 
 - **Weekly Cumulative Doses (in Millions) of Influenza Vaccine Distributed by Flu Season in the United States**  
@@ -3652,7 +3661,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Weekly Intent for Vaccination and Cumulative Percentage of Adults 60 Years and Older Vaccinated with RSV Vaccine.
 
 - **Weekly Respiratory Virus Vaccination Data, Children 6 Months-17 Years and Adults 18 Years and Older, National Immunization Survey**  
-  [Data](https://data.cdc.gov/resource/5c6r-xi2t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5c6r-xi2t) | Last update: Aug 2024
+  [Data](https://data.cdc.gov/resource/5c6r-xi2t.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/5c6r-xi2t) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -3706,7 +3715,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/
 
 - **Top syndicated pages from CDC.gov by weekly page views**  
-  [Data](https://data.cdc.gov/resource/rppv-wbiv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rppv-wbiv) | Last update: Jul 2024  
+  [Data](https://data.cdc.gov/resource/rppv-wbiv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/rppv-wbiv) | Last update: Recent  
   The CDC Content Syndication site at https://tools.cdc.gov/syndication/ allows you to import content from CDC websites directly into your own website or application. These services are provided free of charge from CDC. The data shown in this table represent the weekly top page views from CDC.gov offered by syndication.
 
 [[TOP]](#toc)

@@ -95,7 +95,8 @@
 </details></br>
 
 > **NOTE**  
-> (%) denotes strategic dataset
+> * (%) denotes strategic dataset
+> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=crime
 
@@ -155,15 +156,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## citydata.mesaaz.gov
 
 - **City of Mesa Population**  
-  [Data](https://citydata.mesaaz.gov/resource/89tz-2g4j.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/89tz-2g4j) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/89tz-2g4j.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/89tz-2g4j) | Last update: Recent  
   City of Mesa population provided by Census Bureau Population Estimates Program (PEP) updated annually as of July 1. See Population and Housing Unit Estimates. Census PEP estimates are used for state revenue sharing per AZ statute (42-5033.01).
 
 - **Crime Reporting Statistics**  
-  [Data](https://citydata.mesaaz.gov/resource/37q9-d27y.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/37q9-d27y) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/37q9-d27y.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/37q9-d27y) | Last update: Recent  
   Coming soon, look for a new dataset based on NIBRS, which will provide more complete and comprehensive data for law enforcement, researchers, and the public.
 
 - **Homeless Outreach Project (HOP) - Police**  
-  [Data](https://citydata.mesaaz.gov/resource/w8ps-9kpk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/w8ps-9kpk) | Last update: Aug 2024  
+  [Data](https://citydata.mesaaz.gov/resource/w8ps-9kpk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/w8ps-9kpk) | Last update: Recent  
   Service Acceptance = No crime or criminal activity is occurring. Individual is contacted and is offered shelter, medical, or mental health services and accepts placement into one of these services. Individual is transported to CBI by officer, Navigators are called and transport individual for shelter, or fire transports subject to an appropriate facility.
 
 - **Police Dispatch Events 2017-2020**  
@@ -171,7 +172,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Sensitive crimes are listed but the address of their occurrence will NOT be included. In this way aggregate totals of crimes will be accurate, without providing sensitive information. Addresses where the following crime types occur will NOT be captured: Sexual abuse, Sexual assault, Suicide, Incest, Molestation of a child and Homicide.
 
 - **Police Incidents**  
-  [Data](https://citydata.mesaaz.gov/resource/39rt-2rfj.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/39rt-2rfj) | Last update: Jul 2024  
+  [Data](https://citydata.mesaaz.gov/resource/39rt-2rfj.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/39rt-2rfj) | Last update: Recent  
   Some of the data fields provided are used to report to the Federal Bureau of Investigation. For a listing of data fields and description please see their UCR Program Data Collections page. Alternatively, please see the Bureau of Justice Statistics NIBRS website for a listing of data fields.
 
 [[TOP]](#toc)
@@ -236,11 +237,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.bloomington.in.gov
 
 - **Hate Crimes**  
-  [Data](https://data.bloomington.in.gov/resource/vzyb-ttns.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/vzyb-ttns) | Last update: Aug 2024  
+  [Data](https://data.bloomington.in.gov/resource/vzyb-ttns.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/vzyb-ttns) | Last update: Recent  
   Information from Bloomington Police Department cases where a hate or bias crime has been reported.
 
 - **Officers Assaulted**  
-  [Data](https://data.bloomington.in.gov/resource/ewe6-uknm.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/ewe6-uknm) | Last update: Aug 2024  
+  [Data](https://data.bloomington.in.gov/resource/ewe6-uknm.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/ewe6-uknm) | Last update: Recent  
   Information found in this report follow the Uniformed Crime Reporting guidelines established by the FBI for LEOKA.
 
 [[TOP]](#toc)
@@ -249,7 +250,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.brla.gov
 
 - **Baton Rouge Police Crime Incidents**  
-  [Data](https://data.brla.gov/resource/pbin-pcm7.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/pbin-pcm7) | Last update: Aug 2024  
+  [Data](https://data.brla.gov/resource/pbin-pcm7.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/pbin-pcm7) | Last update: Recent  
   Crime incident reports beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society that occurred within the City of Baton Rouge and responded to by the Baton Rouge Police Department.
 
 - **Crime Prevention District**  
@@ -257,11 +258,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying crime prevention districts in East Baton Rouge Parish, Louisiana.
 
 - **EBR Sheriff's Office Crime Incidents**  
-  [Data](https://data.brla.gov/resource/7y8j-nrht.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7y8j-nrht) | Last update: Aug 2024  
+  [Data](https://data.brla.gov/resource/7y8j-nrht.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7y8j-nrht) | Last update: Recent  
   Crime incident reports beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society that occurred within the Parish of East Baton Rouge and responded to by the East Baton Rouge Parish Sheriff's Office.
 
 - **East Baton Rouge Parish Combined Crime Incidents**  
-  [Data](https://data.brla.gov/resource/6zc2-imdr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/6zc2-imdr) | Last update: Aug 2024  
+  [Data](https://data.brla.gov/resource/6zc2-imdr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/6zc2-imdr) | Last update: Recent  
   Combination of crime incident reports from the East Baton Rouge Parish Sheriff's Office and the Baton Rouge Police Department, beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society.
 
 - **Legacy Baton Rouge Police Crime Incidents**  
@@ -269,7 +270,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Crimes reported in Baton Rouge and handled by the Baton Rouge Police Department. Crimes include Burglaries (Vehicle, Residential and Non-residential), Robberies (Individual and Business), Theft, Narcotics, Vice Crimes, Assault, Nuisance, Battery, Firearm, Homicides, Criminal Damage to Property, Sexual Assaults and Juvenile.
 
 - **Lot**  
-  [Data](https://data.brla.gov/resource/9ygd-j4f4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ygd-j4f4) | Last update: Jul 2024  
+  [Data](https://data.brla.gov/resource/9ygd-j4f4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ygd-j4f4) | Last update: Recent  
   Polygon geometry with attributes displaying the recorded boundaries or lot lines of property in East Baton Rouge Parish, Louisiana.Metadata
 
 [[TOP]](#toc)
@@ -288,27 +289,27 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset consists of numbers for casualty collision, pedestrian collisions, person crimes, property crimes and total disorder. The numbers are represented for full year for 2014 and 2015 and for each quarter from 2016 onwards
 
 - **Community Crime Statistics**  
-  [Data](https://data.calgary.ca/resource/78gh-n26t.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/78gh-n26t) | Last update: Aug 2024  
+  [Data](https://data.calgary.ca/resource/78gh-n26t.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/78gh-n26t) | Last update: Recent  
   Data is provided monthly by the Calgary Police Service. This data is considered cumulative as late-reported incidents are often received well after an offence has occurred. Therefore, crime counts are subject to change as they are updated.
 
 - **Community Disorder Statistics**  
-  [Data](https://data.calgary.ca/resource/h3h6-kgme.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/h3h6-kgme) | Last update: Aug 2024  
+  [Data](https://data.calgary.ca/resource/h3h6-kgme.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/h3h6-kgme) | Last update: Recent  
   Data source: Computer Aided Dispatch (CAD) run on the 4th of the month (or the closest business day) for the previous month. This data is considered to be static. Property Damage occurrences reported using the online reporting system are included from the CPS records management system (SENTRY). This data is considered to be cumulative.
 
 - **Police Districts**  
-  [Data](https://data.calgary.ca/resource/86mc-9jh2.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/86mc-9jh2) | Last update: Aug 2024  
+  [Data](https://data.calgary.ca/resource/86mc-9jh2.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/86mc-9jh2) | Last update: Recent  
   Each District has a district office. These districts can be used to calculate information submitted by investigators on criminal activity. The crime statistics can be used to develop crime prevention strategies.
 
 - **Police Service**  
-  [Data](https://data.calgary.ca/resource/ap4r-bav3.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/ap4r-bav3) | Last update: Aug 2024  
+  [Data](https://data.calgary.ca/resource/ap4r-bav3.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/ap4r-bav3) | Last update: Recent  
   Location of Calgary Police Service headquarters, district offices, and community stations.
 
 - **Police Zones**  
-  [Data](https://data.calgary.ca/resource/f6ia-q8cs.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/f6ia-q8cs) | Last update: Aug 2024  
+  [Data](https://data.calgary.ca/resource/f6ia-q8cs.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/f6ia-q8cs) | Last update: Recent  
   Zones are smaller sub areas located within Police Districts. Zones are then broken down into geocode areas. Zones may be used for crime analysis.
 
 - **Social Disorder Statistics**  
-  [Data](https://data.calgary.ca/resource/4evm-wx9a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/4evm-wx9a) | Last update: Aug 2024  
+  [Data](https://data.calgary.ca/resource/4evm-wx9a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/4evm-wx9a) | Last update: Recent  
   Social disorder data is provided monthly by Corporate Security and covers physical security operations within nine-block radius of City Hall and the Municipal Complex. Data reflects incidents and activity reported by City of Calgary security staff. Any resulting criminal or bylaw charges are not tracked within this dataset. Data sets posted may change over time.
 
 [[TOP]](#toc)
@@ -317,14 +318,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cambridgema.gov
 
 - **Computer Aided Dispatch Entries**  
-  [Data](https://data.cambridgema.gov/resource/ppai-cur6.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/ppai-cur6) | Last update: Jul 2024
+  [Data](https://data.cambridgema.gov/resource/ppai-cur6.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/ppai-cur6) | Last update: Recent
 
 - **Computer Aided Dispatch Entries 2015- DEPRECATED**  
   [Data](https://data.cambridgema.gov/resource/akku-y4tf.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/akku-y4tf) | Last update: Jul 2023  
   This dataset has been deprecated. Cambridge now maintains a single Computer Aided Dispatch open dataset that includes data from multiple years, including 2015.
 
 - **Crime Reports**  
-  [Data](https://data.cambridgema.gov/resource/xuad-73uj.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/xuad-73uj) | Last update: Jul 2024  
+  [Data](https://data.cambridgema.gov/resource/xuad-73uj.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/xuad-73uj) | Last update: Recent  
   List of crime incidents featured in the Cambridge Police Departments Annual Crime Reports and reported in the City of Cambridge since 2009. Includes more than 40 crime types. Certain crime types are excluded due to confidentiality and/or protection of privacy.
 
 [[TOP]](#toc)
@@ -365,15 +366,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/5ygy-4y6j
 
 - **PDI (Police Data Initiative) Assaults on Officers**  
-  [Data](https://data.cincinnati-oh.gov/resource/bmmy-avxm.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/bmmy-avxm) | Last update: Aug 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/bmmy-avxm.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/bmmy-avxm) | Last update: Recent  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/mrju-z9ui
 
 - **PDI (Police Data Initiative) Crime Incidents**  
-  [Data](https://data.cincinnati-oh.gov/resource/k59e-2pvf.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/k59e-2pvf) | Last update: Aug 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/k59e-2pvf.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/k59e-2pvf) | Last update: Recent  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/8eaa-xrvz
 
 - **PDI (Police Data Initiative) Police Calls for Service (CAD)**  
-  [Data](https://data.cincinnati-oh.gov/resource/gexm-h6bt.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gexm-h6bt) | Last update: Aug 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/gexm-h6bt.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gexm-h6bt) | Last update: Recent  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/xw7t-5phj
 
 [[TOP]](#toc)
@@ -395,7 +396,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cityofchicago.org
 
 - **Arrests**  
-  [Data](https://data.cityofchicago.org/resource/dpt3-jri9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/dpt3-jri9) | Last update: Aug 2024  
+  [Data](https://data.cityofchicago.org/resource/dpt3-jri9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/dpt3-jri9) | Last update: Recent  
   Each record has an additional set of columns where a charge characteristic (statute, description, type, or class) for all four charges, or fewer if there were not four charges, is concatenated with the | character. These columns can be used with the Filter function's "Contains" operator to find all records where a value appears, without having to search four separate columns.
 
 - **Chicago Police Department - Illinois Uniform Crime Reporting (IUCR) Codes**  
@@ -403,10 +404,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Index offenses are the offenses that are collected nation-wide by the Federal Bureaus of Investigations Uniform Crime Reports program to document crime trends over time (data released semi-annually), and include murder, criminal sexual assault, robbery, aggravated assault & battery, burglary, theft, motor vehicle theft, and arson.
 
 - **Crimes - 2001 to Present**  
-  [Data](https://data.cityofchicago.org/resource/ijzp-q8t2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/ijzp-q8t2) | Last update: Aug 2024
+  [Data](https://data.cityofchicago.org/resource/ijzp-q8t2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/ijzp-q8t2) | Last update: Recent
 
 - **Crimes - One year prior to present**  
-  [Data](https://data.cityofchicago.org/resource/x2n5-8w5q.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/x2n5-8w5q) | Last update: Aug 2024  
+  [Data](https://data.cityofchicago.org/resource/x2n5-8w5q.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/x2n5-8w5q) | Last update: Recent  
   The unauthorized use of the words "Chicago Police Department," "Chicago Police," or any colorable imitation of these words or the unauthorized use of the Chicago Police Department logo is unlawful. This web page does not, in any way, authorize such use.
 
 - **Police Sentiment Scores**  
@@ -414,7 +415,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset was used by Chicago Police Department analysts to create the publicly available Chicago Police Sentiment Dashboard (https://home.chicagopolice.org/statistics-data/data-dashboards/sentiment-dashboard/). This online dashboard displays information related to how safe Chicago residents feel and how much trust they have in the police.
 
 - **Sex Offenders**  
-  [Data](https://data.cityofchicago.org/resource/vc9r-bqvy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/vc9r-bqvy) | Last update: Aug 2024  
+  [Data](https://data.cityofchicago.org/resource/vc9r-bqvy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/vc9r-bqvy) | Last update: Recent  
   Anyone who uses information contained in the Sex Offender Database to commit a criminal act against another person is subject to criminal prosecution.
 
 - **Strategic Subject List - Historical**  
@@ -422,11 +423,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Please note that this data set includes fields that are not used to calculate SSL, for example, neither race nor sex are used in the Strategic Subject Algorithm. Portions of the arrest data are de-identified on the basis of privacy concerns. The attributes used in the Strategic Subject Algorithm were revised on an ongoing basis during the lifetime of the program.
 
 - **Violence Reduction - Shotspotter Alerts**  
-  [Data](https://data.cityofchicago.org/resource/3h7q-7mdb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/3h7q-7mdb) | Last update: Aug 2024  
+  [Data](https://data.cityofchicago.org/resource/3h7q-7mdb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/3h7q-7mdb) | Last update: Recent  
   ShotSpotter does not exist in every CPD district, and it was not rolled out in every district at the same time. ShotSpotter was first deployed in Chicago in 2017, and sensors exist in the following districts as of the May 2021 launch of this dataset: 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 015, and 025.
 
 - **Violence Reduction - Victims of Homicides and Non-Fatal Shootings**  
-  [Data](https://data.cityofchicago.org/resource/gumc-mgzr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/gumc-mgzr) | Last update: Aug 2024  
+  [Data](https://data.cityofchicago.org/resource/gumc-mgzr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/gumc-mgzr) | Last update: Recent  
   For a criminal homicide, the only sensible IUCR codes are 0110 (first-degree murder) or 0130 (second-degree murder). For a non-fatal shooting, a sensible IUCR code must signify a criminal sexual assault, a robbery, or, most commonly, an aggravated battery. In rare instances, the IUCR code in CPD's Crimes and Victims dataset do not align with the homicide/non-fatal shooting categorization:
 
 [[TOP]](#toc)
@@ -435,7 +436,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.cityofgainesville.org
 
 - **Arrests**  
-  [Data](https://data.cityofgainesville.org/resource/aum6-79zv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofgainesville.org/aum6-79zv) | Last update: Jul 2024  
+  [Data](https://data.cityofgainesville.org/resource/aum6-79zv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofgainesville.org/aum6-79zv) | Last update: Recent  
   Crime Responses is provided by the Gainesville Police Department (GPD) to document initial details surrounding an incident to which GPD officers respond. This dataset contains crime incidents from 2011 to present and includes a reduced set of fields focused on capturing the type of incident as well when and where an incident occurred.
 
 - **City of Gainesville 2020 Neighbor Survey - Raw Data**  
@@ -447,11 +448,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Responses of "9" for questions on a 1-5 scale indicate a non-response or a response of "Don't know".
 
 - **Crime Responses**  
-  [Data](https://data.cityofgainesville.org/resource/gvua-xt9q.json) | [Docs](https://dev.socrata.com/foundry/data.cityofgainesville.org/gvua-xt9q) | Last update: Jul 2024  
+  [Data](https://data.cityofgainesville.org/resource/gvua-xt9q.json) | [Docs](https://dev.socrata.com/foundry/data.cityofgainesville.org/gvua-xt9q) | Last update: Recent  
   Crime Responses is provided by the Gainesville Police Department (GPD) to document initial details surrounding an incident to which GPD officers respond. This dataset contains crime incidents from 2011 to present and includes a reduced set of fields focused on capturing the type of incident as well when and where an incident occurred.
 
 - **Traffic Crashes**  
-  [Data](https://data.cityofgainesville.org/resource/iecn-3sxx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofgainesville.org/iecn-3sxx) | Last update: Jul 2024  
+  [Data](https://data.cityofgainesville.org/resource/iecn-3sxx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofgainesville.org/iecn-3sxx) | Last update: Recent  
   In 2021, Florida reporting of crime data began a transition from Summary Reporting System (SRS) to National Incident-Based Reporting System (NIBRS), causing an effect on crime statistics reported by Law Enforcement Agencies such as the Gainesville Police Department who made this transition on November 16, 2021.
 
 [[TOP]](#toc)
@@ -463,7 +464,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/qybk-bjjc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qybk-bjjc) | Last update: May 2022
 
 - **2015 - 16 School Safety Report**  
-  [Data](https://data.cityofnewyork.us/resource/44t3-dj6x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/44t3-dj6x) | Last update: Jul 2024
+  [Data](https://data.cityofnewyork.us/resource/44t3-dj6x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/44t3-dj6x) | Last update: Recent
 
 - **2016 - 2017 School Safety Report**  
   [Data](https://data.cityofnewyork.us/resource/rear-wh5i.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rear-wh5i) | Last update: May 2022
@@ -487,19 +488,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set contains count data on intimate partner elder abuse incidents, crimes and services provided to elder abuse survivors at the New York City Family Justice Center (FJC).
 
 - **Motor Vehicle Collisions - Crashes**  
-  [Data](https://data.cityofnewyork.us/resource/h9gi-nx95.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/h9gi-nx95.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95) | Last update: Recent  
   It should be noted that the data is preliminary and subject to change when the MV-104AN forms are amended based on revised crash details.For the most accurate, up to date statistics on traffic fatalities, please refer to the NYPD Motor Vehicle Collisions page (updated weekly) or Vision Zero View (updated monthly).
 
 - **Motor Vehicle Collisions - Person**  
-  [Data](https://data.cityofnewyork.us/resource/f55k-p6yu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f55k-p6yu) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/f55k-p6yu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f55k-p6yu) | Last update: Recent  
   The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage (https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ny_overlay_mv-104an_rev05_2004.pdf).
 
 - **Motor Vehicle Collisions - Vehicles**  
-  [Data](https://data.cityofnewyork.us/resource/bm4k-52h4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bm4k-52h4) | Last update: Aug 2024  
+  [Data](https://data.cityofnewyork.us/resource/bm4k-52h4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bm4k-52h4) | Last update: Recent  
   The Motor Vehicle Collisions data tables contain information from all police reported motor vehicle collisions in NYC. The police report (MV104-AN) is required to be filled out for collisions where someone is injured or killed, or where there is at least $1000 worth of damage (https://www.nhtsa.gov/sites/nhtsa.dot.gov/files/documents/ny_overlay_mv-104an_rev05_2004.pdf).
 
 - **NYPD Arrest Data (Year to Date)**  
-  [Data](https://data.cityofnewyork.us/resource/uip8-fykc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uip8-fykc) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/uip8-fykc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uip8-fykc) | Last update: Recent  
   Each record represents an arrest effected in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement.
 
 - **NYPD Arrests Data (Historic)**  
@@ -507,11 +508,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Please refer to the attached data footnotes for additional information about this dataset.
 
 - **NYPD Calls for Service (Year to Date)**  
-  [Data](https://data.cityofnewyork.us/resource/n2zq-pubd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/n2zq-pubd) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/n2zq-pubd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/n2zq-pubd) | Last update: Recent  
   The data includes entries generated by members of the public as well as self-initiated entries by NYPD Members of Service. The data can be used for issues being responded to by the NYPD.
 
 - **NYPD Complaint Data Current (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/5uac-w243.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5uac-w243) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/5uac-w243.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5uac-w243) | Last update: Recent  
   This dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department (NYPD) for all complete quarters so far this year (2019). For additional details, please see the attached data dictionary in the About section.
 
 - **NYPD Complaint Data Historic**  
@@ -523,11 +524,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data is manually extracted every quarter and reviewed by the Office of Management Analysis and Planning before being posted on the NYPD website. Each record represents a criminal summons issued in NYC by the NYPD and includes information about the type of crime, the location and time of enforcement. In addition, information related to suspect demographics is also included.
 
 - **NYPD Criminal Court Summons Incident Level Data (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/mv4k-y93f.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mv4k-y93f) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/mv4k-y93f.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mv4k-y93f) | Last update: Recent  
   List of every criminal summons issued in NYC during the current calendar year.
 
 - **NYPD Hate Crimes**  
-  [Data](https://data.cityofnewyork.us/resource/bqiq-cu78.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bqiq-cu78) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/bqiq-cu78.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bqiq-cu78) | Last update: Recent  
   Dataset containing confirmed hate crime incidents in NYC
 
 - **NYPD Neighborhood Coordination Officer (NCO) Directory**  
@@ -539,11 +540,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of every shooting incident that occurred in NYC going back to 2006 through the end of the previous calendar year.
 
 - **NYPD Shooting Incident Data (Year To Date)**  
-  [Data](https://data.cityofnewyork.us/resource/5ucz-vwe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5ucz-vwe8) | Last update: Jul 2024  
+  [Data](https://data.cityofnewyork.us/resource/5ucz-vwe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5ucz-vwe8) | Last update: Recent  
   Each record represents a shooting incident in NYC and includes information about the event, the location and time of occurrence. In addition, information related to suspect and victim demographics is also included. This data can be used by the public to explore the nature of police enforcement activity. Please refer to the attached data footnotes for additional information about this dataset.
 
 - **NYPD Vehicle Stop Reports**  
-  [Data](https://data.cityofnewyork.us/resource/hn9i-dwpr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hn9i-dwpr) | Last update: Jun 2024  
+  [Data](https://data.cityofnewyork.us/resource/hn9i-dwpr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hn9i-dwpr) | Last update: Recent  
   Police incident level data documenting vehicular stops. Data is collected under New York City Administrative Code 14-191 and may be used to gain insight into police-initiated vehicle stops, demographics of people stopped, details of vehicles involved and resulting action of stops, if any.
 
 [[TOP]](#toc)
@@ -556,18 +557,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This datasets provides annual counts of arrests made by offense for 243 Police Agencies in Colorado.
 
 - **City of Denver Traffic Accidents**  
-  [Data](https://data.colorado.gov/resource/cpwf-cznk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/cpwf-cznk) | Last update: Aug 2024
+  [Data](https://data.colorado.gov/resource/cpwf-cznk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/cpwf-cznk) | Last update: Recent
 
 - **Colorado Violent Crime Rate vs Incarceration Rate, 1982-2012**  
   [Data](https://data.colorado.gov/resource/jnqn-fw7d.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/jnqn-fw7d) | Last update: Apr 2022  
   Murder and non-negligent manslaughter, forcible rape, robbery, and aggravated assault. National or state offense totals are based on data from all reporting agencies and estimates for unreported areas. Rates are the number of reported offenses per 100,000 population. These figures are based on end of calendar year populations.
 
 - **Crime Arrests by Police District 2001-2016 in Colorado**  
-  [Data](https://data.colorado.gov/resource/2e5i-5hfy.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/2e5i-5hfy) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/2e5i-5hfy.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/2e5i-5hfy) | Last update: Recent  
   Criminal arrests summarized by type of crime for police districts in Colorado from 2001 to 2016 from the Colorado Department of Public Safety (CDPS).
 
 - **Crime Offenses by Police District 2001-2016 in Colorado**  
-  [Data](https://data.colorado.gov/resource/ya69-n6ta.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ya69-n6ta) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/ya69-n6ta.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ya69-n6ta) | Last update: Recent  
   Criminal offenses summarized by type of crime for police districts in Colorado for 2001 to 2016. Provided by the Colorado Department of Public Safety (CDPS).
 
 - **Crime Rates 1980-2012**  
@@ -575,11 +576,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Offense Crimes Include: Violent crime (Murder and non-negligent manslaughter, forcible rape, robbery, and aggravated assault) & Property crime (Burglary, larceny-theft, and motor vehicle theft).
 
 - **Crimes in Colorado**  
-  [Data](https://data.colorado.gov/resource/j6g4-gayk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/j6g4-gayk) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/j6g4-gayk.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/j6g4-gayk) | Last update: Recent  
   Offenses in Colorado for 2016 through 2019 by Agency from the FBI's Crime Data Explorer.
 
 - **Crimes in Colorado 1997 to 2015**  
-  [Data](https://data.colorado.gov/resource/6vnq-az4b.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/6vnq-az4b) | Last update: Aug 2024  
+  [Data](https://data.colorado.gov/resource/6vnq-az4b.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/6vnq-az4b) | Last update: Recent  
   Crime stats for the State of Colorado from 1997 to 2015. Data provided by the CDPS and the FBI's Crime Data Explorer (CDE).
 
 [[TOP]](#toc)
@@ -597,7 +598,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.delaware.gov
 
 - **Inmate Population**  
-  [Data](https://data.delaware.gov/resource/vnau-c4rn.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/vnau-c4rn) | Last update: Aug 2024  
+  [Data](https://data.delaware.gov/resource/vnau-c4rn.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/vnau-c4rn) | Last update: Recent  
   The Delaware Department of Correction (DOC) operates four prison facilities (Level V), eight quasi-incarceration community corrections facilities that serve as violation of probation centers or work release centers (Level IV), and five Probation & Parole locations (Levels III, II, and I).
 
 - **State of Delaware NIBRS Crime Report Totals by Jurisdiction**  
@@ -661,7 +662,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The data is a "shapshot" of crime statistics as they were originally reported to  the Washington Association of Sheriffs and Police Chiefs (WASPC) and the FBI.
 
 - **Police Cases**  
-  [Data](https://data.everettwa.gov/resource/szww-y224.json) | [Docs](https://dev.socrata.com/foundry/data.everettwa.gov/szww-y224) | Last update: Aug 2024  
+  [Data](https://data.everettwa.gov/resource/szww-y224.json) | [Docs](https://dev.socrata.com/foundry/data.everettwa.gov/szww-y224) | Last update: Recent  
   Police Cases represent all police incidents that result in a police report being generated by the responding officer.
 
 - **Violent Crime Rates with Comparisons**  
@@ -674,7 +675,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.fortworthtexas.gov
 
 - **Crime Data**  
-  [Data](https://data.fortworthtexas.gov/resource/k6ic-7kp7.json) | [Docs](https://dev.socrata.com/foundry/data.fortworthtexas.gov/k6ic-7kp7) | Last update: Jul 2024  
+  [Data](https://data.fortworthtexas.gov/resource/k6ic-7kp7.json) | [Docs](https://dev.socrata.com/foundry/data.fortworthtexas.gov/k6ic-7kp7) | Last update: Recent  
   To respect the privacy of juvenile offenses and witnesses the data has been generalized to the hundred block of the event.
 
 [[TOP]](#toc)
@@ -686,7 +687,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.honolulu.gov/resource/a96q-gyhq.json) | [Docs](https://dev.socrata.com/foundry/data.honolulu.gov/a96q-gyhq) | Last update: Aug 2016
 
 - **HPD Crime Incidents**  
-  [Data](https://data.honolulu.gov/resource/vg88-5rn5.json) | [Docs](https://dev.socrata.com/foundry/data.honolulu.gov/vg88-5rn5) | Last update: Aug 2024  
+  [Data](https://data.honolulu.gov/resource/vg88-5rn5.json) | [Docs](https://dev.socrata.com/foundry/data.honolulu.gov/vg88-5rn5) | Last update: Recent  
   Visit crimemapping.com (https://www.crimemapping.com/) for a visual view of the data.
 
 [[TOP]](#toc)
@@ -719,6 +720,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **KCPD Crime Data 2019**  
   [Data](https://data.kcmo.org/resource/pxaa-ahcm.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/pxaa-ahcm) | Last update: Mar 2021
 
+- **KCPD Crime Data 2019 to 2024**  
+  [Data](https://data.kcmo.org/resource/egkn-fji8.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/egkn-fji8) | Last update: Apr 2024  
+  Combined KCPD Crime Data from 2019 to 2024
+
 - **KCPD Crime Data 2020**  
   [Data](https://data.kcmo.org/resource/vsgj-uufz.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/vsgj-uufz) | Last update: Sep 2021
 
@@ -732,7 +737,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.kcmo.org/resource/bfyq-5nh6.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/bfyq-5nh6) | Last update: Mar 2024
 
 - **KCPD Crime Data 2024**  
-  [Data](https://data.kcmo.org/resource/isbe-v4d8.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/isbe-v4d8) | Last update: Jul 2024
+  [Data](https://data.kcmo.org/resource/isbe-v4d8.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/isbe-v4d8) | Last update: Recent
 
 - **Kansas City Crime (NIBRS) Summary**  
   [Data](https://data.kcmo.org/resource/6wc4-sd7p.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/6wc4-sd7p) | Last update: Dec 2023  
@@ -744,7 +749,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.kingcounty.gov
 
 - **KCSO Offense Reports: 2020 to Present**  
-  [Data](https://data.kingcounty.gov/resource/4kmt-kfqf.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/4kmt-kfqf) | Last update: Aug 2024  
+  [Data](https://data.kingcounty.gov/resource/4kmt-kfqf.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/4kmt-kfqf) | Last update: Recent  
   Once a report is re-approved, it will show back up in the data set. Other than approval status, the report case status is factored into what can be released in the daily data set. As soon as a report case status matches the criteria for release, it will be included in the data set. For a list of offenses that are included in the data set, please see the attached pdf.
 
 [[TOP]](#toc)
@@ -753,25 +758,25 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.lacity.org
 
 - **Arrest Data from 2010 to 2019**  
-  [Data](https://data.lacity.org/resource/yru6-6re4.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/yru6-6re4) | Last update: Aug 2024
+  [Data](https://data.lacity.org/resource/yru6-6re4.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/yru6-6re4) | Last update: Recent
 
 - **Arrest Data from 2020 to Present**  
-  [Data](https://data.lacity.org/resource/amvf-fr72.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/amvf-fr72) | Last update: Jul 2024  
+  [Data](https://data.lacity.org/resource/amvf-fr72.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/amvf-fr72) | Last update: Recent  
   Starting on March 7th, 2024, the Los Angeles Police Department (LAPD) will adopt a new Records Management System for reporting crimes and arrests. This new system is being implemented to comply with the FBI's mandate to collect NIBRS-only data (NIBRS  FBI - https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs).
 
 - **Crime Data from 2010 to 2019**  
-  [Data](https://data.lacity.org/resource/63jg-8b9z.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/63jg-8b9z) | Last update: Jul 2024
+  [Data](https://data.lacity.org/resource/63jg-8b9z.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/63jg-8b9z) | Last update: Recent
 
 - **Crime Data from 2020 to Present**  
-  [Data](https://data.lacity.org/resource/2nrs-mtv8.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/2nrs-mtv8) | Last update: Jul 2024  
+  [Data](https://data.lacity.org/resource/2nrs-mtv8.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/2nrs-mtv8) | Last update: Recent  
   Starting on March 7th, 2024, the Los Angeles Police Department (LAPD) will adopt a new Records Management System for reporting crimes and arrests. This new system is being implemented to comply with the FBI's mandate to collect NIBRS-only data (NIBRS  FBI - https://www.fbi.gov/how-we-can-help-you/more-fbi-services-and-information/ucr/nibrs).
 
 - **LAPD RIPA (AB 953) STOP Person Detail from 7/1/2018 to Present**  
-  [Data](https://data.lacity.org/resource/bwdf-y5fe.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/bwdf-y5fe) | Last update: Aug 2024  
+  [Data](https://data.lacity.org/resource/bwdf-y5fe.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/bwdf-y5fe) | Last update: Recent  
   This dataset contains data fields mandated by AB 953, The Racial and Identity Profiling Act (RIPA) and other data fields that are collected during a STOP.
 
 - **Traffic Collision Data from 2010 to Present**  
-  [Data](https://data.lacity.org/resource/d5tf-ez2w.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/d5tf-ez2w) | Last update: Jul 2024
+  [Data](https://data.lacity.org/resource/d5tf-ez2w.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/d5tf-ez2w) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -787,7 +792,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset displays Violent & Property Crimes that have taken place in the City of Little Rock. These are part 1 crimes which are reported to FBI. These numbers are subject to change due to reclassifying. Addressing is not provided on Rapes or associated items for victim privacy.
 
 - **Little Rock Police Department Statistics 2017 to Year to Date**  
-  [Data](https://data.littlerock.gov/resource/bz82-34ep.json) | [Docs](https://dev.socrata.com/foundry/data.littlerock.gov/bz82-34ep) | Last update: Jul 2024  
+  [Data](https://data.littlerock.gov/resource/bz82-34ep.json) | [Docs](https://dev.socrata.com/foundry/data.littlerock.gov/bz82-34ep) | Last update: Recent  
   This dataset displays Violent & Property Crimes that have taken place in the City of Little Rock. These are part 1 crimes which are reported to FBI. These numbers are subject to change due to reclassifying. Addressing is not provided on Rapes or associated items for victim privacy.
 
 [[TOP]](#toc)
@@ -796,11 +801,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.marincounty.org
 
 - **County Sheriff Reported Crimes**  
-  [Data](https://data.marincounty.org/resource/ahxi-5nsc.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/ahxi-5nsc) | Last update: Jul 2024  
+  [Data](https://data.marincounty.org/resource/ahxi-5nsc.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/ahxi-5nsc) | Last update: Recent  
   Reported crimes of the Marin County Sheriff's Department. Data is updated every four hours. Data begins as of January 1, 2013. Each reported crime includes its date/time, approximate location, crime type, and crime classification.
 
 - **Defendant Court Dates - Public Defender**  
-  [Data](https://data.marincounty.org/resource/f8iq-5syg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/f8iq-5syg) | Last update: Aug 2024  
+  [Data](https://data.marincounty.org/resource/f8iq-5syg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/f8iq-5syg) | Last update: Recent  
   Information about each Defendant includes the number of text notifications he or she received, whether the court date is for a misdemeanor or felony, the crime type, the age range of the defendant at the time of the court date, ethnicity and gender.
 
 [[TOP]](#toc)
@@ -809,15 +814,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.memphistn.gov
 
 - **Memphis Police Department Aggregate Crime**  
-  [Data](https://data.memphistn.gov/resource/n7ue-iwew.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/n7ue-iwew) | Last update: Jun 2024  
+  [Data](https://data.memphistn.gov/resource/n7ue-iwew.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/n7ue-iwew) | Last update: Recent  
   This dataset shows the number of major property crimes and major violent crimes reported by MPD each month.
 
 - **Memphis Police Department: Public Safety Incidents**  
-  [Data](https://data.memphistn.gov/resource/puh4-eea4.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/puh4-eea4) | Last update: Aug 2024  
+  [Data](https://data.memphistn.gov/resource/puh4-eea4.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/puh4-eea4) | Last update: Recent  
   This dataset contains all crime incidents where a police report was taken. Data goes back to 2019 and is updated each morning by 8:30am. Note that sex crimes and juvenile specific crime types are omitted from this dataset. Please see the data dictionary attached for more details.
 
 - **Police Academy Applicants & Recruits**  
-  [Data](https://data.memphistn.gov/resource/szjn-whbu.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/szjn-whbu) | Last update: Jul 2024  
+  [Data](https://data.memphistn.gov/resource/szjn-whbu.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/szjn-whbu) | Last update: Recent  
   Aggregated information on the number of applicants to the Memphis Police Department's Police Academy.
 
 [[TOP]](#toc)
@@ -834,27 +839,27 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.montgomerycountymd.gov
 
 - **Central Processing Unit (CPU) Processing/Booking of Arrestees**  
-  [Data](https://data.montgomerycountymd.gov/resource/sari-cs3z.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/sari-cs3z) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/sari-cs3z.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/sari-cs3z) | Last update: Recent  
   Update Frequency : Monthly
 
 - **Crime**  
-  [Data](https://data.montgomerycountymd.gov/resource/icn6-v9z3.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/icn6-v9z3) | Last update: Aug 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/icn6-v9z3.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/icn6-v9z3) | Last update: Recent  
   Update Frequency: Daily
 
 - **MCPD Bias Incidents**  
-  [Data](https://data.montgomerycountymd.gov/resource/7bhj-887p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/7bhj-887p) | Last update: Aug 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/7bhj-887p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/7bhj-887p) | Last update: Recent  
   This data will capture all incidents and criminal offenses that may be motivated by an offender's bias against a race, national or ethnic origin, religion, sex, mental or physical disability, sexual orientation or gender identity.
 
 - **Police Criminal Citations**  
-  [Data](https://data.montgomerycountymd.gov/resource/juxb-wv7p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/juxb-wv7p) | Last update: Aug 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/juxb-wv7p.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/juxb-wv7p) | Last update: Recent  
   This data set contains data from individuals cited by a police officer in Montgomery County.
 
 - **Police Dispatched Incidents**  
-  [Data](https://data.montgomerycountymd.gov/resource/98cc-bc7d.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/98cc-bc7d) | Last update: Aug 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/98cc-bc7d.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/98cc-bc7d) | Last update: Recent  
   This dataset contains a list of Police Dispatched Incidents records.
 
 - **Trespass Towing Report**  
-  [Data](https://data.montgomerycountymd.gov/resource/i6vn-3s6e.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/i6vn-3s6e) | Last update: Jul 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/i6vn-3s6e.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/i6vn-3s6e) | Last update: Recent  
   Vehicular towing in the County, per applicable regulations, as reported to the Police Department. This dataset is updated monthly.
 
 [[TOP]](#toc)
@@ -863,15 +868,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.nashville.gov
 
 - **Metro Nashville Police Department Active Dispatch**  
-  [Data](https://data.nashville.gov/resource/qywv-8sc2.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/qywv-8sc2) | Last update: Jun 2024  
+  [Data](https://data.nashville.gov/resource/qywv-8sc2.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/qywv-8sc2) | Last update: Recent  
   Current active major incident calls for service received by the Emergency Communications Center dispatched to Metro Nashville Police Department. Updated approximately every 15 minutes.
 
 - **Metro Nashville Police Department Calls for Service**  
-  [Data](https://data.nashville.gov/resource/kwnd-qrrm.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/kwnd-qrrm) | Last update: Jun 2024  
+  [Data](https://data.nashville.gov/resource/kwnd-qrrm.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/kwnd-qrrm) | Last update: Recent  
   Details about emergency and non-emergency calls for Metro Nashville Police Department service received by the Emergency Communications Center.
 
 - **Metro Nashville Police Department Incidents**  
-  [Data](https://data.nashville.gov/resource/2u6v-ujjs.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/2u6v-ujjs) | Last update: Jun 2024  
+  [Data](https://data.nashville.gov/resource/2u6v-ujjs.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/2u6v-ujjs) | Last update: Recent  
   Details about Metro Nashville Police Department reported incidents. An incident is defined as one or more crimes committed by an individual or a group of individuals acting in concert and at the same time and place.
 
 - **Metro Resident Survey Responses**  
@@ -977,23 +982,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset reflects incidents that have been reported to the New Orleans Police Department in 2023. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. Please request 911 audio via our public records request system here: https://nola.nextrequest.com.
 
 - **Calls for Service 2024**  
-  [Data](https://data.nola.gov/resource/2zcj-b6ts.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/2zcj-b6ts) | Last update: Aug 2024  
+  [Data](https://data.nola.gov/resource/2zcj-b6ts.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/2zcj-b6ts) | Last update: Recent  
   This dataset reflects incidents that have been reported to the New Orleans Police Department in 2023. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. Please request 911 audio via our public records request system here: https://nola.nextrequest.com.
 
 - **Electronic Police Report 2020**  
-  [Data](https://data.nola.gov/resource/hjbe-qzaz.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/hjbe-qzaz) | Last update: Jul 2024
+  [Data](https://data.nola.gov/resource/hjbe-qzaz.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/hjbe-qzaz) | Last update: Recent
 
 - **Electronic Police Report 2021**  
-  [Data](https://data.nola.gov/resource/6pqh-bfxa.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/6pqh-bfxa) | Last update: Jul 2024
+  [Data](https://data.nola.gov/resource/6pqh-bfxa.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/6pqh-bfxa) | Last update: Recent
 
 - **Electronic Police Report 2022**  
-  [Data](https://data.nola.gov/resource/9wdb-bznc.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/9wdb-bznc) | Last update: Jul 2024
+  [Data](https://data.nola.gov/resource/9wdb-bznc.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/9wdb-bznc) | Last update: Recent
 
 - **Electronic Police Report 2023**  
-  [Data](https://data.nola.gov/resource/j3gz-62a2.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/j3gz-62a2) | Last update: Jul 2024
+  [Data](https://data.nola.gov/resource/j3gz-62a2.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/j3gz-62a2) | Last update: Recent
 
 - **Electronic Police Report 2024**  
-  [Data](https://data.nola.gov/resource/c5iy-ew8n.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/c5iy-ew8n) | Last update: Aug 2024
+  [Data](https://data.nola.gov/resource/c5iy-ew8n.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/c5iy-ew8n) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -1001,7 +1006,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.norfolk.gov
 
 - **Police Active Warrants**  
-  [Data](https://data.norfolk.gov/resource/cab7-wvn5.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/cab7-wvn5) | Last update: Aug 2024  
+  [Data](https://data.norfolk.gov/resource/cab7-wvn5.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/cab7-wvn5) | Last update: Recent  
   This dataset represents all active warrants recorded by the Norfolk Police Department. Warrants can be searched by type of crime, demographics of persons involved and total number of outstanding warrants.
 
 - **Police Use of Force and Citizen Complaint Incidents**  
@@ -1033,7 +1038,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/mrvf-vpe5.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/mrvf-vpe5) | Last update: Nov 2023
 
 - **Department of Justice: Justice Centres/Courts**  
-  [Data](https://data.novascotia.ca/resource/xdjw-yy9m.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/xdjw-yy9m) | Last update: Jul 2024  
+  [Data](https://data.novascotia.ca/resource/xdjw-yy9m.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/xdjw-yy9m) | Last update: Recent  
   This dataset lists the location of Justice Centres/Courts throughout the province.
 
 - **Familiarity with the Nova Scotia Justice System**  
@@ -1094,7 +1099,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/6xda-q7ev.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6xda-q7ev) | Last update: Nov 2023
 
 - **Incarcerated Individuals Under Custody: Beginning 2008**  
-  [Data](https://data.ny.gov/resource/55zc-sp6m.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/55zc-sp6m) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/55zc-sp6m.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/55zc-sp6m) | Last update: Recent  
   Represents incarcerated individuals under custody in NYS Department of Corrections and Community Supervision as of March 31 of the snapshot year.
 
 - **Index Crimes by County and Agency: Beginning 1990**  
@@ -1107,30 +1112,30 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/nymx-kgkn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/nymx-kgkn) | Last update: Feb 2024
 
 - **Law Enforcement Personnel by Agency: Beginning 2007**  
-  [Data](https://data.ny.gov/resource/khn9-hhpq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/khn9-hhpq) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/khn9-hhpq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/khn9-hhpq) | Last update: Recent  
   The Division of Criminal Justice Services (DCJS) collects personnel statistics from more than 500 New York State police and sheriffs departments. In New York State, law enforcement agencies use the Uniform Crime Reporting (UCR) system to report their annual personnel counts to DCJS.
 
 - **MTA Major Felonies**  
-  [Data](https://data.ny.gov/resource/yeek-jhmu.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/yeek-jhmu) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/yeek-jhmu.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/yeek-jhmu) | Last update: Recent  
   Major felonies reflect the count of arrests made in relation to seven major felony offenses within the MTA system. These offenses are classified as murder, rape, robbery, felony assault, burglary, grand larceny, and grand larceny auto.
 
 - **MTA Subway Trains Delayed: Beginning 2020**  
-  [Data](https://data.ny.gov/resource/wx2t-qtaz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/wx2t-qtaz) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/wx2t-qtaz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/wx2t-qtaz) | Last update: Recent  
   This dataset reflects the number and percentage of subway trains delayed per weekday based on scheduled service, broken down into specific delay categories.
 
 - **MTA Subway and Bus Vandalism: Beginning 2021**  
-  [Data](https://data.ny.gov/resource/23fs-vfbd.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/23fs-vfbd) | Last update: Jun 2024  
+  [Data](https://data.ny.gov/resource/23fs-vfbd.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/23fs-vfbd) | Last update: Recent  
   This dataset reflects the monthly number of units vandalized for select elements of the subway and bus system.
 
 - **MTA Summonses and Arrests: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/7tfn-twae.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7tfn-twae) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/7tfn-twae.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7tfn-twae) | Last update: Recent  
   The number of summonses and arrests made by NYPD or MTAPD for fare evasion and other violations of the rules of conduct of the transit system.
 
 - **MTA Workplace Violence Labor Law Incidents: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/7i3h-vdya.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7i3h-vdya) | Last update: Jul 2024
+  [Data](https://data.ny.gov/resource/7i3h-vdya.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7i3h-vdya) | Last update: Recent
 
 - **MTA Workplace Violence Penal Law Incidents: Beginning 2019**  
-  [Data](https://data.ny.gov/resource/2xh4-m2qk.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/2xh4-m2qk) | Last update: Jul 2024
+  [Data](https://data.ny.gov/resource/2xh4-m2qk.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/2xh4-m2qk) | Last update: Recent
 
 - **Neighborhood and Rural Preservation Companies Directory**  
   [Data](https://data.ny.gov/resource/dwy2-ckb3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/dwy2-ckb3) | Last update: Jun 2019  
@@ -1153,11 +1158,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Division of Criminal Justice Services (DCJS) collects information regarding Probationers Under Supervision from New York City Probation and the 57 county probation departments outside New York City.
 
 - **Public Assistance and Supplemental Nutrition Assistance (SNAP) Program Fraud Prevention Performance Measures: Beginning 2013**  
-  [Data](https://data.ny.gov/resource/uubd-eei2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/uubd-eei2) | Last update: Jul 2024  
+  [Data](https://data.ny.gov/resource/uubd-eei2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/uubd-eei2) | Last update: Recent  
   These data contain the results of several local district investigations initiated by flagged cases of the States cash public assistance programs, and the Supplemental Nutrition Assistance Program (SNAP).
 
 - **Releasees Under Community Supervision: Beginning 2008**  
-  [Data](https://data.ny.gov/resource/pmxm-gftz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pmxm-gftz) | Last update: Jun 2024  
+  [Data](https://data.ny.gov/resource/pmxm-gftz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pmxm-gftz) | Last update: Recent  
   Provides data about releasees under community supervision on March 31 of the snapshot year. Information includes region of supervision, county of residence, snapshot year, supervision level, gender, age, and race/ethnicity as of the file date, and crime type for most serious instant offense.
 
 - **Security Level and Facility by Crime Group, Under Custody**  
@@ -1176,11 +1181,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oaklandca.gov/resource/957n-urxz.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/957n-urxz) | Last update: May 2016
 
 - **CrimeWatch Data**  
-  [Data](https://data.oaklandca.gov/resource/ppgh-7dqv.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ppgh-7dqv) | Last update: Aug 2024  
+  [Data](https://data.oaklandca.gov/resource/ppgh-7dqv.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ppgh-7dqv) | Last update: Recent  
   The file that you are about to electronically download, copy, or otherwise retrieve by other means is a tabular representation of the same data without maps or reporting capabilities. Be advised that the exact address of each crime has been substituted with the block address to protect the privacy of the victim.
 
 - **CrimeWatch Maps Past 90-Days**  
-  [Data](https://data.oaklandca.gov/resource/ym6k-rx7a.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ym6k-rx7a) | Last update: Aug 2024  
+  [Data](https://data.oaklandca.gov/resource/ym6k-rx7a.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/ym6k-rx7a) | Last update: Recent  
   The file that you are about to electronically download, copy, or otherwise retrieve by other means is a tabular representation of the same data without maps or reporting capabilities. Be advised that the exact address of each crime has been substituted with the block address to protect the privacy of the victim.
 
 - **Jan 2014 To May 2015**  
@@ -1245,7 +1250,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.princegeorgescountymd.gov/resource/wb4e-w4nf.json) | [Docs](https://dev.socrata.com/foundry/data.princegeorgescountymd.gov/wb4e-w4nf) | Last update: Jul 2023
 
 - **Crime Incidents July 2023 to Present**  
-  [Data](https://data.princegeorgescountymd.gov/resource/xjru-idbe.json) | [Docs](https://dev.socrata.com/foundry/data.princegeorgescountymd.gov/xjru-idbe) | Last update: Aug 2024
+  [Data](https://data.princegeorgescountymd.gov/resource/xjru-idbe.json) | [Docs](https://dev.socrata.com/foundry/data.princegeorgescountymd.gov/xjru-idbe) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -1253,11 +1258,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.providenceri.gov
 
 - **Providence Police Case Log - Past 180 days**  
-  [Data](https://data.providenceri.gov/resource/rz3y-pz8v.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/rz3y-pz8v) | Last update: Jul 2024  
+  [Data](https://data.providenceri.gov/resource/rz3y-pz8v.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/rz3y-pz8v) | Last update: Recent  
   To help maintain the anonymity of special victims and juveniles this list does not include violent sexual offenses, non-violent sexual offenses or incidents of  harassment. Cases being investigated by the department's Special Victims Unit (SVU) or Youth Services Bureau (YSB) will not be published.
 
 - **Providence Police Department Arrests and Citations- Past 60 Days**  
-  [Data](https://data.providenceri.gov/resource/vank-fyx9.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/vank-fyx9) | Last update: Jul 2024  
+  [Data](https://data.providenceri.gov/resource/vank-fyx9.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/vank-fyx9) | Last update: Recent  
   Once issued a citation, an individual is allowed to leave unless there are additional charges that require being taken into custody.
 
 [[TOP]](#toc)
@@ -1277,7 +1282,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/jwym-iqm3.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/jwym-iqm3) | Last update: Apr 2024
 
 - **Ramsey County Attorney's Office Adult and Youth Referral and Charging Data**  
-  [Data](https://data.ramseycounty.us/resource/rksi-6vdw.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/rksi-6vdw) | Last update: Jul 2024  
+  [Data](https://data.ramseycounty.us/resource/rksi-6vdw.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/rksi-6vdw) | Last update: Recent  
   There is a second data set for youth school attendance matters diversion; located here https://data.ramseycounty.us/Public-Safety-and-Justice/RCAO-Youth-SAM-Data/hqh4-qxri
 
 - **Serious Crime Rate by County (Part II Crime Rate)**  
@@ -1324,7 +1329,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Santa Clara County Sheriff's Office incident dataset
 
 - **Santa Clara County Cases of Media Interest**  
-  [Data](https://data.sccgov.org/resource/3gws-n3a5.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/3gws-n3a5) | Last update: Aug 2024  
+  [Data](https://data.sccgov.org/resource/3gws-n3a5.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/3gws-n3a5) | Last update: Recent  
   Information related to criminal cases in the media.
 
 [[TOP]](#toc)
@@ -1333,7 +1338,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.somervillema.gov
 
 - **Police Data: Crime Reports**  
-  [Data](https://data.somervillema.gov/resource/aghs-hqvg.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/aghs-hqvg) | Last update: Aug 2024  
+  [Data](https://data.somervillema.gov/resource/aghs-hqvg.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/aghs-hqvg) | Last update: Recent  
   This dataset contains crime reports from the City of Somerville Police Department's records management system from 2017 to present. Each data point represents an incident, which may involve multiple offenses (the most severe offense is provided here).
 
 - **Public Safety for All Community Survey Results**  
@@ -1341,7 +1346,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   All responses to the community survey on perceptions of police and public safety run by the Somerville Department of Racial and Social Justice from September 2022 to March 2023 as part of the Public Safety for All program.
 
 - **Somerville Happiness Survey Responses**  
-  [Data](https://data.somervillema.gov/resource/pfjr-vzaw.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/pfjr-vzaw) | Last update: Jul 2024
+  [Data](https://data.somervillema.gov/resource/pfjr-vzaw.json) | [Docs](https://dev.socrata.com/foundry/data.somervillema.gov/pfjr-vzaw) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -1349,11 +1354,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.sonomacounty.ca.gov
 
 - **Sonoma County Sheriff's Office Arrest Data**  
-  [Data](https://data.sonomacounty.ca.gov/resource/f6uf-eqmk.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/f6uf-eqmk) | Last update: Aug 2024  
+  [Data](https://data.sonomacounty.ca.gov/resource/f6uf-eqmk.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/f6uf-eqmk) | Last update: Recent  
   Each row of data represents an arrest or citation. Arrest charges are grouped together in the charge description column. Charge details are delimited by semicolons and charges are delimited by line breaks with multiple hyphens. Location information has been generalized to the nearest intersection.
 
 - **Sonoma County Sheriff's Office Incident Data**  
-  [Data](https://data.sonomacounty.ca.gov/resource/3rsj-iche.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/3rsj-iche) | Last update: Aug 2024
+  [Data](https://data.sonomacounty.ca.gov/resource/3rsj-iche.json) | [Docs](https://dev.socrata.com/foundry/data.sonomacounty.ca.gov/3rsj-iche) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -1479,7 +1484,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.winnipeg.ca
 
 - **Business Licenses**  
-  [Data](https://data.winnipeg.ca/resource/d5k3-sfzx.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/d5k3-sfzx) | Last update: Aug 2024
+  [Data](https://data.winnipeg.ca/resource/d5k3-sfzx.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/d5k3-sfzx) | Last update: Recent
 
 [[TOP]](#toc)
 
@@ -1487,31 +1492,31 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.austintexas.gov
 
 - **2019 Racial Profiling (RP) Citations**  
-  [Data](https://datahub.austintexas.gov/resource/uzta-a386.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzta-a386) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/uzta-a386.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzta-a386) | Last update: Recent  
   See 2019 Racial Profiling Guide for a description of fields.
 
 - **APD Arrests**  
-  [Data](https://datahub.austintexas.gov/resource/9tem-ywan.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9tem-ywan) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/9tem-ywan.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9tem-ywan) | Last update: Recent  
   When an officer finds it necessary to arrest an individual, such as upon witnessing a crime, having probable cause, or acting on a judge-issued arrest warrant, they are required to write an arrest report. The arrest report details the conditions of the arrest and directly pertains to the individual in question. Additionally, it includes specific details of the charges associated with the arrest.
 
 - **APD Average Response Time by Day and Hour**  
-  [Data](https://datahub.austintexas.gov/resource/fsje-8gq2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fsje-8gq2) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/fsje-8gq2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fsje-8gq2) | Last update: Recent  
   This Dataset includes the average response time by Call Priority across days of the week and hours of the day. Response Times reflect the same information contained in the APD 911 Calls for Service 2019-2024 dataset.
 
 - **APD Commendations**  
-  [Data](https://datahub.austintexas.gov/resource/t4xg-fnyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t4xg-fnyp) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/t4xg-fnyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t4xg-fnyp) | Last update: Recent  
   Austin Police Department General Order 922 states, "Any employee, group of employees, or individual outside of the Department may initiate the creation of a personal commendation to honor an employee or group of employees for exceptional performance."
 
 - **APD Computer Aided Dispatch Incidents**  
-  [Data](https://datahub.austintexas.gov/resource/22de-7rzg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/22de-7rzg) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/22de-7rzg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/22de-7rzg) | Last update: Recent  
   This data excludes records that were cancelled after being identified as duplicates of the same incident, such as when two 911 calls are made for the same incident. It also excludes records that were cancelled because they were handled by another agency such as Austin Fire or Austin-Travis County Emergency Medical Services or because they were found to not require a police response.
 
 - **APD Data Dictionary**  
-  [Data](https://datahub.austintexas.gov/resource/6w8q-suwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6w8q-suwv) | Last update: Jun 2024  
+  [Data](https://datahub.austintexas.gov/resource/6w8q-suwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6w8q-suwv) | Last update: Recent  
   City of Austin Open Data Terms of Use - https://data.austintexas.gov/stories/s/ranj-cccq
 
 - **APD Immigration Status Inquiries**  
-  [Data](https://datahub.austintexas.gov/resource/pfjx-tjrm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pfjx-tjrm) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/pfjx-tjrm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pfjx-tjrm) | Last update: Recent  
   Before officers inquire into immigration status, they must instruct the detainee or arrestee that the detainee or arrestee is not compelled to respond to the inquiry and that the detainee or arrestee will not be subjected to additional law enforcement action because of their refusal to respond.
 
 - **APD Searches by Type**  
@@ -1519,15 +1524,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Both the federal and state Constitutions provide every individual with the right to be free from unreasonable searches and seizures. This order provides general guidelines for Austin Police Department personnel to consider when dealing with search and seizure issues.
 
 - **APD Use of Force**  
-  [Data](https://datahub.austintexas.gov/resource/8dc8-gj97.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8dc8-gj97) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/8dc8-gj97.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8dc8-gj97) | Last update: Recent  
   This dataset contains offense incidents where any physical contact with a subject was made by an officer using the body or any object, device, or weapon, not including un-resisted escorting or handcuffing a subject. Any complaint by a subject that an officer caused pain or injury shall be treated as a use of force incident, except complaints of minor discomfort from un-resisted handcuffing.
 
 - **APD Warnings**  
-  [Data](https://datahub.austintexas.gov/resource/qwt7-pfwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qwt7-pfwv) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/qwt7-pfwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qwt7-pfwv) | Last update: Recent  
   This dataset provides the case report number, the date the incident occurred, subject race and gender at the time of the interaction and the lead charge. This dataset contains only instances where a warning was issued to the subject of the interaction for a violation.
 
 - **NIBRS Group A Offense Crimes**  
-  [Data](https://datahub.austintexas.gov/resource/i7fg-wrk5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i7fg-wrk5) | Last update: Jul 2024  
+  [Data](https://datahub.austintexas.gov/resource/i7fg-wrk5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i7fg-wrk5) | Last update: Recent  
   The Austin Police Department as of January 1, 2019, become a Uniform Crime Reporting -National Incident Based Reporting System (NIBRS) reporting agency. Crime is reported by persons, property and society.
 
 [[TOP]](#toc)
@@ -1549,381 +1554,381 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usaid.gov
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 7**  
-  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the seventh spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Final Performance Evaluation of the USAID/Jamaica Social Enterprise Boost Initiative (SEBI), Beneficiary Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/9njk-wzk7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9njk-wzk7) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/9njk-wzk7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9njk-wzk7) | Last update: Recent  
   The ET pursued three separate, yet interlinked, data collection activities that formed the basis of its methodological approach to conducting the SEBI evaluation as follows:
 
 - **Final Performance Evaluation of the USAID/Jamaica Social Enterprise Boost Initiative (SEBI), Household Perception Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/2euu-4fc4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2euu-4fc4) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2euu-4fc4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2euu-4fc4) | Last update: Recent  
   The purpose of this evaluation of the Social Enterprise Boost Initiative (SEBI) is to determine whether the SEBI activity achieved its objectives and gain lessons for implemen
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP) - Dominican Republic, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/6rb4-naam.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6rb4-naam) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6rb4-naam.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6rb4-naam) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Bolivia, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/tdw7-gfxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tdw7-gfxa) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tdw7-gfxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tdw7-gfxa) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Bolivia as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/di5u-g35d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/di5u-g35d) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/di5u-g35d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/di5u-g35d) | Last update: Recent  
   The 2006 survey was conducted by Universidade Federal de Goias (UFG), with scientific direction being provided by Mitchell A. Seligson.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/mm3i-pcnd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mm3i-pcnd) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/mm3i-pcnd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mm3i-pcnd) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University and Universidade de Brasilia with the field work being done by Cedatos.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/cda6-nzy2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cda6-nzy2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/cda6-nzy2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cda6-nzy2) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Brazil as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/nuj6-mztw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nuj6-mztw) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/nuj6-mztw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nuj6-mztw) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Brazil as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/yheg-5vyr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yheg-5vyr) | Last update: Jul 2024
+  [Data](https://datahub.usaid.gov/resource/yheg-5vyr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yheg-5vyr) | Last update: Recent
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/swua-cecv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/swua-cecv) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/swua-cecv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/swua-cecv) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Colombia as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2010 - Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/2qhi-mvtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2qhi-mvtc) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2qhi-mvtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2qhi-mvtc) | Last update: Recent  
   The 2010 survey was conducted by Vanderbilt University and Universidad de los Andes, and the Observatorio de la Democracia with the field work being carried out by the Centro Nacional de Consultora. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2010 - Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/nmek-ecs8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nmek-ecs8) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/nmek-ecs8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nmek-ecs8) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2010 - Data.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2012 - Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/53b9-5u8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/53b9-5u8a) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/53b9-5u8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/53b9-5u8a) | Last update: Recent  
   The 2012 survey was conducted by Vanderbilt University and Universidad de los Andes, and the Observatorio de la Democracia with the field work being carried out by the Centro Nacional de Consultora. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2012 - Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/n5tx-45ad.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n5tx-45ad) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/n5tx-45ad.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n5tx-45ad) | Last update: Recent  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2012 - Data.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ckz6-tdpv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ckz6-tdpv) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ckz6-tdpv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ckz6-tdpv) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University and the Universidad de los Andes and the Observatorio de la Democracia with the field work being carried out by the Centro Nacional de Consultoria (CNC). The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vqgx-xd8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqgx-xd8p) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vqgx-xd8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqgx-xd8p) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Costa Rica as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/3csv-rdvi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3csv-rdvi) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/3csv-rdvi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3csv-rdvi) | Last update: Recent  
   The 2006 survey was conducted by Vanderbilt University, and the field work was carried out by Central American Population Center (CCP) of the University of Costa Rica.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/id9u-r844.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/id9u-r844) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/id9u-r844.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/id9u-r844) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University, the Central American Population Center (CCP) of the University of Costa Rica and the field work was carried out by Borge y Asociados.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/yn5p-z73k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn5p-z73k) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/yn5p-z73k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn5p-z73k) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Costa Rica as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/bnm9-ctjm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnm9-ctjm) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/bnm9-ctjm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnm9-ctjm) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Costa Rica as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/gqth-5wdk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gqth-5wdk) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/gqth-5wdk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gqth-5wdk) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Borge y Asociados. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/g8zy-ub4s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g8zy-ub4s) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/g8zy-ub4s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g8zy-ub4s) | Last update: Recent  
   The 2004 survey was conducted by El Centro Universitario de Estudios Politicos y Sociales (CUEPS) of the Potificia Universidad Catolica Madre y Maestra and the Centro de Estudios Sociales y Demograficos (CESDEM).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/gbtn-axrr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gbtn-axrr) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/gbtn-axrr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gbtn-axrr) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/7ps6-trtf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7ps6-trtf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/7ps6-trtf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7ps6-trtf) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2008 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/96yq-tiyw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/96yq-tiyw) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/96yq-tiyw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/96yq-tiyw) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/2tzw-gkr2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2tzw-gkr2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2tzw-gkr2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2tzw-gkr2) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Gallup Republica Dominica. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Ecuador, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/cxfe-upsf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cxfe-upsf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/cxfe-upsf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cxfe-upsf) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Ecuador as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Ecuador, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/p2b6-viv7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p2b6-viv7) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/p2b6-viv7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p2b6-viv7) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Ecuador as part of its 2010 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Ecuador, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/q6fx-djfz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q6fx-djfz) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/q6fx-djfz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q6fx-djfz) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Ecuador as part of its 2012 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kxej-4vrh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kxej-4vrh) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/kxej-4vrh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kxej-4vrh) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/xwk9-btv2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xwk9-btv2) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/xwk9-btv2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xwk9-btv2) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2008**  
-  [Data](https://datahub.usaid.gov/resource/j8za-wmzx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j8za-wmzx) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/j8za-wmzx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j8za-wmzx) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2008 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/d4g3-yina.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d4g3-yina) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/d4g3-yina.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d4g3-yina) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/92ef-4big.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/92ef-4big) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/92ef-4big.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/92ef-4big) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/6srb-set9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6srb-set9) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6srb-set9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6srb-set9) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University and FUNDAUNGO. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/7d3u-8vir.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7d3u-8vir) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/7d3u-8vir.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7d3u-8vir) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vfdx-xeu7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vfdx-xeu7) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vfdx-xeu7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vfdx-xeu7) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kukx-2bxs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kukx-2bxs) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/kukx-2bxs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kukx-2bxs) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University and Asociacin de Investigacin y Estudios Sociales (ASIES) with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/i6af-tjjh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i6af-tjjh) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/i6af-tjjh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i6af-tjjh) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/4wrp-eez7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4wrp-eez7) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/4wrp-eez7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4wrp-eez7) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/a9u3-7mum.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a9u3-7mum) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/a9u3-7mum.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a9u3-7mum) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University and Asociation de Investigacion y Estudios Sociales (ASIES). The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/m6yn-kw7d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/m6yn-kw7d) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/m6yn-kw7d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/m6yn-kw7d) | Last update: Recent  
   The 2006 survey was conducted by Vanderbilt University and the Institute of Development Studies (IDS) of the University of Guyana funded by USAID.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/hqy4-h53s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hqy4-h53s) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/hqy4-h53s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hqy4-h53s) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guyana as part of its 2008 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/grkm-nim6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/grkm-nim6) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/grkm-nim6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/grkm-nim6) | Last update: Recent  
   The 2010 survey was conducted by Vanderbilt University with the field work being carried out by Development Policy and Management Consultants (DPMC).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/jq8e-ruxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jq8e-ruxa) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/jq8e-ruxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jq8e-ruxa) | Last update: Recent  
   The 2012 survey was conducted by Vanderbilt University with the field work being carried out by Development Policy and Management Consultants (DPMC).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/j2fu-x3e7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j2fu-x3e7) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/j2fu-x3e7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j2fu-x3e7) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Development Policy and Management Consultants (DPMC). The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/37ab-vauh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37ab-vauh) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/37ab-vauh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37ab-vauh) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/s2pv-tebz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s2pv-tebz) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/s2pv-tebz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s2pv-tebz) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2008 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/b53t-ppa4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b53t-ppa4) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/b53t-ppa4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b53t-ppa4) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2010 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/a5mg-hses.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a5mg-hses) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/a5mg-hses.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a5mg-hses) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/w8bx-vz4p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w8bx-vz4p) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/w8bx-vz4p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w8bx-vz4p) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Borges y Asociados. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kz7u-ditb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kz7u-ditb) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/kz7u-ditb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kz7u-ditb) | Last update: Recent  
   The 2004 survey was conducted by Vanderbilt University with FundaUngo and IUDOP, the public opinion arm of the Universidad Centroamericana Simeon Canas (UCA) of El Salvador.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/atu9-byyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/atu9-byyj) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/atu9-byyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/atu9-byyj) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/idw7-6jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/idw7-6jze) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/idw7-6jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/idw7-6jze) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2008 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/3wcc-6i5m.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3wcc-6i5m) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/3wcc-6i5m.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3wcc-6i5m) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vjn8-i9ke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vjn8-i9ke) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vjn8-i9ke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vjn8-i9ke) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/2nza-ufq3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2nza-ufq3) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/2nza-ufq3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2nza-ufq3) | Last update: Recent  
   The 2014 survey was conducted with the field work being carried out by Le Vote. Funding came from the United States Agency for International Development (USAID).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/r6jt-zyyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r6jt-zyyf) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/r6jt-zyyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r6jt-zyyf) | Last update: Recent  
   The 2006 survey was conducted by the Department of Sociology, Psychology and Social Work of the University of the West Indies (UWI).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/w94p-jdix.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w94p-jdix) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/w94p-jdix.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w94p-jdix) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University and the Center for Leadership and Governance of the University of the West Indies (UWI) with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/586t-7irm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/586t-7irm) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/586t-7irm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/586t-7irm) | Last update: Recent  
   The 2010 survey was conducted by Vanderbilt University and the Center for Leadership and Governance of the University of the West Indies (UWI).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/p9p9-kwyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p9p9-kwyp) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/p9p9-kwyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p9p9-kwyp) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Jamaica as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/gv68-4y5i.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gv68-4y5i) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/gv68-4y5i.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gv68-4y5i) | Last update: Recent  
   The 2014 survey was conducted by the University of West Indies. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/psst-uexn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/psst-uexn) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/psst-uexn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/psst-uexn) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/amyk-3tuc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/amyk-3tuc) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/amyk-3tuc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/amyk-3tuc) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kgsk-hizz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kgsk-hizz) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/kgsk-hizz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kgsk-hizz) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University and ITAM with field work done by DATA Opinin Pblica y Mercados with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/n69a-djbd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n69a-djbd) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/n69a-djbd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n69a-djbd) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/t8wh-kqeu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t8wh-kqeu) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/t8wh-kqeu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t8wh-kqeu) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/7qft-bj6k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7qft-bj6k) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/7qft-bj6k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7qft-bj6k) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Data Opinion Publica y Mercados. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/suy9-xikc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/suy9-xikc) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/suy9-xikc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/suy9-xikc) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ti4c-4qj8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ti4c-4qj8) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ti4c-4qj8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ti4c-4qj8) | Last update: Recent  
   The 2006 survey was conducted by Vanderbilt University and Centro de Analisis Sociocultural (CASC) of the Centroamericana University (UCA) of Nicaragua.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/37b9-jpny.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37b9-jpny) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/37b9-jpny.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37b9-jpny) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2008 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/dh8v-y7i5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dh8v-y7i5) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/dh8v-y7i5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dh8v-y7i5) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2010 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/thnw-nsie.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/thnw-nsie) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/thnw-nsie.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/thnw-nsie) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2012 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ay9g-yy4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ay9g-yy4g) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ay9g-yy4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ay9g-yy4g) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Borge y Asociados. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ibtf-2a34.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ibtf-2a34) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/ibtf-2a34.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ibtf-2a34) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Panama as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/eefs-t8rd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/eefs-t8rd) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/eefs-t8rd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/eefs-t8rd) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Panama as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/pydg-yd33.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pydg-yd33) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/pydg-yd33.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pydg-yd33) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University and Alianza Ciudadana Pro Justicia with field work done by Borge y Asociados.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/e393-byza.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e393-byza) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/e393-byza.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e393-byza) | Last update: Recent  
   The 2010 survey was conducted by Vanderbilt University and Alianza Ciudadana Pro Justicia with field work done by Borge y Asociados.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/sefd-f3da.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/sefd-f3da) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/sefd-f3da.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/sefd-f3da) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Panama as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/tugk-hfqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tugk-hfqh) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/tugk-hfqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tugk-hfqh) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Borge y Asociados. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vf27-75dn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vf27-75dn) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/vf27-75dn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vf27-75dn) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/uuuh-avac.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uuuh-avac) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/uuuh-avac.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uuuh-avac) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2008 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/32y5-vy58.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/32y5-vy58) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/32y5-vy58.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/32y5-vy58) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2010 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/h3c6-s6we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h3c6-s6we) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/h3c6-s6we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h3c6-s6we) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/pdmj-ntih.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pdmj-ntih) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/pdmj-ntih.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pdmj-ntih) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Centro de Informacion y Recursos para el (Desarrollo (CIRD). The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/6x4t-5y8u.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6x4t-5y8u) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/6x4t-5y8u.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6x4t-5y8u) | Last update: Recent  
   The 2006 survey was conducted by Vanderbilt University with the Instituto de Estudios Peruanos and APOYO Opinion y Mercadeo.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/a42e-5dd3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a42e-5dd3) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/a42e-5dd3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a42e-5dd3) | Last update: Recent  
   The 2008 survey was conducted by Vanderbilt University with the Instituto de Estudios Peruanos and APOYO Opinion y Mercadeo with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/mkfj-bqyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mkfj-bqyj) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/mkfj-bqyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mkfj-bqyj) | Last update: Recent  
   The 2010 survey was conducted by Vanderbilt University with the Instituto de Estudios Peruanos and APOYO Opinion y Mercadeo with funding by USAID.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/xx7u-mpm3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xx7u-mpm3) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/xx7u-mpm3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xx7u-mpm3) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Peru as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/n7m7-g4td.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n7m7-g4td) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/n7m7-g4td.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n7m7-g4td) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University and the Instituto de Estudios Peruanos. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Uruguay, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/dd5v-rvds.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dd5v-rvds) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/dd5v-rvds.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dd5v-rvds) | Last update: Recent  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Uruguay as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Uruguay, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/brav-zrhe.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/brav-zrhe) | Last update: Jul 2024  
+  [Data](https://datahub.usaid.gov/resource/brav-zrhe.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/brav-zrhe) | Last update: Recent  
   The 2014 survey was conducted by Vanderbilt University, CIFRA, Gonzales Raga & Associates and la Universidad de Montevideo. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **USAID Construction Assessment, Analysis**  
-  [Data](https://datahub.usaid.gov/resource/dkam-7fqw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dkam-7fqw) | Last update: Jun 2024
+  [Data](https://datahub.usaid.gov/resource/dkam-7fqw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dkam-7fqw) | Last update: Recent
 
 - **WJP Rule of Law Index 2019 - Mali & Niger**  
-  [Data](https://datahub.usaid.gov/resource/43ub-w8m9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/43ub-w8m9) | Last update: Jun 2024  
+  [Data](https://datahub.usaid.gov/resource/43ub-w8m9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/43ub-w8m9) | Last update: Recent  
   The QRQs were conducted for the WJP Rule of Law Index 2019 by the WJPs research team based in Washington, DC. The surveys were administered online from May 2018 through early November 2018. In total, 27 expert practitioners completed the QRQs in Mali, and 13 expert practitioners completed the QRQs in Niger.
 
 [[TOP]](#toc)
@@ -1974,11 +1979,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## internal-ct.data.socrata.com
 
 - **Litchfield County Court African Americans and Native Americans Collection, 1753 - 1852**  
-  [Data](https://internal-ct.data.socrata.com/resource/qfdg-i76h.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/qfdg-i76h) | Last update: Jul 2024  
+  [Data](https://internal-ct.data.socrata.com/resource/qfdg-i76h.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/qfdg-i76h) | Last update: Recent  
   Collection Overview
 
 - **Wethersfield Prison Records 1800-1903**  
-  [Data](https://internal-ct.data.socrata.com/resource/nawq-c5qc.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/nawq-c5qc) | Last update: Jul 2024  
+  [Data](https://internal-ct.data.socrata.com/resource/nawq-c5qc.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/nawq-c5qc) | Last update: Recent  
   The Warrants of Commitment, 1800-1903, contain the name of the prisoner, any known aliases, the crime, sentence, court, and date of incarceration. This information can be used to determine the probable location of court records relating to the individual prisoners.
 
 [[TOP]](#toc)
@@ -2000,7 +2005,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## internal.open.piercecountywa.gov
 
 - **Equity Index**  
-  [Data](https://internal.open.piercecountywa.gov/resource/szgb-8wvm.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/szgb-8wvm) | Last update: Jul 2024
+  [Data](https://internal.open.piercecountywa.gov/resource/szgb-8wvm.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/szgb-8wvm) | Last update: Recent
 
 - **Violent and Property Crime Data**  
   [Data](https://internal.open.piercecountywa.gov/resource/u3gb-kmc7.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/u3gb-kmc7) | Last update: May 2024  
@@ -2055,23 +2060,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## mydata.iowa.gov
 
 - **Current Iowa Correctional System Prison Population**  
-  [Data](https://mydata.iowa.gov/resource/xbcv-c6t2.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xbcv-c6t2) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/xbcv-c6t2.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xbcv-c6t2) | Last update: Recent  
   This dataset contains de-identified individual data for offenders currently serving in an Iowa institution or correctional facility.
 
 - **Iowa Parole Revocations**  
-  [Data](https://mydata.iowa.gov/resource/xr6x-45xx.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xr6x-45xx) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/xr6x-45xx.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xr6x-45xx) | Last update: Recent  
   This dataset provides de-identified individual data for offenders who violated parole/special sentence conditions and were sent to prison (i.e. parole revocation) for the past 10 fiscal years. It provides information on sex, race & ethnicity, and age of those offenders.
 
 - **Iowa Prison Admissions**  
-  [Data](https://mydata.iowa.gov/resource/w4ib-vabz.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/w4ib-vabz) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/w4ib-vabz.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/w4ib-vabz) | Last update: Recent  
   This dataset provides de-identified individual admission data for offenders admitted to Iowa Penitentiaries and Correctional Facilities during the past 10 Fiscal Years.
 
 - **Iowa Probation Admissions**  
-  [Data](https://mydata.iowa.gov/resource/4fjs-pxmt.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/4fjs-pxmt) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/4fjs-pxmt.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/4fjs-pxmt) | Last update: Recent  
   This dataset provides de-identified offender admission data for those serving probation in Iowa Community Based Correction Facilities during the last 10 fiscal years.
 
 - **Iowa Probation Revocations**  
-  [Data](https://mydata.iowa.gov/resource/8fn2-kx7x.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/8fn2-kx7x) | Last update: Jul 2024  
+  [Data](https://mydata.iowa.gov/resource/8fn2-kx7x.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/8fn2-kx7x) | Last update: Recent  
   This dataset contains de-identified information on offenders who violated probation and are being sent to prison (i.e., a probation revocation) for the last 10 Fiscal Years. It provides information on sex, race & ethnicity, and age of those offenders.
 
 [[TOP]](#toc)
@@ -2104,7 +2109,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.maryland.gov/resource/h3ax-xbn9.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/h3ax-xbn9) | Last update: Jan 2020
 
 - **Maryland State Police Performance Dashboard - Quarterly Data**  
-  [Data](https://opendata.maryland.gov/resource/tx73-47dk.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/tx73-47dk) | Last update: Jul 2024  
+  [Data](https://opendata.maryland.gov/resource/tx73-47dk.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/tx73-47dk) | Last update: Recent  
   Data from the Maryland State Police (MSP) for the Governor's Office of Performance Improvement Dashboard.
 
 - **Non-Fatal Shootings - 2013**  
@@ -2380,12 +2385,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Smithfield Police Crime Data
 
 - **South Jordan Police Crime Data**  
-  [Data](https://opendata.utah.gov/resource/p6he-fvtd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/p6he-fvtd) | Last update: Oct 2018  
-  This data set contains South Jordan Police calls for service and crime data from 2014-2018
-
-- **South Jordan Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
   This data set contains Police & Crime data from the South Jordan Police department.
+
+- **South Jordan Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/p6he-fvtd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/p6he-fvtd) | Last update: Oct 2018  
+  This data set contains South Jordan Police calls for service and crime data from 2014-2018
 
 - **South Ogden Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/r65x-476f.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/r65x-476f) | Last update: Apr 2019  
@@ -2446,18 +2451,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## performance.cityofhenderson.com
 
 - **Citizen and Officer Initiated Calls-for-Service**  
-  [Data](https://performance.cityofhenderson.com/resource/qd8m-be6f.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/qd8m-be6f) | Last update: Jul 2024  
+  [Data](https://performance.cityofhenderson.com/resource/qd8m-be6f.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/qd8m-be6f) | Last update: Recent  
   Number of Citizen Initiated and Officer Initiated Calls-for-Service
 
 - **Community Survey Results**  
   [Data](https://performance.cityofhenderson.com/resource/6cd6-6gb3.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/6cd6-6gb3) | Last update: Dec 2023
 
 - **NIBRS Reported Offenses & Crime Rates**  
-  [Data](https://performance.cityofhenderson.com/resource/iyhh-9wvp.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/iyhh-9wvp) | Last update: Jul 2024  
+  [Data](https://performance.cityofhenderson.com/resource/iyhh-9wvp.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/iyhh-9wvp) | Last update: Recent  
   Reported crimes against persons and crimes against property based on National Incident Based Reporting System (NIBRS). Data reflects crime statistics reported to the Nevada Department of Public Safety on a monthly basis. Data is preliminary and subject to change without notice based on case updates.
 
 - **Police Response Time Averages - Area Commands**  
-  [Data](https://performance.cityofhenderson.com/resource/fi7r-rthr.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/fi7r-rthr) | Last update: Jul 2024  
+  [Data](https://performance.cityofhenderson.com/resource/fi7r-rthr.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/fi7r-rthr) | Last update: Recent  
   Priority 1 Response Time Averages based on Dispatch to Arrival times. Response averages are provided in the following categories: Citywide, East Area Command, North Area Command, West Area Command
 
 [[TOP]](#toc)
@@ -2594,11 +2599,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## policedata.coloradosprings.gov
 
 - **Arrest Data Subject Level**  
-  [Data](https://policedata.coloradosprings.gov/resource/34jw-x9zp.json) | [Docs](https://dev.socrata.com/foundry/policedata.coloradosprings.gov/34jw-x9zp) | Last update: Aug 2024  
+  [Data](https://policedata.coloradosprings.gov/resource/34jw-x9zp.json) | [Docs](https://dev.socrata.com/foundry/policedata.coloradosprings.gov/34jw-x9zp) | Last update: Recent  
   This dataset includes the arrest, arrest location, and demographic information about the arrested person. This dataset is provided for an easy method of viewing data about arrestees.
 
 - **Crime Level Data**  
-  [Data](https://policedata.coloradosprings.gov/resource/bc88-hemr.json) | [Docs](https://dev.socrata.com/foundry/policedata.coloradosprings.gov/bc88-hemr) | Last update: May 2024  
+  [Data](https://policedata.coloradosprings.gov/resource/bc88-hemr.json) | [Docs](https://dev.socrata.com/foundry/policedata.coloradosprings.gov/bc88-hemr) | Last update: Recent  
   Important: This dataset provided by CSPD does not apply the same counting rules as official data reported to the Colorado Bureau of Investigations and the Federal Bureau of Investigation. This means comparisons to those datasets would be inaccurate.
 
 - **Officer Involved Shootings**  
@@ -2659,7 +2664,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://sharefulton.fultoncountyga.gov/resource/9w3w-ynjw.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/9w3w-ynjw) | Last update: Jan 2023
 
 - **Superior Court Case Assignments**  
-  [Data](https://sharefulton.fultoncountyga.gov/resource/e8ne-c2s2.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/e8ne-c2s2) | Last update: Aug 2024  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/e8ne-c2s2.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/e8ne-c2s2) | Last update: Recent  
   Information provided on each case includes the case number, case type (e.g., non-complex felony, capital felony), the date filed, the date assigned, the judge assigned, the current status (e.g. open, closed), and flags indicating whether the defendant is in jail and whether the assignment is current (or the last assignment in the case of closed cases).
 
 [[TOP]](#toc)
@@ -2668,18 +2673,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## stat.stpete.org
 
 - **Citizen Calls for Service**  
-  [Data](https://stat.stpete.org/resource/6373-bvti.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/6373-bvti) | Last update: Jul 2024  
+  [Data](https://stat.stpete.org/resource/6373-bvti.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/6373-bvti) | Last update: Recent  
   Statistics include all active calls assigned to Patrol units and the top four categories of response urgency, such as violent crimes and crimes in progress.
 
 - **Directed Patrols**  
-  [Data](https://stat.stpete.org/resource/9cbi-474e.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/9cbi-474e) | Last update: Jul 2024
+  [Data](https://stat.stpete.org/resource/9cbi-474e.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/9cbi-474e) | Last update: Recent
 
 - **Park Walk Talks**  
-  [Data](https://stat.stpete.org/resource/bk6h-28ux.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/bk6h-28ux) | Last update: Jul 2024  
+  [Data](https://stat.stpete.org/resource/bk6h-28ux.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/bk6h-28ux) | Last update: Recent  
   The Park Walk and Talk program, a type of directed patrol, is intended to support the Department's community policing strategy by encouraging police officers to interact with citizens to improve community-police relations and reduce the fear of crime.
 
 - **St. Petersburg Service Center Data**  
-  [Data](https://stat.stpete.org/resource/qdms-3kn3.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/qdms-3kn3) | Last update: Aug 2024  
+  [Data](https://stat.stpete.org/resource/qdms-3kn3.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/qdms-3kn3) | Last update: Recent  
   This dataset is updated daily and contains a log of citizen requests to the St Pete Service Center dating back to June 2014. These records describe requests for assistance with City services or reported problems, such as potholes, graffiti, broken sidewalks, storm drain issues, traffic signal/sign problems, special pick-up of dumped items, codes violations, etc.
 
 - **StPete Police Crime Tracts GEOG**  
@@ -2730,7 +2735,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   View Survey - https://www.dallasopendata.com/api/views/8uai-e8aw/files/qTtqNtLAZzSj75XuR3NhHu5JejJ586NcjZGFfjEmsYw?download=true&filename=Dallas-2014-DF-Survey.pdf
 
 - **Dallas Police Active Calls**  
-  [Data](https://www.dallasopendata.com/resource/9fxf-t2tr.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9fxf-t2tr) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/9fxf-t2tr.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9fxf-t2tr) | Last update: Recent  
   It does not include any calls for service, whether currently being worked or not, that are not releasable due to privacy laws. 
 
 - **Dallas Police Active Calls Geolocation Temporary**  
@@ -2750,29 +2755,29 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Dallas Police Public Data - RMS Incidents-With GeoLocation
 
 - **Police Arrest Charges**  
-  [Data](https://www.dallasopendata.com/resource/9u3q-af6p.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9u3q-af6p) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/9u3q-af6p.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/9u3q-af6p) | Last update: Recent  
   Dallas Police Public Data - RMS Arrest Charge
 
 - **Police Arrests**  
-  [Data](https://www.dallasopendata.com/resource/sdr7-6v3j.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/sdr7-6v3j) | Last update: Aug 2024
+  [Data](https://www.dallasopendata.com/resource/sdr7-6v3j.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/sdr7-6v3j) | Last update: Recent
 
 - **Police Bulk Data 2014**  
   [Data](https://www.dallasopendata.com/resource/ftja-9jxd.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/ftja-9jxd) | Last update: Aug 2021
 
 - **Police Incidents**  
-  [Data](https://www.dallasopendata.com/resource/qv6i-rri7.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/qv6i-rri7) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/qv6i-rri7.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/qv6i-rri7) | Last update: Recent  
   This dataset is published by the City of Dallas for research purposes only. The authoritative source for crime data is the Crime Analytics Dashboard.
 
 - **Police Involved Vehicles**  
-  [Data](https://www.dallasopendata.com/resource/hd9z-g72a.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/hd9z-g72a) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/hd9z-g72a.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/hd9z-g72a) | Last update: Recent  
   Dallas Police Public Data - RMS Vehicle
 
 - **Police Modus Operandi**  
-  [Data](https://www.dallasopendata.com/resource/esgn-ar5t.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/esgn-ar5t) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/esgn-ar5t.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/esgn-ar5t) | Last update: Recent  
   Dallas Police Public Data - RMS MO
 
 - **Police Person**  
-  [Data](https://www.dallasopendata.com/resource/chez-ydz4.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/chez-ydz4) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/chez-ydz4.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/chez-ydz4) | Last update: Recent  
   This dataset is published by the City of Dallas for research purposes only. The authoritative source for crime data is the Crime Analytics Dashboard.
 
 - **Police Response to Resistance 2013**  
@@ -2808,7 +2813,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset contains details of incidents where police encountered resistance.
 
 - **Police Unknown Suspects**  
-  [Data](https://www.dallasopendata.com/resource/jitt-qwwh.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/jitt-qwwh) | Last update: Aug 2024  
+  [Data](https://www.dallasopendata.com/resource/jitt-qwwh.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/jitt-qwwh) | Last update: Recent  
   Dallas Police Public Data - Unknown Suspects
 
 [[TOP]](#toc)
@@ -2826,7 +2831,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.transparentrichmond.org
 
 - **Richmond Police Department - Crime Incidents**  
-  [Data](https://www.transparentrichmond.org/resource/t3nu-7bbq.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/t3nu-7bbq) | Last update: Aug 2024  
+  [Data](https://www.transparentrichmond.org/resource/t3nu-7bbq.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/t3nu-7bbq) | Last update: Recent  
   Note: Each report only counts the top crime offense, so it may differ from NIBRS/DOJ count and published Crime-Stat reports on the RPD website (for example, if 1 incident report had multiple offenses occur, only the first/top offense is counted in this).
 
 [[TOP]](#toc)
