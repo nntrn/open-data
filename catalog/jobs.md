@@ -45,7 +45,6 @@
 - [data.michigan.gov](#datamichigangov)
 - [data.mo.gov](#datamogov)
 - [data.montgomerycountymd.gov](#datamontgomerycountymdgov)
-- [data.nashville.gov](#datanashvillegov)
 - [data.nj.gov](#datanjgov)
 - [data.nola.gov](#datanolagov)
 - [data.norfolk.gov](#datanorfolkgov)
@@ -107,7 +106,7 @@
 
 > **NOTE**  
 > * (%) denotes strategic dataset
-> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
+> * Datasets updated in the last 60 days (as of 2024-09-13) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=jobs
 
@@ -179,7 +178,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://citydata.mesaaz.gov/resource/ksen-g4gs.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/ksen-g4gs) | Last update: Recent  
   The data is sourced from internal utility billing systems (CIS) and external (Salt River Project Utility Bills). Although update job runs daily, the source data is updated monthly and is delayed by up to 30 days for the prior billing period.
 
-- **Code Enforcement**  
+- **Code Compliance**  
   [Data](https://citydata.mesaaz.gov/resource/hgf6-yenu.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/hgf6-yenu) | Last update: Recent
 
 - **Employment and Labor Force - Monthly**  
@@ -187,7 +186,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   To see how these terms are defined and what they include, please visit the Terms Glossary from the United State Department of Labors Bureau of Labor Statistics (BLS), which can be found at the following web address: http://www.bls.gov/bls/glossary.htm
 
 - **Falcon Field Airport Jobs and Businesses**  
-  [Data](https://citydata.mesaaz.gov/resource/dxf4-mkeb.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dxf4-mkeb) | Last update: May 2024  
+  [Data](https://citydata.mesaaz.gov/resource/dxf4-mkeb.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dxf4-mkeb) | Last update: Recent  
   Temporary dataset of the number of jobs and businesses within the Falcon Field business area by month.
 
 - **Financial Services – Payroll Run Times**  
@@ -199,7 +198,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset describes the repair work done by Fleet Services. It does not include Fire availability.
 
 - **Mesa Employers By Census Tract**  
-  [Data](https://citydata.mesaaz.gov/resource/v2de-gsm7.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/v2de-gsm7) | Last update: Recent  
+  [Data](https://citydata.mesaaz.gov/resource/v2de-gsm7.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/v2de-gsm7) | Last update: Jul 2024  
   Information about employers and employees in the City of Mesa by industry and census tract. Data is collected annually by Maricopa Association of Governments (MAG) from a variety of sources.
 
 - **Municipal Court - Time to Disposition**  
@@ -215,7 +214,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset represents an accurate number of permits by time period and is used to calculate performance measures related to days in review, permits per month/quarter, etc. To find workflow status changes and the geocoded locations associated with an individual permit number, please use the "Traffic Barricades" transactional dataset.
 
 - **Total Employees and Businesses**  
-  [Data](https://citydata.mesaaz.gov/resource/xt2b-s4bi.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/xt2b-s4bi) | Last update: Recent  
+  [Data](https://citydata.mesaaz.gov/resource/xt2b-s4bi.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/xt2b-s4bi) | Last update: Jul 2024  
   The Total Employees and Businesses Dataset is a snapshot of the total number of businesses that are currently in Mesa, as well as the total number of employees that work in Mesa.
 
 - **Unsheltered Point-In-Time (PIT) Count 2022 Details Mesa Only**  
@@ -232,7 +231,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Payroll information for all Los Angeles City Employees including the City's three proprietary departments: Water and Power, Airports and Harbor. Data is updated on a quarterly basis by the Los Angeles City Controller's Office. Payroll information for employees of the Department of Water and Power is provided by the Department.
 
 - **City Employee Payroll (Current)**  
-  [Data](https://controllerdata.lacity.org/resource/g9h8-fvhu.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/g9h8-fvhu) | Last update: Recent  
+  [Data](https://controllerdata.lacity.org/resource/g9h8-fvhu.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/g9h8-fvhu) | Last update: Jul 2024  
   Payroll information for all Los Angeles City Employees including the City's three proprietary departments: Water and Power, Airports and Harbor. Data is updated bi-weekly by the Los Angeles City Controller's Office. Payroll information for employees of the Department of Water and Power is updated every three months.
 
 [[TOP]](#toc)
@@ -241,7 +240,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## cookcounty.data.socrata.com
 
 - **Cook County Budgeted Position Salaries**  
-  [Data](https://cookcounty.data.socrata.com/resource/h548-w4m3.json) | [Docs](https://dev.socrata.com/foundry/cookcounty.data.socrata.com/h548-w4m3) | Last update: Jan 2024  
+  [Data](https://cookcounty.data.socrata.com/resource/h548-w4m3.json) | [Docs](https://dev.socrata.com/foundry/cookcounty.data.socrata.com/h548-w4m3) | Last update: Recent  
   It may be helpful to know the Job Code contained in the dataset is a unique 4-digit number assigned to each specific Job Title while the Position ID is a unique 8-digit number that identifies a position. This helps create consistency and accuracy in the dataset over time, in case of a name change or other change.
 
 [[TOP]](#toc)
@@ -372,7 +371,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Compensation is the preferred term over salaries due to the fact that almost all employees are paid hourly. The only Salaried employees are those in elected positions (Mayor, Clerk, City Council people). For historical completed years, an employees compensation may include items such as, but not limited to: overtime, certifications, on call pay, etc.
 
 - **Monroe County Opportunity Zones**  
-  [Data](https://data.bloomington.in.gov/resource/3a4p-5rca.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/3a4p-5rca) | Last update: Dec 2023  
+  [Data](https://data.bloomington.in.gov/resource/3a4p-5rca.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/3a4p-5rca) | Last update: Recent  
   Opportunity Zones are a designation explained by the IRS; "Opportunity Zones are an economic development tool that allows people to invest in distressed areas in the United States.Their purpose is to spur economic growth and job creation in low-income communities while providing tax benefits to investors."
 
 - **Tax Increment Finance District**  
@@ -388,7 +387,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For prior year data, please see the Legacy City-Parish Employee Annual Salaries https://data.brla.gov/Government/Legacy-City-Parish-Employee-Annual-Salaries/g5c2-myyj
 
 - **City-Parish Employees**  
-  [Data](https://data.brla.gov/resource/bj3z-jksg.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/bj3z-jksg) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/bj3z-jksg.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/bj3z-jksg) | Last update: Jul 2024  
   In November of 2018, the City-Parish switched to a new payroll system. This dataset contains employee information from this new system. For  data prior to 2018, please see the Legacy City-Parish Employees at https://data.brla.gov/Government/Legacy-City-Parish-Employees/gyhq-w3h3
 
 - **Justice of the Peace District**  
@@ -400,7 +399,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   In November 2018, the City-Parish switched to a new payroll system. This dataset contains annual salaries through 2017.
 
 - **Legacy City-Parish Employees**  
-  [Data](https://data.brla.gov/resource/gyhq-w3h3.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/gyhq-w3h3) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/gyhq-w3h3.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/gyhq-w3h3) | Last update: Jul 2024  
   City-Parish employees, both active and inactive, that exist in the City-Parish Payroll System.
 
 [[TOP]](#toc)
@@ -443,7 +442,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset has been deprecated and replaced by two new building permit datasets: 
 
 - **Outstanding Employee Awards**  
-  [Data](https://data.cambridgema.gov/resource/yniv-nqm5.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/yniv-nqm5) | Last update: Recent
+  [Data](https://data.cambridgema.gov/resource/yniv-nqm5.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/yniv-nqm5) | Last update: Jun 2024
 
 - **Permanent (PERM) and Labor Condition Application (H-1B, H-1B1, and E-3) Visa Programs Applications**  
   [Data](https://data.cambridgema.gov/resource/fmbp-nphb.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/fmbp-nphb) | Last update: Recent  
@@ -454,7 +453,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of permits regarding work with sheet metal
 
 - **Top 25 Employers: 1995 - 2023**  
-  [Data](https://data.cambridgema.gov/resource/77wt-9zvn.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/77wt-9zvn) | Last update: Apr 2024  
+  [Data](https://data.cambridgema.gov/resource/77wt-9zvn.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/77wt-9zvn) | Last update: Recent  
   Provides the number of full time equivalent employees working at the City of Cambridge's 25 largest employers.
 
 [[TOP]](#toc)
@@ -581,11 +580,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Academic/Vocational Support and Enrichment - academic support, remedial education services, tutoring, literacy, and reconnecting youth with other educational opportunities
 
 - **Tax Increment Financing (TIF) Annual Report - Itemized List of Expenditures from the Special Tax Allocation Fund**  
-  [Data](https://data.cityofchicago.org/resource/umwj-yc4m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/umwj-yc4m) | Last update: Jul 2023  
+  [Data](https://data.cityofchicago.org/resource/umwj-yc4m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/umwj-yc4m) | Last update: Recent  
   For the detailed reports for each TIF district for each year, please see https://www.chicago.gov/city/en/depts/dcd/supp_info/tif-district-annual-reports-2004-present.html.
 
 - **Tax Increment Financing (TIF) Annual Report - Job and Increment Creation**  
-  [Data](https://data.cityofchicago.org/resource/vci7-3z5g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/vci7-3z5g) | Last update: Aug 2023  
+  [Data](https://data.cityofchicago.org/resource/vci7-3z5g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/vci7-3z5g) | Last update: Recent  
   For the detailed reports for each TIF district for each year, please see https://www.chicago.gov/city/en/depts/dcd/supp_info/tif-district-annual-reports-2004-present.html.
 
 [[TOP]](#toc)
@@ -755,7 +754,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Listing of GED Plus locations.
 
 - **HRA Domestic Violence Partners**  
-  [Data](https://data.cityofnewyork.us/resource/tbf6-u8ea.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tbf6-u8ea) | Last update: Feb 2024  
+  [Data](https://data.cityofnewyork.us/resource/tbf6-u8ea.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tbf6-u8ea) | Last update: Recent  
   Phone numbers and the borough where service is provided is included.
 
 - **Highway Sign Installations**  
@@ -1036,7 +1035,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset includes loans under $150,000 and loans of $150,000 and above made to Connecticut businesses through August 8, 2020.
 
 - **Personal Income Tax Credits, 2011-2020**  
-  [Data](https://data.ct.gov/resource/wh63-adg6.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/wh63-adg6) | Last update: Feb 2024  
+  [Data](https://data.ct.gov/resource/wh63-adg6.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/wh63-adg6) | Last update: Recent  
   Credits claimed against the CT Personal Income Tax. For more recent tax data, see Connecticut Personal Income Tax Summary.
 
 - **State Employee Payroll Data, FY 2010-2014**  
@@ -1396,7 +1395,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Jobs in the different career paths
 
 - **Job Centers**  
-  [Data](https://data.mo.gov/resource/xmt3-c8ve.json) | [Docs](https://dev.socrata.com/foundry/data.mo.gov/xmt3-c8ve) | Last update: Recent
+  [Data](https://data.mo.gov/resource/xmt3-c8ve.json) | [Docs](https://dev.socrata.com/foundry/data.mo.gov/xmt3-c8ve) | Last update: Jun 2024
 
 - **Missouri Job Centers**  
   [Data](https://data.mo.gov/resource/p2ie-br32.json) | [Docs](https://dev.socrata.com/foundry/data.mo.gov/p2ie-br32) | Last update: Recent  
@@ -1423,11 +1422,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This Dataset indicates average salary by position title and grade for full-time regular employees. Data excludes elected, appointed, non-merit and temporary employees. Underfilled positions are also excluded from the dataset.
 
 - **FIN - Small Business Innovation Research And Small Business Technology Transfer Matching Grant Program**  
-  [Data](https://data.montgomerycountymd.gov/resource/72gg-n7au.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/72gg-n7au) | Last update: Nov 2023  
+  [Data](https://data.montgomerycountymd.gov/resource/72gg-n7au.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/72gg-n7au) | Last update: Recent  
   The Council enacted Bill 37-19 on 3/16/ 2021, effective 6/24/2021. A portion of the Bill changes the eligibility requirements for the SBIR/STTR Local Matching Grant Program, no longer restricting eligibility to NIH grant recipients, but requiring that the grant received from a Federal agency is for research in medicine, biotechnology or life sciences.
 
 - **MCG Open Positions**  
-  [Data](https://data.montgomerycountymd.gov/resource/vds6-zrjk.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/vds6-zrjk) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/vds6-zrjk.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/vds6-zrjk) | Last update: Jul 2024  
   This dataset contains a list of open positions and classifications available in the County.
 
 - **MCG Personnel Management Review (PMR)**  
@@ -1469,27 +1468,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
-## data.nashville.gov
-
-- **Metro Government Employee Earnings**  
-  [Data](https://data.nashville.gov/resource/7saa-4q7b.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/7saa-4q7b) | Last update: May 2024  
-  Details of earnings paid to employees on the Metro general government payroll per fiscal year, broken down by type of pay.
-
-- **Metro Resident Survey Responses**  
-  [Data](https://data.nashville.gov/resource/nux7-cwab.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/nux7-cwab) | Last update: May 2020  
-  Responses by Davidson County Residents to the Metro Resident Survey
-
-- **Nashville Digital Inclusion Needs Assessment Results**  
-  [Data](https://data.nashville.gov/resource/a5y8-6i89.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/a5y8-6i89) | Last update: Jul 2021  
-  Results from a countywide assessment to better understand the needs and resources available in different communities across the city and what needs are not being met because of the digital divide.
-
-[[TOP]](#toc)
-
-
 ## data.nj.gov
 
 - **List of NJ municipalities and compliance with 2007 and 2010 sick leave laws**  
-  [Data](https://data.nj.gov/resource/i749-em3c.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/i749-em3c) | Last update: Recent  
+  [Data](https://data.nj.gov/resource/i749-em3c.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/i749-em3c) | Last update: Jun 2024  
   List of 60 NJ towns and cities compiled by the NJ Office of the State Comptroller regarding whether or not they are following laws passed to curb sick leave payout abuses.
 
 - **PPP Cares Act Loan Totals to New Jersey Businesses**  
@@ -1598,7 +1580,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data categories are project name, region, program, funding amount and fiscal year.
 
 - **Empire Zones Business Annual Reports: Beginning 2001**  
-  [Data](https://data.ny.gov/resource/edtu-bdbi.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/edtu-bdbi) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/edtu-bdbi.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/edtu-bdbi) | Last update: Jul 2024  
   Employment, investment and tax credit information reported by businesses certified in the Empire Zones Program.
 
 - **Employment Status of the Civilian Noninstitutional Population (16 Years and Over)**  
@@ -1614,7 +1596,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset displays the name and type of business, the location, job and investment commitments, and the dollar amount of tax credits allocated to each business.
 
 - **Excelsior Jobs Program Tax Credit: Beginning Calendar Year 2012**  
-  [Data](https://data.ny.gov/resource/huva-pmc4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/huva-pmc4) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/huva-pmc4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/huva-pmc4) | Last update: Jun 2024  
   The program is administered by Empire State Development and offers a tax credit comprised of five credit components focused on certain strategic industries such as biotechnology, pharmaceutical, high-tech, clean-technology, green technology, financial services, child care services, agriculture, manufacturing and life sciences.
 
 - **Fuel Savings by Type from RGGI-Funded Projects**  
@@ -1646,15 +1628,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/vp83-gfyz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/vp83-gfyz) | Last update: Oct 2023
 
 - **Long Term Occupational Projections**  
-  [Data](https://data.ny.gov/resource/pqm4-9qqb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pqm4-9qqb) | Last update: Recent
+  [Data](https://data.ny.gov/resource/pqm4-9qqb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pqm4-9qqb) | Last update: Jul 2024
 
 - **MTA LIRR Safety and Grade Crossing Incidents: Beginning 2019**  
   [Data](https://data.ny.gov/resource/ka57-re2h.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ka57-re2h) | Last update: Recent  
-  The number of reportable job-related incidents that result in the inability of an employee to perform full job duties for at least one working day beyond the day of the incident, as well as a breakdown of the number of employees and calendar days that are affected.
+  This dataset includes the following safety metrics: customer accident rate, grade crossing incidents, train derailments, train collisions, lost time accident rate, lost time injury rate, employee lost time days.
 
 - **MTA Metro-North Safety and Grade Crossing Incidents: Beginning 2019**  
   [Data](https://data.ny.gov/resource/v7rp-a6ru.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/v7rp-a6ru) | Last update: Recent  
-  The number of reportable job-related incidents that result in the inability of an employee to perform full job duties for at least one working day beyond the day of the incident, as well as a breakdown of the number of employees and calendar days that are affected.
+  This dataset includes the following safety metrics: customer accident rate, grade crossing incidents, train derailments, train collisions, lost time accident rate, lost time injury rate, employee lost time days.
 
 - **MTA Subway and Bus Lost Time Accidents: Beginning 2021**  
   [Data](https://data.ny.gov/resource/8vjt-4zv4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/8vjt-4zv4) | Last update: Recent  
@@ -1718,10 +1700,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/ej35-turb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ej35-turb) | Last update: Jun 2019
 
 - **Quarterly Census of Employment and Wages Annual Data: Beginning 2000**  
-  [Data](https://data.ny.gov/resource/shc7-xcbw.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/shc7-xcbw) | Last update: Recent
+  [Data](https://data.ny.gov/resource/shc7-xcbw.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/shc7-xcbw) | Last update: Jun 2024
 
 - **Quarterly Census of Employment and Wages Quarterly Data: Beginning 2000**  
-  [Data](https://data.ny.gov/resource/cwsm-2ns3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cwsm-2ns3) | Last update: Recent
+  [Data](https://data.ny.gov/resource/cwsm-2ns3.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cwsm-2ns3) | Last update: Jun 2024
 
 - **RSBS HVAC: New York State Residential Statewide Baseline Study: Heating, Ventilation, and Air Conditioning (HVAC) Contractor Survey**  
   [Data](https://data.ny.gov/resource/aee3-5gf5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/aee3-5gf5) | Last update: Apr 2020  
@@ -1732,11 +1714,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is part 1 (containing: Property Characteristics; Heating and Cooling; Water Heating; Tenant Appliances; Lighting; and Common Area) of 2; part 2 (https://data.ny.gov/d/hc4z-b2p5) contains: Purchasing Decisions; Washer and Dryer; and Miscellaneous.
 
 - **Recharge New York Customers**  
-  [Data](https://data.ny.gov/resource/mkqe-r4dx.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/mkqe-r4dx) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/mkqe-r4dx.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/mkqe-r4dx) | Last update: Jul 2024  
   Recharge New York  Power is available to businesses and not-for-profit corporations for job retention and business expansion and attraction purposes. This dataset contains Recharge New York Customers, including their location, amount of allocation, and amount of jobs committed.
 
 - **Regional Economic Development Councils (REDC)**  
-  [Data](https://data.ny.gov/resource/6u6d-i2fg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6u6d-i2fg) | Last update: Recent
+  [Data](https://data.ny.gov/resource/6u6d-i2fg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6u6d-i2fg) | Last update: Jul 2024
 
 - **Residential Existing Homes (One to Four Units) Energy Efficiency Projects with Income-based Incentives by Customer Type: Beginning 2010**  
   [Data](https://data.ny.gov/resource/assk-vu73.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/assk-vu73) | Last update: Jan 2024  
@@ -1763,7 +1745,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
 
 - **Title and Salary Listing**  
-  [Data](https://data.ny.gov/resource/t3vp-5tka.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t3vp-5tka) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/t3vp-5tka.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t3vp-5tka) | Last update: Jul 2024  
   The Title and Salary Listing is a compilation of job titles under the jurisdiction of the Department of Civil Service.
 
 [[TOP]](#toc)
@@ -1794,7 +1776,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Oregon Legislature passed the Jobs & Transportation Act in 2009, allocating funds to build transportation projects around Oregon. This data gives an update on the status of these projects.
 
 - **Long-Term Rural (LTR) Enterprise Zone EZ - Facilities Reports**  
-  [Data](https://data.oregon.gov/resource/re77-krua.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/re77-krua) | Last update: Feb 2024
+  [Data](https://data.oregon.gov/resource/re77-krua.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/re77-krua) | Last update: Recent  
+  Long-Term Rural Enterprise Zone Facilities Program: Extends property tax abatement for 715 years, compared to the standard three to five years, in most rural enterprise zones. Any type of business activity is eligible, but these incentives depend on local approval and minimum levels for investment size, job creation and employee compensation.
 
 - **Oregon Investment Advantage (OIA)**  
   [Data](https://data.oregon.gov/resource/dws8-8evh.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/dws8-8evh) | Last update: Sep 2023  
@@ -1820,6 +1803,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oregon.gov/resource/mc92-ucqf.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/mc92-ucqf) | Last update: Sep 2023  
   This report includes data from Enterprise Zone Business Projects - with exemptions on qualified property. This is Part A of a four (4) part report. A data dictionary and additional notes document are attached as resources; column header numbers (1-8) can be located in the notes document for additional information.
 
+- **Part A – Enterprise Zone Business Projects - 2024 Exemptions on Qualified Property**  
+  [Data](https://data.oregon.gov/resource/ecbu-9t3b.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/ecbu-9t3b) | Last update: Recent  
+  This report includes data from Enterprise Zone Business Projects - with exemptions on qualified property. This is Part A of a four (4) part report. A data dictionary and additional notes document are attached as resources; column header numbers (1-8) can be located in the notes document for additional information.
+
 - **Part A – Enterprise Zone Business Projects - w2019–20 Exemptions on Qualified Property**  
   [Data](https://data.oregon.gov/resource/5dh8-hbx4.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/5dh8-hbx4) | Last update: Sep 2021  
   This report includes data from Enterprise Zone Business Projects -with exemptions on qualified property.This is Part A of a four (4) part report. A data dictionary and additional notes document are attached as resources. Visit the Oregon Transparency website https://www.oregon.gov/transparency/Pages/index.aspx or Business Oregon https://www.oregon4biz.com/Oregon-Business/ for more information.
@@ -1839,6 +1826,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oregon.gov/resource/k3au-y3cd.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/k3au-y3cd) | Last update: Sep 2023  
   This report includes data from Enterprise Zone Business Projects - with exemptions on qualified property. This is Part B of a four (4) part report. A data dictionary and additional notes document are attached as resources; column header numbers (1-6) can be located in the notes document for additional information.
 
+- **Part B – Enterprise Zone Businesses-Begin Exemption-Qualified Property 2024**  
+  [Data](https://data.oregon.gov/resource/34d8-jf8n.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/34d8-jf8n) | Last update: Recent  
+  This report includes data from Enterprise Zone Business Projects - with exemptions on qualified property. This is Part B of a four (4) part report. A data dictionary and additional notes document are attached as resources; column header numbers (1-6) can be located in the notes document for additional information.
+
 - **Part D – Enterprise Zone Businesses - Authorized for Future Exemption(s) on Qualified Property, 2020**  
   [Data](https://data.oregon.gov/resource/jnkf-pser.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/jnkf-pser) | Last update: Sep 2022
 
@@ -1848,6 +1839,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Part D – Enterprise Zone Businesses - Authorized for Future Exemption(s) on Qualified Property, 2023**  
   [Data](https://data.oregon.gov/resource/8u2c-cdwr.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/8u2c-cdwr) | Last update: Apr 2024  
+  This report includes data from Enterprise Zone Business Projects - with exemptions on qualified property. This is Part D of a four (4) part report. A data dictionary and additional notes document are attached as resources; column header numbers can be located in the notes document for additional information.
+
+- **Part D – Enterprise Zone Businesses - Authorized for Future Exemption(s) on Qualified Property, 2024**  
+  [Data](https://data.oregon.gov/resource/23mq-i49v.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/23mq-i49v) | Last update: Recent  
   This report includes data from Enterprise Zone Business Projects - with exemptions on qualified property. This is Part D of a four (4) part report. A data dictionary and additional notes document are attached as resources; column header numbers can be located in the notes document for additional information.
 
 - **Salaries of Lottery Employees - Multi-Year Report**  
@@ -1922,19 +1917,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.pa.gov/resource/rqq6-7e5m.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/rqq6-7e5m) | Last update: Feb 2022  
   Local area labor force information. Information by calendar year including labor force, employed, unemployed, and unemployment rate. Statewide and county statistics.
 
-- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by County June 2024 Human Services**  
+- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by County June 2024 - Current Monthly Human Services**  
   [Data](https://data.pa.gov/resource/2iyi-sgdn.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/2iyi-sgdn) | Last update: Recent  
   Data is suppressed to ensure personally identifiable information is not indirectly revealed in instances where the data is less than 11 records. 
 
-- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by GenderJune 2024 Human Services**  
+- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by Ethnicity June 2024 - Current Monthly Human Services**  
+  [Data](https://data.pa.gov/resource/t8f8-33js.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/t8f8-33js) | Last update: Recent  
+  Number of individuals enrolled in Medical Assistance Benefits for Workers with Disabilities (MAWD) by Ethnicity with Workers with Job Success (WJS).
+
+- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by GenderJune 2024 - Current Monthly Human Services**  
   [Data](https://data.pa.gov/resource/8pas-z99c.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/8pas-z99c) | Last update: Recent  
   This is the number of individuals enrolled in Medical Assistance Benefits for Workers with Disabilities (MAWD) by Race with Workers with Job Success (WJS).
 
-- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by Race June 2024 Human Services**  
+- **Medical Assistance Benefits for Workers with Disabilities (MAWD) with Work Job Success (WJS) by Race June 2024 - Current Monthly Human Services**  
   [Data](https://data.pa.gov/resource/r5pd-qry2.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/r5pd-qry2) | Last update: Recent  
   Data is suppressed to ensure personally identifiable information is not indirectly revealed in instances where the data is less than 11 records.
 
-- **Medical Assistance Benefits for Workers with Disabilities (MAWD) workers with Job Success (WJS) by Language June 2024 Human Services**  
+- **Medical Assistance Benefits for Workers with Disabilities (MAWD) workers with Job Success (WJS) by Language June 2024 - Current Monthly Human Services**  
   [Data](https://data.pa.gov/resource/hm46-dipj.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/hm46-dipj) | Last update: Recent  
   Data is suppressed to ensure personally identifiable information is not indirectly revealed in instances where the data is less than 11 records.
 
@@ -1943,11 +1942,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Occupational wages do not represent a time series. Due to the prescribed production methodology, current occupational wages are not comparable to previously published occupational wages.
 
 - **PA Child Care Workforce Care Levels Served Current County Human Services**  
-  [Data](https://data.pa.gov/resource/kspe-i3be.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/kspe-i3be) | Last update: Apr 2024  
+  [Data](https://data.pa.gov/resource/kspe-i3be.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/kspe-i3be) | Last update: Recent  
   To protect the confidentiality of participants in OCDELs programs, it is necessary to limit the amount of data that is available, even in aggregate form. Specifically, counts of 10 or less have been suppressed to protect the confidentiality of individuals (Number is not displayed when count of individuals is less than 11.).
 
 - **PA Child Care Workforce Care Levels Served by STAR Level Current Human Services**  
-  [Data](https://data.pa.gov/resource/kwmw-yk2h.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/kwmw-yk2h) | Last update: Apr 2024
+  [Data](https://data.pa.gov/resource/kwmw-yk2h.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/kwmw-yk2h) | Last update: Recent
 
 - **Pennsylvania Professional Licensee Data County State**  
   [Data](https://data.pa.gov/resource/fwj2-whnj.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/fwj2-whnj) | Last update: Mar 2024  
@@ -1958,7 +1957,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Individuals who are physically disabled (but not individuals with an intellectual disability or have a major mental disorder as a primary diagnosis, or who are ventilator dependent), who reside in a Nursing Facility (NF) or the community but who have been assessed to require services at the level of nursing facility level of care.
 
 - **Persons Aged 21 - 64 with Disabilities enrolled with the Office of Long Term Living's Community HealthChoices Waiver Program Statewide Human Services**  
-  [Data](https://data.pa.gov/resource/9rbq-ar2n.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/9rbq-ar2n) | Last update: Feb 2024  
+  [Data](https://data.pa.gov/resource/9rbq-ar2n.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/9rbq-ar2n) | Last update: Recent  
   The Governors Cabinet for People with Disabilities was authorized by Act 36 of 2018. It charges members with, among other things, consistent collection of data and the enforceable sharing of data.
 
 - **Quarterly Census of Employment and Wages (QCEW) 2016-2018 County Labor and Industry**  
@@ -1966,16 +1965,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Quarterly Census of Employment and Wages (QCEW) dataset provides information about the number of establishments within a geographic area by industry as well as the average number of employees and average weekly wages paid.
 
 - **Quarterly Census of Employment and Wages (QCEW) 2019 - Current County Labor and Industry**  
-  [Data](https://data.pa.gov/resource/bm6e-y9xf.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/bm6e-y9xf) | Last update: May 2024  
+  [Data](https://data.pa.gov/resource/bm6e-y9xf.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/bm6e-y9xf) | Last update: Recent  
   The Quarterly Census of Employment and Wages (QCEW) dataset provides information about the number of establishments within a geographic area by industry as well as the average number of employees and average weekly wages paid.
 
 - **Registered Businesses in PA Current by County**  
   [Data](https://data.pa.gov/resource/xvd7-5r2c.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/xvd7-5r2c) | Last update: Recent  
   Due to statutory limitations in removing businesses no longer in operation from our database, this data shows a larger number of active businesses than currently exist.
 
-- **Secondary Perkins Indicators by Fiscal Agent School Years 2015-2016 to Current Education**  
-  [Data](https://data.pa.gov/resource/t5ij-p6vv.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/t5ij-p6vv) | Last update: Jan 2020  
-  This dataset contains the Secondary Perkins Indicators by Fiscal Agent for school years 2015-2016 to current.
+- **Secondary Perkins Indicators by Fiscal Agent SY 2017 - Current Education**  
+  [Data](https://data.pa.gov/resource/t5ij-p6vv.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/t5ij-p6vv) | Last update: Recent  
+  This dataset contains the Secondary Perkins Indicators by Fiscal Agent for school years.
 
 - **Supply/Demand Gap Analysis 2014-2024 State System of Higher Education**  
   [Data](https://data.pa.gov/resource/n3sx-ckrr.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/n3sx-ckrr) | Last update: Sep 2022
@@ -2015,6 +2014,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Countywide Workforce Statistics Data**  
   [Data](https://data.ramseycounty.us/resource/3d5g-2g6z.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/3d5g-2g6z) | Last update: Mar 2022  
   This section of the Ramsey County Workforce Statistics Report summarizes data of Ramsey County full and part-time employees: by Race & Ethnicity, EEO-4 categories, and Gender, including new hires, promotions and separations. The data does not include intermittent employees, student workers, student interns or temporary staff.
+
+- **Dislocated Worker program**  
+  [Data](https://data.ramseycounty.us/resource/wymy-rstr.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/wymy-rstr) | Last update: Jun 2024  
+  The Dislocated Worker program serves individuals who have lost their job through no fault of their own. It is a return to work program.
 
 - **Employee Compensation**  
   [Data](https://data.ramseycounty.us/resource/j6yb-2znn.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/j6yb-2znn) | Last update: May 2024  
@@ -2150,8 +2153,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.vermont.gov/resource/69uf-6qeu.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/69uf-6qeu) | Last update: Aug 2021  
   Employees in the respective county offices , such as States Attorneys, Sheriffs and Deputy States Attorneys are County employees not State employees.
 
-- **Total Compensation and Expenses FY2020 - 2023**  
-  [Data](https://data.vermont.gov/resource/2is8-zt8g.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/2is8-zt8g) | Last update: Aug 2023  
+- **Total Compensation and Expenses FY2020 - 2024**  
+  [Data](https://data.vermont.gov/resource/2is8-zt8g.json) | [Docs](https://dev.socrata.com/foundry/data.vermont.gov/2is8-zt8g) | Last update: Recent  
   State employee salary, benefits and expense reimbursement information starting with fiscal year 2020. For the purpose of this report, all employees of the Department of States Attorneys and Sheriffs are included. Employees in the respective county offices , such as States Attorneys, Sheriffs and Deputy States Attorneys are County employees not State employees.
 
 - **Total Pay and Expenses FY2009-2014**  
@@ -2324,7 +2327,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.transportation.gov
 
 - **2022 NTD Annual Data - Funding Sources (Federal)**  
-  [Data](https://datahub.transportation.gov/resource/qpjk-b3zw.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/qpjk-b3zw) | Last update: May 2024  
+  [Data](https://datahub.transportation.gov/resource/qpjk-b3zw.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/qpjk-b3zw) | Last update: Recent  
   This dataset details federal funding sources for each applicable agency reporting to the NTD in Report Year 2022. Federal funding sources are financial assistance obtained from the Federal Government to assist with the costs of providing transit services.
 
 - **Injury/Illness Summary - Casualty Data (Form 55a)**  
@@ -2340,7 +2343,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usaid.gov
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 7**  
-  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Jul 2024  
   They should be reassembled by the user to understand the data fully. This is the seventh spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Ethiopia Pastoralist Areas Resilience Improvement and Market Expansion (PRIME) Project IE--Household Information: Section 3**  
@@ -2348,27 +2351,27 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   They should be reassembled by the user to understand the data fully. This is the third spreadsheet of three in the Ethiopia Pastoralist Areas Resilience Improvement and Market Expansion (PRIME) Project IE--Household Information.
 
 - **Facility Assessment**  
-  [Data](https://datahub.usaid.gov/resource/9bie-z8ei.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9bie-z8ei) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/9bie-z8ei.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9bie-z8ei) | Last update: Jun 2024  
   The evaluation team used a retrospective analytic and a cross-sectional design to address the five questions, and mixed methods were used for data collection, including reviews of the national District Health Information System (DHIS) 2, MCSP-MNCH datasets, and 51 program documents.
 
 - **LASER Africa Higher Education Institutions Assessment Survey 2019**  
-  [Data](https://datahub.usaid.gov/resource/heeb-hbz5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/heeb-hbz5) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/heeb-hbz5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/heeb-hbz5) | Last update: Jun 2024  
   The survey from which this dataset was derived was conducted by Makerere University, one of LASER's five consortium partners. This dataset contains cross-sectional data pertaining to 27 Sub-Saharan African universities located within 12 countries.
 
 - **New Alliance ICT Extension Challenge Fund: Baseline Survey for Aybar and Bio Fertilizer**  
-  [Data](https://datahub.usaid.gov/resource/rrdn-g8qa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rrdn-g8qa) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/rrdn-g8qa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rrdn-g8qa) | Last update: Jul 2024  
   Dataset for the baseline surveys for Aybar BBM & biofertilizer. This dataset explores demographic details as well as knowledge, attitudes and practices of farmers in intervention zones in Ethiopia in relation to the above agricultural innovations. Furthermore, the surveys provide radio and ICT exposure information which will be used to measure changes in KAPs at endline.
 
 - **New Alliance ICT Extension Challenge Fund: Baseline Survey for Blended Fertilizer**  
-  [Data](https://datahub.usaid.gov/resource/ku2f-jezn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ku2f-jezn) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ku2f-jezn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ku2f-jezn) | Last update: Jul 2024  
   Data sets for the baseline survey for blended fertilizer. This dataset explores demographic details as well as knowledge, attitudes and practices of farmers in intervention zones in Ethiopia in relation to the above agricultural innovations. Furthermore, the surveys provide radio and ICT exposure information which will be used to measure changes in KAPs at endline.
 
 - **New Alliance ICT Extension Challenge Fund: Midterm Survey for Aybar and Bio Fertilizer**  
-  [Data](https://datahub.usaid.gov/resource/e426-9ygt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e426-9ygt) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/e426-9ygt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e426-9ygt) | Last update: Jul 2024  
   Dataset for the midterm evaluation for Aybar BBM & biofertilizer. This dataset explores demographic details as well as knowledge, attitudes and practices of farmers in intervention zones in Ethiopia in relation to the above agricultural innovations. Furthermore, the surveys provide radio and ICT exposure information which will be used to measure changes in KAPs at endline.
 
 - **Sustainability Tool**  
-  [Data](https://datahub.usaid.gov/resource/pfjy-6f9f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pfjy-6f9f) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/pfjy-6f9f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pfjy-6f9f) | Last update: Jun 2024  
   The evaluation team used a retrospective analytic and a cross-sectional design to address the five questions, and mixed methods were used for data collection, including reviews of the national District Health Information System (DHIS) 2, MCSP-MNCH datasets, and 51 program documents.
 
 [[TOP]](#toc)
@@ -2495,11 +2498,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## internal.open.piercecountywa.gov
 
 - **COVID Tracking - Permit Activity by Sector**  
-  [Data](https://internal.open.piercecountywa.gov/resource/mc4a-gv26.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/mc4a-gv26) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/mc4a-gv26.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/mc4a-gv26) | Last update: Jun 2024  
   Number of permits by sector
 
 - **COVID-19 Emergency Small Business Relief Loan Program**  
-  [Data](https://internal.open.piercecountywa.gov/resource/pka8-ktt5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/pka8-ktt5) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/pka8-ktt5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/pka8-ktt5) | Last update: Jun 2024  
   Summary data for weekly applications received
 
 - **Covered employment**  
@@ -2551,19 +2554,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Total private-sector employment for jobs covered by Unemployment Insurance as reported by employers through the Quarterly Census of Employment and Wages (QCEW).
 
 - **Economic - Workers Commute from Pierce County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/scit-dybe.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/scit-dybe) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/scit-dybe.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/scit-dybe) | Last update: Jun 2024  
   Number of workers commuting from Pierce County to other counties in Washington. Data is sourced from LEHD Origin-Destination Employment Statistics (LODES). Sample Universe: Workers 16 years (members of the Armed Forces and civilians) who were at work during the reference year.
 
 - **Economic - Workers Commute to Pierce County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/ddqy-syk9.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ddqy-syk9) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/ddqy-syk9.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ddqy-syk9) | Last update: Jun 2024  
   Number of workers commuting to Pierce County from other counties in Washington. Data is sourced from LEHD Origin-Destination Employment Statistics (LODES). Sample Universe: Workers 16 years (members of the Armed Forces and civilians) who were at work during the reference week.
 
 - **Economic Poverty Rate by County WA**  
-  [Data](https://internal.open.piercecountywa.gov/resource/xyg9-chf5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xyg9-chf5) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/xyg9-chf5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xyg9-chf5) | Last update: Jun 2024  
   Count and rate of population with income in the last 12 months below poverty level in an area. ( B17001). County and State values are from ACS  1-year survey.
 
 - **Equity Index**  
-  [Data](https://internal.open.piercecountywa.gov/resource/szgb-8wvm.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/szgb-8wvm) | Last update: Recent
+  [Data](https://internal.open.piercecountywa.gov/resource/szgb-8wvm.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/szgb-8wvm) | Last update: Jul 2024
 
 - **Executive Priority Projects**  
   [Data](https://internal.open.piercecountywa.gov/resource/cua9-bjvp.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/cua9-bjvp) | Last update: Apr 2024  
@@ -2582,7 +2585,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Total number and percent of jobs in Pierce County with an annual average wage at or above 80% of the median household income for the corresponding year for Pierce County.
 
 - **Geographic - Pierce County Land**  
-  [Data](https://internal.open.piercecountywa.gov/resource/c4ch-39ze.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c4ch-39ze) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/c4ch-39ze.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c4ch-39ze) | Last update: Jun 2024  
   Qualitative of land use in Pierce County. Data from multiple sources including:http://publiclandsinventory.wa.gov; Washington State Office of Financial Management; Pierce County Planing and Public Works.
 
 - **Geographic - Public Land Pierce County**  
@@ -2605,7 +2608,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://internal.open.piercecountywa.gov/resource/8q8c-wexj.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/8q8c-wexj) | Last update: Jul 2019
 
 - **Median Household Income**  
-  [Data](https://internal.open.piercecountywa.gov/resource/49e4-8ct5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/49e4-8ct5) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/49e4-8ct5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/49e4-8ct5) | Last update: Jun 2024  
   Census Tract values are from the ACS 5 Year Survey while County and State values are from the ACS 1 Year Survey.
 
 - **Monthly Unemployment Rate**  
@@ -2620,7 +2623,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://internal.open.piercecountywa.gov/resource/esuz-yhgd.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/esuz-yhgd) | Last update: Recent
 
 - **RSK On-the-Job Injury Claims**  
-  [Data](https://internal.open.piercecountywa.gov/resource/2ri8-yyc9.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/2ri8-yyc9) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/2ri8-yyc9.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/2ri8-yyc9) | Last update: Jun 2024  
   Annual number of on-the-job injury claims
 
 - **RSK On-the-Job Injury Claims by Department**  
@@ -2636,7 +2639,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Employment levels and percentages of veterans and non-veterans in the labor force over time.
 
 - **Washington Employer Numbers by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/fc2m-2e42.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/fc2m-2e42) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/fc2m-2e42.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/fc2m-2e42) | Last update: Jun 2024  
   Covered Employment from the Quarterly Census of Employment and Wages
 
 [[TOP]](#toc)
@@ -2717,11 +2720,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/vtga-efxt.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/vtga-efxt) | Last update: Recent
 
 - **Taxable Property Values in Iowa by Tax District and Year**  
-  [Data](https://mydata.iowa.gov/resource/ig9g-pba5.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ig9g-pba5) | Last update: Recent  
+  [Data](https://mydata.iowa.gov/resource/ig9g-pba5.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ig9g-pba5) | Last update: Jul 2024  
   This dataset contains taxable property values for classes of real property in Iowa by tax district. Taxable values are based on assessed valuations after application of the statutory assessment limitation (i.e. rollback), and is the value to which tax rates are applied (e.g. 2012 net taxable valuations are used for the FY 2014 property tax levies).
 
 - **Worker's Compensation**  
-  [Data](https://mydata.iowa.gov/resource/8j5h-utmb.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/8j5h-utmb) | Last update: Recent  
+  [Data](https://mydata.iowa.gov/resource/8j5h-utmb.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/8j5h-utmb) | Last update: Jul 2024  
   Resolving Workers' Compensation petitions.
 
 - **Workforce Innovation and Opportunity Act Program**  
@@ -2831,7 +2834,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data from the Bureau of Labor Statistics (BLS) Current Employment Statistics (CES) program. CES data represents businesses and government agencies, providing detailed industry data on employment on nonfarm payrolls.
 
 - **Choose Maryland: Compare Counties - Transportation**  
-  [Data](https://opendata.maryland.gov/resource/ief7-i74z.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/ief7-i74z) | Last update: Recent  
+  [Data](https://opendata.maryland.gov/resource/ief7-i74z.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/ief7-i74z) | Last update: Jul 2024  
   Workforce travel habits - commute times and destinations.
 
 - **Commerce Dashboard Measures - Fiscal Year Part 2**  
@@ -2863,7 +2866,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Average Wage Per Job in Maryland and its Jurisdictions in Current Dollars from 2012 to 2022. Source data from U.S. Bureau of Economic Analysis, December 2023.
 
 - **Maryland Commerce Consolidated Finance Tracker Data**  
-  [Data](https://opendata.maryland.gov/resource/cf3i-xdgb.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/cf3i-xdgb) | Last update: Recent  
+  [Data](https://opendata.maryland.gov/resource/cf3i-xdgb.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/cf3i-xdgb) | Last update: Jul 2024  
   The Maryland Department of Commerce collects and publishes its Commerce Consolidated Finance Tracker data to provide information on how the agency's grants, tax credits, equity investments and loan enhancements were distributed between FY 2016 and the most recent past fiscal year. Users can search and sort by company, amount, location and program.
 
 - **Maryland Full And Part Time Jobs By Industry: 2010 to 2020**  

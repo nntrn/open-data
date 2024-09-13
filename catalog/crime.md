@@ -35,7 +35,6 @@
 - [data.memphistn.gov](#datamemphistngov)
 - [data.miamigov.com](#datamiamigovcom)
 - [data.montgomerycountymd.gov](#datamontgomerycountymdgov)
-- [data.nashville.gov](#datanashvillegov)
 - [data.nj.gov](#datanjgov)
 - [data.nola.gov](#datanolagov)
 - [data.norfolk.gov](#datanorfolkgov)
@@ -65,6 +64,7 @@
 - [gnb.socrata.com](#gnbsocratacom)
 - [internal-ct.data.socrata.com](#internal-ctdatasocratacom)
 - [internal-sandiegocounty.data.socrata.com](#internal-sandiegocountydatasocratacom)
+- [internal.chattadata.org](#internalchattadataorg)
 - [internal.open.piercecountywa.gov](#internalopenpiercecountywagov)
 - [janesville.data.socrata.com](#janesvilledatasocratacom)
 - [mesa-az.demo.socrata.com](#mesa-azdemosocratacom)
@@ -96,7 +96,7 @@
 
 > **NOTE**  
 > * (%) denotes strategic dataset
-> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
+> * Datasets updated in the last 60 days (as of 2024-09-13) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=crime
 
@@ -156,11 +156,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## citydata.mesaaz.gov
 
 - **City of Mesa Population**  
-  [Data](https://citydata.mesaaz.gov/resource/89tz-2g4j.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/89tz-2g4j) | Last update: Recent  
+  [Data](https://citydata.mesaaz.gov/resource/89tz-2g4j.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/89tz-2g4j) | Last update: Jul 2024  
   City of Mesa population provided by Census Bureau Population Estimates Program (PEP) updated annually as of July 1. See Population and Housing Unit Estimates. Census PEP estimates are used for state revenue sharing per AZ statute (42-5033.01).
 
 - **Crime Reporting Statistics**  
-  [Data](https://citydata.mesaaz.gov/resource/37q9-d27y.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/37q9-d27y) | Last update: Recent  
+  [Data](https://citydata.mesaaz.gov/resource/37q9-d27y.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/37q9-d27y) | Last update: Jul 2024  
   Coming soon, look for a new dataset based on NIBRS, which will provide more complete and comprehensive data for law enforcement, researchers, and the public.
 
 - **Homeless Outreach Project (HOP) - Police**  
@@ -254,7 +254,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Crime incident reports beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society that occurred within the City of Baton Rouge and responded to by the Baton Rouge Police Department.
 
 - **Crime Prevention District**  
-  [Data](https://data.brla.gov/resource/ms63-rwj2.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ms63-rwj2) | Last update: Apr 2024  
+  [Data](https://data.brla.gov/resource/ms63-rwj2.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ms63-rwj2) | Last update: Recent  
   Polygon geometry with attributes displaying crime prevention districts in East Baton Rouge Parish, Louisiana.
 
 - **EBR Sheriff's Office Crime Incidents**  
@@ -464,7 +464,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/qybk-bjjc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qybk-bjjc) | Last update: May 2022
 
 - **2015 - 16 School Safety Report**  
-  [Data](https://data.cityofnewyork.us/resource/44t3-dj6x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/44t3-dj6x) | Last update: Recent
+  [Data](https://data.cityofnewyork.us/resource/44t3-dj6x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/44t3-dj6x) | Last update: Jul 2024
 
 - **2016 - 2017 School Safety Report**  
   [Data](https://data.cityofnewyork.us/resource/rear-wh5i.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rear-wh5i) | Last update: May 2022
@@ -544,7 +544,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Each record represents a shooting incident in NYC and includes information about the event, the location and time of occurrence. In addition, information related to suspect and victim demographics is also included. This data can be used by the public to explore the nature of police enforcement activity. Please refer to the attached data footnotes for additional information about this dataset.
 
 - **NYPD Vehicle Stop Reports**  
-  [Data](https://data.cityofnewyork.us/resource/hn9i-dwpr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hn9i-dwpr) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/hn9i-dwpr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hn9i-dwpr) | Last update: Jun 2024  
   Police incident level data documenting vehicular stops. Data is collected under New York City Administrative Code 14-191 and may be used to gain insight into police-initiated vehicle stops, demographics of people stopped, details of vehicles involved and resulting action of stops, if any.
 
 [[TOP]](#toc)
@@ -715,7 +715,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.kcmo.org/resource/98is-shjt.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/98is-shjt) | Last update: Mar 2018
 
 - **KCPD Crime Data 2018**  
-  [Data](https://data.kcmo.org/resource/dmjw-d28i.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/dmjw-d28i) | Last update: Apr 2019
+  [Data](https://data.kcmo.org/resource/dmjw-d28i.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/dmjw-d28i) | Last update: Recent
 
 - **KCPD Crime Data 2019**  
   [Data](https://data.kcmo.org/resource/pxaa-ahcm.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/pxaa-ahcm) | Last update: Mar 2021
@@ -801,7 +801,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.marincounty.org
 
 - **County Sheriff Reported Crimes**  
-  [Data](https://data.marincounty.org/resource/ahxi-5nsc.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/ahxi-5nsc) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/ahxi-5nsc.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/ahxi-5nsc) | Last update: Jul 2024  
   Reported crimes of the Marin County Sheriff's Department. Data is updated every four hours. Data begins as of January 1, 2013. Each reported crime includes its date/time, approximate location, crime type, and crime classification.
 
 - **Defendant Court Dates - Public Defender**  
@@ -814,7 +814,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.memphistn.gov
 
 - **Memphis Police Department Aggregate Crime**  
-  [Data](https://data.memphistn.gov/resource/n7ue-iwew.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/n7ue-iwew) | Last update: Recent  
+  [Data](https://data.memphistn.gov/resource/n7ue-iwew.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/n7ue-iwew) | Last update: Jun 2024  
   This dataset shows the number of major property crimes and major violent crimes reported by MPD each month.
 
 - **Memphis Police Department: Public Safety Incidents**  
@@ -861,27 +861,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Trespass Towing Report**  
   [Data](https://data.montgomerycountymd.gov/resource/i6vn-3s6e.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/i6vn-3s6e) | Last update: Recent  
   Vehicular towing in the County, per applicable regulations, as reported to the Police Department. This dataset is updated monthly.
-
-[[TOP]](#toc)
-
-
-## data.nashville.gov
-
-- **Metro Nashville Police Department Active Dispatch**  
-  [Data](https://data.nashville.gov/resource/qywv-8sc2.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/qywv-8sc2) | Last update: Recent  
-  Current active major incident calls for service received by the Emergency Communications Center dispatched to Metro Nashville Police Department. Updated approximately every 15 minutes.
-
-- **Metro Nashville Police Department Calls for Service**  
-  [Data](https://data.nashville.gov/resource/kwnd-qrrm.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/kwnd-qrrm) | Last update: Recent  
-  Details about emergency and non-emergency calls for Metro Nashville Police Department service received by the Emergency Communications Center.
-
-- **Metro Nashville Police Department Incidents**  
-  [Data](https://data.nashville.gov/resource/2u6v-ujjs.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/2u6v-ujjs) | Last update: Recent  
-  Details about Metro Nashville Police Department reported incidents. An incident is defined as one or more crimes committed by an individual or a group of individuals acting in concert and at the same time and place.
-
-- **Metro Resident Survey Responses**  
-  [Data](https://data.nashville.gov/resource/nux7-cwab.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/nux7-cwab) | Last update: May 2020  
-  Responses by Davidson County Residents to the Metro Resident Survey
 
 [[TOP]](#toc)
 
@@ -1038,7 +1017,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/mrvf-vpe5.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/mrvf-vpe5) | Last update: Nov 2023
 
 - **Department of Justice: Justice Centres/Courts**  
-  [Data](https://data.novascotia.ca/resource/xdjw-yy9m.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/xdjw-yy9m) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/xdjw-yy9m.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/xdjw-yy9m) | Last update: Jul 2024  
   This dataset lists the location of Justice Centres/Courts throughout the province.
 
 - **Familiarity with the Nova Scotia Justice System**  
@@ -1099,7 +1078,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/6xda-q7ev.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6xda-q7ev) | Last update: Nov 2023
 
 - **Incarcerated Individuals Under Custody: Beginning 2008**  
-  [Data](https://data.ny.gov/resource/55zc-sp6m.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/55zc-sp6m) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/55zc-sp6m.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/55zc-sp6m) | Last update: Jul 2024  
   Represents incarcerated individuals under custody in NYS Department of Corrections and Community Supervision as of March 31 of the snapshot year.
 
 - **Index Crimes by County and Agency: Beginning 1990**  
@@ -1112,7 +1091,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/nymx-kgkn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/nymx-kgkn) | Last update: Feb 2024
 
 - **Law Enforcement Personnel by Agency: Beginning 2007**  
-  [Data](https://data.ny.gov/resource/khn9-hhpq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/khn9-hhpq) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/khn9-hhpq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/khn9-hhpq) | Last update: Jul 2024  
   The Division of Criminal Justice Services (DCJS) collects personnel statistics from more than 500 New York State police and sheriffs departments. In New York State, law enforcement agencies use the Uniform Crime Reporting (UCR) system to report their annual personnel counts to DCJS.
 
 - **MTA Major Felonies**  
@@ -1162,7 +1141,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These data contain the results of several local district investigations initiated by flagged cases of the States cash public assistance programs, and the Supplemental Nutrition Assistance Program (SNAP).
 
 - **Releasees Under Community Supervision: Beginning 2008**  
-  [Data](https://data.ny.gov/resource/pmxm-gftz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pmxm-gftz) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/pmxm-gftz.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pmxm-gftz) | Last update: Jun 2024  
   Provides data about releasees under community supervision on March 31 of the snapshot year. Information includes region of supervision, county of residence, snapshot year, supervision level, gender, age, and race/ethnicity as of the file date, and crime type for most serious instant offense.
 
 - **Security Level and Facility by Crime Group, Under Custody**  
@@ -1238,7 +1217,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   When violations of The Controlled Substance, Drug, Device and Cosmetic Act are reported, the required statistical information concerning the incident shall be entered into the Statistical Narcotic Reporting System (SNRS).
 
 - **Safe Schools Drug and Alcohol Use SY 2012 - Current County Education**  
-  [Data](https://data.pa.gov/resource/umiz-nsja.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/umiz-nsja) | Last update: Oct 2022  
+  [Data](https://data.pa.gov/resource/umiz-nsja.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/umiz-nsja) | Last update: Recent  
   The data and more information is also published and searchable online on the https://www.education.pa.gov/Schools/safeschools/Pages/default.aspx website under School Safety.
 
 [[TOP]](#toc)
@@ -1325,7 +1304,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.sccgov.org
 
 - **Crime Reports**  
-  [Data](https://data.sccgov.org/resource/n9u6-aijz.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/n9u6-aijz) | Last update: Feb 2024  
+  [Data](https://data.sccgov.org/resource/n9u6-aijz.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/n9u6-aijz) | Last update: Recent  
   Santa Clara County Sheriff's Office incident dataset
 
 - **Santa Clara County Cases of Media Interest**  
@@ -1492,7 +1471,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.austintexas.gov
 
 - **2019 Racial Profiling (RP) Citations**  
-  [Data](https://datahub.austintexas.gov/resource/uzta-a386.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzta-a386) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/uzta-a386.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uzta-a386) | Last update: Jun 2024  
   See 2019 Racial Profiling Guide for a description of fields.
 
 - **APD Arrests**  
@@ -1500,11 +1479,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   When an officer finds it necessary to arrest an individual, such as upon witnessing a crime, having probable cause, or acting on a judge-issued arrest warrant, they are required to write an arrest report. The arrest report details the conditions of the arrest and directly pertains to the individual in question. Additionally, it includes specific details of the charges associated with the arrest.
 
 - **APD Average Response Time by Day and Hour**  
-  [Data](https://datahub.austintexas.gov/resource/fsje-8gq2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fsje-8gq2) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/fsje-8gq2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fsje-8gq2) | Last update: Jul 2024  
   This Dataset includes the average response time by Call Priority across days of the week and hours of the day. Response Times reflect the same information contained in the APD 911 Calls for Service 2019-2024 dataset.
 
 - **APD Commendations**  
-  [Data](https://datahub.austintexas.gov/resource/t4xg-fnyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t4xg-fnyp) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/t4xg-fnyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t4xg-fnyp) | Last update: Jul 2024  
   Austin Police Department General Order 922 states, "Any employee, group of employees, or individual outside of the Department may initiate the creation of a personal commendation to honor an employee or group of employees for exceptional performance."
 
 - **APD Computer Aided Dispatch Incidents**  
@@ -1512,15 +1491,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data excludes records that were cancelled after being identified as duplicates of the same incident, such as when two 911 calls are made for the same incident. It also excludes records that were cancelled because they were handled by another agency such as Austin Fire or Austin-Travis County Emergency Medical Services or because they were found to not require a police response.
 
 - **APD Data Dictionary**  
-  [Data](https://datahub.austintexas.gov/resource/6w8q-suwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6w8q-suwv) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/6w8q-suwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/6w8q-suwv) | Last update: Jun 2024  
   City of Austin Open Data Terms of Use - https://data.austintexas.gov/stories/s/ranj-cccq
 
 - **APD Immigration Status Inquiries**  
-  [Data](https://datahub.austintexas.gov/resource/pfjx-tjrm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pfjx-tjrm) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/pfjx-tjrm.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/pfjx-tjrm) | Last update: Jul 2024  
   Before officers inquire into immigration status, they must instruct the detainee or arrestee that the detainee or arrestee is not compelled to respond to the inquiry and that the detainee or arrestee will not be subjected to additional law enforcement action because of their refusal to respond.
 
 - **APD Searches by Type**  
-  [Data](https://datahub.austintexas.gov/resource/j8ta-6rms.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/j8ta-6rms) | Last update: Mar 2024  
+  [Data](https://datahub.austintexas.gov/resource/j8ta-6rms.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/j8ta-6rms) | Last update: Recent  
   Both the federal and state Constitutions provide every individual with the right to be free from unreasonable searches and seizures. This order provides general guidelines for Austin Police Department personnel to consider when dealing with search and seizure issues.
 
 - **APD Use of Force**  
@@ -1530,6 +1509,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **APD Warnings**  
   [Data](https://datahub.austintexas.gov/resource/qwt7-pfwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qwt7-pfwv) | Last update: Recent  
   This dataset provides the case report number, the date the incident occurred, subject race and gender at the time of the interaction and the lead charge. This dataset contains only instances where a warning was issued to the subject of the interaction for a violation.
+
+- **Annual Crime Dataset 2015**  
+  [Data](https://datahub.austintexas.gov/resource/spbg-9v94.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/spbg-9v94) | Last update: Jun 2024  
+  Care should be taken when comparing against other reports as different data collection methods and different data sources may have been used.
+
+- **Crime Reports**  
+  [Data](https://datahub.austintexas.gov/resource/fdj4-gpfu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fdj4-gpfu) | Last update: Recent  
+  Pursuant to section 552.301 (c) of the Government Code, the City of Austin has designated certain addresses to receive requests for public information sent by electronic mail. For requests seeking public records held by the Austin Police Department, please submit by utilizing the following link:
 
 - **NIBRS Group A Offense Crimes**  
   [Data](https://datahub.austintexas.gov/resource/i7fg-wrk5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i7fg-wrk5) | Last update: Recent  
@@ -1554,381 +1541,381 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usaid.gov
 
 - **Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data: Section 7**  
-  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/whyd-kije.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/whyd-kije) | Last update: Jul 2024  
   They should be reassembled by the user to understand the data fully. This is the seventh spreadsheet of seven in the Baseline Survey for an Impact Evaluation of the Greenbelt Transformation Initiative in South Sudan-Data.
 
 - **Final Performance Evaluation of the USAID/Jamaica Social Enterprise Boost Initiative (SEBI), Beneficiary Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/9njk-wzk7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9njk-wzk7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/9njk-wzk7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9njk-wzk7) | Last update: Jun 2024  
   The ET pursued three separate, yet interlinked, data collection activities that formed the basis of its methodological approach to conducting the SEBI evaluation as follows:
 
 - **Final Performance Evaluation of the USAID/Jamaica Social Enterprise Boost Initiative (SEBI), Household Perception Survey Data**  
-  [Data](https://datahub.usaid.gov/resource/2euu-4fc4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2euu-4fc4) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/2euu-4fc4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2euu-4fc4) | Last update: Jul 2024  
   The purpose of this evaluation of the Social Enterprise Boost Initiative (SEBI) is to determine whether the SEBI activity achieved its objectives and gain lessons for implemen
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP) - Dominican Republic, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/6rb4-naam.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6rb4-naam) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/6rb4-naam.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6rb4-naam) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Bolivia, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/tdw7-gfxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tdw7-gfxa) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/tdw7-gfxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tdw7-gfxa) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Bolivia as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/di5u-g35d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/di5u-g35d) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/di5u-g35d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/di5u-g35d) | Last update: Jul 2024  
   The 2006 survey was conducted by Universidade Federal de Goias (UFG), with scientific direction being provided by Mitchell A. Seligson.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/mm3i-pcnd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mm3i-pcnd) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/mm3i-pcnd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mm3i-pcnd) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University and Universidade de Brasilia with the field work being done by Cedatos.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/cda6-nzy2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cda6-nzy2) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/cda6-nzy2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cda6-nzy2) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Brazil as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/nuj6-mztw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nuj6-mztw) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/nuj6-mztw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nuj6-mztw) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Brazil as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Brazil, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/yheg-5vyr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yheg-5vyr) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/yheg-5vyr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yheg-5vyr) | Last update: Jul 2024
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/swua-cecv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/swua-cecv) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/swua-cecv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/swua-cecv) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Colombia as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2010 - Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/2qhi-mvtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2qhi-mvtc) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/2qhi-mvtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2qhi-mvtc) | Last update: Jul 2024  
   The 2010 survey was conducted by Vanderbilt University and Universidad de los Andes, and the Observatorio de la Democracia with the field work being carried out by the Centro Nacional de Consultora. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2010 - Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/nmek-ecs8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nmek-ecs8) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/nmek-ecs8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nmek-ecs8) | Last update: Jul 2024  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2010 - Data.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2012 - Data: Section 1**  
-  [Data](https://datahub.usaid.gov/resource/53b9-5u8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/53b9-5u8a) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/53b9-5u8a.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/53b9-5u8a) | Last update: Jul 2024  
   The 2012 survey was conducted by Vanderbilt University and Universidad de los Andes, and the Observatorio de la Democracia with the field work being carried out by the Centro Nacional de Consultora. In the process of migrating data to the current DDL platform, datasets with a large number of variables required splitting into multiple spreadsheets.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2012 - Data: Section 2**  
-  [Data](https://datahub.usaid.gov/resource/n5tx-45ad.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n5tx-45ad) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/n5tx-45ad.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n5tx-45ad) | Last update: Jul 2024  
   They should be reassembled by the user to understand the data fully. This is the second spreadsheet of twoin the The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2012 - Data.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Colombia, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ckz6-tdpv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ckz6-tdpv) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ckz6-tdpv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ckz6-tdpv) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University and the Universidad de los Andes and the Observatorio de la Democracia with the field work being carried out by the Centro Nacional de Consultoria (CNC). The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vqgx-xd8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqgx-xd8p) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/vqgx-xd8p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqgx-xd8p) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Costa Rica as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/3csv-rdvi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3csv-rdvi) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/3csv-rdvi.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3csv-rdvi) | Last update: Jul 2024  
   The 2006 survey was conducted by Vanderbilt University, and the field work was carried out by Central American Population Center (CCP) of the University of Costa Rica.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/id9u-r844.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/id9u-r844) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/id9u-r844.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/id9u-r844) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University, the Central American Population Center (CCP) of the University of Costa Rica and the field work was carried out by Borge y Asociados.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/yn5p-z73k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn5p-z73k) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/yn5p-z73k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn5p-z73k) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Costa Rica as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/bnm9-ctjm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnm9-ctjm) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/bnm9-ctjm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnm9-ctjm) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Costa Rica as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Costa Rica, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/gqth-5wdk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gqth-5wdk) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/gqth-5wdk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gqth-5wdk) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Borge y Asociados. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/g8zy-ub4s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g8zy-ub4s) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/g8zy-ub4s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g8zy-ub4s) | Last update: Jul 2024  
   The 2004 survey was conducted by El Centro Universitario de Estudios Politicos y Sociales (CUEPS) of the Potificia Universidad Catolica Madre y Maestra and the Centro de Estudios Sociales y Demograficos (CESDEM).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/gbtn-axrr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gbtn-axrr) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/gbtn-axrr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gbtn-axrr) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/7ps6-trtf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7ps6-trtf) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/7ps6-trtf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7ps6-trtf) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2008 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/96yq-tiyw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/96yq-tiyw) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/96yq-tiyw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/96yq-tiyw) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Dominican Republic as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-DominicanRepublic, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/2tzw-gkr2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2tzw-gkr2) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/2tzw-gkr2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2tzw-gkr2) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Gallup Republica Dominica. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Ecuador, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/cxfe-upsf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cxfe-upsf) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/cxfe-upsf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cxfe-upsf) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Ecuador as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Ecuador, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/p2b6-viv7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p2b6-viv7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/p2b6-viv7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p2b6-viv7) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Ecuador as part of its 2010 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Ecuador, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/q6fx-djfz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q6fx-djfz) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/q6fx-djfz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q6fx-djfz) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Ecuador as part of its 2012 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kxej-4vrh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kxej-4vrh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/kxej-4vrh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kxej-4vrh) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/xwk9-btv2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xwk9-btv2) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/xwk9-btv2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xwk9-btv2) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2008**  
-  [Data](https://datahub.usaid.gov/resource/j8za-wmzx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j8za-wmzx) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/j8za-wmzx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j8za-wmzx) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2008 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/d4g3-yina.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d4g3-yina) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/d4g3-yina.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d4g3-yina) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/92ef-4big.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/92ef-4big) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/92ef-4big.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/92ef-4big) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in El Salvador as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-El Salvador, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/6srb-set9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6srb-set9) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/6srb-set9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6srb-set9) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University and FUNDAUNGO. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/7d3u-8vir.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7d3u-8vir) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/7d3u-8vir.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7d3u-8vir) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vfdx-xeu7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vfdx-xeu7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/vfdx-xeu7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vfdx-xeu7) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kukx-2bxs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kukx-2bxs) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/kukx-2bxs.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kukx-2bxs) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University and Asociacin de Investigacin y Estudios Sociales (ASIES) with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/i6af-tjjh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i6af-tjjh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/i6af-tjjh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i6af-tjjh) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/4wrp-eez7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4wrp-eez7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/4wrp-eez7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4wrp-eez7) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guatemala as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guatemala, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/a9u3-7mum.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a9u3-7mum) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/a9u3-7mum.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a9u3-7mum) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University and Asociation de Investigacion y Estudios Sociales (ASIES). The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/m6yn-kw7d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/m6yn-kw7d) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/m6yn-kw7d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/m6yn-kw7d) | Last update: Jul 2024  
   The 2006 survey was conducted by Vanderbilt University and the Institute of Development Studies (IDS) of the University of Guyana funded by USAID.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/hqy4-h53s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hqy4-h53s) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hqy4-h53s.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hqy4-h53s) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Guyana as part of its 2008 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/grkm-nim6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/grkm-nim6) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/grkm-nim6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/grkm-nim6) | Last update: Jul 2024  
   The 2010 survey was conducted by Vanderbilt University with the field work being carried out by Development Policy and Management Consultants (DPMC).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/jq8e-ruxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jq8e-ruxa) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/jq8e-ruxa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jq8e-ruxa) | Last update: Jul 2024  
   The 2012 survey was conducted by Vanderbilt University with the field work being carried out by Development Policy and Management Consultants (DPMC).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Guyana, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/j2fu-x3e7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j2fu-x3e7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/j2fu-x3e7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j2fu-x3e7) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Development Policy and Management Consultants (DPMC). The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/37ab-vauh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37ab-vauh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/37ab-vauh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37ab-vauh) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/s2pv-tebz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s2pv-tebz) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/s2pv-tebz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s2pv-tebz) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2008 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/b53t-ppa4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b53t-ppa4) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/b53t-ppa4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b53t-ppa4) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2010 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/a5mg-hses.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a5mg-hses) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/a5mg-hses.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a5mg-hses) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Haiti as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Haiti, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/w8bx-vz4p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w8bx-vz4p) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/w8bx-vz4p.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w8bx-vz4p) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the field work being carried out by Borges y Asociados. The 2014 AmericasBarometer received generous support from many sources, including USAID, UNDP, IADB, Vanderbilt U., Princeton U., Universit Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kz7u-ditb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kz7u-ditb) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/kz7u-ditb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kz7u-ditb) | Last update: Jul 2024  
   The 2004 survey was conducted by Vanderbilt University with FundaUngo and IUDOP, the public opinion arm of the Universidad Centroamericana Simeon Canas (UCA) of El Salvador.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/atu9-byyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/atu9-byyj) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/atu9-byyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/atu9-byyj) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/idw7-6jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/idw7-6jze) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/idw7-6jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/idw7-6jze) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2008 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/3wcc-6i5m.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3wcc-6i5m) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/3wcc-6i5m.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3wcc-6i5m) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vjn8-i9ke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vjn8-i9ke) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/vjn8-i9ke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vjn8-i9ke) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Honduras as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Honduras, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/2nza-ufq3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2nza-ufq3) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/2nza-ufq3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2nza-ufq3) | Last update: Jul 2024  
   The 2014 survey was conducted with the field work being carried out by Le Vote. Funding came from the United States Agency for International Development (USAID).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/r6jt-zyyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r6jt-zyyf) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/r6jt-zyyf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r6jt-zyyf) | Last update: Jul 2024  
   The 2006 survey was conducted by the Department of Sociology, Psychology and Social Work of the University of the West Indies (UWI).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/w94p-jdix.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w94p-jdix) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/w94p-jdix.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w94p-jdix) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University and the Center for Leadership and Governance of the University of the West Indies (UWI) with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/586t-7irm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/586t-7irm) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/586t-7irm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/586t-7irm) | Last update: Jul 2024  
   The 2010 survey was conducted by Vanderbilt University and the Center for Leadership and Governance of the University of the West Indies (UWI).
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/p9p9-kwyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p9p9-kwyp) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/p9p9-kwyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p9p9-kwyp) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Jamaica as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Jamaica, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/gv68-4y5i.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gv68-4y5i) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/gv68-4y5i.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gv68-4y5i) | Last update: Jul 2024  
   The 2014 survey was conducted by the University of West Indies. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/psst-uexn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/psst-uexn) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/psst-uexn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/psst-uexn) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/amyk-3tuc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/amyk-3tuc) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/amyk-3tuc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/amyk-3tuc) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/kgsk-hizz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kgsk-hizz) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/kgsk-hizz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/kgsk-hizz) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University and ITAM with field work done by DATA Opinin Pblica y Mercados with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/n69a-djbd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n69a-djbd) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/n69a-djbd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n69a-djbd) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2010 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/t8wh-kqeu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t8wh-kqeu) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/t8wh-kqeu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/t8wh-kqeu) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Mexico as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Mexico, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/7qft-bj6k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7qft-bj6k) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/7qft-bj6k.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7qft-bj6k) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Data Opinion Publica y Mercados. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/suy9-xikc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/suy9-xikc) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/suy9-xikc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/suy9-xikc) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ti4c-4qj8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ti4c-4qj8) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ti4c-4qj8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ti4c-4qj8) | Last update: Jul 2024  
   The 2006 survey was conducted by Vanderbilt University and Centro de Analisis Sociocultural (CASC) of the Centroamericana University (UCA) of Nicaragua.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/37b9-jpny.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37b9-jpny) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/37b9-jpny.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/37b9-jpny) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2008 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/dh8v-y7i5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dh8v-y7i5) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/dh8v-y7i5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dh8v-y7i5) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2010 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/thnw-nsie.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/thnw-nsie) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/thnw-nsie.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/thnw-nsie) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Nicaragua as part of its 2012 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Nicaragua, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ay9g-yy4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ay9g-yy4g) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ay9g-yy4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ay9g-yy4g) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Borge y Asociados. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2004 - Data**  
-  [Data](https://datahub.usaid.gov/resource/ibtf-2a34.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ibtf-2a34) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ibtf-2a34.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ibtf-2a34) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Panama as part of its 2004 round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/eefs-t8rd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/eefs-t8rd) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/eefs-t8rd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/eefs-t8rd) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Panama as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/pydg-yd33.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pydg-yd33) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/pydg-yd33.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pydg-yd33) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University and Alianza Ciudadana Pro Justicia with field work done by Borge y Asociados.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/e393-byza.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e393-byza) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/e393-byza.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/e393-byza) | Last update: Jul 2024  
   The 2010 survey was conducted by Vanderbilt University and Alianza Ciudadana Pro Justicia with field work done by Borge y Asociados.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/sefd-f3da.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/sefd-f3da) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/sefd-f3da.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/sefd-f3da) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Panama as part of its 2012 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Panama, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/tugk-hfqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tugk-hfqh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/tugk-hfqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tugk-hfqh) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Borge y Asociados. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/vf27-75dn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vf27-75dn) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/vf27-75dn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vf27-75dn) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/uuuh-avac.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uuuh-avac) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/uuuh-avac.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uuuh-avac) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2008 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/32y5-vy58.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/32y5-vy58) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/32y5-vy58.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/32y5-vy58) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2010 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/h3c6-s6we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h3c6-s6we) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/h3c6-s6we.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/h3c6-s6we) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Paraguay as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Paraguay, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/pdmj-ntih.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pdmj-ntih) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/pdmj-ntih.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pdmj-ntih) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University with the fieldwork being carried out by Centro de Informacion y Recursos para el (Desarrollo (CIRD). The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/6x4t-5y8u.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6x4t-5y8u) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/6x4t-5y8u.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6x4t-5y8u) | Last update: Jul 2024  
   The 2006 survey was conducted by Vanderbilt University with the Instituto de Estudios Peruanos and APOYO Opinion y Mercadeo.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2008 - Data**  
-  [Data](https://datahub.usaid.gov/resource/a42e-5dd3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a42e-5dd3) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/a42e-5dd3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a42e-5dd3) | Last update: Jul 2024  
   The 2008 survey was conducted by Vanderbilt University with the Instituto de Estudios Peruanos and APOYO Opinion y Mercadeo with funding by USAID.,
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2010 - Data**  
-  [Data](https://datahub.usaid.gov/resource/mkfj-bqyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mkfj-bqyj) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/mkfj-bqyj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mkfj-bqyj) | Last update: Jul 2024  
   The 2010 survey was conducted by Vanderbilt University with the Instituto de Estudios Peruanos and APOYO Opinion y Mercadeo with funding by USAID.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2012 - Data**  
-  [Data](https://datahub.usaid.gov/resource/xx7u-mpm3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xx7u-mpm3) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/xx7u-mpm3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xx7u-mpm3) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Peru as part of its 2012 of round surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Peru, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/n7m7-g4td.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n7m7-g4td) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/n7m7-g4td.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n7m7-g4td) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University and the Instituto de Estudios Peruanos. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Uruguay, 2006 - Data**  
-  [Data](https://datahub.usaid.gov/resource/dd5v-rvds.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dd5v-rvds) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/dd5v-rvds.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dd5v-rvds) | Last update: Jul 2024  
   The Latin America Public Opinion Project (LAPOP) implemented this survey in Uruguay as part of its 2006 round of surveys.
 
 - **The AmericasBarometer by the Latin American Public Opinion Project (LAPOP)-Uruguay, 2014 - Data**  
-  [Data](https://datahub.usaid.gov/resource/brav-zrhe.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/brav-zrhe) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/brav-zrhe.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/brav-zrhe) | Last update: Jul 2024  
   The 2014 survey was conducted by Vanderbilt University, CIFRA, Gonzales Raga & Associates and la Universidad de Montevideo. The 2014 AmericasBarometer received generous support from many sources including USAID, UNDP, IADB,Vanderbilt U., Princeton U., Universite Laval, U. of Notre Dame, among others.
 
 - **USAID Construction Assessment, Analysis**  
-  [Data](https://datahub.usaid.gov/resource/dkam-7fqw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dkam-7fqw) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/dkam-7fqw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dkam-7fqw) | Last update: Jun 2024
 
 - **WJP Rule of Law Index 2019 - Mali & Niger**  
-  [Data](https://datahub.usaid.gov/resource/43ub-w8m9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/43ub-w8m9) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/43ub-w8m9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/43ub-w8m9) | Last update: Jun 2024  
   The QRQs were conducted for the WJP Rule of Law Index 2019 by the WJPs research team based in Washington, DC. The surveys were administered online from May 2018 through early November 2018. In total, 27 expert practitioners completed the QRQs in Mali, and 13 expert practitioners completed the QRQs in Niger.
 
 [[TOP]](#toc)
@@ -1983,7 +1970,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Collection Overview
 
 - **Wethersfield Prison Records 1800-1903**  
-  [Data](https://internal-ct.data.socrata.com/resource/nawq-c5qc.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/nawq-c5qc) | Last update: Recent  
+  [Data](https://internal-ct.data.socrata.com/resource/nawq-c5qc.json) | [Docs](https://dev.socrata.com/foundry/internal-ct.data.socrata.com/nawq-c5qc) | Last update: Jul 2024  
   The Warrants of Commitment, 1800-1903, contain the name of the prisoner, any known aliases, the crime, sentence, court, and date of incarceration. This information can be used to determine the probable location of court records relating to the individual prisoners.
 
 [[TOP]](#toc)
@@ -2002,10 +1989,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
+## internal.chattadata.org
+
+- **NIBRS Offense Types**  
+  [Data](https://internal.chattadata.org/resource/jibm-c9er.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/jibm-c9er) | Last update: Recent  
+  The definition of whether a offense type is violent or not was based on https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/violent-crime
+
+[[TOP]](#toc)
+
+
 ## internal.open.piercecountywa.gov
 
 - **Equity Index**  
-  [Data](https://internal.open.piercecountywa.gov/resource/szgb-8wvm.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/szgb-8wvm) | Last update: Recent
+  [Data](https://internal.open.piercecountywa.gov/resource/szgb-8wvm.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/szgb-8wvm) | Last update: Jul 2024
 
 - **Violent and Property Crime Data**  
   [Data](https://internal.open.piercecountywa.gov/resource/u3gb-kmc7.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/u3gb-kmc7) | Last update: May 2024  
@@ -2116,7 +2112,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.maryland.gov/resource/x7h2-rnih.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/x7h2-rnih) | Last update: Apr 2021
 
 - **SHIP Domestic Violence 2010-2020**  
-  [Data](https://opendata.maryland.gov/resource/c8eg-j9vr.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/c8eg-j9vr) | Last update: Jun 2023  
+  [Data](https://opendata.maryland.gov/resource/c8eg-j9vr.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/c8eg-j9vr) | Last update: Recent  
   Domestic Violence - Domestic violence contributes greatly to the morbidity and mortality of Maryland citizens. Up to 40% of violent juvenile offenders witnessed domestic violence in the homes, and 63% of homeless women and children have been victims of intimate partner violence as adults.
 
 - **Violent Crime & Property Crime Statewide Totals: 1975 to Present**  
@@ -2385,12 +2381,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Smithfield Police Crime Data
 
 - **South Jordan Police Crime Data**  
-  [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
-  This data set contains Police & Crime data from the South Jordan Police department.
-
-- **South Jordan Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/p6he-fvtd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/p6he-fvtd) | Last update: Oct 2018  
   This data set contains South Jordan Police calls for service and crime data from 2014-2018
+
+- **South Jordan Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
+  This data set contains Police & Crime data from the South Jordan Police department.
 
 - **South Ogden Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/r65x-476f.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/r65x-476f) | Last update: Apr 2019  
@@ -2632,19 +2628,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data Set for the Percent of violent victimizations reported to police, by type of crime, for the years 2015-2020
 
 - **NCVS Select - Household Population**  
-  [Data](https://priv-data.ojp.usdoj.gov/resource/ya4e-n9zp.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/ya4e-n9zp) | Last update: Sep 2023  
+  [Data](https://priv-data.ojp.usdoj.gov/resource/ya4e-n9zp.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/ya4e-n9zp) | Last update: Recent  
   Contains demographic information of participating households. All respondents, regardless of whether they reported a household property crime victimization, are included in this file.
 
 - **NCVS Select - Household Victimization**  
-  [Data](https://priv-data.ojp.usdoj.gov/resource/gkck-euys.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/gkck-euys) | Last update: Sep 2023  
+  [Data](https://priv-data.ojp.usdoj.gov/resource/gkck-euys.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/gkck-euys) | Last update: Recent  
   Contains property crime victimizations. Property crimes include burglary, theft, motor vehicle theft, and vandalism. Households that did not report a property crime victimization are not included on this file. Victimizations that took place outside of the United States are excluded from this file.
 
 - **NCVS Select - Personal Population**  
-  [Data](https://priv-data.ojp.usdoj.gov/resource/r4j4-fdwx.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/r4j4-fdwx) | Last update: Sep 2023  
+  [Data](https://priv-data.ojp.usdoj.gov/resource/r4j4-fdwx.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/r4j4-fdwx) | Last update: Recent  
   Contains demographic information of respondents. All respondents, regardless of whether they reported a personal crime victimization, are included in this file.
 
 - **NCVS Select - Personal Victimization**  
-  [Data](https://priv-data.ojp.usdoj.gov/resource/gcuy-rt5g.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/gcuy-rt5g) | Last update: Sep 2023  
+  [Data](https://priv-data.ojp.usdoj.gov/resource/gcuy-rt5g.json) | [Docs](https://dev.socrata.com/foundry/priv-data.ojp.usdoj.gov/gcuy-rt5g) | Last update: Recent  
   Contains personal crime victimizations. Personal crimes include rape and sexual assault, robbery, aggravated and simple assault, and personal theft/larceny (purse-snatching/pocket picking).
 
 - **NIJ's Recidivism Challenge Full Dataset**  
@@ -2673,14 +2669,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## stat.stpete.org
 
 - **Citizen Calls for Service**  
-  [Data](https://stat.stpete.org/resource/6373-bvti.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/6373-bvti) | Last update: Recent  
+  [Data](https://stat.stpete.org/resource/6373-bvti.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/6373-bvti) | Last update: Jul 2024  
   Statistics include all active calls assigned to Patrol units and the top four categories of response urgency, such as violent crimes and crimes in progress.
 
 - **Directed Patrols**  
-  [Data](https://stat.stpete.org/resource/9cbi-474e.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/9cbi-474e) | Last update: Recent
+  [Data](https://stat.stpete.org/resource/9cbi-474e.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/9cbi-474e) | Last update: Jul 2024
 
 - **Park Walk Talks**  
-  [Data](https://stat.stpete.org/resource/bk6h-28ux.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/bk6h-28ux) | Last update: Recent  
+  [Data](https://stat.stpete.org/resource/bk6h-28ux.json) | [Docs](https://dev.socrata.com/foundry/stat.stpete.org/bk6h-28ux) | Last update: Jul 2024  
   The Park Walk and Talk program, a type of directed patrol, is intended to support the Department's community policing strategy by encouraging police officers to interact with citizens to improve community-police relations and reduce the fear of crime.
 
 - **St. Petersburg Service Center Data**  

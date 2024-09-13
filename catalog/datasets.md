@@ -2,6 +2,7 @@
 
 <details id="toc"><summary><strong>Table of Contents</strong></summary>
 
+- [austin-metro.demo.socrata.com](#austin-metrodemosocratacom)
 - [bronx.lehman.cuny.edu](#bronxlehmancunyedu)
 - [budget-qa-reporting.data.socrata.com](#budget-qa-reportingdatasocratacom)
 - [celebratingcities.data.socrata.com](#celebratingcitiesdatasocratacom)
@@ -11,11 +12,9 @@
 - [cookcounty.data.socrata.com](#cookcountydatasocratacom)
 - [corstat.coronaca.gov](#corstatcoronacagov)
 - [covid19.buffalony.gov](#covid19buffalonygov)
-- [cthru.data.socrata.com](#cthrudatasocratacom)
 - [dashboard.plano.gov](#dashboardplanogov)
 - [data.albanyny.gov](#dataalbanynygov)
 - [data.auburnwa.gov](#dataauburnwagov)
-- [data.bayareametro.gov](#databayareametrogov)
 - [data.bloomington.in.gov](#databloomingtoningov)
 - [data.brla.gov](#databrlagov)
 - [data.bts.gov](#databtsgov)
@@ -38,6 +37,7 @@
 - [data.edmonton.ca](#dataedmontonca)
 - [data.everettwa.gov](#dataeverettwagov)
 - [data.fortworthtexas.gov](#datafortworthtexasgov)
+- [data.framinghamma.gov](#dataframinghammagov)
 - [data.fultoncountyga.gov](#datafultoncountygagov)
 - [data.honolulu.gov](#datahonolulugov)
 - [data.kcmo.org](#datakcmoorg)
@@ -51,7 +51,6 @@
 - [data.mo.gov](#datamogov)
 - [data.montgomerycountymd.gov](#datamontgomerycountymdgov)
 - [data.nasa.gov](#datanasagov)
-- [data.nashville.gov](#datanashvillegov)
 - [data.nj.gov](#datanjgov)
 - [data.nola.gov](#datanolagov)
 - [data.norfolk.gov](#datanorfolkgov)
@@ -67,7 +66,6 @@
 - [data.princegeorgescountymd.gov](#dataprincegeorgescountymdgov)
 - [data.providenceri.gov](#dataprovidencerigov)
 - [data.ramseycounty.us](#dataramseycountyus)
-- [data.readingpa.gov](#datareadingpagov)
 - [data.richmondgov.com](#datarichmondgovcom)
 - [data.roseville.ca.us](#datarosevillecaus)
 - [data.sccgov.org](#datasccgovorg)
@@ -81,7 +79,6 @@
 - [data.weho.org](#datawehoorg)
 - [data.winnipeg.ca](#datawinnipegca)
 - [datacatalog.cookcountyil.gov](#datacatalogcookcountyilgov)
-- [datadiscovery.nlm.nih.gov](#datadiscoverynlmnihgov)
 - [datahub.austintexas.gov](#datahubaustintexasgov)
 - [datahub.hhs.gov](#datahubhhsgov)
 - [datahub.smcgov.org](#datahubsmcgovorg)
@@ -92,9 +89,9 @@
 - [finances.worldbank.org](#financesworldbankorg)
 - [fusioncenter.nhit.org](#fusioncenternhitorg)
 - [health.data.ny.gov](#healthdatanygov)
+- [healthdata.tn.gov](#healthdatatngov)
 - [hidot-contracts.data.socrata.com](#hidot-contractsdatasocratacom)
 - [highways.hidot.hawaii.gov](#highwayshidothawaiigov)
-- [idp.nz](#idpnz)
 - [internal-sandiegocounty.data.socrata.com](#internal-sandiegocountydatasocratacom)
 - [internal.chattadata.org](#internalchattadataorg)
 - [internal.open.piercecountywa.gov](#internalopenpiercecountywagov)
@@ -126,16 +123,23 @@
 - [www.dallasopendata.com](#wwwdallasopendatacom)
 - [www.data.act.gov.au](#wwwdataactgovau)
 - [www.datos.gov.co](#wwwdatosgovco)
-- [www.thedatazone.ca](#wwwthedatazoneca)
 - [www.transparentrichmond.org](#wwwtransparentrichmondorg)
 
 </details></br>
 
 > **NOTE**  
 > * (%) denotes strategic dataset
-> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
+> * Datasets updated in the last 60 days (as of 2024-09-13) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=datasets
+
+
+## austin-metro.demo.socrata.com
+
+- **Glendale Traffic Incidents**  
+  [Data](https://austin-metro.demo.socrata.com/resource/aib3-a8sz.json) | [Docs](https://dev.socrata.com/foundry/austin-metro.demo.socrata.com/aib3-a8sz) | Last update: Feb 2019
+
+[[TOP]](#toc)
 
 
 ## bronx.lehman.cuny.edu
@@ -169,6 +173,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://bronx.lehman.cuny.edu/resource/fwtz-drfg.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/fwtz-drfg) | Last update: Nov 2020  
   Heat and Hot Water Complaints from 311 database. Data updated daily,  January 2017-present
 
+- **Bronx 311 School Suspension Discipline**  
+  [Data](https://bronx.lehman.cuny.edu/resource/awwe-zymn.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/awwe-zymn) | Last update: Feb 2019
+
 - **Bronx Building Permits**  
   [Data](https://bronx.lehman.cuny.edu/resource/eeyd-a5c6.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/eeyd-a5c6) | Last update: Apr 2019  
   Permits issued by the Department of Buildings. This data is replaced on a daily basis. Historical data is not retained here and should be downloaded by the user on a daily basis for recording purposes.
@@ -187,10 +194,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Bronx CHS Tri Coords Obesity**  
   [Data](https://bronx.lehman.cuny.edu/resource/4w72-2rh5.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/4w72-2rh5) | Last update: Feb 2019  
   Combined Hospital Fund area data depicting obesity rates
-
-- **Bronx CHS asthma**  
-  [Data](https://bronx.lehman.cuny.edu/resource/nqze-ph36.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/nqze-ph36) | Last update: Feb 2019  
-  Asthma rates in the Bronx per United Hospital Fund areas
 
 - **Bronx CHS diabetes**  
   [Data](https://bronx.lehman.cuny.edu/resource/wgwr-m3ve.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/wgwr-m3ve) | Last update: Feb 2019  
@@ -237,9 +240,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Bronx Health Center District Points**  
   [Data](https://bronx.lehman.cuny.edu/resource/xxke-68p6.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/xxke-68p6) | Last update: Feb 2019
 
-- **Bronx Hurricane Sandy Damaged Trees**  
-  [Data](https://bronx.lehman.cuny.edu/resource/x3s6-cqrv.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/x3s6-cqrv) | Last update: Apr 2019
-
 - **Bronx Laundromats**  
   [Data](https://bronx.lehman.cuny.edu/resource/a8cq-n3hu.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/a8cq-n3hu) | Last update: Apr 2019
 
@@ -265,6 +265,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Bronx State Senate**  
   [Data](https://bronx.lehman.cuny.edu/resource/3k5b-hfyy.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/3k5b-hfyy) | Last update: Feb 2019  
   Central points of Bronx State Senate districts including senator and website information
+
+- **Bronx Subway Entrance Location**  
+  [Data](https://bronx.lehman.cuny.edu/resource/yfgv-awb2.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/yfgv-awb2) | Last update: Feb 2019  
+  This is a more detailed look at subway station access. The groupings of dots indicate a single station, but also the exact location of the subway station entrances. Please refer to the attached "Field_Name_Dictionary" for field definitions on the table.
 
 - **Bronx Tree Density**  
   [Data](https://bronx.lehman.cuny.edu/resource/yc9r-kugx.json) | [Docs](https://dev.socrata.com/foundry/bronx.lehman.cuny.edu/yc9r-kugx) | Last update: Feb 2019  
@@ -340,9 +344,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://celebratingcities.data.socrata.com/resource/3puc-ii38.json) | [Docs](https://dev.socrata.com/foundry/celebratingcities.data.socrata.com/3puc-ii38) | Last update: Apr 2019  
   The dataset contains locations and attributes of Independent Schools, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies.
 
+- **Religious Buildings**  
+  [Data](https://celebratingcities.data.socrata.com/resource/38js-hxhf.json) | [Docs](https://dev.socrata.com/foundry/celebratingcities.data.socrata.com/38js-hxhf) | Last update: Apr 2019  
+  This dataset represents the location of religious buildings within the City of Baltimore. Personnel in the Mayor's Office track the coming and goings of religious organizations. The listing is currently limited to Christian and Jewish faiths.
+
 - **Restaurants**  
   [Data](https://celebratingcities.data.socrata.com/resource/mfci-2nvm.json) | [Docs](https://dev.socrata.com/foundry/celebratingcities.data.socrata.com/mfci-2nvm) | Last update: Apr 2019  
   This dataset contains a list of restaurants within Baltimore City. The accuracy and completeness of this list is unknown.
+
+- **Wireless Hotspots DC Government Project**  
+  [Data](https://celebratingcities.data.socrata.com/resource/5vb7-stz8.json) | [Docs](https://dev.socrata.com/foundry/celebratingcities.data.socrata.com/5vb7-stz8) | Last update: Apr 2019  
+  Wireless Hot Spot locations. The dataset contains locations and attributes of Wireless Hot Spots, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies.
 
 [[TOP]](#toc)
 
@@ -359,17 +371,21 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Arts and Culture Downtown Visitation**  
   [Data](https://citydata.mesaaz.gov/resource/ipea-qa5w.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/ipea-qa5w) | Last update: Recent
 
+- **Business Breakdown**  
+  [Data](https://citydata.mesaaz.gov/resource/sqy8-jq9v.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/sqy8-jq9v) | Last update: Feb 2022  
+  The Business Breakdown Dataset shows the number of businesses and employees from a wide variety of unique industries throughout Mesa. This data is pulled annually (usually in the summer) from the ESRI Community Analyst database.
+
 - **Business Services - Businesses Canvassed**  
   [Data](https://citydata.mesaaz.gov/resource/ycku-m3qy.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/ycku-m3qy) | Last update: Recent  
   This dataset describes the number of businesses that the city's License Enforcement visited to confirm that all required city licenses have been obtained by the business.
 
+- **Business Services - Employee Survey Results**  
+  [Data](https://citydata.mesaaz.gov/resource/mfbh-pibf.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/mfbh-pibf) | Last update: Jul 2024  
+  This dataset contains the employee survey results for Business Services.
+
 - **Business Services - Monthly Audit Cost Recovery**  
   [Data](https://citydata.mesaaz.gov/resource/cknj-4bt4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/cknj-4bt4) | Last update: Recent  
   This dataset describes total amount of tax assessed by the City of Mesa by month as well as the salary & fringe benefits of the City of Mesa employees in the collections area.
-
-- **Business Services - Warehouse Inventory**  
-  [Data](https://citydata.mesaaz.gov/resource/ghh3-25pq.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/ghh3-25pq) | Last update: Recent  
-  This dataset provides information about the material that is stored in the City warehouse and made available to City Departments with a goal of having the accurate amount of materials available, when a Department needs it.
 
 - **Business Services – Alarm Permit Processing**  
   [Data](https://citydata.mesaaz.gov/resource/e5zq-vt53.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/e5zq-vt53) | Last update: Recent  
@@ -385,10 +401,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Business Services – e-Bill Customers**  
   [Data](https://citydata.mesaaz.gov/resource/22n9-tx89.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/22n9-tx89) | Last update: Recent  
   This dataset includes the number of utility accounts that were billed each month and how many bills were paper bills and how many were e-Bill notifications. It also provides latitude, longitude and GeoLocation based on the zip code location of accounts billed.
-
-- **Calendar**  
-  [Data](https://citydata.mesaaz.gov/resource/v7q9-biu4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/v7q9-biu4) | Last update: Recent  
-  This dataset contains all historical calendar dates through the current day and is used by datasets, performance measures and visualizations for the purposes of historical and calculations over time.
 
 - **Canal Centerline**  
   [Data](https://citydata.mesaaz.gov/resource/y27j-p27b.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/y27j-p27b) | Last update: Recent
@@ -417,12 +429,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://citydata.mesaaz.gov/resource/akj6-u9kt.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/akj6-u9kt) | Last update: Recent  
   This dataset is a subset only of Code Enforcement information and is used by the Performance Measure "Code Cases per Code Officer". Some fields are calculated or derived. Full "Code Enforcement" dataset = https://citydata.mesaaz.gov/dataset/Code-Enforcement/hgf6-yenu
 
+- **Code Compliance**  
+  [Data](https://citydata.mesaaz.gov/resource/hgf6-yenu.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/hgf6-yenu) | Last update: Recent
+
 - **Code Compliance Investigation Response**  
   [Data](https://citydata.mesaaz.gov/resource/8t34-hz58.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/8t34-hz58) | Last update: Recent  
   This dataset is a subset only of Code Enforcement information and is used by the Performance Measure "Response Time to Code Complaints" https://citydata.mesaaz.gov/d/8jwz-3v2t. Some fields are calculated or derived.
-
-- **Code Enforcement**  
-  [Data](https://citydata.mesaaz.gov/resource/hgf6-yenu.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/hgf6-yenu) | Last update: Recent
 
 - **Combined Assets Visited - City Data Portals**  
   [Data](https://citydata.mesaaz.gov/resource/kv2n-zmcu.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/kv2n-zmcu) | Last update: Recent  
@@ -444,10 +456,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://citydata.mesaaz.gov/resource/8feq-wr5d.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/8feq-wr5d) | Last update: Jun 2023  
   The dataset inventory provides a list of data maintained by departments that are candidates for open data publishing or have already been published. The identification and publishing of datasets is prioritized for information that supports Council Strategic Priorities and individual department performance measures, with Key Performance Indicators (KPI's) getting highest priority.
 
-- **Downtown Tax Revenue by Post Month**  
-  [Data](https://citydata.mesaaz.gov/resource/prsk-s8zq.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/prsk-s8zq) | Last update: Recent  
-  Period revenues are delayed by up to 120 days. For example, May revenues are generally posted by mid July.
-
 - **Electric Energy & Natural Gas Supply Costs**  
   [Data](https://citydata.mesaaz.gov/resource/uaiy-c7rn.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/uaiy-c7rn) | Last update: Recent  
   This is the cumulative sum of expenditures for each accounting string (EECAF & PNGCAF) by fiscal year and accounting period. The accumulation starts in the first accounting period for each fiscal year and ends on the last accounting period for the fiscal year.
@@ -455,6 +463,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Energy Resources - Locates**  
   [Data](https://citydata.mesaaz.gov/resource/a5tr-2mz8.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/a5tr-2mz8) | Last update: Recent  
   Data being reported may have a 14 day lag.
+
+- **Energy Resources - Outage Duration**  
+  [Data](https://citydata.mesaaz.gov/resource/4e84-ggpb.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/4e84-ggpb) | Last update: Recent  
+  Data reporting may have a lag of 14 days.
 
 - **Energy Resources - Outage Frequency**  
   [Data](https://citydata.mesaaz.gov/resource/tpc2-wqbv.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/tpc2-wqbv) | Last update: Recent  
@@ -478,10 +490,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Feeding Mesa - Pounds of Food Distributed**  
   [Data](https://citydata.mesaaz.gov/resource/dukk-kkwn.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/dukk-kkwn) | Last update: Apr 2024  
   Information about the number of meals and lbs of food distributed by the Mesa CARES Feeding Mesa program and is an aggregation of United Food Bank and Waste Not agency distributions. More information about the Feeding Mesa Program is available at https://www.mesaaz.gov/government/mesa-cares/feeding-mesa 
-
-- **Financial Services – Payroll Run Times**  
-  [Data](https://citydata.mesaaz.gov/resource/vf2j-h8vy.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/vf2j-h8vy) | Last update: Recent  
-  Dataset includes information about the job that creates and sends payroll direct deposit file to the bank and the job the imports timecards into the payroll system. Note this dataset received updates on the Wednesday following the bi-weekly pay period.
 
 - **Fire and Medical Incident Count YTD**  
   [Data](https://citydata.mesaaz.gov/resource/8sb5-biat.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/8sb5-biat) | Last update: Jun 2024  
@@ -522,17 +530,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://citydata.mesaaz.gov/resource/kjk9-pfch.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/kjk9-pfch) | Last update: Recent  
   This dataset provides the expenses and revenues for the City of Mesa Cemetery, which is operated by Mesa Parks, Recreation and Community Facilities Department. This dataset is a filtered view of data that is already publicly accessible in the Open Budget Revenues, Open Budget Expenses and/or City Expenditures datasets.
 
-- **PRCF - Parks Ranger Reports**  
-  [Data](https://citydata.mesaaz.gov/resource/daky-m4y3.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/daky-m4y3) | Last update: Recent  
-  The Park Rangers report monthly on the number of warnings or citations given, the total number of parks visited for the month, and the total number of warnings or citations that were related to the population of homeless.
-
 - **PRCF - Parks Ranger Reports with Coordinates**  
   [Data](https://citydata.mesaaz.gov/resource/eepu-ybxn.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/eepu-ybxn) | Last update: Jul 2023  
   Dataset is based off the 'PRCF - Park Ranger Reports' dataset at https://citydata.mesaaz.gov/Parks-Recreation-and-Community-Facilities/PRCF-Parks-Ranger-Reports/daky-m4y3 . Dataset adds latitude and longitude using official park and landmark data.
-
-- **Paying Skaters - Ice Rink at City Plaza**  
-  [Data](https://citydata.mesaaz.gov/resource/gd7v-yqei.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/gd7v-yqei) | Last update: Feb 2022  
-  This dataset has been superseded by the Ticket Sales Ice Rink at City Plaza dataset that includes detailed information about each transaction beginning in 2017. https://data.mesaaz.gov/Recreation-Culture/Ticket-Sales-Ice-Rink-at-City-Plaza/bca4-y9b7 
 
 - **Planning - Board of Adjustment (BOA) Memos completed**  
   [Data](https://citydata.mesaaz.gov/resource/qmv6-zhfq.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/qmv6-zhfq) | Last update: Recent  
@@ -546,12 +546,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Some of the data fields provided are used to report to the Federal Bureau of Investigation. For a listing of data fields and description please see their UCR Program Data Collections page. Alternatively, please see the Bureau of Justice Statistics NIBRS website for a listing of data fields.
 
 - **Police Patrol Shift Bid Positions**  
-  [Data](https://citydata.mesaaz.gov/resource/mdcd-rjsu.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/mdcd-rjsu) | Last update: Recent  
+  [Data](https://citydata.mesaaz.gov/resource/mdcd-rjsu.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/mdcd-rjsu) | Last update: Jul 2024  
   Sworn officer positions assigned to street patrol and calls for service. Number does not include sworn Sergeants, Lieutenants and Commanders of districts. Position count is calculated in August for each given year.
 
 - **Print Services - Job Quality**  
   [Data](https://citydata.mesaaz.gov/resource/24qg-xnn4.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/24qg-xnn4) | Last update: Recent  
   Dataset provides monthly information about the accuracy and timeliness of print jobs generated by the citys print services. These measures are verified from data collected on customer service satisfaction surveys, percent of jobs delivered by the due date and percent of jobs free of defect. The fields in this dataset pertain to percent of print jobs completed by the due date.
+
+- **Site Address**  
+  [Data](https://citydata.mesaaz.gov/resource/fhcb-4bjs.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/fhcb-4bjs) | Last update: Recent  
+  This dataset provides information regarding the location of existing site addresses within the City of Mesa. Site addresses are active and usable by property owners, the US Post Office, utility companies, etc. The dataset includes unit or suite addresses.
 
 - **Street Right-of-Way**  
   [Data](https://citydata.mesaaz.gov/resource/8g2n-xjsk.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/8g2n-xjsk) | Last update: Recent  
@@ -562,12 +566,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Information about energy generated from renewable sources, such as photovoltaic solar and used by City Buildings to offset energy produced by non-renewable sources purchased from Salt River Project Utility (SRP).
 
 - **Total Employees and Businesses**  
-  [Data](https://citydata.mesaaz.gov/resource/xt2b-s4bi.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/xt2b-s4bi) | Last update: Recent  
+  [Data](https://citydata.mesaaz.gov/resource/xt2b-s4bi.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/xt2b-s4bi) | Last update: Jul 2024  
   The Total Employees and Businesses Dataset is a snapshot of the total number of businesses that are currently in Mesa, as well as the total number of employees that work in Mesa.
 
 - **Transportation Graffiti**  
   [Data](https://citydata.mesaaz.gov/resource/9spb-749m.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/9spb-749m) | Last update: Recent  
   Graffiti abated with location, date of abatement and square footage abated.Data is from October 2015 to present. Days to abatement information is calculated based on receipt during normal workday. See attachment for how "normal workday" information is calculated. Calculated workday request was received by the city staff. Normal workday is generally defined as M-Th excluding holidays.
+
+- **Tree Inventory**  
+  [Data](https://citydata.mesaaz.gov/resource/jcys-68y7.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/jcys-68y7) | Last update: Recent
+
+- **Turn Around Time - Permits**  
+  [Data](https://citydata.mesaaz.gov/resource/fhtq-vpmm.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/fhtq-vpmm) | Last update: Recent  
+  Subset of Permits and Permits Work Flow History Datasets and was created to find, calculate Turn Around Time for processing Residential, Commercial and Sign Permits. The column "Turn Around Time" contains the result of the calculation. For information about all permits see https://citydata.mesaaz.gov/Development-Services/Permits-Commercial-Residential-and-Signs-/dzpk-hxfb
 
 - **Unsheltered Point in Time (PIT) Count Phoenix Metro Area**  
   [Data](https://citydata.mesaaz.gov/resource/jagk-fkkw.json) | [Docs](https://dev.socrata.com/foundry/citydata.mesaaz.gov/jagk-fkkw) | Last update: Jun 2024  
@@ -611,10 +622,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://controllerdata.lacity.org/resource/ej7u-di9z.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/ej7u-di9z) | Last update: Recent  
   Current balances of all Funds for the City of Los Angeles. Includes General Fund, Reserve Fund, Budget Stabilization Fund, and Special Funds. Upated daily, Monday through Friday.
 
-- **Appropriations, Expenditures and Revenues**  
-  [Data](https://controllerdata.lacity.org/resource/p37u-c75r.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/p37u-c75r) | Last update: Recent  
-  Ledger transactions for the City's appropriations, expenditures and revenues are shown in this dataset.
-
 - **City Bonus Codes**  
   [Data](https://controllerdata.lacity.org/resource/6k96-anmy.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/6k96-anmy) | Last update: Jan 2017  
   The Category field indicates which column of the Payroll dataset (https://controllerdata.lacity.org/Payroll/Payroll/8hc2-qe2x) that particular pay code relates to. Pay codes are governed by the Memorandums of Understanding (MOUs) between the City and its labor representatives; State, City and Federal law; and Departmental policy.
@@ -623,11 +630,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://controllerdata.lacity.org/resource/7ct3-9xz9.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/7ct3-9xz9) | Last update: Apr 2019
 
 - **City Expenditures by Month**  
-  [Data](https://controllerdata.lacity.org/resource/3ctd-sjrm.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/3ctd-sjrm) | Last update: Recent  
+  [Data](https://controllerdata.lacity.org/resource/3ctd-sjrm.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/3ctd-sjrm) | Last update: Jun 2024  
   This dataset provides details for Fiscal Year expenditures by month since Fiscal Year 2012.
 
 - **City Revenue by Month**  
-  [Data](https://controllerdata.lacity.org/resource/s234-w655.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/s234-w655) | Last update: Recent  
+  [Data](https://controllerdata.lacity.org/resource/s234-w655.json) | [Docs](https://dev.socrata.com/foundry/controllerdata.lacity.org/s234-w655) | Last update: Jun 2024  
   This dataset provides details for Fiscal Year collected revenue by month since Fiscal Year 2012.
 
 - **Department of Water and Power (DWP) Pay Codes**  
@@ -648,7 +655,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is a reference dataset of departments and object accounts, along with their descriptions, to supplement Expenditure and Revenue datasets published and maintained by the Department of Budget and Management Services.
 
 - **Cook County Budgeted Position Salaries**  
-  [Data](https://cookcounty.data.socrata.com/resource/h548-w4m3.json) | [Docs](https://dev.socrata.com/foundry/cookcounty.data.socrata.com/h548-w4m3) | Last update: Jan 2024  
+  [Data](https://cookcounty.data.socrata.com/resource/h548-w4m3.json) | [Docs](https://dev.socrata.com/foundry/cookcounty.data.socrata.com/h548-w4m3) | Last update: Recent  
   It may be helpful to know the Job Code contained in the dataset is a unique 4-digit number assigned to each specific Job Title while the Position ID is a unique 8-digit number that identifies a position. This helps create consistency and accuracy in the dataset over time, in case of a name change or other change.
 
 [[TOP]](#toc)
@@ -659,6 +666,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **CorStat - Corona Operating Budget RV**  
   [Data](https://corstat.coronaca.gov/resource/9gby-yfcp.json) | [Docs](https://dev.socrata.com/foundry/corstat.coronaca.gov/9gby-yfcp) | Last update: Oct 2023  
   Corona Operating Budget RV - Revenues Dataset ID
+
+- **CorStat - Corona Project Details List**  
+  [Data](https://corstat.coronaca.gov/resource/py8a-upvr.json) | [Docs](https://dev.socrata.com/foundry/corstat.coronaca.gov/py8a-upvr) | Last update: Oct 2023  
+  Corona Project List - Capital Project Details Dataset ID
+
+- **CorStat - County Assessor's Office Permit Data**  
+  [Data](https://corstat.coronaca.gov/resource/faij-4cug.json) | [Docs](https://dev.socrata.com/foundry/corstat.coronaca.gov/faij-4cug) | Last update: Jul 2024  
+  This dataset replaces the legacy utility that was retired on 6/15/2021. Please contact Mike.Enriquez@coronaca.gov if you have any questions regarding the transition. If you have any questions related to the data, please contact the dataset owner listed below.
 
 - **CorStat - Data Inventory**  
   [Data](https://corstat.coronaca.gov/resource/5kvx-32nm.json) | [Docs](https://dev.socrata.com/foundry/corstat.coronaca.gov/5kvx-32nm) | Last update: Aug 2021  
@@ -695,20 +710,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
-## cthru.data.socrata.com
-
-- **CTHRU Budget Prod Expenses Dataset**  
-  [Data](https://cthru.data.socrata.com/resource/br46-8mke.json) | [Docs](https://dev.socrata.com/foundry/cthru.data.socrata.com/br46-8mke) | Last update: Jan 2017  
-  Dataset to be used as the "Prod" version of the Expenses data for CTHRU Budget
-
-- **Open Budget - Prod Revenues Dataset**  
-  [Data](https://cthru.data.socrata.com/resource/da2g-dtji.json) | [Docs](https://dev.socrata.com/foundry/cthru.data.socrata.com/da2g-dtji) | Last update: Jan 2017  
-  Dataset to be used as the "Prod" dataset for the "Revenues" section of the CTHRU Budget application
-
-[[TOP]](#toc)
-
-
 ## dashboard.plano.gov
+
+- **FIXIT Plugin Data**  
+  [Data](https://dashboard.plano.gov/resource/kce6-krz4.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/kce6-krz4) | Last update: Recent  
+  This dataset contains information on the Plano Fix It Program.
 
 - **Plano Public Library Dataset**  
   [Data](https://dashboard.plano.gov/resource/upup-5wnb.json) | [Docs](https://dev.socrata.com/foundry/dashboard.plano.gov/upup-5wnb) | Last update: Aug 2022
@@ -770,10 +776,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## data.auburnwa.gov
 
-- **Auburn Capital Project List**  
-  [Data](https://data.auburnwa.gov/resource/7spz-c7dg.json) | [Docs](https://dev.socrata.com/foundry/data.auburnwa.gov/7spz-c7dg) | Last update: Sep 2021  
-  Capital projects
-
 - **Auburn Resources**  
   [Data](https://data.auburnwa.gov/resource/bbcv-rw4b.json) | [Docs](https://dev.socrata.com/foundry/data.auburnwa.gov/bbcv-rw4b) | Last update: Aug 2022  
   Resources for those in need in Auburn
@@ -787,14 +789,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **See, Click, Fix requests**  
   [Data](https://data.auburnwa.gov/resource/bduj-5afh.json) | [Docs](https://dev.socrata.com/foundry/data.auburnwa.gov/bduj-5afh) | Last update: Recent  
   Requests received via the City of Auburn online reporting service See, Click, Fix
-
-[[TOP]](#toc)
-
-
-## data.bayareametro.gov
-
-- **AB617 "Path to Clean Air"- Emissions Inventory Domain**  
-  [Data](https://data.bayareametro.gov/resource/dxbj-5tb2.json) | [Docs](https://dev.socrata.com/foundry/data.bayareametro.gov/dxbj-5tb2) | Last update: Apr 2023
 
 [[TOP]](#toc)
 
@@ -821,10 +815,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.bloomington.in.gov/resource/qgx3-efj2.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/qgx3-efj2) | Last update: Jul 2023  
   Daily COVID-19 reports from Johns Hopkins University Center for Systems Science and Engineering. This dataset is generated by calculating differences of each cumulative daily report from the previous day to identify daily changes in the number of confirmed, active, recovered, and fatal cases. This dataset reports from after CSSE changed its daily report schema on March 22.
 
-- **Top20CountyCityTaxData**  
-  [Data](https://data.bloomington.in.gov/resource/wqr2-kk8j.json) | [Docs](https://dev.socrata.com/foundry/data.bloomington.in.gov/wqr2-kk8j) | Last update: Sep 2022  
-  This dataset contains population, property tax rate and income tax rate for the top 20 cities in Indiana by population minus Indianapolis and Ft. Wayne.
-
 [[TOP]](#toc)
 
 
@@ -833,6 +823,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **19th Judicial District Court Sections**  
   [Data](https://data.brla.gov/resource/3id2-kbnu.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/3id2-kbnu) | Last update: Oct 2022  
   Polygon geometry with attributes displaying the 19th Judicial District Court Sections in East Baton Rouge Parish, Louisiana.
+
+- **1st Circuit Court of Appeals, 2nd District**  
+  [Data](https://data.brla.gov/resource/9mc4-8ctx.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9mc4-8ctx) | Last update: Recent  
+  Polygon geometry with attributes displaying the Louisiana 1st Circuit Court of Appeals Subsections in East Baton Rouge Parish, Louisiana.
 
 - **311 Citizen Requests for Service**  
   [Data](https://data.brla.gov/resource/7ixm-mnvx.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7ixm-mnvx) | Last update: Recent  
@@ -849,6 +843,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Address Label**  
   [Data](https://data.brla.gov/resource/az2g-ktf6.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/az2g-ktf6) | Last update: Recent  
   Point geometry with attributes displaying address number labels in East Baton Rouge Parish, Louisiana.
+
+- **Adjudicated Parcel**  
+  [Data](https://data.brla.gov/resource/shrr-fsqq.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/shrr-fsqq) | Last update: Mar 2024  
+  Polygon geometry with attributes displaying adjudicated tax parcels in East Baton Rouge Parish, Louisiana.ISO 19139 Metadata
 
 - **Adjudicated Property**  
   [Data](https://data.brla.gov/resource/a4h4-zi7e.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/a4h4-zi7e) | Last update: Feb 2024  
@@ -867,7 +865,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Point geometry with attributes displaying apartment complexes in East Baton Rouge Parish, Louisiana.
 
 - **Aviation**  
-  [Data](https://data.brla.gov/resource/58x5-i3iv.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/58x5-i3iv) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/58x5-i3iv.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/58x5-i3iv) | Last update: Jul 2024  
   Polygon geometry with attributes displaying Aviation facilities in East Baton Rouge Parish, Louisiana.
 
 - **BESE District**  
@@ -879,11 +877,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset displays all facilities, properties and amenities operated by the East Baton Rouge Parish Recreation and Park Commission (BREC).
 
 - **BREC Park Gun Free Zone**  
-  [Data](https://data.brla.gov/resource/5fv2-7kkc.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5fv2-7kkc) | Last update: Jun 2024  
+  [Data](https://data.brla.gov/resource/5fv2-7kkc.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5fv2-7kkc) | Last update: Recent  
   Polygon geometry with attributes displaying gun free zones in East Baton Rouge Parish, Louisiana.
 
 - **BTR Airport Signatory Airlines Passenger Stats**  
-  [Data](https://data.brla.gov/resource/5ihf-n5qf.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5ihf-n5qf) | Last update: May 2024  
+  [Data](https://data.brla.gov/resource/5ihf-n5qf.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5ihf-n5qf) | Last update: Recent  
   This dataset provides the monthly enplanement and deplanement statistics since 1986 for all signatory airlines flying to and from the Baton Rouge Metropolitan Airport.
 
 - **Baker City Council District**  
@@ -939,7 +937,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Line geometry with attributes displaying all existing, programmed, and proposed bicycle and pedestrian facilities in East Baton Rouge Parish, Louisiana.
 
 - **Bridge Deck**  
-  [Data](https://data.brla.gov/resource/8hpa-zcqu.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/8hpa-zcqu) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/8hpa-zcqu.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/8hpa-zcqu) | Last update: Jul 2024  
   Polygon geometry with attributes displaying bridge decks in East Baton Rouge Parish, Louisiana.
 
 - **Building Footprint**  
@@ -950,6 +948,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/4a42-smtm.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4a42-smtm) | Last update: Sep 2022  
   Line geometry with attributes displaying Capital Area Transit System (CATS) Bus Routes in East Baton Rouge Parish, Louisiana.
 
+- **Bus Stop**  
+  [Data](https://data.brla.gov/resource/hnjz-rqcd.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/hnjz-rqcd) | Last update: Dec 2022  
+  Point geometry with attributes displaying Capital Area Transit System (CATS) Bus Stops in East Baton Rouge Parish, Louisiana.
+
 - **Business**  
   [Data](https://data.brla.gov/resource/nx5f-3fxd.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/nx5f-3fxd) | Last update: Recent  
   Point geometry with attributes displaying businesses in East Baton Rouge Parish, Louisiana.Metadata
@@ -959,7 +961,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   All businesses registered with EBR Parish for Occupational License Tax and/or Sales Tax Registration.
 
 - **Cemetery**  
-  [Data](https://data.brla.gov/resource/5f6n-rw2d.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5f6n-rw2d) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/5f6n-rw2d.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5f6n-rw2d) | Last update: Jul 2024  
   Polygon geometry with attributes displaying the locations and names of cemeteries in East Baton Rouge Parish, Louisiana.
 
 - **Census 1960**  
@@ -977,6 +979,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Census 1990**  
   [Data](https://data.brla.gov/resource/uz3t-nvyr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/uz3t-nvyr) | Last update: Apr 2023  
   Polygon geometry with attributes displaying 1990 Census tract boundaries and population stats in East Baton Rouge Parish, Louisiana.
+
+- **Census Block**  
+  [Data](https://data.brla.gov/resource/bb2s-hh6s.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/bb2s-hh6s) | Last update: Mar 2024  
+  Polygon geometry with attributes displaying the 2010 Census blocks and population in East Baton Rouge Parish, Louisiana.Metadata
 
 - **Central Council District**  
   [Data](https://data.brla.gov/resource/thdj-c56d.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/thdj-c56d) | Last update: Jan 2023  
@@ -998,8 +1004,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/ak38-x6fx.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ak38-x6fx) | Last update: May 2024  
   Polygon features with attributes displaying the corporate limits of Baker, Baton Rouge, Central, and Zachary in East Baton Rouge Parish, Louisiana.Metadata
 
+- **City-Parish Employee Annual Salaries**  
+  [Data](https://data.brla.gov/resource/g9vh-zeiw.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/g9vh-zeiw) | Last update: Jan 2024  
+  For prior year data, please see the Legacy City-Parish Employee Annual Salaries https://data.brla.gov/Government/Legacy-City-Parish-Employee-Annual-Salaries/g5c2-myyj
+
 - **City-Parish Employees**  
-  [Data](https://data.brla.gov/resource/bj3z-jksg.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/bj3z-jksg) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/bj3z-jksg.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/bj3z-jksg) | Last update: Jul 2024  
   In November of 2018, the City-Parish switched to a new payroll system. This dataset contains employee information from this new system. For  data prior to 2018, please see the Legacy City-Parish Employees at https://data.brla.gov/Government/Legacy-City-Parish-Employees/gyhq-w3h3
 
 - **City-Parish Vendors**  
@@ -1007,7 +1017,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Please note that these are all vendors registered and includes vendors who have never actually done business with the City-Parish.
 
 - **College University**  
-  [Data](https://data.brla.gov/resource/3yyu-mp7s.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/3yyu-mp7s) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/3yyu-mp7s.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/3yyu-mp7s) | Last update: Jul 2024  
   Polygon geometry with attributes displaying colleges and universities in East Baton Rouge Parish, Louisiana.
 
 - **Community Center**  
@@ -1031,15 +1041,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying consolidated road lighting districts in East Baton Rouge Parish, Louisiana.
 
 - **Conveyance Zones**  
-  [Data](https://data.brla.gov/resource/qwrb-mchd.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/qwrb-mchd) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/qwrb-mchd.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/qwrb-mchd) | Last update: Jul 2024  
   Polygon geometry with attributes displaying floodplain conveyance zones in East Baton Rouge Parish, Louisiana.
 
 - **Council District**  
-  [Data](https://data.brla.gov/resource/xqij-9yqb.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/xqij-9yqb) | Last update: Jan 2024  
+  [Data](https://data.brla.gov/resource/xqij-9yqb.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/xqij-9yqb) | Last update: Recent  
   Polygon geometry with attributes displaying Metropolitan Council Districts in East Baton Rouge Parish, Louisiana.
 
 - **Crime Prevention District**  
-  [Data](https://data.brla.gov/resource/ms63-rwj2.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ms63-rwj2) | Last update: Apr 2024  
+  [Data](https://data.brla.gov/resource/ms63-rwj2.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ms63-rwj2) | Last update: Recent  
   Polygon geometry with attributes displaying crime prevention districts in East Baton Rouge Parish, Louisiana.
 
 - **Cultural District**  
@@ -1067,7 +1077,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying the boundary of the Downtown Development District in Baton Rouge, Louisiana.
 
 - **Drainage District**  
-  [Data](https://data.brla.gov/resource/2gkm-e2ij.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/2gkm-e2ij) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/2gkm-e2ij.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/2gkm-e2ij) | Last update: Jul 2024  
   Polygon geometry with attributes of the drainage districts as defined by Metro Council ordinance in East Baton Rouge Parish, Louisiana.
 
 - **Drainage Maintenance Lot**  
@@ -1077,6 +1087,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **EBR Building Permits**  
   [Data](https://data.brla.gov/resource/7fq7-8j7r.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7fq7-8j7r) | Last update: Recent  
   All construction and occupancy permits issued in East Baton Rouge Parish
+
+- **EBR Sheriff's Office Crime Incidents**  
+  [Data](https://data.brla.gov/resource/7y8j-nrht.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/7y8j-nrht) | Last update: Recent  
+  Crime incident reports beginning January 1, 2021. Includes records for all crimes such as burglaries (vehicle, residential and non-residential), robberies (individual and business), auto theft, homicides and other crimes against people, property and society that occurred within the Parish of East Baton Rouge and responded to by the East Baton Rouge Parish Sheriff's Office.
 
 - **EBROSCO Map Key**  
   [Data](https://data.brla.gov/resource/t3gt-237b.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/t3gt-237b) | Last update: Sep 2022  
@@ -1169,9 +1183,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/9478-pwaa.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9478-pwaa) | Last update: Recent  
   Point geometry with attributes displaying government agencies in East Baton Rouge Parish, Louisiana.
 
-- **Grease Trap**  
-  [Data](https://data.brla.gov/resource/9ait-3ztk.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ait-3ztk) | Last update: Recent  
-  Point geometry with attributes displaying all permitted grease traps in East Baton Rouge Parish, Louisiana.
+- **Green Light Plan**  
+  [Data](https://data.brla.gov/resource/up6b-ensz.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/up6b-ensz) | Last update: Sep 2022  
+  Line geometry with attributes displaying the Green Light Plan transportation improvements in East Baton Rouge Parish, Louisiana.
 
 - **Grocery**  
   [Data](https://data.brla.gov/resource/8ds2-8tze.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/8ds2-8tze) | Last update: Recent  
@@ -1192,6 +1206,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Health Screening Location**  
   [Data](https://data.brla.gov/resource/2q9b-9xsi.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/2q9b-9xsi) | Last update: Recent  
   Point geometry with attributes displaying health screening locations in East Baton Rouge Parish, Louisiana.
+
+- **Herbicide Spray**  
+  [Data](https://data.brla.gov/resource/9ghh-4att.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ghh-4att) | Last update: Apr 2024  
+  Line geometry with attributes displaying the herbicide spraying locations in East Baton Rouge Parish, Louisiana.Metadata
 
 - **Historic District Tax Credit Incentives**  
   [Data](https://data.brla.gov/resource/tbqq-zv6c.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/tbqq-zv6c) | Last update: Sep 2022  
@@ -1220,10 +1238,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/qgv6-hgr5.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/qgv6-hgr5) | Last update: Oct 2022  
   Point geometry with attributes displaying Interstate entrances and exits in East Baton Rouge Parish, Louisiana.
 
-- **Judicial Court Appeals Subsection**  
-  [Data](https://data.brla.gov/resource/9mc4-8ctx.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9mc4-8ctx) | Last update: Sep 2022  
-  Polygon geometry with attributes displaying the Louisiana 1st Circuit Court of Appeals Subsections in East Baton Rouge Parish, Louisiana.
-
 - **Judicial Family Court Section**  
   [Data](https://data.brla.gov/resource/s24n-jsxc.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/s24n-jsxc) | Last update: Sep 2022  
   Polygon geometry with attributes displaying family court sections in East Baton Rouge Parish, Louisiana.
@@ -1244,6 +1258,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/4aq8-5d28.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4aq8-5d28) | Last update: Feb 2024  
   Polygon geometry with attributes displaying boundaries of Louisiana Senate districts in East Baton Rouge Parish, Louisiana.
 
+- **Landscape Maintenance Agreement**  
+  [Data](https://data.brla.gov/resource/eyp8-c7wc.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/eyp8-c7wc) | Last update: Nov 2023  
+  Polygon geometry with attributes displaying landscape maintenance agreements in East Baton Rouge Parish, Louisiana.
+
 - **Legacy Baton Rouge Police Crime Incidents**  
   [Data](https://data.brla.gov/resource/fabb-cnnu.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/fabb-cnnu) | Last update: Sep 2023  
   Crimes reported in Baton Rouge and handled by the Baton Rouge Police Department. Crimes include Burglaries (Vehicle, Residential and Non-residential), Robberies (Individual and Business), Theft, Narcotics, Vice Crimes, Assault, Nuisance, Battery, Firearm, Homicides, Criminal Damage to Property, Sexual Assaults and Juvenile.
@@ -1253,7 +1271,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   In November 2018, the City-Parish switched to a new payroll system. This dataset contains annual salaries through 2017.
 
 - **Legacy City-Parish Employees**  
-  [Data](https://data.brla.gov/resource/gyhq-w3h3.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/gyhq-w3h3) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/gyhq-w3h3.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/gyhq-w3h3) | Last update: Jul 2024  
   City-Parish employees, both active and inactive, that exist in the City-Parish Payroll System.
 
 - **Legacy Purchase Orders**  
@@ -1274,6 +1292,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Local Landmark**  
   [Data](https://data.brla.gov/resource/5kk9-55vb.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/5kk9-55vb) | Last update: Oct 2022  
   Polygon geometry with attributes displaying local landmarks in East Baton Rouge Parish, Louisiana.
+
+- **Lot**  
+  [Data](https://data.brla.gov/resource/9ygd-j4f4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9ygd-j4f4) | Last update: Recent  
+  Polygon geometry with attributes displaying the recorded boundaries or lot lines of property in East Baton Rouge Parish, Louisiana.Metadata
 
 - **Louisiana Opportunity Zone**  
   [Data](https://data.brla.gov/resource/n8kq-uika.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/n8kq-uika) | Last update: Dec 2023  
@@ -1319,6 +1341,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/vrpu-5zjx.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/vrpu-5zjx) | Last update: Sep 2023  
   Polygon geometry with attributes displaying national landmarks in East Baton Rouge Parish, Louisiana.
 
+- **Natural Resource Zoning District**  
+  [Data](https://data.brla.gov/resource/tbwy-gkx4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/tbwy-gkx4) | Last update: Oct 2022  
+  Polygon geometry with attributes displaying overlay districts within East Baton Rouge Parish, Louisiana.
+
 - **Neighborhood**  
   [Data](https://data.brla.gov/resource/947q-ef2q.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/947q-ef2q) | Last update: Feb 2024  
   Polygon geometry with attributes displaying neighborhoods in East Baton Rouge Parish, Louisiana.
@@ -1360,7 +1386,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying the Baton Rouge Police Department Districts in East Baton Rouge Parish, Louisiana.
 
 - **Polling Place**  
-  [Data](https://data.brla.gov/resource/9g8x-h7ij.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9g8x-h7ij) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/9g8x-h7ij.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9g8x-h7ij) | Last update: Jul 2024  
   Point geometry with attributes displaying polling places for voting precincts in East Baton Rouge Parish, Louisiana.
 
 - **Pontchartrain Levee District**  
@@ -1372,11 +1398,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset is a combination of attribute information from the master address table and the lot or property records table. The address points are created within a building footprint and in the case where there is no building, then the point is the center of the lot.
 
 - **Public Facilities**  
-  [Data](https://data.brla.gov/resource/4u7h-jsge.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4u7h-jsge) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/4u7h-jsge.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4u7h-jsge) | Last update: Jun 2024  
   This dataset contains information and addresses for all City-Parish facilities.
 
 - **Public Facility**  
-  [Data](https://data.brla.gov/resource/4iz6-ptzm.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4iz6-ptzm) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/4iz6-ptzm.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4iz6-ptzm) | Last update: Jul 2024  
   Point geometry with attributes displaying public facilities in East Baton Rouge Parish, Louisiana.
 
 - **Public Facility Property**  
@@ -1394,10 +1420,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Public Service Commission**  
   [Data](https://data.brla.gov/resource/metg-sudz.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/metg-sudz) | Last update: Apr 2023  
   Polygon geometry with attributes displaying public service commission districts in East Baton Rouge Parish, Louisiana.
-
-- **Purchase Orders and Contracts**  
-  [Data](https://data.brla.gov/resource/2ung-w7t4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/2ung-w7t4) | Last update: Recent  
-  Both header information and detail item information are included in this dataset in order to provide a comprehensive view of the PO/Contract data. The Record Type field indicates whether the record is a header record (H) or detail item record (D). In the computer purchase example from above, the system would display 4 records  one header record and 3 detail item records.
 
 - **Quick Stop**  
   [Data](https://data.brla.gov/resource/egg6-42q4.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/egg6-42q4) | Last update: Recent  
@@ -1424,7 +1446,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying overlay districts within East Baton Rouge Parish, Louisiana.
 
 - **Retail Food Inspections**  
-  [Data](https://data.brla.gov/resource/ux2t-b9wr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ux2t-b9wr) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/ux2t-b9wr.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ux2t-b9wr) | Last update: Jul 2024  
   This dataset provides a full listing of all East Baton Rouge Parish retail food inspections conducted by the Louisiana Department of Health.
 
 - **Road Closures**  
@@ -1440,7 +1462,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying sales tax domiciles in East Baton Rouge Parish, Louisiana.
 
 - **School**  
-  [Data](https://data.brla.gov/resource/xj7z-n8pj.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/xj7z-n8pj) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/xj7z-n8pj.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/xj7z-n8pj) | Last update: Jul 2024  
   Point geometry with attribute information displaying public and private school locations in East Baton Rouge Parish, Louisiana.
 
 - **School District**  
@@ -1452,7 +1474,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Polygon geometry with attributes displaying gun free zones in East Baton Rouge Parish, Louisiana.
 
 - **School Location**  
-  [Data](https://data.brla.gov/resource/46yn-5ctj.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/46yn-5ctj) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/46yn-5ctj.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/46yn-5ctj) | Last update: Jul 2024  
   This dataset displays the location, address, and contact information for public and private schools in East Baton Rouge Parish.
 
 - **Senior Citizen Center**  
@@ -1468,16 +1490,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Line geometry with attributes displaying sidewalks in East Baton Rouge Parish, Louisiana.
 
 - **Small Area Plan**  
-  [Data](https://data.brla.gov/resource/9yr4-5zjj.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9yr4-5zjj) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/9yr4-5zjj.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/9yr4-5zjj) | Last update: Jul 2024  
   Polygon geometry with attributes displayingthe boundaries of neighborhoods with approved small area plansin East Baton Rouge Parish, Louisiana.
 
 - **Sports Venue**  
   [Data](https://data.brla.gov/resource/mtzf-7pes.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/mtzf-7pes) | Last update: Recent  
   Point geometry with attributes displaying sports venue locations in East Baton Rouge Parish, Louisiana.
-
-- **Stream Segment**  
-  [Data](https://data.brla.gov/resource/ugp7-jyfn.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/ugp7-jyfn) | Last update: Nov 2022  
-  Line geometry with attributes displaying stream segments within and overlapping East Baton Rouge Parish, Louisiana.Metadata
 
 - **Street Address**  
   [Data](https://data.brla.gov/resource/utpm-sxpk.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/utpm-sxpk) | Last update: Recent  
@@ -1492,7 +1510,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Point geometry with attributes displaying pedestrian crosswalks in East Baton Rouge Parish, Louisiana.
 
 - **Street Intersection**  
-  [Data](https://data.brla.gov/resource/cy7k-zjgm.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/cy7k-zjgm) | Last update: Jun 2024  
+  [Data](https://data.brla.gov/resource/cy7k-zjgm.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/cy7k-zjgm) | Last update: Recent  
   Point geometry with attributes displaying street intersections of all public and private named roads in East Baton Rouge Parish, Louisiana.
 
 - **Street Lighting**  
@@ -1515,6 +1533,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.brla.gov/resource/gdm3-tmr2.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/gdm3-tmr2) | Last update: Recent  
   Line geometry with attributes displaying ownership of street centerline segments in East Baton Rouge Parish, Louisiana.
 
+- **Street Sign**  
+  [Data](https://data.brla.gov/resource/4mib-eu3q.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/4mib-eu3q) | Last update: Oct 2022  
+  Point geometry with attributes displaying Manual of Uniform Traffic Control Devices (MUTCD) street signs in East Baton Rouge Parish, Louisiana.
+
 - **Subdivision**  
   [Data](https://data.brla.gov/resource/gks8-t3yg.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/gks8-t3yg) | Last update: Recent  
   Polygon geometry with attributes displaying subdivision boundaries in East Baton Rouge Parish, Louisiana.Metadata
@@ -1522,6 +1544,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Subdivisions**  
   [Data](https://data.brla.gov/resource/px43-apna.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/px43-apna) | Last update: Recent  
   This dataset is an official listing of all approved and recorded subdivisions in East Baton Rouge Parish, Louisiana.
+
+- **Subject Property Points**  
+  [Data](https://data.brla.gov/resource/tkta-8gdz.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/tkta-8gdz) | Last update: Recent  
+  The Subject Property map service displays polygon and point geometries with attributes of subject property for all City-Parish Planning Commission planning, zoning, and historic preservation cases in the City of Baton Rouge and Parish of East Baton Rouge, Louisiana.Metadata
 
 - **Subject Property Polygons**  
   [Data](https://data.brla.gov/resource/fxzx-kgsd.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/fxzx-kgsd) | Last update: Recent  
@@ -1548,7 +1574,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Point geometry with attributes displaying telecommunication facilities in East Baton Rouge Parish, Louisiana.
 
 - **Tiger Trails Routes**  
-  [Data](https://data.brla.gov/resource/t8sv-qiry.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/t8sv-qiry) | Last update: Recent  
+  [Data](https://data.brla.gov/resource/t8sv-qiry.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/t8sv-qiry) | Last update: Jul 2024  
   Line geometry with attributes displaying the Louisiana State University (LSU) Tiger Trails transit routes in East Baton Rouge Parish, Louisiana. The data is updated as needed and is maintained by the Department of Information Services.
 
 - **Tourist Venue**  
@@ -1592,7 +1618,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Utility Coverage Area map service displays polygon geometry and attributes for all electricity utility service areas in East Baton Rouge Parish, Louisiana. Information was gathered from the Louisiana Public Service Commission website at https://www.lpsc.louisiana.gov/Maps_Electric_Distribution_Areas.aspx and from the City-Parish Department of Transportation and Drainage.
 
 - **Voting Precinct**  
-  [Data](https://data.brla.gov/resource/y5ck-h64d.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/y5ck-h64d) | Last update: Jan 2024  
+  [Data](https://data.brla.gov/resource/y5ck-h64d.json) | [Docs](https://dev.socrata.com/foundry/data.brla.gov/y5ck-h64d) | Last update: Recent  
   Polygon geometry with attributes displaying voting precincts and voter demographics in East Baton Rouge Parish, Louisiana.
 
 - **Ward 1950**  
@@ -1750,10 +1776,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.calgary.ca/resource/x34e-bcjz.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/x34e-bcjz) | Last update: Recent  
   In this model amenities are classified under the following headings: Attractions, Community Centre, Court, Defibrillator, Health Clinic, Hospital, Internet Access, Library,  Skate Parks, Social Dev Ctr, Visitor Info. Name, address, location information and homepage information if available.
 
-- **Council and Committee Votes**  
-  [Data](https://data.calgary.ca/resource/ruq3-99hx.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/ruq3-99hx) | Last update: Apr 2024  
-  This dataset includes confirmed Council and Committee meeting vote records as of 2020 October 07, when Council and Committee eVoting was implemented. For vote results prior to this date, please visit the Council and Committee Agenda and Minutes webpage at www.calgary.ca/agendaminutes.
-
 - **Crosswalks**  
   [Data](https://data.calgary.ca/resource/hxgg-rpad.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/hxgg-rpad) | Last update: Recent  
   Visually locate crosswalks.
@@ -1773,9 +1795,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.calgary.ca/resource/vxgy-id5s.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/vxgy-id5s) | Last update: Recent  
   Electrical permits are issued for the installation, addition or alteration of electrical components. Permits must be obtained and inspections completed prior to occupying the space the equipment is servicing. This dataset shows inspections for electrical permits. Data is provided daily by The City of Calgary.
 
-- **Finance Investment Returns**  
-  [Data](https://data.calgary.ca/resource/6nu3-wt4w.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/6nu3-wt4w) | Last update: Feb 2023  
-  This dataset contains Finance' investment return ratings
+- **Finance Long Term Debt**  
+  [Data](https://data.calgary.ca/resource/5xvz-5s7a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/5xvz-5s7a) | Last update: Feb 2023  
+  This dataset contains outstanding Finance' long term debt and MGA debt limit per year
 
 - **Fire Emergency Response Calls**  
   [Data](https://data.calgary.ca/resource/bdez-pds9.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/bdez-pds9) | Last update: Feb 2023  
@@ -1784,10 +1806,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Fire Emergency Response Calls Daily**  
   [Data](https://data.calgary.ca/resource/d6us-rmnf.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/d6us-rmnf) | Last update: Feb 2023  
   This dataset contains daily count of emergencies responded.
-
-- **Fire Emergency Response Calls Year to Date**  
-  [Data](https://data.calgary.ca/resource/2jz8-wskw.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/2jz8-wskw) | Last update: Feb 2023  
-  This dataset contains YTD count of incidents responded by Fire department.
 
 - **Fire Response Flame Spread**  
   [Data](https://data.calgary.ca/resource/cfrr-izv5.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/cfrr-izv5) | Last update: Feb 2023  
@@ -1805,10 +1823,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.calgary.ca/resource/4ur7-wsgc.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/4ur7-wsgc) | Last update: Jan 2024  
   For detailed property assessment information, visit Assessment Search 
 
-- **Land Use Districts**  
-  [Data](https://data.calgary.ca/resource/qe6k-p9nh.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/qe6k-p9nh) | Last update: Recent  
-  For more information about land use in The City of Calgary, please visit the Calgary.ca Land Use Bylaw page.
-
 - **Luminaires**  
   [Data](https://data.calgary.ca/resource/vkhm-h954.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/vkhm-h954) | Last update: Recent  
   This dataset is for visually locating street light luminaires. See 2016 Design Guidelines for Street Lighting (Section 7) for more information on Roads Luminaires. http://www.calgary.ca/Transportation/Roads/Documents/Traffic/Traffic-signals-and-streetlights/Design-Guidelines-For-Street-Lighting.pdf
@@ -1820,10 +1834,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Neighbourhood Speed Limits**  
   [Data](https://data.calgary.ca/resource/6qn4-9vc6.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/6qn4-9vc6) | Last update: Feb 2023  
   This dataset describes proposed speed limits on Collector and Residential roads as per the new default speed limit bylaw within the City of Calgary that takes effect May 31, 2021.
-
-- **Off-Street Parking Zones**  
-  [Data](https://data.calgary.ca/resource/ggxk-g2u3.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/ggxk-g2u3) | Last update: Recent  
-  This dataset captures the geographic locations of Off-Street Parking Zones that are owned or enforced by The City of Calgary. Data were collected by Calgary Parking Authority field checking, traffic sign location data and ortho-photos from The City of Calgary and are updated on an as-needed basis by Calgary Parking Authority.
 
 - **Parks Amenity Equipment**  
   [Data](https://data.calgary.ca/resource/7v8c-cjjm.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/7v8c-cjjm) | Last update: Recent  
@@ -1856,10 +1866,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Parks Trails**  
   [Data](https://data.calgary.ca/resource/tfmd-grpe.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/tfmd-grpe) | Last update: Recent  
   The Calgary Trails dataset identifies designated and undesignated trails throughout the City network. Dataset may not contain all trails within Calgary
-
-- **Parks Water Bodies**  
-  [Data](https://data.calgary.ca/resource/d3xr-mc4m.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/d3xr-mc4m) | Last update: Feb 2023  
-  This dataset identifies the Natural Water Bodies on lands under Calgary Parks Stewardship. It can be a flowing type of water i.e. STREAM or some type of body of water i.e. NATURAL POND.
 
 - **Parks Water Delivery**  
   [Data](https://data.calgary.ca/resource/mxuz-hecb.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/mxuz-hecb) | Last update: Feb 2023  
@@ -1908,9 +1914,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.calgary.ca/resource/wnys-g3eq.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/wnys-g3eq) | Last update: Recent  
   This dataset was created for visually locating lane width on road marking designs.
 
+- **Road Marking Lines**  
+  [Data](https://data.calgary.ca/resource/5yff-va5a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/5yff-va5a) | Last update: Recent  
+  This dataset was created for visually locating road marking lines and designs.
+
 - **Road Stencils**  
   [Data](https://data.calgary.ca/resource/cdk9-nhne.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/cdk9-nhne) | Last update: Recent  
   This dataset was created for visually locating road stencils.
+
+- **School Enrolment Data**  
+  [Data](https://data.calgary.ca/resource/9qye-mibh.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/9qye-mibh) | Last update: May 2023  
+  This data is a subset of the entire data for Alberta. The original dataset is on the Government of Alberta (https://open.alberta.ca/opendata) and Alberta Education website. (https://education.alberta.ca/)
 
 - **Schools**  
   [Data](https://data.calgary.ca/resource/fd9t-tdn2.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/fd9t-tdn2) | Last update: Recent  
@@ -1935,6 +1949,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Short Term Rentals**  
   [Data](https://data.calgary.ca/resource/gzkz-5k9a.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/gzkz-5k9a) | Last update: Recent  
   This dataset shows all licenced Short Term Rental locations in the City of Calgary and its status. Data is provided daily by The City of Calgary.
+
+- **Snow clearing lines**  
+  [Data](https://data.calgary.ca/resource/phfs-dvdq.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/phfs-dvdq) | Last update: Recent  
+  This dataset shows road maintenance snow and ice lines.
 
 - **Snow clearing locations**  
   [Data](https://data.calgary.ca/resource/cezi-uufs.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/cezi-uufs) | Last update: Recent  
@@ -1991,6 +2009,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.calgary.ca/resource/jq4t-b745.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/jq4t-b745) | Last update: Recent  
   This dataset is a compilation of residential schedules for the entire city for black, blue and green bin collection. (Updated to include Summer and Winter Collection schedules).
 
+- **Water Single Family Consumption**  
+  [Data](https://data.calgary.ca/resource/j7mp-h975.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/j7mp-h975) | Last update: Feb 2023  
+  This dataset contains single family includes consumption of metered and flat rate customers living in detached homes and duplexes.
+
 - **Watershed Surface Water Quality Data**  
   [Data](https://data.calgary.ca/resource/y8as-bmzj.json) | [Docs](https://dev.socrata.com/foundry/data.calgary.ca/y8as-bmzj) | Last update: Recent  
   This dataset contains results for the City of Calgary's Watershed Monitoring Program. The program monitors surface water quality across a network of sites that include rivers, tributaries, and reservoirs within the Calgary region. Sampling locations have been added, removed, or modified over time. Grab sampling methodologies are used for sample collection.
@@ -2020,7 +2042,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cambridgema.gov/resource/2b3j-9kdn.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/2b3j-9kdn) | Last update: Apr 2024
 
 - **Cambridge Data Projects**  
-  [Data](https://data.cambridgema.gov/resource/wtcw-2b22.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/wtcw-2b22) | Last update: May 2024  
+  [Data](https://data.cambridgema.gov/resource/wtcw-2b22.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/wtcw-2b22) | Last update: Recent  
   Index of public-facing analysis projects that use Cambridge data
 
 - **Cambridge Public Library Locations**  
@@ -2055,7 +2077,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset displays the name, breed, and approximate location of dogs in Cambridge. It is based on dog license data collected by Cambridge's Animal Commission. All locations listed in this dataset have been obscured to protect privacy. Please see the limitations section below for more information.
 
 - **EPA Air Quality Data - Pollutants**  
-  [Data](https://data.cambridgema.gov/resource/43k6-pjtt.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/43k6-pjtt) | Last update: Nov 2023  
+  [Data](https://data.cambridgema.gov/resource/43k6-pjtt.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/43k6-pjtt) | Last update: Recent  
   Daily air quality data collected by the EPA Air Quality Service (AQS), from 1990-2021. This dataset includes air quality statistics from AQS monitors in the area surrounding Cambridge (Kenmore, Roxbury, Von Hillern, Chelsea). Each contains a parameter code which specifies one of the six pollutants for which the EPA AQS has an Air Quality Index (AQI).
 
 - **Elections Polling Locations**  
@@ -2081,9 +2103,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Master Addresses List**  
   [Data](https://data.cambridgema.gov/resource/vup6-kpwv.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/vup6-kpwv) | Last update: Recent
 
-- **Outdoor Dining**  
-  [Data](https://data.cambridgema.gov/resource/qzsr-xrig.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/qzsr-xrig) | Last update: Nov 2023  
-  This dataset shows restaurants and inns with annual and temporary outdoor dining licenses.
+- **Park Permits, Future Events**  
+  [Data](https://data.cambridgema.gov/resource/wsde-3xia.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/wsde-3xia) | Last update: Recent  
+  This dataset contains basic information about approved permits for future park events.
 
 - **Playgrounds**  
   [Data](https://data.cambridgema.gov/resource/ejhd-uvcf.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/ejhd-uvcf) | Last update: Recent  
@@ -2094,10 +2116,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Police Department Crash Data - Historical**  
   [Data](https://data.cambridgema.gov/resource/ybny-g9cv.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/ybny-g9cv) | Last update: Aug 2023
-
-- **Public Handicap Parking Spaces**  
-  [Data](https://data.cambridgema.gov/resource/q5yt-bvvn.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/q5yt-bvvn) | Last update: Recent  
-  This data is automatically updated on a set schedule. The Socrata edit date may not reflect the actual edit dates in the data. For more details please see the update date on the full metadata page or view the edit date within the data rows.
 
 - **Resident and Visitor Parking Permits**  
   [Data](https://data.cambridgema.gov/resource/khuw-r9f4.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/khuw-r9f4) | Last update: Recent  
@@ -2148,16 +2166,21 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cambridgema.gov/resource/4bq3-vfga.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/4bq3-vfga) | Last update: Mar 2024  
   Voter turnout for Municipal, State and Federal Elections in Cambridge from 1999 to the present. Data is reported by ward and precinct. More information about election districts is available here: https://www.cambridgema.gov/GIS/mapgallery/electionmaps
 
+- **Waterplay Park Locations**  
+  [Data](https://data.cambridgema.gov/resource/8vjb-gcum.json) | [Docs](https://dev.socrata.com/foundry/data.cambridgema.gov/8vjb-gcum) | Last update: Recent  
+  This data is automatically updated on a set schedule. The Socrata edit date may not reflect the actual edit dates in the data. For more details please see the update date on the full metadata page or view the edit date within the data rows.
+
 [[TOP]](#toc)
 
 
 ## data.cdc.gov
 
+- **AH Provisional COVID-19 Deaths by Race and Educational Attainment**  
+  [Data](https://data.cdc.gov/resource/i6ej-9eac.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/i6ej-9eac) | Last update: Apr 2023  
+  Provisional counts of deaths in the United States by race and educational attainment. The dataset includes cumulative provisional counts of death for COVID-19, coded to ICD-10 code U07.1 as an underlying or multiple cause of death.
+
 - **Alzheimer's Disease and Healthy Aging Data**  
   [Data](https://data.cdc.gov/resource/hfr9-rurv.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/hfr9-rurv) | Last update: Apr 2024
-
-- **American Community Survey (ACS) – Vision and Eye Health Surveillance**  
-  [Data](https://data.cdc.gov/resource/thir-stei.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/thir-stei) | Last update: May 2024
 
 - **American Rescue Plan (ARP) Rural Payments**  
   [Data](https://data.cdc.gov/resource/8v6a-z6zq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/8v6a-z6zq) | Last update: Jun 2023
@@ -2207,24 +2230,20 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **DASH - Youth Risk Behavior Surveillance System (YRBSS): Middle School**  
   [Data](https://data.cdc.gov/resource/k5bc-k3g8.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k5bc-k3g8) | Last update: Aug 2023
 
-- **DQS Community hospital beds by state**  
-  [Data](https://data.cdc.gov/resource/tjtn-y8d3.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tjtn-y8d3) | Last update: Recent  
-  Data on beds per 1,000 resident population in the United States, by state. Data are from Health, United States. SOURCE: American Hospital Association (AHA) Annual Survey of Hospitals. Hospital Statistics.
-
 - **DQS Dentists, by state: United States.**  
   [Data](https://data.cdc.gov/resource/9epi-jrff.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/9epi-jrff) | Last update: Recent  
-  Data on active dentists in the United States by state. Data are from Health, United States. SOURCE: American Dental Association, Health Policy Institute.
+  Search, visualize, and download these and other estimates from over 120 health topics with the NCHS Data Query System (DQS), available from: https://www.cdc.gov/nchs/dataquery/index.htm.
 
 - **DQS Estimate of Emergency Department Visits in the United States Footnotes**  
-  [Data](https://data.cdc.gov/resource/6vwk-ensg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6vwk-ensg) | Last update: May 2024  
+  [Data](https://data.cdc.gov/resource/6vwk-ensg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/6vwk-ensg) | Last update: Recent  
   List of footnotes, notes, and source information for The National Hospital Ambulatory Medical Care Survey (NHAMCS). Each row of this dataset contains the accompanying text for a footnote found in NHAMCS dataset. The footnote lookup can be merged onto any NHAMCS dataset using, DATASET_SHORT_NAME, FN_ID, FN_TYPE, and FN_TEXT.
+
+- **DQS NHIS Children Summary Statistics Footnotes**  
+  [Data](https://data.cdc.gov/resource/48ev-2ygq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/48ev-2ygq) | Last update: Recent  
+  List of footnotes, notes, and source information for NHIS Child Summary Statistics. Each row of this dataset contains the accompanying text for a footnote found in the NHIS Child Summary Statistics Dataset.
 
 - **Disability and Health Data System (DHDS)**  
   [Data](https://data.cdc.gov/resource/k62p-6esq.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/k62p-6esq) | Last update: Recent
-
-- **Distribution of COVID-19 Deaths and Populations, by Jurisdiction, Age, and Race and Hispanic Origin**  
-  [Data](https://data.cdc.gov/resource/jwta-jxbg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/jwta-jxbg) | Last update: Sep 2023  
-  This visualization provides data that can be used to illustrate potential differences in the burden of deaths due to COVID-19 by race and ethnicity.
 
 - **Excess Deaths Associated with COVID-19**  
   [Data](https://data.cdc.gov/resource/xkkf-xrst.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/xkkf-xrst) | Last update: Sep 2023  
@@ -2248,6 +2267,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/yt7u-eiyg.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/yt7u-eiyg) | Last update: Mar 2022  
   This dataset includes birth rates for females by age group in the United States since 1940.
 
+- **NNDSS - TABLE 1JJ. Tuberculosis to Tularemia**  
+  [Data](https://data.cdc.gov/resource/tfu6-pjxh.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/tfu6-pjxh) | Last update: Feb 2022  
+  Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data).
+
 - **NNDSS Weekly Data**  
   [Data](https://data.cdc.gov/resource/x9gk-5huc.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/x9gk-5huc) | Last update: Recent  
   The list of national notifiable infectious diseases and conditions and their national surveillance case definitions are available at https://ndc.services.cdc.gov/. This list incorporates the Council of State and Territorial Epidemiologists (CSTE) position statements approved by CSTE for national surveillance.
@@ -2265,7 +2288,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/kztq-p2jf.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/kztq-p2jf) | Last update: Apr 2024
 
 - **PLACES and 500 Cities: Data Dictionary**  
-  [Data](https://data.cdc.gov/resource/m35w-spkz.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/m35w-spkz) | Last update: Aug 2023  
+  [Data](https://data.cdc.gov/resource/m35w-spkz.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/m35w-spkz) | Last update: Recent  
   For each measure, the data dictionary provides the measure ID, measure full and short name, measure category ID and name, year of BRFSS data used to generate the estimate by release year, and frequency BRFSS collects data about the measure.
 
 - **Provisional COVID-19 Death Counts in the United States by County**  
@@ -2307,16 +2330,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cdc.gov/resource/b2jx-uyck.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/b2jx-uyck) | Last update: Aug 2023
 
 - **United States COVID-19 Community Levels by County**  
-  [Data](https://data.cdc.gov/resource/3nnm-4jni.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3nnm-4jni) | Last update: Recent  
+  [Data](https://data.cdc.gov/resource/3nnm-4jni.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/3nnm-4jni) | Last update: Jun 2024  
   For the most accurate and up-to-date data for any county or state, visit the relevant health department website. COVID Data Tracker may display data that differ from state and local websites. This can be due to differences in how data were collected, how metrics were calculated, or the timing of web updates.
-
-- **Vision Service Plan (VSP) – Vision and Eye Health Surveillance**  
-  [Data](https://data.cdc.gov/resource/4r3g-hv9c.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/4r3g-hv9c) | Last update: Sep 2023  
-  Reported rates were suppressed for de-identification to ensure protection of patient privacy. Detailed information on VEHSS VSP analyses can be found on the VEHSS VSP webpage (link). Information on VSP data can be found on the VSP website (www.vsp.com). The VEHSS VSP dataset was last updated in June 2018.
 
 - **Weekly Counts of Deaths by Jurisdiction and Age**  
   [Data](https://data.cdc.gov/resource/y5bj-9g5w.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/y5bj-9g5w) | Last update: Sep 2023  
   This visualization provides weekly data on the number of deaths from all causes by jurisdiction of occurrence and age group. Counts of deaths in more recent weeks can be compared with counts from earlier years to determine if the number is higher than expected.
+
+- **Weekly Counts of Deaths by Jurisdiction, and Race and Hispanic Origin**  
+  [Data](https://data.cdc.gov/resource/qfhf-uhaa.json) | [Docs](https://dev.socrata.com/foundry/data.cdc.gov/qfhf-uhaa) | Last update: Sep 2023  
+  This visualization provides weekly data on the number of deaths from all causes by jurisdiction of occurrence and race and Hispanic origin. Numbers of deaths are also shown for all causes excluding COVID-19, and for COVID-19. Counts of deaths in more recent weeks can be compared with counts from earlier years to determine if the number is higher than expected.
 
 [[TOP]](#toc)
 
@@ -2419,8 +2442,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cincinnati-oh.gov/resource/isji-aqp7.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/isji-aqp7) | Last update: Recent  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/wh9h-zdqz
 
+- **Customer Service Requests (CSR) Survey Feedback Responses**  
+  [Data](https://data.cincinnati-oh.gov/resource/umfh-cri7.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/umfh-cri7) | Last update: Recent  
+  CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/Customer-Service-CSR-Satisfaction/ks8a-xggj/
+
 - **Customer Service Requests (CSRs)**  
-  [Data](https://data.cincinnati-oh.gov/resource/gcej-gmiw.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gcej-gmiw) | Last update: May 2024  
+  [Data](https://data.cincinnati-oh.gov/resource/gcej-gmiw.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gcej-gmiw) | Last update: Recent  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/Customer-Service-Citizen-Service-Request-CSR-/ve9a-xare
 
 - **DCED Properties and RFPs**  
@@ -2468,7 +2495,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/mrju-z9ui
 
 - **PDI (Police Data Initiative) CPD Shootings**  
-  [Data](https://data.cincinnati-oh.gov/resource/7a3r-kxji.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/7a3r-kxji) | Last update: Recent  
+  [Data](https://data.cincinnati-oh.gov/resource/7a3r-kxji.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/7a3r-kxji) | Last update: Jul 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/xw7t-5phj
 
 - **PDI (Police Data Initiative) Crime Incidents**  
@@ -2507,6 +2534,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cincinnati-oh.gov/resource/gtpz-5rqd.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/gtpz-5rqd) | Last update: Recent  
   Data Description: This data set contains all poles owned/maintained by the City of Cincinnati's Department of Transportation & Engineering (DOTE). Poles are geocoded, and include neighborhood as well as street segment (strsegid).
 
+- **Smart 911 Enrollments**  
+  [Data](https://data.cincinnati-oh.gov/resource/rtu7-isj6.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/rtu7-isj6) | Last update: Feb 2024  
+  CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/snnn-n6ic
+
 - **Streetcar Blockages and Delays**  
   [Data](https://data.cincinnati-oh.gov/resource/2yd8-z8bq.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/2yd8-z8bq) | Last update: Recent  
   Data Description: This data set is a log of any instance that causes a delay within the streetcar system where a streetcar is physically blocked from moving. A blockage is defined as any delay that exceeds 2 minutes and is not caused due to heavy traffic. While blockages can occur at any point along the track, the data is tracked by location at the intersection or mid-block.
@@ -2543,10 +2574,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Berkeley PD - Calls for Service**  
   [Data](https://data.cityofberkeley.info/resource/k2nh-s5h5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofberkeley.info/k2nh-s5h5) | Last update: Oct 2022  
   Calls for service (not criminal reports) within last 180 days
-
-- **COVID-19 Confirmed Cases**  
-  [Data](https://data.cityofberkeley.info/resource/xn6j-b766.json) | [Docs](https://dev.socrata.com/foundry/data.cityofberkeley.info/xn6j-b766) | Last update: Recent  
-  Counts of confirmed COVID-19 cases among Berkeley residents by date. As of 6/21/22, this dataset will be updated weekly instead of daily. As of 11/14/22, this dataset only includes PCR cases.
 
 - **Taxable Square Footage**  
   [Data](https://data.cityofberkeley.info/resource/9a47-nj4i.json) | [Docs](https://dev.socrata.com/foundry/data.cityofberkeley.info/9a47-nj4i) | Last update: Nov 2023  
@@ -2609,6 +2636,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofchicago.org/resource/7nii-7srd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/7nii-7srd) | Last update: Recent  
   As described in https://data.cityofchicago.org/stories/s/311-Dataset-Changes-12-11-2018/d7nq-5g7t, the function of this dataset was replaced by https://data.cityofchicago.org/d/v6vf-nfxy. This dataset is historical-only.
 
+- **811 Chicago Utility Hit Tickets**  
+  [Data](https://data.cityofchicago.org/resource/nphj-5zur.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/nphj-5zur) | Last update: Recent  
+  Chicago Department of Transportation (CDOT), Division of Infrastructure Management (DIM), operates Chicagos One Call serviceknown as 811 Chicago. Per Municipal Code of Chicago (MCC)  10-21-080, in the event of damage to any underground facilities, the person responsible for the damage shall immediately notify811 Chicago.
+
 - **Additional Dwelling Unit Areas**  
   [Data](https://data.cityofchicago.org/resource/ttjb-ayff.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/ttjb-ayff) | Last update: Jul 2021  
   Areas eligible for Additional Dwelling Unit permits. Ordinance O2020-2850, passed in December 2020, creates five pilot area zones within which property owners can apply for additional dwelling units under the ADU program.
@@ -2657,7 +2688,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset is in a format for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
 
 - **Building Code Scofflaw List**  
-  [Data](https://data.cityofchicago.org/resource/crg5-4zyp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/crg5-4zyp) | Last update: Apr 2024  
+  [Data](https://data.cityofchicago.org/resource/crg5-4zyp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/crg5-4zyp) | Last update: Recent  
   Pursuant to the ordinance, as amended in 2021, lists of buildings are published on September 1 and March 1 of each year and lists of owners associated with those buildings are published one month later.
 
 - **Building Permits**  
@@ -2680,7 +2711,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Addresses that fail to geocode are assigned the coordinates 41.88415000022252, -87.63241000012124.This coordinate is located approximately just south of the intersection of W Randolph and N LaSalle.
 
 - **CDPH Mental Health Resources**  
-  [Data](https://data.cityofchicago.org/resource/wust-ytyg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/wust-ytyg) | Last update: Feb 2024  
+  [Data](https://data.cityofchicago.org/resource/wust-ytyg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/wust-ytyg) | Last update: Recent  
   Comprehensive information about the Chicago Department of Public Health (CDPH)'s mental health clinics and community partners. Providers on this site offer free mental health services to Chicagoans regardless of ability to pay, immigration status, or health insurance. Information includes location of site(s), hours of operation, populations served, specific service types, and contact information.
 
 - **CDPH Storage Tanks**  
@@ -2758,6 +2789,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **COVID-Like Illness (CLI) and COVID-19 Diagnosis Emergency Department Visits**  
   [Data](https://data.cityofchicago.org/resource/qwib-edaw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/qwib-edaw) | Last update: Recent  
   This dataset includes reports of COVID-19-Like illness (CLI) and COVID-19 diagnosed during an ED visit. CLI is defined as fever and cough or shortness of breath or difficulty breathing with or without the presence of a coronavirus diagnosis code. Visits meeting the CLI definition that also have mention of flu or influenza are excluded.
+
+- **CTA - 'L' (Rail) Lines**  
+  [Data](https://data.cityofchicago.org/resource/xbyr-jnvx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/xbyr-jnvx) | Last update: Recent  
+  This dataset is in a format for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
+
+- **CTA - Bus Routes**  
+  [Data](https://data.cityofchicago.org/resource/6uva-a5ei.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/6uva-a5ei) | Last update: Recent  
+  This dataset is in a format for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
 
 - **CTA - List of CTA Datasets**  
   [Data](https://data.cityofchicago.org/resource/pnau-cf66.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/pnau-cf66) | Last update: May 2017  
@@ -2873,10 +2912,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Chicago Public Schools - School Locations SY2324**  
   [Data](https://data.cityofchicago.org/resource/mv87-m4mi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/mv87-m4mi) | Last update: Sep 2023  
   This dataset is in a format for spatial datasets that is inherently tabular but allows for a map as a derived view. Please click the indicated link below for such a map.
-
-- **Chicago Traffic Tracker - Congestion Estimates by Regions**  
-  [Data](https://data.cityofchicago.org/resource/t2qc-9pjd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/t2qc-9pjd) | Last update: Recent  
-  This dataset contains the current estimated congestion for the 29 traffic regions. For a detailed description, go to: http://bitly.com/TeqrNv.
 
 - **Chicago Traffic Tracker - Congestion Estimates by Segments**  
   [Data](https://data.cityofchicago.org/resource/n4j6-wkkf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/n4j6-wkkf) | Last update: Recent  
@@ -3026,10 +3061,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofchicago.org/resource/eqdx-4qxd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/eqdx-4qxd) | Last update: Recent  
   See http://www.cityofchicago.org/city/en/depts/ethics/provdrs/lobby.html for more information on the Board of Ethics' role in regulating and reporting on lobbying in Chicago.
 
-- **Lobbyist Data - Gifts**  
-  [Data](https://data.cityofchicago.org/resource/5d79-9xqr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/5d79-9xqr) | Last update: Recent  
-  See http://www.cityofchicago.org/city/en/depts/ethics/provdrs/lobby.html for more information on the Board of Ethics' role in regulating and reporting on lobbying in Chicago.
-
 - **Lobbyist Data - Lobbying Activity**  
   [Data](https://data.cityofchicago.org/resource/pahz-egmi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/pahz-egmi) | Last update: Recent  
   List of each City agency lobbied, whether it involved legislative or administrative action (or both) and a brief description of the action promoted or opposed, as reported by registered lobbyists. See http://www.cityofchicago.org/city/en/depts/ethics/provdrs/lobby.html for more information on the Board of Ethics' role in regulating and reporting on lobbying in Chicago.
@@ -3124,7 +3155,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   As described in http://bit.ly/cdotpermitspost, the function of this dataset was replaced by https://data.cityofchicago.org/d/pubx-yq2d on 12/7/2015.
 
 - **Red Light Camera Locations**  
-  [Data](https://data.cityofchicago.org/resource/thvf-6diy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/thvf-6diy) | Last update: Aug 2023  
+  [Data](https://data.cityofchicago.org/resource/thvf-6diy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/thvf-6diy) | Last update: Recent  
   This dataset shows the location, first operational date, and approaches of the red light cameras in the City of Chicago. The approach describes the originating direction of travel which is monitored by a red light camera.
 
 - **Red Light Camera Violations**  
@@ -3160,7 +3191,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   No parking is allowed on Snow Routes when there is two or more inches on the ground regardless of date or time.For more information, please see https://www.chicago.gov/city/en/depts/streets/provdrs/traffic/svcs/winter-snow-parking-restrictions.html.
 
 - **Socioeconomically Disadvantaged Areas**  
-  [Data](https://data.cityofchicago.org/resource/2ui7-wiq8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ui7-wiq8) | Last update: Recent  
+  [Data](https://data.cityofchicago.org/resource/2ui7-wiq8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofchicago.org/2ui7-wiq8) | Last update: Jul 2024  
   Areas of Chicago, based on census tracts, that are the most socioeconomically disadvantaged, for the purpose of promoting equitable hiring within areas of economic need. Qualifying areas were identified using three criteria, based on data from the 2014 American Community Survey: household income, poverty rate, and unemployment rate.
 
 - **Special Vaccine Locations**  
@@ -3327,7 +3358,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/de3m-c5p4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/de3m-c5p4) | Last update: Recent
 
 - **Action Taken Against Process Servers**  
-  [Data](https://data.cityofnewyork.us/resource/b9yk-4pzk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/b9yk-4pzk) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/b9yk-4pzk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/b9yk-4pzk) | Last update: Jun 2024  
   New York City Administrative Code Section 20-409 requires the Department of Consumer and Worker Protection (DCWP) to post to its website the suspension, revocation, denial of renewal of license, and the issuance of penalties against licensed process servers, and the reason.
 
 - **Active Projects**  
@@ -3343,7 +3374,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of currently active buildings projects including description and high level schedule and budget range.
 
 - **Active Projects Under Construction**  
-  [Data](https://data.cityofnewyork.us/resource/8586-3zfm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8586-3zfm) | Last update: May 2024  
+  [Data](https://data.cityofnewyork.us/resource/8586-3zfm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8586-3zfm) | Last update: Recent  
   New school projects (Capacity) and Capital Improvement Projects (CIP) currently under Construction.
 
 - **Added Projects**  
@@ -3359,11 +3390,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For the latest available information, please refer to the Mayor's Management Report - Agency Performance Indicators dataset.
 
 - **Agency Spending by Budget Function**  
-  [Data](https://data.cityofnewyork.us/resource/gzfs-3h4m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gzfs-3h4m) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/gzfs-3h4m.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gzfs-3h4m) | Last update: Jul 2024  
   This dataset is updated three times per year after publication of the Preliminary, Executive and Adopted Budget, usually in January, April and June respectively.
 
 - **Aggregate Employee Statistics**  
-  [Data](https://data.cityofnewyork.us/resource/eddp-3v5g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/eddp-3v5g) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/eddp-3v5g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/eddp-3v5g) | Last update: Jul 2024  
   Staff records with attributes (status, rank/title, gender).
 
 - **Air Quality**  
@@ -3373,6 +3404,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Alerts**  
   [Data](https://data.cityofnewyork.us/resource/sn5i-xuny.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/sn5i-xuny) | Last update: Sep 2022  
   This dataset contains alerts related to NYC OpenData datasets that have been reported and verified.
+
+- **Algorithmic Tools Compliance Report**  
+  [Data](https://data.cityofnewyork.us/resource/jaw4-yuem.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jaw4-yuem) | Last update: Recent  
+  Under Local Law 35 of 2022 (LL 35), City agencies are required to annually report on their use of algorithmic tools, including descriptions of the tool's use and purpose, datasets used, and vendor involvement. The report is also published as a PDF on the OTI website: https://www.nyc.gov/content/oti/pages/reports.
+
+- **Annual Concession Report (FCRC Report)**  
+  [Data](https://data.cityofnewyork.us/resource/7bjc-nmt5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7bjc-nmt5) | Last update: Jun 2021  
+  Annually published list of the 10 largest procurement contracts by original contract dollar amount.
 
 - **Annual Overweight Load (AOL) Permits**  
   [Data](https://data.cityofnewyork.us/resource/ys48-9d3c.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ys48-9d3c) | Last update: Recent  
@@ -3402,10 +3441,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/8a4n-zmpj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8a4n-zmpj) | Last update: Feb 2019  
   List of art, artist, medium and DOE building that the art is located in schools.
 
-- **Assessment Actions**  
-  [Data](https://data.cityofnewyork.us/resource/4nft-bihw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4nft-bihw) | Last update: Recent  
-  Assessment Actions
-
 - **Asset Management Executive Summary - Agency Assets by Project Type and Class**  
   [Data](https://data.cityofnewyork.us/resource/xdzg-dnpg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xdzg-dnpg) | Last update: Nov 2023  
   This dataset contains information for a select number of agencies, showing the number of assets owned by each Agency which are included in the Asset Management inventory. The assets are sorted by project type and class. The dataset is updated once a year.
@@ -3421,7 +3456,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Presents the number of cases and individuals for each shelter case type by borough and community district
 
 - **Automated Traffic Volume Counts**  
-  [Data](https://data.cityofnewyork.us/resource/7ym2-wayt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7ym2-wayt) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/7ym2-wayt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7ym2-wayt) | Last update: Recent  
   New York City Department of Transportation (NYC DOT) uses Automated Traffic Recorders (ATR) to collect traffic sample volume counts at bridge crossings and roadways.These counts do not cover the entire year, and the number of days counted per location may vary from year to year.
 
 - **Automations Dashboard**  
@@ -3436,17 +3471,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/upii-frjc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/upii-frjc) | Last update: Recent  
   Business Integrity Commission maintains this dataset, updating it quarterly. Each row of data contains information about a violation issued by BIC to an approved or unlicensed company in the trade waste industry. These violations are adjudicated within the Office of Administrative Trials and Hearings (OATH).
 
+- **BOA and Community Brownfield Planning Areas - Designated BOAs**  
+  [Data](https://data.cityofnewyork.us/resource/w5ew-m3sm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/w5ew-m3sm) | Last update: Jan 2024
+
 - **BP Appointments**  
   [Data](https://data.cityofnewyork.us/resource/nr9n-yqxr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nr9n-yqxr) | Last update: Feb 2019  
   The Manhattan Borough President makes appointments to various boards throughout their district.
-
-- **BP Appointments - Community Education Councils (CECs)**  
-  [Data](https://data.cityofnewyork.us/resource/5mxw-kxpt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5mxw-kxpt) | Last update: Nov 2019  
-  This data set represents the Borough President  CEC's appointees. Community Education Councils (CECs) are education policy advisory bodies responsible for, among other things, reviewing and evaluating the districts educational programs, approving zoning lines, and holding public hearings on certain matters.
-
-- **BP Assist Helpline Requests**  
-  [Data](https://data.cityofnewyork.us/resource/3fes-huds.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3fes-huds) | Last update: Oct 2020  
-  Helpline Requests reported to the BP Assist App Annually
 
 - **Banking Corporation Issuer's Allocation Percentage Report**  
   [Data](https://data.cityofnewyork.us/resource/e27m-uhjk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e27m-uhjk) | Last update: May 2022  
@@ -3475,13 +3505,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/uczf-rk3c.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uczf-rk3c) | Last update: Recent  
   The data may have lapses due to transmission issues cause by weather, connection interruptions, equipment malfunctions, vandalism, etc. The data will update as soon as it is feasible. The City makes no presentation as to the accuracy of the content and assumes no liability for omissions or errors in information contains on the website. Time is captured in GMT/UTC timezone.
 
-- **Block Pruning**  
-  [Data](https://data.cityofnewyork.us/resource/tqsy-2s6w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tqsy-2s6w) | Last update: Recent  
-  Record of routine block pruning cycles by block segment.
+- **Bicycle Parking**  
+  [Data](https://data.cityofnewyork.us/resource/592z-n7dk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/592z-n7dk) | Last update: Recent  
+  The data contains locations of all bike parking throughout the five boroughs as of the date of publication.
 
 - **Blood pressure checks on NYC HealthMap**  
   [Data](https://data.cityofnewyork.us/resource/8eux-rfe8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8eux-rfe8) | Last update: Feb 2020  
   The dataset includes locations in NYC that offer free blood pressure checks at self-serve blood pressure kiosks or by pharmacy staff.
+
+- **Borough Engineering Tracking System**  
+  [Data](https://data.cityofnewyork.us/resource/4twk-9yq2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4twk-9yq2) | Last update: Recent  
+  Tracking system for sign related requests that are received by each borough engineering operation.
 
 - **Borough Enrollment Centers (Additional Ways To Graduate)**  
   [Data](https://data.cityofnewyork.us/resource/yj3u-pw36.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/yj3u-pw36) | Last update: Sep 2018  
@@ -3505,10 +3539,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Brooklyn Borough President Meeting Requests**  
   [Data](https://data.cityofnewyork.us/resource/gqzy-vhwd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gqzy-vhwd) | Last update: Jun 2021  
   This data set represents all meeting and event requests (internal and external) to the Borough President for 2017 and 2018.
-
-- **Brooklyn Borough President Office Requests for Assistance**  
-  [Data](https://data.cityofnewyork.us/resource/y6ds-67d5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y6ds-67d5) | Last update: Jun 2021  
-  List of requests that come from inside and outside the office.
 
 - **Building Complaint Disposition Codes**  
   [Data](https://data.cityofnewyork.us/resource/6v9u-ndjg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6v9u-ndjg) | Last update: Feb 2020
@@ -3550,10 +3580,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/de8q-estm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/de8q-estm) | Last update: Sep 2020  
   Schedule of business education courses provided by NYC Business Solutions
 
-- **CBO Expense Report**  
-  [Data](https://data.cityofnewyork.us/resource/rdjw-z878.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rdjw-z878) | Last update: Apr 2020  
-  Annual Capacity Building Oversight spend and budget.
-
 - **CDBG-DR Program Categories**  
   [Data](https://data.cityofnewyork.us/resource/js7p-g9f6.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/js7p-g9f6) | Last update: Aug 2023  
   This dataset contains budget allocations for the Community Development Block Grant -Disaster Recovery grant funding. The reporting unit for funding amount is listed in millions. Updates to this information requires an amendment to the CDBG-DR Action Plan. Please refer to the CDBG-DR Webpage for updated publications: https://www1.nyc.gov/site/cdbgdr/action-plan/action-plan page.
@@ -3590,24 +3616,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/7tpn-47kj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7tpn-47kj) | Last update: Nov 2023  
   This dataset includes every revenue source created under a "CV" and CR budget code. Underlying data is taken directly from the City's Financial Management System (FMS). Dollar amounts are in actual dollars. This dataset will be refreshed on annually basis.
 
+- **CSCL PlowNYC**  
+  [Data](https://data.cityofnewyork.us/resource/dpb9-ubdh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dpb9-ubdh) | Last update: Feb 2024  
+  The NYC Street Centerline (CSCL) is a road-bed representation of New York City streets containing address ranges and other information such as traffic directions, road types, segment types. Please use this dataset to determine what physicalid maps to the physicalid street segment in the DSNY PlowNYC dataset for the 2016/2017 winter season. For a current version of CSCL, please use this dataset 
+
 - **CUNY Community College Expenditures By Source**  
   [Data](https://data.cityofnewyork.us/resource/wusu-mzmq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wusu-mzmq) | Last update: Apr 2024
 
 - **Cancelled Projects**  
   [Data](https://data.cityofnewyork.us/resource/cwqt-nvfg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/cwqt-nvfg) | Last update: May 2023  
   Projects removed from the plan.
-
-- **Canine Waste Dispensers**  
-  [Data](https://data.cityofnewyork.us/resource/5npv-j6gn.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5npv-j6gn) | Last update: Recent  
-  Data is collected by analysts located in each borough and collated by Parks Innovation & Performance Management team.
-
-- **Capacity Projects by School**  
-  [Data](https://data.cityofnewyork.us/resource/a94k-kjys.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a94k-kjys) | Last update: Mar 2024  
-  Capacity project detail by school.
-
-- **Capacity Projects in Process Site Locations**  
-  [Data](https://data.cityofnewyork.us/resource/dtmw-avzj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dtmw-avzj) | Last update: Mar 2024  
-  Capacity Projects in Process Site Locations
 
 - **Capital Awards**  
   [Data](https://data.cityofnewyork.us/resource/n6ej-pebd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/n6ej-pebd) | Last update: Jun 2021  
@@ -3626,7 +3644,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset is updated three times per year in Preliminary, Executive and Adopted Budget to match commitment numbers in the Capital Commitment Plan publication.
 
 - **Capital Plan Funding Source**  
-  [Data](https://data.cityofnewyork.us/resource/4utb-pisg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4utb-pisg) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/4utb-pisg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4utb-pisg) | Last update: Jul 2024  
   This dataset describes the type and amounts of capital funding sources in each plan. This includes debt issuances through financing entities and other cash sources. This dataset is updated four times per year after publication of the First Quarter, Preliminary, Executive and Adopted Financial Plan, usually in November, January, April and June respectively.
 
 - **Capital Project Detail Data - Dollars**  
@@ -3637,6 +3655,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/s7yh-frbm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/s7yh-frbm) | Last update: Mar 2024  
   This dataset contains capital commitment plan data by managing agency,  project identification number and project schedules. The dataset was updated three times a year during the Preliminary, Executive and Adopted Capital Commitment Plans.
 
+- **Capital Project Schedules and Budgets**  
+  [Data](https://data.cityofnewyork.us/resource/2xh6-psuq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2xh6-psuq) | Last update: Recent  
+  List of capital projects with managing organization, phase status and project costs.
+
 - **Capital Project Tracker**  
   [Data](https://data.cityofnewyork.us/resource/4hcv-tc5r.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4hcv-tc5r) | Last update: Recent  
   Supporting documentation can be found at the following link (http://www.nycgovparks.org/bigapps/desc/DPR_CapitalProjectTracker_001.txt).
@@ -3646,18 +3668,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   All major infrastructure and information technology projects with a budget of $25 million or more that are currently active (in the design, procurement, or construction phase).
 
 - **Capital Projects Dashboard - Budget Spend History and Variance**  
-  [Data](https://data.cityofnewyork.us/resource/qj5n-h5qp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qj5n-h5qp) | Last update: Recent
+  [Data](https://data.cityofnewyork.us/resource/qj5n-h5qp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qj5n-h5qp) | Last update: Jul 2024
 
 - **Capital Projects Dashboard - Budget and Schedule**  
-  [Data](https://data.cityofnewyork.us/resource/fb86-vt7u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fb86-vt7u) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/fb86-vt7u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fb86-vt7u) | Last update: Jul 2024  
   All major capital infrastructure projects with a committed budget. Financial information and agency schedule details for each project are joined via FMS ID. Only projects in the design phase or later have project schedules displayed. This dataset is part of the Capital Projects Dashboard.
 
 - **Capital Projects Dashboard - Budget and Spend by Fiscal Year**  
-  [Data](https://data.cityofnewyork.us/resource/gyhf-rsr3.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gyhf-rsr3) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/gyhf-rsr3.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gyhf-rsr3) | Last update: Jul 2024  
   Note: Each row is uniquely identified by its Financial Management Service (FMS) ID. FMS ID is the unique ID that OMB uses for the FMS (Financial Information System). This ID can be universally joined with any OMB dataset that has the same field. The Capital Projects Dashboard is the result of joining OMBs fiscal data with the agencys schedule data.
 
 - **Capital Projects Dashboard - Schedule History and Variance**  
-  [Data](https://data.cityofnewyork.us/resource/95tx-snak.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/95tx-snak) | Last update: Recent
+  [Data](https://data.cityofnewyork.us/resource/95tx-snak.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/95tx-snak) | Last update: Jul 2024
 
 - **Cash Assistance Engagement Report**  
   [Data](https://data.cityofnewyork.us/resource/hb7y-b986.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hb7y-b986) | Last update: Recent  
@@ -3675,10 +3697,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/m64p-r9hk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/m64p-r9hk) | Last update: Recent  
   List of Certified Asbestos Investigators (CAI)
 
-- **Child Abuse Liaisons**  
-  [Data](https://data.cityofnewyork.us/resource/xxjs-y9yk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xxjs-y9yk) | Last update: May 2022  
-  Designated Child Abuse Liaisons
-
 - **Child Support Caseload and Collections**  
   [Data](https://data.cityofnewyork.us/resource/g2dh-zf5t.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/g2dh-zf5t) | Last update: Recent  
   This dataset reports the performance of the Office of Child Support Services regarding caseload and collections.
@@ -3687,7 +3705,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/vr2i-c3qq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vr2i-c3qq) | Last update: Sep 2022
 
 - **City Bench Locations (Historical)**  
-  [Data](https://data.cityofnewyork.us/resource/kuxa-tauh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kuxa-tauh) | Last update: Oct 2022  
+  [Data](https://data.cityofnewyork.us/resource/kuxa-tauh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kuxa-tauh) | Last update: Recent  
   CityBench is an initiative to increase the amount of public seating on New York Citys streets. Department of Transportation (DOT) installs attractive and durable benches around the city, particularly at bus stops, retail corridors, and in areas with high concentrations of senior citizens.
 
 - **City Council Legislative Items**  
@@ -3699,7 +3717,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains annual revenue statistics compiled by the Agency's Marshal's Unit.
 
 - **City Owned and Leased Property (COLP)**  
-  [Data](https://data.cityofnewyork.us/resource/fn4k-qyk2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fn4k-qyk2) | Last update: Feb 2024  
+  [Data](https://data.cityofnewyork.us/resource/fn4k-qyk2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fn4k-qyk2) | Last update: Recent  
   Questions or feedback on errors within the City Owned and Leased Properties can be directed to DCAS Land Use Planning at (212) 386-0622 or RESPlanning311@dcas.nyc.gov.
 
 - **CityStore - The Official Store of the City of New York**  
@@ -3707,7 +3725,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Information on CityStore, the products available, prices and product descriptions.
 
 - **Citywide Auto Fringe Benefits**  
-  [Data](https://data.cityofnewyork.us/resource/8k4x-9mp5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8k4x-9mp5) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/8k4x-9mp5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8k4x-9mp5) | Last update: Jun 2024  
   Auto Fringe Benefits for all city employees.
 
 - **Citywide Cash Assistance Cases (Historical)**  
@@ -3723,15 +3741,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Citywide Mobility Survey is a mixed-methodology survey of New York City residents' travel choices, behaviors, and perceptions. The Survey Zones dataset provides the shapefile that shows which neighborhood tabulation areas fit within each of the ten survey zones.
 
 - **Civil List**  
-  [Data](https://data.cityofnewyork.us/resource/ye3c-m4ga.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ye3c-m4ga) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/ye3c-m4ga.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ye3c-m4ga) | Last update: Jul 2024  
   The Civil List reports the agency code (DPT), first initial and last name (NAME), agency name (ADDRESS), title code (TTL #), pay class (PC), and salary (SAL-RATE) of individuals who were employed by the City of New York at any given time during the indicated year.
 
 - **Civil Service Exams for NYCHA Residents - Local Law 163**  
   [Data](https://data.cityofnewyork.us/resource/vyk9-wyct.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vyk9-wyct) | Last update: May 2024  
   This dataset contains information about NYCHA residents who took the Civil Service exam, which assesses a candidates qualifications for a particular Civil Service title in order to ensure that the hiring process is competitive and fair, for the reporting Calendar Year.
-
-- **Civil Service List (Active)**  
-  [Data](https://data.cityofnewyork.us/resource/vx8i-nprf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vx8i-nprf) | Last update: Recent
 
 - **Civil Service List Certification**  
   [Data](https://data.cityofnewyork.us/resource/a9md-ynri.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a9md-ynri) | Last update: Recent  
@@ -3768,16 +3783,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/dy27-rrad.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dy27-rrad) | Last update: Dec 2019  
   This data set represents Community Board Contact List for all 18 Community Board within Brooklyn.
 
-- **Community Board Leadership**  
-  [Data](https://data.cityofnewyork.us/resource/3gkd-ddzn.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3gkd-ddzn) | Last update: Sep 2018  
-  This is a comprehensive list of each Community Board and its respective Chair and District Manager. The list also includes the address, meeting time and telephone number of each Community Board. Constitutents may use the list as an informational tool to contact their Community Boards and be able to attend meetings.
-
 - **Community Boards Geographic Report**  
   [Data](https://data.cityofnewyork.us/resource/f9xn-fiww.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f9xn-fiww) | Last update: Recent  
   This dataset represents the geographic section in the Geographic Report for Expense Budget. It breaks down a service delivery agency's budget for current fiscal year and the next fiscal year by local districts, boroughs and programs within U/A. Dollar amount is in actual dollars.
 
 - **Community Emergency Response Team (CERT)**  
-  [Data](https://data.cityofnewyork.us/resource/b2gb-nkrq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/b2gb-nkrq) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/b2gb-nkrq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/b2gb-nkrq) | Last update: Jul 2024  
   List of Community Emergency Response Teams (CERT)
 
 - **Community Food Connection (Quarterly Report)**  
@@ -3799,6 +3810,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Concrete/Hardware Weekly Repair Schedule**  
   [Data](https://data.cityofnewyork.us/resource/78sp-6jhj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/78sp-6jhj) | Last update: Apr 2024  
   Concrete schedule for installation maintenance or repair of concrete structures (center medians, curbs, sidewalks and other concrete infrastructures)
+
+- **Constituent Services**  
+  [Data](https://data.cityofnewyork.us/resource/39qw-754y.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/39qw-754y) | Last update: Feb 2019
+
+- **Constituent Services - Historical**  
+  [Data](https://data.cityofnewyork.us/resource/kpjg-ubxi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kpjg-ubxi) | Last update: May 2022  
+  This list contains information on the number and nature of constituent services handled by the Borough President's Office.
 
 - **Consumer Services Mediated Complaints**  
   [Data](https://data.cityofnewyork.us/resource/nre2-6m2s.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nre2-6m2s) | Last update: Recent  
@@ -3847,10 +3865,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **DCAS Managed Building Energy Usage**  
   [Data](https://data.cityofnewyork.us/resource/ubdi-jgw2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ubdi-jgw2) | Last update: May 2022  
   City Building Energy Usage Data.
-
-- **DCAS Managed Building Fuel Usage (Historical)**  
-  [Data](https://data.cityofnewyork.us/resource/56u5-n9sa.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/56u5-n9sa) | Last update: May 2024  
-  The fuel usage of each DCAS managed building.
 
 - **DCAS Managed Public Buildings**  
   [Data](https://data.cityofnewyork.us/resource/xx2p-4jnq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xx2p-4jnq) | Last update: May 2024  
@@ -3967,7 +3981,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Only columns applicable to the abatement type are populated.
 
 - **DOF Property Assessment Change**  
-  [Data](https://data.cityofnewyork.us/resource/a5nd-6mit.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a5nd-6mit) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/a5nd-6mit.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a5nd-6mit) | Last update: Jul 2024  
   Changes to Property Assessment. The data is collected and entered into the system from different sources within the agency and is a record of value changes to assessments and exemptions for property.
 
 - **DOF: Refund List - Real Property Tax**  
@@ -3983,15 +3997,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Department of Finance (DOF) maintains records for all property sales in New York City, including sales of family homes in each borough. This list is a summary of neighborhood sales for Tax Class 1, 2 and 3 Family homes.
 
 - **DOHMH COVID Antibody-by-Age**  
-  [Data](https://data.cityofnewyork.us/resource/7umd-hdjb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7umd-hdjb) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/7umd-hdjb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7umd-hdjb) | Last update: Jul 2024  
   This file contains person-level information on antibody testing: the number of people who received a test, the number of people with positive results, the percentage of people tested who tested positive, and the rate of testing per 100,000 people, stratified by age group.
 
 - **DOHMH COVID-19 Antibody-by-Borough**  
-  [Data](https://data.cityofnewyork.us/resource/x98t-3bbk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/x98t-3bbk) | Last update: Recent
+  [Data](https://data.cityofnewyork.us/resource/x98t-3bbk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/x98t-3bbk) | Last update: Jul 2024
 
 - **DOHMH COVID-19 Antibody-by-Neighborhood Poverty**  
-  [Data](https://data.cityofnewyork.us/resource/vajk-p37e.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vajk-p37e) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/vajk-p37e.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vajk-p37e) | Last update: Jul 2024  
   Data are updated daily, and the dataset preserves historical records and source data changes, so each extract date reflects the current copy of the data as of that date. For example, an extract date of 11/04/2020 and extract date of 11/03/2020 will both contain all records as they were as of that extract date. Without filtering or grouping by extract date, an analysis will almost certain
+
+- **DOHMH Call Center Summary**  
+  [Data](https://data.cityofnewyork.us/resource/wymh-dvmd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wymh-dvmd) | Last update: Nov 2023  
+  Total number of calls received by the agency's call center
 
 - **DOHMH Childcare Center Inspections**  
   [Data](https://data.cityofnewyork.us/resource/dsg6-ifza.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dsg6-ifza) | Last update: Apr 2023  
@@ -4012,10 +4030,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **DOHMH School Cafeteria inspections**  
   [Data](https://data.cityofnewyork.us/resource/9hxz-c2kj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/9hxz-c2kj) | Last update: Oct 2023
 
-- **DOHMH Tuberculosis Surveillance: Data from the Tuberculosis Control Annual Summary**  
-  [Data](https://data.cityofnewyork.us/resource/ax85-bzte.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ax85-bzte) | Last update: Dec 2023  
-  Tuberculosis cases and rates by select characteristics table from the Tuberculosis Control Annual Summary
-
 - **DOP Adult Case Closings By Reason**  
   [Data](https://data.cityofnewyork.us/resource/u6p4-fsey.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/u6p4-fsey) | Last update: Recent  
   The number of adult case closings by reason: Maximum Expiration Date (MED), Death, Early Discharge (ED), Violation of Probation (VOP), Other, during the reporting period.
@@ -4032,17 +4046,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/arhf-esqb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/arhf-esqb) | Last update: Recent  
   The percentage of adult probationer arrests relative to all arrests recorded by the Police Department during the reporting period.
 
-- **DOP Adult Rearrest Rate (Monthly Average)**  
-  [Data](https://data.cityofnewyork.us/resource/gk9u-c3tv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gk9u-c3tv) | Last update: Recent  
-  The number of adult probationers rearrested divided by the number supervised during the reporting period.
-
 - **DOP Juvenile Case Closings By Reason**  
   [Data](https://data.cityofnewyork.us/resource/wha7-46h5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wha7-46h5) | Last update: Recent  
   The number of juvenile case closings by reason: Maximum Expiration Date (MED), Death, Early Discharge (ED), Revoked, Other, during the reporting period.
-
-- **DOP Juvenile Case Closings By Type**  
-  [Data](https://data.cityofnewyork.us/resource/sefr-5pmx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/sefr-5pmx) | Last update: Recent  
-  The number of juvenile case closings by type: General Supervision, Pathways to Excellence Achievement and Knowledge (PEAK), Every Child Has An Opportunity To Excel And Succeed (ECHOES), IMPACT, Juvenile Justice Initiative (JJI), Advocate Intervene Mentor (AIM), Enhanced Supervision Program (ESP), during the reporting period.
 
 - **DOP Juvenile Case Count By Type**  
   [Data](https://data.cityofnewyork.us/resource/c49b-3kmd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/c49b-3kmd) | Last update: Recent  
@@ -4070,6 +4076,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **DPR Pools 001**  
   [Data](https://data.cityofnewyork.us/resource/qafw-han9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qafw-han9) | Last update: Feb 2024  
   This dataset consists of indoor and outdoor pools under the jurisdiction of NYC Parks. For more information about NYC Parks pools, visit https://www.nycgovparks.org/highlights/places-to-go/pools
+
+- **DSNY - PlowNYC Data**  
+  [Data](https://data.cityofnewyork.us/resource/rmhc-afj9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rmhc-afj9) | Last update: May 2024
 
 - **DSNY Districts**  
   [Data](https://data.cityofnewyork.us/resource/i6mn-amj2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/i6mn-amj2) | Last update: Apr 2024
@@ -4128,6 +4137,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/cqc8-am9x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/cqc8-am9x) | Last update: Recent  
   The Department for the Aging (NYC Aging) provides a wide array of services to older adults (age 60 and older) in the five boroughs of New York City. To accomplish this, NYC Aging contracts out to external organizations (mainly non-profits) to provide the services.
 
+- **Department for the Aging (NYC Aging) - Bottom Line Budget**  
+  [Data](https://data.cityofnewyork.us/resource/u845-acue.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/u845-acue) | Last update: Recent  
+  The Department for the Aging (NYC Aging) provides a wide array of services to older adults (age 60 and older) in the five boroughs of New York City. To accomplish this, NYC Aging contracts out to external organizations (mainly non-profits) to provide the services.
+
+- **Department for the Aging (NYC Aging) - Budgeted Services**  
+  [Data](https://data.cityofnewyork.us/resource/nxrs-2ci5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nxrs-2ci5) | Last update: Recent  
+  The Department for the Aging (NYC Aging) provides a wide array of services to older adults (age 60 and older) in the five boroughs of New York City. To accomplish this, NYC Aging contracts out to external organizations (mainly non-profits) to provide the services.
+
 - **Department of Consumer and Worker Protection (DCWP) Fines and Fees**  
   [Data](https://data.cityofnewyork.us/resource/2k3g-r445.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2k3g-r445) | Last update: Oct 2023  
   All fees charged by DCWP for services and, all fines issued by an administrative judge resulting from violations.
@@ -4164,7 +4181,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Locations of Homebase (Homeless Prevention Network) offices
 
 - **Directory Of Homeless Drop- In Centers**  
-  [Data](https://data.cityofnewyork.us/resource/bmxf-3rd4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bmxf-3rd4) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/bmxf-3rd4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bmxf-3rd4) | Last update: Jul 2024  
   List of centers where homeless people are provided with hot meals, showers, medical help and a place to sleep
 
 - **Directory Of Homeless Population By Year**  
@@ -4202,14 +4219,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/tc6u-8rnp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tc6u-8rnp) | Last update: Nov 2023  
   List of SNAP Centers that offer temporary financial assistance, food stamps and Medicaid to eligible individuals.
 
-- **Discretionary Award Tracker**  
-  [Data](https://data.cityofnewyork.us/resource/ujre-m2tj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ujre-m2tj) | Last update: Jul 2021  
-  The Discretionary Award Tracker is a data set including the status of all City Council Discretionary Awards allocated to nonprofit organizations by City Council in the past three fiscal years. To move to the contracting process, an award must have a cleared status, i.e., meet all applicable procedural requirements.
-
-- **Discretionary Contract Awards**  
-  [Data](https://data.cityofnewyork.us/resource/tsb8-3rct.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tsb8-3rct) | Last update: Jul 2021  
-  Final list of all allocated discretionary grants.
-
 - **Distribution Sites LCR Monitoring Results**  
   [Data](https://data.cityofnewyork.us/resource/g63j-swsd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/g63j-swsd) | Last update: Recent  
   Monthly results from the distribution sites for orthophosphate, pH, temperature, conductivity and monthly alkalinity, calcium, lead and copper - Bi annually updated
@@ -4225,6 +4234,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Donations Received by City Agencies**  
   [Data](https://data.cityofnewyork.us/resource/aqs7-v55z.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/aqs7-v55z) | Last update: Nov 2023  
   Each City agency is required by rule of the Conflicts of Interest Board to disclose all donations of $5,000 or greater.
+
+- **Donations to Not-for-Profit Organizations Affiliated with Elected Officials**  
+  [Data](https://data.cityofnewyork.us/resource/dx8z-6nev.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dx8z-6nev) | Last update: Recent
 
 - **Drinking Water Quality Distribution Monitoring Data**  
   [Data](https://data.cityofnewyork.us/resource/bkwf-xfky.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bkwf-xfky) | Last update: Recent  
@@ -4250,10 +4262,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/kyvb-rbwd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kyvb-rbwd) | Last update: Recent  
   Encroachments System tracks actions taken in response to 311 complaints, and inspections requested by property owners.
 
-- **Enrollment Capacity And Utilization Reports - Historical by Organization**  
-  [Data](https://data.cityofnewyork.us/resource/q9xk-w9iv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/q9xk-w9iv) | Last update: May 2022  
-  Enrollment, historical capacity and utilization data for every building and schools in those buildings, by school.
-
 - **Entitation**  
   [Data](https://data.cityofnewyork.us/resource/ud2m-5tb4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ud2m-5tb4) | Last update: Recent  
   Entitation is a process of identifying and describing discrete vegetation units (entities). Essentially, it is a general inventory of an area's plant communities conducted by means of aerial photograph interpretation and field reconnaissance. The survey results in the identification of ecologically distinct plant communities based on species and structure.
@@ -4261,10 +4269,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Entitation Parsed Species**  
   [Data](https://data.cityofnewyork.us/resource/v959-5k2w.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v959-5k2w) | Last update: Recent  
   Entitation is a process of identifying and describing discrete vegetation units (entities). Essentially, it is a general inventory of an area's plant communities conducted by means of aerial photograph interpretation and field reconnaissance. The survey results in the identification of ecologically distinct plant communities based on species and structure.
-
-- **Environmental Justice Area Census Tract Designation**  
-  [Data](https://data.cityofnewyork.us/resource/ykru-djh7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ykru-djh7) | Last update: Jan 2024  
-  Shapefile of census tracts by environmental justice area designation defined by Local Law 64 (2017). For more information about this dataset, visit the Environmental Justice Areas map.
 
 - **EquityNYC Data**  
   [Data](https://data.cityofnewyork.us/resource/8ek7-jxw6.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8ek7-jxw6) | Last update: Jul 2023  
@@ -4295,26 +4299,26 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Funding of actual spending that appears in the Mayor's Message Agency Financial tables. Dollars are in Thousands. This dataset is updated annually.
 
 - **Expense Budget**  
-  [Data](https://data.cityofnewyork.us/resource/mwzb-yiwb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mwzb-yiwb) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/mwzb-yiwb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mwzb-yiwb) | Last update: Jul 2024  
   This dataset contains expense agency data by unit of appropriation for the Adopted, Financial Plan and Modified conditions by object code. The numbers within can be summarized to be consistent with data from either the Supporting Schedule, Departmental Estimate or the Expense, Revenue, Contact Budget.
 
 - **Expense Budget Funding - All Source**  
-  [Data](https://data.cityofnewyork.us/resource/39g5-gbp3.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/39g5-gbp3) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/39g5-gbp3.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/39g5-gbp3) | Last update: Jul 2024  
   This dataset contains expense agency data by unit of appropriation for the Adopted, Financial Plan and Modified conditions by funding source. The numbers within can be summarized to be consistent with data from either the Supporting Schedule, Departmental Estimate or the Expense, Revenue, Contact Budget.
 
 - **Expense Budget--Debt Service Statement II**  
-  [Data](https://data.cityofnewyork.us/resource/77zj-y2i9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/77zj-y2i9) | Last update: Recent
+  [Data](https://data.cityofnewyork.us/resource/77zj-y2i9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/77zj-y2i9) | Last update: Jul 2024
 
 - **Expense Budget--Miscellaneous Expense by Category**  
-  [Data](https://data.cityofnewyork.us/resource/fdgu-y9iy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fdgu-y9iy) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/fdgu-y9iy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fdgu-y9iy) | Last update: Jul 2024  
   This dataset is updated two times per year after publication of the Executive and Adopted Budget, usually in April and June respectively.
 
 - **Expense Budget-Debt Service Agency OTPS Detail**  
-  [Data](https://data.cityofnewyork.us/resource/iw4r-p85g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/iw4r-p85g) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/iw4r-p85g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/iw4r-p85g) | Last update: Jul 2024  
   The Debt Service Agency OTPS detail lays out the various expense and funding line items for Agency 099. It further compares the Adopted Budget, Current Modified Budget for the Current Year, and the Executive or Adopted Budget for the next fiscal year. All amounts are in dollars and information is updated twice per year at the Executive and Adopted budgets.
 
 - **Expense Financial Plan - Adpt\Prel**  
-  [Data](https://data.cityofnewyork.us/resource/e4p3-6ecr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e4p3-6ecr) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/e4p3-6ecr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e4p3-6ecr) | Last update: Jul 2024  
   This dataset contains agency summary level data for PS, OTPS and Total by type of funds. The dollar amount fields are rounded to the thousands. The Adopted and Preliminary reports, published by July 1 and January or February respectively, contain the current fiscal year plus four out years of data which coincide with the release of the published financial plan.
 
 - **Expense Financial Plan - Exec**  
@@ -4324,9 +4328,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Expense Financial Plan - Qtr1**  
   [Data](https://data.cityofnewyork.us/resource/sqmu-2ixd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/sqmu-2ixd) | Last update: Nov 2023  
   The dollar amount fields are rounded to the thousands. The Quarter 1 report,  published in October or November,  contain the current fiscal year plus three out years of data which  coincide with the release of the published financial plan.
-
-- **Extended Military Benefits Program – Agency Military Liaisons**  
-  [Data](https://data.cityofnewyork.us/resource/rf3p-853x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rf3p-853x) | Last update: Jan 2023
 
 - **FDNY Firehouse Listing**  
   [Data](https://data.cityofnewyork.us/resource/hc8x-tcnd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hc8x-tcnd) | Last update: Apr 2022  
@@ -4352,10 +4353,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/985h-mtct.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/985h-mtct) | Last update: Recent  
   Of all families with children (FWC) and adult families (AF) who applied for shelter and received application decision in the reporting month, this is the proportion who were found eligible. For families with multiple decisions within the month, only the most recent decision is factored into this rate.
 
-- **Fair Student Funding Budget Detail 1**  
-  [Data](https://data.cityofnewyork.us/resource/wr4r-bue7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wr4r-bue7) | Last update: May 2022  
-  Fair Student Funding Budget Detail FY 2015 - Part I This detail data contains has one row for each school for each of the weights that comprise the Fair Student Funding Formula (Grade Weight, Need Weights, and Portfolio Weights).
-
 - **Family & Adult Court Contact Information**  
   [Data](https://data.cityofnewyork.us/resource/su6u-afcg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/su6u-afcg) | Last update: Feb 2020  
   This is the contact list for the Family and Adult Court Information.
@@ -4369,11 +4366,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Permits are generally required when asserting the exclusive use of city property, like a sidewalk, a street, or a park. See http://www1.nyc.gov/site/mome/permits/when-permit-required.page
 
 - **Financial Plan Baseline & Initiatives By Funding**  
-  [Data](https://data.cityofnewyork.us/resource/e64w-ctmw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e64w-ctmw) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/e64w-ctmw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e64w-ctmw) | Last update: Jul 2024  
   This dataset is updated four times per year after publication of the First Quarter, Preliminary, Executive and Adopted Financial Plan, usually in November, January, April and June respectively.
 
 - **Financial Plan Headcount Baseline & Initiatives By Funding**  
-  [Data](https://data.cityofnewyork.us/resource/d33y-i2m7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/d33y-i2m7) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/d33y-i2m7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/d33y-i2m7) | Last update: Jul 2024  
   This dataset is updated four times per year after publication of the First Quarter, Preliminary, Executive and Adopted Financial Plan, usually in November, January, April and June respectively.
 
 - **Financial Plan Statements - Capital Cashflow**  
@@ -4402,6 +4399,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Financial Services for NYCHA Residents by Borough - Local Law 163**  
   [Data](https://data.cityofnewyork.us/resource/2c9f-2ta9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2c9f-2ta9) | Last update: Dec 2023  
+  The dataset is part of the annual report compiled by the Mayors Office of Operations as mandated by the Local Law 163 of 2016 on different services provided to NYCHA residents. See other datasets in this report by searching the keyword Services available to NYCHA Residents - Local Law 163 (2016) on the Open Data Portal.
+
+- **Financial Services for NYCHA Residents by Council District - Local Law 163**  
+  [Data](https://data.cityofnewyork.us/resource/vk6p-jwjf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vk6p-jwjf) | Last update: Jul 2024  
   The dataset is part of the annual report compiled by the Mayors Office of Operations as mandated by the Local Law 163 of 2016 on different services provided to NYCHA residents. See other datasets in this report by searching the keyword Services available to NYCHA Residents - Local Law 163 (2016) on the Open Data Portal.
 
 - **Financial Services for NYCHA Residents by Development - Local Law 163**  
@@ -4455,7 +4456,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   At-the-tap samples tested for lead and copper
 
 - **Full-Time And Full-Time Equivalent Staffing Levels**  
-  [Data](https://data.cityofnewyork.us/resource/2t2c-qih9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2t2c-qih9) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/2t2c-qih9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2t2c-qih9) | Last update: Jul 2024  
   This dataset contains estimated fiscal year-end headcount information for full-time and full-time equivalent employees (FTE). The information is summarized by agency, personnel type and funding. The amount fields are whole numbers. The numbers within can be summarized to match pages from the publication Full-Time and Full-Time Equivalent Staffing Levels.
 
 - **Full-Time and FTE Headcount including Covered Organizations**  
@@ -4482,6 +4483,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/kz4v-8ai2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kz4v-8ai2) | Last update: Recent  
   This dataset corresponds to a current availability of plant species in various containers being offered to clients of the Greenbelt Native Plant Center.
 
+- **HHS Accelerator Past Procurements**  
+  [Data](https://data.cityofnewyork.us/resource/ws4c-4g69.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ws4c-4g69) | Last update: Nov 2023  
+  Shows procurements released through HHS Accelerator for health and human services for which the proposal deadline has passed. For current and upcoming procurements, visit http://www.nyc.gov/html/hhsaccelerator/html/roadmap/roadmap.shtml. Proposals may be submitted only by prequalified organizations through the City's online system, HHS Accelerator.
+
 - **HISTORICAL Sidewalk Café Licenses and Applications**  
   [Data](https://data.cityofnewyork.us/resource/qcdj-rwhu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qcdj-rwhu) | Last update: Aug 2023  
   This dataset features detailed information about sidewalk caf license applications and, if applicable, issued licenses.
@@ -4495,7 +4500,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset includes data on new diagnoses of HIV and AIDS in NYC for the calendar years 2016 through 2020. Reported cases and case rates (per 100,000 population) are stratified by United Hospital Fund (UHF) neighborhood, sex, and race/ethnicity.
 
 - **HRA Domestic Violence Partners**  
-  [Data](https://data.cityofnewyork.us/resource/tbf6-u8ea.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tbf6-u8ea) | Last update: Feb 2024  
+  [Data](https://data.cityofnewyork.us/resource/tbf6-u8ea.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tbf6-u8ea) | Last update: Recent  
   Phone numbers and the borough where service is provided is included.
 
 - **Headcount Actuals By Funding Source**  
@@ -4529,6 +4534,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Historical DOB Permit Issuance**  
   [Data](https://data.cityofnewyork.us/resource/bty7-2jhb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bty7-2jhb) | Last update: May 2022
 
+- **Historical DVS Client Requests Received and Processed**  
+  [Data](https://data.cityofnewyork.us/resource/44f4-mjxy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/44f4-mjxy) | Last update: Mar 2024
+
 - **Historical Driver Application Status**  
   [Data](https://data.cityofnewyork.us/resource/p32s-yqxq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/p32s-yqxq) | Last update: Recent  
   Historical licensee status data. Data dictionary available here: https://data.cityofnewyork.us/api/views/p32s-yqxq/files/20bca1de-74f0-462e-8574-f25ca66b8346?download=true&filename=NewDriverAppStatusLookupLegend.pdf
@@ -4552,13 +4560,21 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/uxt4-ugwr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uxt4-ugwr) | Last update: May 2024  
   Please see DCPs annual Housing Production Snapshot summarizing findings from the 21Q4 data release here. Additional Housing and Economic analyses are also available.
 
+- **Housing Litigations**  
+  [Data](https://data.cityofnewyork.us/resource/59kj-x8nc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/59kj-x8nc) | Last update: Recent  
+  The Department of Housing Preservation and Development (HPD) Housing Litigation Division (HLD) initiates' actions in the Housing Court against owners of privately-owned buildings to enforce compliance with the housing quality standards contained in the New York State Multiple Dwelling Law and the New York City Housing Maintenance Code.
+
 - **Housing Maintenance Code Violations**  
   [Data](https://data.cityofnewyork.us/resource/wvxf-dwi5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wvxf-dwi5) | Last update: Recent  
   The daily update includes both new violations and updates to the status of previously issued violations. An open violation is a violation which is still active on the Department records. See the status table for determining how to filter for open violations versus closed violations, and within open violations for a more detailed current status.
 
 - **Hurricane Evacuation Centers**  
-  [Data](https://data.cityofnewyork.us/resource/p5md-weyf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/p5md-weyf) | Last update: Aug 2022  
+  [Data](https://data.cityofnewyork.us/resource/p5md-weyf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/p5md-weyf) | Last update: Recent  
   This dataset shows hurricane evacuation centers. Persons requiring shelter during a hurricane are processed at a 
+
+- **Hurricane Inundation by Evacuation Zone**  
+  [Data](https://data.cityofnewyork.us/resource/uk9f-6y9n.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uk9f-6y9n) | Last update: Dec 2022  
+  These inundation areas are based on the National Hurricane Centers 2020 SLOSH (Sea Lake and Overland Surge from Hurricanes) Model for the NE1 basin post-processed to a 10 meter resolution. The data used assumes that the storm surge will occur at high tide. The Storm surge inundation data then used  todevelopNew York Citys Hurricane Evacuation Zones.
 
 - **Hurricane Sandy Expense and Capital Estimate by Agency**  
   [Data](https://data.cityofnewyork.us/resource/h5f7-3btz.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/h5f7-3btz) | Last update: May 2022  
@@ -4580,10 +4596,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/jafx-rvrb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jafx-rvrb) | Last update: Jun 2021  
   The Voluntary Inclusionary Housing program, enacted in 1987, enables a development to receive a density bonus in return for the new construction, substantial rehabilitation, or preservation of permanently affordable housing.
 
-- **Inclusionary Housing Properties**  
-  [Data](https://data.cityofnewyork.us/resource/cm6g-t7ye.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/cm6g-t7ye) | Last update: Jun 2021  
-  The Voluntary Inclusionary Housing program, enacted in 1987, enables a development to receive a density bonus in return for the new construction, substantial rehabilitation, or preservation of permanently affordable housing.
-
 - **Inclusionary Housing Transfers**  
   [Data](https://data.cityofnewyork.us/resource/ej3f-9dad.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ej3f-9dad) | Last update: Jun 2021  
   The Voluntary Inclusionary Housing program, enacted in 1987, enables a development to receive a density bonus in return for the new construction, substantial rehabilitation, or preservation of permanently affordable housing.
@@ -4593,7 +4605,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Number of tax filers/payers and income from various types of income by income ranges
 
 - **Industrial & Commercial Abatement Program (ICAP) Businesses that received EO50 certificate of approval from SBS**  
-  [Data](https://data.cityofnewyork.us/resource/9a87-6m4x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/9a87-6m4x) | Last update: May 2024
+  [Data](https://data.cityofnewyork.us/resource/9a87-6m4x.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/9a87-6m4x) | Last update: Recent
 
 - **Inmate Admissions**  
   [Data](https://data.cityofnewyork.us/resource/6teu-xtgp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6teu-xtgp) | Last update: Recent  
@@ -4643,9 +4655,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/emrz-5p35.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/emrz-5p35) | Last update: Recent  
   Contains information about invoices submitted to HPD by private contractors under an OMO.
 
-- **J-51 Exemption and Abatement**  
-  [Data](https://data.cityofnewyork.us/resource/y7az-s7wc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y7az-s7wc) | Last update: May 2022  
-  The NYC Department of Housing Preservation and Development (HPD) determines the eligibility for the program. Finance administers the benefit. Once approved you must complete and submit Finance's J-51 Property Tax Exemption and Abatement Application. You need to include the certificate of Eligibility from HPD with your application.
+- **J-51 Exemption and Abatement (Historical)**  
+  [Data](https://data.cityofnewyork.us/resource/y7az-s7wc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y7az-s7wc) | Last update: Recent  
+  This dataset provides J-51 benefit data earlier than tax year 2019 and is not updated. To view J-51 benefit data for newer tax years, visit the Property Exemption Detail dataset and the Property Abatement Detail dataset.
 
 - **JobStat (Historical)**  
   [Data](https://data.cityofnewyork.us/resource/mefg-rpis.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mefg-rpis) | Last update: Recent  
@@ -4671,13 +4683,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/g7ir-4pf8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/g7ir-4pf8) | Last update: Sep 2018  
   The Corporation Counsel is often invited to address bar associations, law students, and other organizations. Below are links to the text of speeches given by Corporation Counsel
 
-- **LPC Permit Application Information**  
-  [Data](https://data.cityofnewyork.us/resource/dpm2-m9mq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dpm2-m9mq) | Last update: Recent  
-  Contains information pertaining to permit applications for work to landmark sites submitted to and processed by LPC.
-
 - **Largest Requirements Contracts**  
   [Data](https://data.cityofnewyork.us/resource/rqvv-d722.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rqvv-d722) | Last update: Aug 2021  
   Annually published list of the 10 largest procurement contracts by original contract dollar amount.
+
+- **Late/Missing Disclosure Statements**  
+  [Data](https://data.cityofnewyork.us/resource/2ujk-6z7u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2ujk-6z7u) | Last update: May 2022  
+  List of Late and Missing Disclosure Statements.
 
 - **Latin Cultural Organizations**  
   [Data](https://data.cityofnewyork.us/resource/799n-b76v.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/799n-b76v) | Last update: Sep 2018  
@@ -4706,9 +4718,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Licensees and Registrants Fleet Information**  
   [Data](https://data.cityofnewyork.us/resource/n84m-kx4j.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/n84m-kx4j) | Last update: Recent
 
-- **Licensing Center Customer Information**  
-  [Data](https://data.cityofnewyork.us/resource/azp6-hepu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/azp6-hepu) | Last update: Apr 2022  
-  This data set features a monthly snapshot of customer service information at the DCA Licensing Center.
+- **LinkNYC Kiosk Locations**  
+  [Data](https://data.cityofnewyork.us/resource/s4kf-3yrf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/s4kf-3yrf) | Last update: Recent
+
+- **LinkNYC New Site Permit Applications**  
+  [Data](https://data.cityofnewyork.us/resource/xp25-gxux.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/xp25-gxux) | Last update: Recent
 
 - **LinkNYC Usage Statistics (Historical Data)**  
   [Data](https://data.cityofnewyork.us/resource/69wu-b929.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/69wu-b929) | Last update: Sep 2022
@@ -4718,11 +4732,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The weekly dataset contains regularly updated data on how the LinkNYC kiosks are being used, including numbers of users, number of Wi-Fi sessions, amount of data transmitted and other information. Data accuracy is limited as of the date of publication and by the methodology and accuracy of the original sources.
 
 - **Local Law 19 of 1999 Report - Monthly Placements**  
-  [Data](https://data.cityofnewyork.us/resource/5284-7vfz.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5284-7vfz) | Last update: May 2024  
+  [Data](https://data.cityofnewyork.us/resource/5284-7vfz.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5284-7vfz) | Last update: Recent  
   For Local Law 19 of 1999 - Quarterly Unsheltered Street Homeless Individuals, follow this link.
 
 - **Local Law 19 of 1999 Report - Quarterly Unsheltered Street Homeless Individuals**  
-  [Data](https://data.cityofnewyork.us/resource/7tu6-bcih.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7tu6-bcih) | Last update: May 2024  
+  [Data](https://data.cityofnewyork.us/resource/7tu6-bcih.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7tu6-bcih) | Last update: Recent  
   Individuals and families placed in HRA housing systems in pursuant to local law 19.
 
 - **Local Law 33 - Security Indicators Report**  
@@ -4733,15 +4747,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/93d2-wh7s.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/93d2-wh7s) | Last update: Mar 2023  
   The Rent Affordability data table includes units disaggregated by rent affordability for each building in a Local Law 44 Housing Development Project. This information is reported pursuant to Local Law 44 of 2012, and is part of the Housing Projects Receiving City Financial Assistance (Local Law 44) collection of data tables.
 
-- **Local Law 44 - Tax Incentive**  
-  [Data](https://data.cityofnewyork.us/resource/72vt-ykjc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/72vt-ykjc) | Last update: Mar 2023
-
 - **Local Law 49 Reporting**  
   [Data](https://data.cityofnewyork.us/resource/uwx4-aafe.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uwx4-aafe) | Last update: May 2024  
   Detailed summary statistics regarding HASA program. Staffing Analysis (PA & non-PA).
 
 - **Local Law 51 Spring Semester Final**  
-  [Data](https://data.cityofnewyork.us/resource/59b2-g9ij.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/59b2-g9ij) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/59b2-g9ij.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/59b2-g9ij) | Last update: Jul 2024  
   Local Law 51- Reporting on student-to-student bullying, harassment,
 
 - **Lost Property Contact Information**  
@@ -4764,6 +4775,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/kmtx-45c9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kmtx-45c9) | Last update: Feb 2024  
   The Department of Housing Preservation and Development (HPD) receives a sub-allocation of 9% Low Income Housing Tax Credits and allocated its credits through one competitive round each calendar year.
 
+- **M/WBE Upcoming Procurements**  
+  [Data](https://data.cityofnewyork.us/resource/ww83-bcks.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ww83-bcks) | Last update: Jul 2024
+
 - **MOCS 15 Largest Contracts**  
   [Data](https://data.cityofnewyork.us/resource/7pza-ynkh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7pza-ynkh) | Last update: Jun 2021  
   Annually published list of the 15 largest procurement contracts by original contract dollar amount.
@@ -4784,7 +4798,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This list contains information on Manhattan Community Grants
 
 - **Mayor's Management Report - Agency Performance Indicators**  
-  [Data](https://data.cityofnewyork.us/resource/rbed-zzin.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rbed-zzin) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/rbed-zzin.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rbed-zzin) | Last update: Jul 2024  
   This dataset reflects measures of agency performance, organized by goal. Components of this full dataset appear in the Dynamic Mayor's Management Report (DMMR, dmmr.nyc.gov), the Mayor's Management Report (MMR) and Preliminary Mayor's Management Report (PMMR).
 
 - **Mayor's Office to End Domestic and Gender-Based Violence Annual Report on Outreach to Cosmetologists**  
@@ -4884,15 +4898,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Sites that have generated or received material from the NYC Clean Soil Bank, which enables the reuse  within NYC of clean sediment from deep excavations.
 
 - **NYC Climate Budgeting Report: Avoided Health Events By NTA**  
-  [Data](https://data.cityofnewyork.us/resource/ic46-fvh8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ic46-fvh8) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/ic46-fvh8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ic46-fvh8) | Last update: Jun 2024  
   This dataset uses the same data included in the  "Forecasted Avoided Health Events", the main difference is that this dataset is mapped geographically. For any additional detail about PM2.5, refer to the "Impact of Fossil Fuel Use on Air Quality and Health" sub-section of the FY25 New York City Climate Budgeting publication (https://www.nyc.gov/assets/omb/downloads/pdf/exec24-nyccb.pdf).
 
 - **NYC Climate Budgeting Report: Forecast of Citywide Emissions**  
-  [Data](https://data.cityofnewyork.us/resource/czei-7bxd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/czei-7bxd) | Last update: Recent  
-  You can find the complete collection of Climate Budget data by clicking here.
-
-- **NYC Climate Budgeting Report: Forecasted Avoided Health Events**  
-  [Data](https://data.cityofnewyork.us/resource/v988-8fd7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v988-8fd7) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/czei-7bxd.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/czei-7bxd) | Last update: Jun 2024  
   You can find the complete collection of Climate Budget data by clicking here.
 
 - **NYC Community Based Organizations**  
@@ -4900,7 +4910,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Volunteer Opportunities and Finding Organizations.
 
 - **NYC Community Boards**  
-  [Data](https://data.cityofnewyork.us/resource/ruf7-3wgc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ruf7-3wgc) | Last update: Mar 2024  
+  [Data](https://data.cityofnewyork.us/resource/ruf7-3wgc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ruf7-3wgc) | Last update: Recent  
   This data makes it easier for NYC residents to find their local community boards information. You can find the source of this data here: NYC Community Board Lookup. Here is another other resources related to this dataset: A Map of NYC Community District Boundaries.
 
 - **NYC Condom Availability Program - HIV condom distribution locations**  
@@ -4912,14 +4922,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The NYC Department of Buildings requires building owners and managers to register their cooling tower systems and the registration data is shared with BWSO for this dataset. Registration data is entered by building owners and managers through the NYC Cooling Tower Registration Portal and cooling tower characteristics (such as building address) are published as entered by the registrant.
 
 - **NYC Cooling Tower System Inspection Results**  
-  [Data](https://data.cityofnewyork.us/resource/f9wb-g8mb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f9wb-g8mb) | Last update: Mar 2024  
+  [Data](https://data.cityofnewyork.us/resource/f9wb-g8mb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f9wb-g8mb) | Last update: Recent  
   Hearing status and adjudication result are shown separately in the Cooling Tower Hearings dataset (a subset of the OATH Hearings Division Case Status dataset). The summons number in this dataset corresponds with the ticket number field in the Cooling Towers Hearings dataset.
 
 - **NYC Council Constituent Services**  
   [Data](https://data.cityofnewyork.us/resource/b9km-gdpy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/b9km-gdpy) | Last update: Recent
 
 - **NYC DOT Pedestrian Plazas**  
-  [Data](https://data.cityofnewyork.us/resource/k5k6-6jex.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/k5k6-6jex) | Last update: Apr 2024
+  [Data](https://data.cityofnewyork.us/resource/k5k6-6jex.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/k5k6-6jex) | Last update: Recent
 
 - **NYC DOT Pedestrian Plazas (Point Feature)**  
   [Data](https://data.cityofnewyork.us/resource/5dck-9m6g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5dck-9m6g) | Last update: Apr 2024
@@ -4928,36 +4938,32 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/nu7n-tubp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nu7n-tubp) | Last update: Feb 2024  
   Active Dog Licenses.
 
-- **NYC Farmers Markets**  
-  [Data](https://data.cityofnewyork.us/resource/8vwk-6iz2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/8vwk-6iz2) | Last update: Jan 2024  
-  This is a list of farmers markets across the five boroughs. Farmers market vendors, products, and EBT acceptance varies by venue.
-
 - **NYC Ferry Ridership**  
   [Data](https://data.cityofnewyork.us/resource/t5n6-gx8c.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/t5n6-gx8c) | Last update: Recent  
   This dataset includes information on hourly NYC Ferry boardings by date, route, direction, ferry landing, and day of week. 'Boardings' are the total number of people who boarded a vessel during the time period in question. This data forms the basis of internal NYC Ferry ridership tasks to guide service planning.
 
-- **NYC Fire Department Building Vacate List**  
-  [Data](https://data.cityofnewyork.us/resource/n5xc-7jfa.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/n5xc-7jfa) | Last update: Sep 2018  
-  List of ordered vacated buildings declared unsafe and off-limits
+- **NYC Fire Department Building Vacate List (Historical)**  
+  [Data](https://data.cityofnewyork.us/resource/n5xc-7jfa.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/n5xc-7jfa) | Last update: Recent  
+  Note: The source database for this dataset has been decommissioned. FDNY is currently engaged in creating a new system, but no new data will be added to this dataset.
 
 - **NYC Floating Rate Exposure**  
   [Data](https://data.cityofnewyork.us/resource/y4pq-zdn5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y4pq-zdn5) | Last update: Apr 2024  
   This dataset provides detail into the City's floating rate exposure. The data is represented in millions and will be updated twice per year in the Preliminary and Executive Budgets.
 
 - **NYC Historical Vital Records: Index to Digitized Birth Certificates**  
-  [Data](https://data.cityofnewyork.us/resource/5gq7-rgmv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5gq7-rgmv) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/5gq7-rgmv.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5gq7-rgmv) | Last update: Jul 2024  
   Details about certificates in DORIS's collection and their digitization status can be found on our website (https://a860-historicalvitalrecords.nyc.gov/digital-vital-records).
 
 - **NYC Historical Vital Records: Index to Digitized Death Certificates**  
-  [Data](https://data.cityofnewyork.us/resource/797j-9xvg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/797j-9xvg) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/797j-9xvg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/797j-9xvg) | Last update: Jul 2024  
   Details about certificates in DORIS's collection and their digitization status can be found on our website (https://a860-historicalvitalrecords.nyc.gov/digital-vital-records).
 
 - **NYC Historical Vital Records: Index to Digitized Marriage Certificates**  
-  [Data](https://data.cityofnewyork.us/resource/j62e-7maa.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/j62e-7maa) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/j62e-7maa.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/j62e-7maa) | Last update: Jul 2024  
   The dataset is an index to digitized historical marriage certificates from 1866-1937 from all 5 NYC boroughs. Details about certificates in DORIS's collection and their digitization status can be found on our website (https://a860-historicalvitalrecords.nyc.gov/digital-vital-records).
 
 - **NYC Historical Vital Records: Index to Digitized Marriage Licenses**  
-  [Data](https://data.cityofnewyork.us/resource/d8dr-nyhw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/d8dr-nyhw) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/d8dr-nyhw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/d8dr-nyhw) | Last update: Jul 2024  
   The dataset is an index to digitized historical marriage licenses from 1908-1949 from all 5 NYC boroughs. Details about certificates in DORIS's collection and their digitization status can be found on our website (https://a860-historicalvitalrecords.nyc.gov/digital-vital-records).
 
 - **NYC Municipal Building Energy Benchmarking Results**  
@@ -4999,13 +5005,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/jk6k-yab4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jk6k-yab4) | Last update: Oct 2023  
   The Events_Events table is the primary table. All other tables can be related by joining on the event_id. This data contains records from  2013 and on. For a complete list of related datasets, please follow This Link
 
+- **NYC Parks Events Listing – Event YouTube Links**  
+  [Data](https://data.cityofnewyork.us/resource/mnkj-myjb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mnkj-myjb) | Last update: Oct 2023  
+  The Events_Events table is the primary table. All other tables can be related by joining on the event_id. This data contains records from  2013 and on. For a complete list of related datasets, please follow This Link
+
 - **NYC Parks Forever Wild**  
   [Data](https://data.cityofnewyork.us/resource/48va-85tp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/48va-85tp) | Last update: Recent  
   Data Dictionary and User Guide: https://docs.google.com/spreadsheets/d/1BGfs3SaRlh0p2itOIimg1OQMvfkVuT0NQE6xDitZDQM/edit?usp=sharing
-
-- **NYC Parks Monuments**  
-  [Data](https://data.cityofnewyork.us/resource/6rrm-vxj9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6rrm-vxj9) | Last update: Recent  
-  This data is table of monuments that is maintained by NYC Parks. Prior to being stored electronically the original data was stored on index cards dating back to the 1940s. The database is updated periodically to include new monuments, and information updated for existing monuments. For questions about the dataset please contact Parks Art & Antiquities division at (212) 360-8143.
 
 - **NYC Parks Pools**  
   [Data](https://data.cityofnewyork.us/resource/y5rm-wagw.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y5rm-wagw) | Last update: Recent  
@@ -5022,6 +5028,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **NYC Permitted Event Information - Historical**  
   [Data](https://data.cityofnewyork.us/resource/bkfu-528j.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bkfu-528j) | Last update: Recent  
   This list contains information on approved event applications from 2008. Please note that Permitted Film Events only reflect those permits which will impact one or more streets for at least five days.
+
+- **NYC Quarterly Bond Update: General Obligation, DASNY, and the NYCMW Rate Exchange Agreements**  
+  [Data](https://data.cityofnewyork.us/resource/d334-62hi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/d334-62hi) | Last update: Apr 2024  
+  Note: In the Table "General Obligation, Dormitory Authority of the State of New York, and the New York City Municipal Water Finance Authority Interest Rate Exchange Agreements",Mark-to-Market Values are calculated by a third party swap adviser, Mohanty Gargiulo LLC.
 
 - **NYC REACH Members**  
   [Data](https://data.cityofnewyork.us/resource/7btz-mnc8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7btz-mnc8) | Last update: Nov 2023  
@@ -5128,9 +5138,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/rycv-p85i.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rycv-p85i) | Last update: Jun 2022  
   The dataset contains contact information for NYPD neighborhood coordination officers (NCOs). The NCOs serve as liaisons between the police and the community, but also as key crime-fighters and problem-solvers.
 
-- **NYPD Sectors**  
-  [Data](https://data.cityofnewyork.us/resource/5rqd-h5ci.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/5rqd-h5ci) | Last update: Feb 2024  
-  Geographic boundaries of NYPD sectors.
+- **NYPD OATH Summons Data**  
+  [Data](https://data.cityofnewyork.us/resource/hxbk-grd3.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/hxbk-grd3) | Last update: Recent  
+  Incident-level summons data, each record representing one summons. This data may be used to gain insight into OATH summonses issued, basic demographic information of respondents, and geolocation data where violations were cited. Find Your Precinct and Sector tool at nyc.gov: https://www.nyc.gov/site/nypd/bureaus/patrol/find-your-precinct.page
 
 - **NYPD Shooting Incident Data (Historic)**  
   [Data](https://data.cityofnewyork.us/resource/833y-fsy8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/833y-fsy8) | Last update: Apr 2024  
@@ -5144,9 +5154,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/f4tj-796d.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f4tj-796d) | Last update: Recent  
   The data can be used to explore the various categories of force incidents and when and in which precinct they occurred. The data is used to populate the public facing Force Dashboard (https://app.powerbigov.us/view?r=eyJrIjoiOGNhMjVhYTctMjk3Ny00MTZjLTliNDAtY2M2ZTQ5YWI3N2ViIiwidCI6IjJiOWY1N2ViLTc4ZDEtNDZmYi1iZTgzLWEyYWZkZDdjNjA0MyJ9).
 
-- **NYPD Use of Force: Members of Service**  
-  [Data](https://data.cityofnewyork.us/resource/v5jd-6wqn.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v5jd-6wqn) | Last update: Recent  
-  The Threat, Resistance, or Injury (TRI) Report is the primary means by which the NYPD records use of force incidents. All reportable instances of force  whether used by a member of the Department, or against the member  are recorded on a TRI Report. Data provided here are a result of the information captured on TRI Reports.
+- **NYPL Branch Services - Bronx**  
+  [Data](https://data.cityofnewyork.us/resource/pfys-fabf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/pfys-fabf) | Last update: May 2022  
+  New York Public Library (NYPL) branch services from July 2010 to June 2011(Bronx)
 
 - **NYPL Branch Services - Manhattan**  
   [Data](https://data.cityofnewyork.us/resource/3nja-bsch.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3nja-bsch) | Last update: May 2022  
@@ -5162,6 +5172,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Neighborhood Financial Health Digital Mapping and Data Tool**  
   [Data](https://data.cityofnewyork.us/resource/r3dx-pew9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/r3dx-pew9) | Last update: Jun 2022
+
+- **New Capacity Program By Borough**  
+  [Data](https://data.cityofnewyork.us/resource/tzwr-vksx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tzwr-vksx) | Last update: May 2022  
+  Number of seats and cost by borough and district.
 
 - **New York City Council Discretionary Funding**  
   [Data](https://data.cityofnewyork.us/resource/4d7f-74pe.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4d7f-74pe) | Last update: Apr 2021  
@@ -5216,7 +5230,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains revenue source level data for revenue actuals. Dataset is intended to match charts and tables in the "Tax Revenue" section of the Mayor`s Message publication.
 
 - **New York City Truck Routes**  
-  [Data](https://data.cityofnewyork.us/resource/jjja-shxy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jjja-shxy) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/jjja-shxy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jjja-shxy) | Last update: Recent  
   The New York City Truck Route Network is a set of roads that commercial vehicles must use in New York City.
 
 - **Newsrack Inspections**  
@@ -5228,11 +5242,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **OATH Trials Division Case Status**  
   [Data](https://data.cityofnewyork.us/resource/y3hw-z6bm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y3hw-z6bm) | Last update: Recent  
-  The Trials Division dataset includes those closed cases where litigants appear before the Trials Division for trial and where an OATH Administrative Law Judge has issued a decision. By law or by agency rule, the OATH ALJ issues final decisions in Krimstock cases, contract disputes and most cases brought by the Department of Consumer Affairs.
-
-- **OCDV Family Justice Center Foreign Born Report**  
-  [Data](https://data.cityofnewyork.us/resource/bray-s6dc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bray-s6dc) | Last update: Jan 2024  
-  The dataset contains count data for the number of Family Justice Center clients that reported being foreign born or born in the United States, basic demographic information, including age category, to 10 primary languages spoken, top 10 countries of origin, relationship between client and person committing the intimate partner violence, and the top 5 services provided.
+  The OATH Trials Division dataset contains information about a diverse range of complex administrative law matters that are filed by city agencies, boards, and commissions and adjudicated by OATH Administrative Law Judges (ALJs) at the New York City Office of Administrative Trials and Hearings, Trials Division.
 
 - **OER Cleanup Sites**  
   [Data](https://data.cityofnewyork.us/resource/3279-pp7v.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3279-pp7v) | Last update: Recent  
@@ -5241,6 +5251,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Observations And Statuses For Inspections**  
   [Data](https://data.cityofnewyork.us/resource/6246-94tp.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6246-94tp) | Last update: Recent  
   List of observations and status for construction project inspections
+
+- **Off-Year and Special Elections Public Matching Fund Payments**  
+  [Data](https://data.cityofnewyork.us/resource/7f4s-uwi7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7f4s-uwi7) | Last update: Jan 2024  
+  This dataset contains public matching funds payments to a campaign during an off-year or special election.
 
 - **Office of Labor Policy & Standards Enforcement Matters**  
   [Data](https://data.cityofnewyork.us/resource/c292-vzrn.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/c292-vzrn) | Last update: May 2024  
@@ -5274,11 +5288,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Open Parking and Camera Violations dataset was initially loaded with all violations contained in the mainframe database as of May 2016. Subsequent new violation issuance and updates to existing violations are applied to this data set on the following schedule:
 
 - **Open Restaurant Applications (Historic)**  
-  [Data](https://data.cityofnewyork.us/resource/pitm-atqc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/pitm-atqc) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/pitm-atqc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/pitm-atqc) | Last update: Recent  
   The New York City Open Restaurant is an effort to implement a citywide multi-phase program to expand outdoor seating options for food establishments to promote open space, enhance social distancing, and help them rebound in these difficult economic times.
 
 - **Open Restaurants Inspections**  
-  [Data](https://data.cityofnewyork.us/resource/4dx7-axux.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4dx7-axux) | Last update: May 2024  
+  [Data](https://data.cityofnewyork.us/resource/4dx7-axux.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4dx7-axux) | Last update: Recent  
   The Open Restaurants Inspections dataset contains records of site setup inspections performed throughout the five boroughs of New York City.
 
 - **Open Storefronts Applications (Historical)**  
@@ -5428,9 +5442,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/ufzp-rrqu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ufzp-rrqu) | Last update: May 2022  
   Pedestrian ramps provide access on and off streets and sidewalks and are an essential tool for all pedestrians. This data is a comprehensive list of all pedestrian ramps throughout New York City.
 
+- **Pedestrian Zone Shapefile (Tabular)**  
+  [Data](https://data.cityofnewyork.us/resource/kcrr-myj9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kcrr-myj9) | Last update: Sep 2022  
+  Polygon features representing the boundary limits for pedestrian zones. The Pedestrian Corridor is based on the DCP zoning maps, utilizing certain commercial overlay and commercial district designations.
+
 - **Percent Live Births by Infant Sex and Mother’s Race/Ethnicity**  
   [Data](https://data.cityofnewyork.us/resource/wffy-3iyg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/wffy-3iyg) | Last update: Nov 2023  
   Percent Live Births by Infant Sex and Mothers Race/Ethnicity for New York City, 2007-2020
+
+- **Permitted Nonpotable Wells**  
+  [Data](https://data.cityofnewyork.us/resource/gnyq-kf2y.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gnyq-kf2y) | Last update: Apr 2024  
+  All nonpotable water wells located in New York City need a permit to operate. Data is collected to track permit information of currently permitted nonpotable wells in New York City.
 
 - **Personal Income By AGI Range**  
   [Data](https://data.cityofnewyork.us/resource/ipc3-2nbm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ipc3-2nbm) | Last update: Feb 2019  
@@ -5441,7 +5463,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Carefully place household sharps in leak-proof and puncture-resistant container labeled "Home Sharps - not for recycling". Bring to a collection center or drop-off site or discard as trash. ALL New York State hospitals and nursing homes are required by law to act as collection centers for used household sharps, including syringes and lancets, with no identification required.
 
 - **Policy and Procedure Recommendations (PPR) Portal**  
-  [Data](https://data.cityofnewyork.us/resource/jstn-jaut.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jstn-jaut) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/jstn-jaut.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/jstn-jaut) | Last update: Jun 2024  
   The New York City Department of Investigations Policy and Procedure Recommendations (PPR) Portal provides the public with a greater understanding of the recommendations DOI issues to City agencies and entities. PPRs are formal written recommendations to City agencies that correct policy, procedural and operational vulnerabilities identified through DOI investigations.
 
 - **Policymakers List**  
@@ -5473,25 +5495,37 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/nfz9-tzba.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nfz9-tzba) | Last update: May 2023  
   Pre-K Projects By School  details
 
+- **PreK Riders by Transportation Site**  
+  [Data](https://data.cityofnewyork.us/resource/kjgh-ywbx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kjgh-ywbx) | Last update: Recent  
+  Summary of documented students by school/site
+
 - **Prelim Average Class Size City- K-8TH**  
-  [Data](https://data.cityofnewyork.us/resource/4quv-6za7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4quv-6za7) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/4quv-6za7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4quv-6za7) | Last update: Jul 2024  
+  General Education and Integrated Co-Teaching (ICT) classes and course sections with more than 100 students or fewer than seven students are excluded from this report, as are self-contained courses with fewer than two students.
+
+- **Prelim Average Class Size School - K - 8TH**  
+  [Data](https://data.cityofnewyork.us/resource/sgxc-mnpk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/sgxc-mnpk) | Last update: Jul 2024  
+  General Education and Integrated Co-Teaching (ICT) classes and course sections with more than 100 students or fewer than 
+
+- **Prelim Average Class Size School - MS & HS**  
+  [Data](https://data.cityofnewyork.us/resource/d7b6-byut.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/d7b6-byut) | Last update: Jul 2024  
   General Education and Integrated Co-Teaching (ICT) classes and course sections with more than 100 students or fewer than seven students are excluded from this report, as are self-contained courses with fewer than two students.
 
 - **Prelim Percentage Class Size District - K-8TH**  
-  [Data](https://data.cityofnewyork.us/resource/bzs3-dh33.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bzs3-dh33) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/bzs3-dh33.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bzs3-dh33) | Last update: Jul 2024  
+  Prelim Percentage Class Size Reports - Aggregated by District.
+
+- **Prelim Percentage Class Size District - MS & HS**  
+  [Data](https://data.cityofnewyork.us/resource/pvwn-aqw2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/pvwn-aqw2) | Last update: Jul 2024  
   Prelim Percentage Class Size Reports - Aggregated by District.
 
 - **Procurement By Industry**  
   [Data](https://data.cityofnewyork.us/resource/nd82-bi9f.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nd82-bi9f) | Last update: Feb 2020  
   Summary table of procurement in the fiscal year grouped by agency and industry
 
-- **Production office space**  
-  [Data](https://data.cityofnewyork.us/resource/bvna-6j7v.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bvna-6j7v) | Last update: Sep 2018  
-  List of Commercial space for recording and sound production in New York City. This is a list of studios which have requested to be included, rather than a comprehensive list of NYC facilities.
-
-- **Project Labor Agreements and Apprenticeship Directive**  
-  [Data](https://data.cityofnewyork.us/resource/6w36-zfn5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6w36-zfn5) | Last update: Jun 2021  
-  Annual report of City construction contracts as well as the portion of those contracts subject to the Project Labor Agreement or the Apprenticeship Program Directive.
+- **Procurements by Size**  
+  [Data](https://data.cityofnewyork.us/resource/ewmy-2fww.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ewmy-2fww) | Last update: Feb 2020  
+  Summary table of procurements in the fiscal year grouped by agency and size
 
 - **Projected Citywide Energy Cost**  
   [Data](https://data.cityofnewyork.us/resource/tyv9-j3ti.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tyv9-j3ti) | Last update: May 2024  
@@ -5502,8 +5536,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Number of units from projected future housing growth in the City as used in enrollment projection.
 
 - **Projection of Cash Source and Use**  
-  [Data](https://data.cityofnewyork.us/resource/exez-mxv4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/exez-mxv4) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/exez-mxv4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/exez-mxv4) | Last update: Jul 2024  
   The description of the change from beginning to ending cash balance for a given fiscal year by operating, cashflow financing, and capital financing inflows and outflows. Data is reported in millions.
+
+- **Prompt Payment Interest Rates**  
+  [Data](https://data.cityofnewyork.us/resource/qt4e-9a97.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qt4e-9a97) | Last update: Feb 2020
 
 - **Property Data (Buildings Information System)**  
   [Data](https://data.cityofnewyork.us/resource/e98g-f8hy.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e98g-f8hy) | Last update: Mar 2019  
@@ -5529,14 +5566,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/dx24-9ef7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dx24-9ef7) | Last update: Recent  
   The Pseudo Lots dataset contains polygons of locations that have an address and/or a structure with a building identification number (BIN), but for which there is no tax lot. Pseudo lots may exist for locations with open space, subway or train stations, skyways, tunnels, or other miscellaneous features. Note that this is not a comprehensive dataset of locations with these types of features.
 
-- **Public Design Commission Monthly Design Review**  
-  [Data](https://data.cityofnewyork.us/resource/tfrc-rjtr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tfrc-rjtr) | Last update: Recent  
-  List of projects that were reviewed by the Public Design Commission on a monthly basis.
-
-- **Public Funds Payments**  
-  [Data](https://data.cityofnewyork.us/resource/u69g-mvrb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/u69g-mvrb) | Last update: Recent  
-  Public Funds payments to election campaigns.
-
 - **Public Recycling Bins**  
   [Data](https://data.cityofnewyork.us/resource/sxx4-xhzg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/sxx4-xhzg) | Last update: Sep 2023  
   Locations of public recycling bins throughout NYC. For information on what to recycle in NYC, see: https://www1.nyc.gov/assets/dsny/site/services/recycling.
@@ -5549,10 +5578,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/mse5-qs8i.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/mse5-qs8i) | Last update: Sep 2022  
   The different providers in New York City of Public Wi-Fi at locations or Hotspots distributed across the city, not including service provided on buses or ferries.
 
-- **Public Wi-Fi in Pedestrian Corridors and Public Computer Centers**  
-  [Data](https://data.cityofnewyork.us/resource/9rxf-re6u.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/9rxf-re6u) | Last update: Sep 2022  
-  The Public Wi-Fi in Pedestrian Corridors and Public Computer Centers dataset is an analysis of Public Wi-Fi hotspots in pedestrian corridors (zones of commercial activity in each neighborhood that attract the greatest numbers of people and local businesses) and Public Wi-Fi hotspots in the City's public computer centers.
-
 - **Public feedback on 311 request/complaint types**  
   [Data](https://data.cityofnewyork.us/resource/7ffd-6gs9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/7ffd-6gs9) | Last update: Recent  
   This dataset contains a listing of comments and requests from the public for the addition of a new or update to an existing NYC 311 service request/complaint type. This data is required to be published under Local Law 97 of 2022.
@@ -5562,16 +5587,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set provides a list of published audits conducted by the Comptroller's Audit Bureau. The audits listed here can be requested by filing a Freedom of Information Act request with the Comptroller or accessed and downloaded through the Comptroller's website (https://comptroller.nyc.gov/reports/?fwp_type=audit).
 
 - **Quarterly Borrowing Schedule**  
-  [Data](https://data.cityofnewyork.us/resource/rsnp-rdyf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rsnp-rdyf) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/rsnp-rdyf.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rsnp-rdyf) | Last update: Jul 2024  
   This dataset is updated four times per year after publication of the First Quarter, Preliminary, Executive and Adopted Financial Plan, usually in November, January, April and June respectively.
 
 - **Queens Community Board Members**  
   [Data](https://data.cityofnewyork.us/resource/rps4-dwwk.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rps4-dwwk) | Last update: Jan 2019  
   List of all community board appointees, leadership, and employees.
 
-- **Queens Library Branches**  
-  [Data](https://data.cityofnewyork.us/resource/kh3d-xhq7.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kh3d-xhq7) | Last update: Sep 2018  
-  Hours and locations of Queens Library Branches
+- **Radiation Producing Equipment**  
+  [Data](https://data.cityofnewyork.us/resource/i595-2byq.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/i595-2byq) | Last update: Jan 2020
 
 - **Raised Crosswalk Locations**  
   [Data](https://data.cityofnewyork.us/resource/uh2s-ftgh.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/uh2s-ftgh) | Last update: Recent
@@ -5591,20 +5615,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Listing of referral Centers For High School Alternatives
 
 - **Register of Community Board Budget Requests**  
-  [Data](https://data.cityofnewyork.us/resource/vn4m-mk4t.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vn4m-mk4t) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/vn4m-mk4t.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vn4m-mk4t) | Last update: Jul 2024  
   This dataset is updated three times per year after publication of the Preliminary, Executive and Adopted Budget, usually in January, April and June respectively.
 
 - **Registration Contacts**  
   [Data](https://data.cityofnewyork.us/resource/feu5-w2e2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/feu5-w2e2) | Last update: Jun 2024  
   Contains information about organizations or individuals listed on a Multiple Dwelling Registration form.
-
-- **Replacement Projects by school**  
-  [Data](https://data.cityofnewyork.us/resource/kydh-ijhc.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/kydh-ijhc) | Last update: May 2023  
-  Replacement project detail by school.
-
-- **Research Permits**  
-  [Data](https://data.cityofnewyork.us/resource/nnf6-km2a.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/nnf6-km2a) | Last update: Feb 2020  
-  Permits issued to conduct scientific research in property under NYC Parks jurisdiction
 
 - **Resident Economic Empowerment and Sustainability (REES) for NYCHA Residents - Borough - Local Law 163**  
   [Data](https://data.cityofnewyork.us/resource/snck-inhz.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/snck-inhz) | Last update: Dec 2023  
@@ -5618,16 +5634,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/dggd-3jfu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/dggd-3jfu) | Last update: Dec 2023  
   The dataset is part of the annual report compiled by the Mayors Office of Operations as mandated by the Local Law 163 of 2016 on different services provided to NYCHA residents. See other datasets in this report by searching the keyword Services available to NYCHA Residents - Local Law 163 (2016) on the Open Data Portal.
 
-- **Restrictive Declaration Sites**  
-  [Data](https://data.cityofnewyork.us/resource/cmni-fvnx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/cmni-fvnx) | Last update: Recent  
-  Publically accessible open-space constructed and maintained by a private entity pursuant to an agreement with NYC Parks. Underlying jurisdiction of the land and the terms of each agreement vary by site.
-
 - **Revenue Actuals**  
   [Data](https://data.cityofnewyork.us/resource/qbvv-9nzz.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/qbvv-9nzz) | Last update: Apr 2024  
   The dollar amount field is rounded to millions. Data are from FY 2002 and updated once a year after annual revenue numbers are final.
 
 - **Revenue Budget & Financial Plan -- Exec\Adpt\Prel**  
-  [Data](https://data.cityofnewyork.us/resource/ugzk-a6x4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ugzk-a6x4) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/ugzk-a6x4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ugzk-a6x4) | Last update: Jul 2024  
   This dataset contains agency revenue data for Adopted, Modified and five years of Financial Plan by Revenue Class, Revenue Category and Revenue Source (Revenue Structure) or FPS Group name. The numbers within can be summarized to match pages from either the Supporting Schedule, Departmental Estimate or the Expense, Revenue, Contact Budget.
 
 - **Revenue Budget & Financial Plan--Qtr1**  
@@ -5654,9 +5666,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/f7dc-2q9f.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/f7dc-2q9f) | Last update: Recent  
   Results of sampling to determine the SARS-CoV-2 N gene levels in NYC DEP Wastewater Resource Recovery Facility (WRRF) influent, disaggregated by the WRRF where the sample was collected, date sample was collected, and date sample was tested.
 
-- **SBS Certified Business List**  
-  [Data](https://data.cityofnewyork.us/resource/ci93-uc8s.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ci93-uc8s) | Last update: Recent
-
 - **SCA Disqualified Firms**  
   [Data](https://data.cityofnewyork.us/resource/krwf-eng6.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/krwf-eng6) | Last update: Recent  
   List of firms that are disqualified to work for the SCA. The file includes the term of the firms' disqualification. If the 'disqualified to date' is empty, the firm is disqualified indefinitely.
@@ -5682,33 +5691,26 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For datasets related to other services provided to NYCHA residents, view the data collection Services available to NYCHA Residents - Local Law 163.
 
 - **Safe Routes to Schools - Priority Schools**  
-  [Data](https://data.cityofnewyork.us/resource/pc34-d3sx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/pc34-d3sx) | Last update: Apr 2024
+  [Data](https://data.cityofnewyork.us/resource/pc34-d3sx.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/pc34-d3sx) | Last update: Recent
 
 - **School Age Ridership**  
-  [Data](https://data.cityofnewyork.us/resource/ft5g-idx8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ft5g-idx8) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/ft5g-idx8.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/ft5g-idx8) | Last update: Jul 2024  
   Summary of documented students by OPT school code.
 
 - **School Based Programs by Borough**  
   [Data](https://data.cityofnewyork.us/resource/esmb-8zkm.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/esmb-8zkm) | Last update: Mar 2024  
   School based programs by borough with cost.
 
-- **Scorecard Ratings**  
-  [Data](https://data.cityofnewyork.us/resource/rqhp-hivt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rqhp-hivt) | Last update: Oct 2023  
-  Street and sidewalk cleanliness ratings.
-
 - **Seating Locations**  
-  [Data](https://data.cityofnewyork.us/resource/esmy-s8q5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/esmy-s8q5) | Last update: Nov 2023  
+  [Data](https://data.cityofnewyork.us/resource/esmy-s8q5.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/esmy-s8q5) | Last update: Recent  
   This dataset identifies the locations of DOT seating features throughout New York City including benches and leaning bars on sidewalks and at bus stops.
 
 - **Services for NYCHA Residents Local Law 163**  
   [Data](https://data.cityofnewyork.us/resource/p2vv-pesb.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/p2vv-pesb) | Last update: May 2022  
   This dataset contains information about 15 services available to NYCHA residents. The datasets for services listed form part of the annual report compiled by the Mayors Office of Operations as mandated by the Local Law 163 of 2016. The datasets in this report can be searched by using the keyword Services available to NYCHA Residents - Local Law 163 (2016) on the Open Data Portal.
 
-- **Shapefiles of BOA and Community Brownfield Planning Areas - OER Existing Conditions Studies**  
-  [Data](https://data.cityofnewyork.us/resource/bztk-4g6r.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bztk-4g6r) | Last update: Jan 2024
-
 - **Sidewalk Correspondences**  
-  [Data](https://data.cityofnewyork.us/resource/bheb-sjfi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bheb-sjfi) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/bheb-sjfi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/bheb-sjfi) | Last update: Recent  
   Tracks all written correspondences to the Sidewalk Program.
 
 - **Sidewalk Dismissal Inspection Tracking**  
@@ -5716,7 +5718,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Tracks dismissal inspection requests and results from property owners who repairs their sidewalk privately.
 
 - **Sidewalk Weekly Construction Schedule**  
-  [Data](https://data.cityofnewyork.us/resource/r528-jcks.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/r528-jcks) | Last update: Apr 2024  
+  [Data](https://data.cityofnewyork.us/resource/r528-jcks.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/r528-jcks) | Last update: Recent  
   Sidewalk schedule to install, maintain and repair sidewalks, curbs and pedestrian ramps.
 
 - **Significant Noncompliance List**  
@@ -5740,7 +5742,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Special Initiatives Shelter Exits & Community Placements.
 
 - **Speculation Watch List**  
-  [Data](https://data.cityofnewyork.us/resource/adax-9mit.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/adax-9mit) | Last update: Feb 2024  
+  [Data](https://data.cityofnewyork.us/resource/adax-9mit.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/adax-9mit) | Last update: Recent  
   Please note that borough, block, and lot is the best geographic identifier for this data set, and Building Identification Number (BIN) is provided for convenience only. BIN as provided in this dataset may be inaccurate, as more than one BIN may be associated with borough, block, and lot.
 
 - **Speed Reducer Tracking System (SRTS)**  
@@ -5762,6 +5764,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Step Streets Locations**  
   [Data](https://data.cityofnewyork.us/resource/u9au-h79y.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/u9au-h79y) | Last update: May 2024  
   They were built to avoid very steep roadway and provide access for public use. These steep, block-long, open-air staircases for pedestrians connect two streets at different elevations.
+
+- **Storefronts Reported Vacant or Not**  
+  [Data](https://data.cityofnewyork.us/resource/92iy-9c3n.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/92iy-9c3n) | Last update: Apr 2024  
+  Storefronts Reported Vacant or Not. The dataset was created to comply with Local Law 157 of 2019. Data is collected using an online portal, which allows owners to provide information about ground and second floor storefronts on their properties.
 
 - **Street Closures due to construction activities by Block**  
   [Data](https://data.cityofnewyork.us/resource/i6b5-j7bu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/i6b5-j7bu) | Last update: Recent  
@@ -5825,7 +5831,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data presents statistics for students fully, partially, not receiving special education services, related services, and transportation services. Data is categorized by district, superintendent, citywide counts, and percentages.
 
 - **Students Receiving Recommended Special Education Programs by Program Type**  
-  [Data](https://data.cityofnewyork.us/resource/6thv-9wgt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6thv-9wgt) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/6thv-9wgt.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/6thv-9wgt) | Last update: Jul 2024  
   This data presents statistics for students fully, partially, not receiving special education services, related services and transportation services.
 
 - **Summary of Syringe Data in NYC Parks**  
@@ -5864,7 +5870,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Properties with tax and/or water liens that are potentially eligible to be included in the next lien sale.Tax Lien Sale Lists : Properties with tax, water liens and other charges  that are potentially eligible to be included in the next lien sale plus tax liens which were eventually sold.
 
 - **Taxi and For Hire Vehicle (FHV) Relief Stands**  
-  [Data](https://data.cityofnewyork.us/resource/vqu8-xef9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vqu8-xef9) | Last update: Recent  
+  [Data](https://data.cityofnewyork.us/resource/vqu8-xef9.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/vqu8-xef9) | Last update: Jun 2024  
   This data details the location of the Taxi and For Hire Vehicle(FHV) stands and the number of spaces provided. Taxi and FHV relief stands allow drivers to park their vehicles for up to one hour. This gives drivers the opportunity to leave their vehicles and take care of personal needs.
 
 - **Taxicab Partition Manufacturers and Installers**  
@@ -5897,9 +5903,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/x4ud-jhxu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/x4ud-jhxu) | Last update: Sep 2018  
   This list contains information on tourism grants
 
-- **Trade Waste Broker Registrants**  
-  [Data](https://data.cityofnewyork.us/resource/krx7-u82t.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/krx7-u82t) | Last update: Recent  
-  The  Application Type field denotes the class of application 'CL2-Broker'  noting the type of applicant which is a  Broker Registrant They are authorized to broker agreements between business customers and trade waste removal companies throughout the city.
+- **Trade Waste Hauler Licensees**  
+  [Data](https://data.cityofnewyork.us/resource/867j-5pgi.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/867j-5pgi) | Last update: Recent  
+  Companies listed as of the most recent export date have been issued trade waste removal licenses by the Business Integrity Commission and, therefore, are authorized to collect and remove all types of trade waste covered by Local Law 42 of 1996.
 
 - **Traffic Bollards Tracking and Installations**  
   [Data](https://data.cityofnewyork.us/resource/3f5t-9dqu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3f5t-9dqu) | Last update: Apr 2024  
@@ -5927,9 +5933,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/gt5i-dmde.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gt5i-dmde) | Last update: Feb 2019  
   List of ULURP Recommendations
 
-- **Underutilized Space Report**  
-  [Data](https://data.cityofnewyork.us/resource/q7ra-ebu4.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/q7ra-ebu4) | Last update: May 2022
-
 - **Uniform Land Use Review Procedure (ULURP) Recommendations**  
   [Data](https://data.cityofnewyork.us/resource/4j6i-9rmr.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4j6i-9rmr) | Last update: Jun 2021  
   List of the Borough President's Recommendations on ULURP applications in Brooklyn.
@@ -5941,14 +5944,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Universal Solicitation of Broadband Target Neighborhoods**  
   [Data](https://data.cityofnewyork.us/resource/2qqs-crk2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2qqs-crk2) | Last update: Sep 2022  
   Data Limitations: Data accuracy is limited as of the date of publication and by the methodology and accuracy of the original sources. The City shall not be liable for any costs related to, or in reliance of, the data contained in these datasets.
-
-- **Update to Submitted State Aid Projects**  
-  [Data](https://data.cityofnewyork.us/resource/gk83-aa6y.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/gk83-aa6y) | Last update: Dec 2023  
-  List of projects in substantial completion with the final aid amount requested.
-
-- **Uptown Bicycle Counts**  
-  [Data](https://data.cityofnewyork.us/resource/tgzg-ssan.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/tgzg-ssan) | Last update: Apr 2024  
-  This count reflects cyclists traveling through Manhattan at on 86th Street along the avenues, in Central Park and on the greenways. Note: Data was not collected in years for which counts are missing.
 
 - **Urban Park Ranger Animal Condition Response**  
   [Data](https://data.cityofnewyork.us/resource/fuhs-xmg2.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/fuhs-xmg2) | Last update: Recent  
@@ -5972,6 +5967,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Verified Locations for NYC City-Funded Social Service Contracts (Taxomony)**  
   [Data](https://data.cityofnewyork.us/resource/a6kg-wufg.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/a6kg-wufg) | Last update: May 2022  
   An agency-verified dataset of City-funded contracted social service provision locations.
+
+- **Verified Locations for NYC City-Funded Social Service Contracts - Contracts**  
+  [Data](https://data.cityofnewyork.us/resource/2bvn-ky2h.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/2bvn-ky2h) | Last update: May 2021  
+  City's contracts for social services.
 
 - **Verified Locations for NYC City-Funded Social Service Contracts - Programs**  
   [Data](https://data.cityofnewyork.us/resource/3t6s-yb67.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/3t6s-yb67) | Last update: May 2021  
@@ -5999,16 +5998,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.cityofnewyork.us/resource/4k4u-823g.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4k4u-823g) | Last update: May 2022  
   The DEP Application and Permit data will contain information about the different types of applications approved and permits issued on a regular basis. For the latest information, please refer to  the Water and Sewer Permits dataset.
 
-- **Watershed Water Quality - Hydrology**  
-  [Data](https://data.cityofnewyork.us/resource/e3xf-jwmj.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/e3xf-jwmj) | Last update: Apr 2023  
-  Routine stream monitoring results from 1987-Present.
+- **Watershed Water Quality - Hydrology Qualifiers**  
+  [Data](https://data.cityofnewyork.us/resource/shus-qn78.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/shus-qn78) | Last update: Apr 2023  
+  Qualifiers, notes, and additional information regarding the sample data provided or omitted.
+
+- **Watershed Water Quality - Wastewater Qualifiers**  
+  [Data](https://data.cityofnewyork.us/resource/rmsj-k8gu.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/rmsj-k8gu) | Last update: Apr 2023  
+  Qualifiers, notes, and additional information regarding the sample data provided or omitted.
 
 - **Watershed Water Quality Data**  
   [Data](https://data.cityofnewyork.us/resource/y43c-5n92.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/y43c-5n92) | Last update: Recent  
   Each record represents either a four hour turbidity result, a 24 hour average turbidty result, or a daily fecal coliform result from DEL18DT (Delaware Shaft 18 downtake).
-
-- **Weigh in Motion**  
-  [Data](https://data.cityofnewyork.us/resource/4fwc-j3vn.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/4fwc-j3vn) | Last update: Recent
 
 - **Where Are the Unbanked and Underbanked in New York City**  
   [Data](https://data.cityofnewyork.us/resource/v5w4-adxa.json) | [Docs](https://dev.socrata.com/foundry/data.cityofnewyork.us/v5w4-adxa) | Last update: May 2022  
@@ -6119,6 +6119,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Bicycle and Pedestrian Counts in Colorado**  
   [Data](https://data.colorado.gov/resource/q2qp-xhnj.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/q2qp-xhnj) | Last update: Recent  
   Location and counts for number of pedestrians and bicyclists to pass by a specific spot in a given hour over a 24 hour period, from the Colorado Department of Transportation (CDOT).
+
+- **Big Thompson**  
+  [Data](https://data.colorado.gov/resource/uc6k-43ed.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/uc6k-43ed) | Last update: Apr 2024
 
 - **Biomass Residue in Colorado**  
   [Data](https://data.colorado.gov/resource/j3me-5ifv.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/j3me-5ifv) | Last update: Recent  
@@ -6334,10 +6337,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Concentrated Solar Power in Colorado**  
   [Data](https://data.colorado.gov/resource/x88m-3a2j.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/x88m-3a2j) | Last update: Recent
 
-- **Conservation Easements for Charities Operating in Colorado**  
-  [Data](https://data.colorado.gov/resource/u4xw-xiec.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/u4xw-xiec) | Last update: Recent  
-  Types, numbers, acreage, and expenses of conservation easements held by charitable organizations as reported to the IRS in annual filings using Form 990, provided by the Colorado Department of State (CDOS) since 2011.
-
 - **Contaminated Lands in Colorado**  
   [Data](https://data.colorado.gov/resource/bxgy-dnjp.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/bxgy-dnjp) | Last update: Recent
 
@@ -6364,10 +6363,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Current Surface Water Conditions in Colorado**  
   [Data](https://data.colorado.gov/resource/4yw9-a5y6.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/4yw9-a5y6) | Last update: Recent  
   This is a list of all remote monitored stream, diversion, and reservoir gages within the state of Colorado.
-
-- **DWR Active Substitute Water Supply Plans**  
-  [Data](https://data.colorado.gov/resource/izbn-diak.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/izbn-diak) | Last update: Recent  
-  Substitute water supply plans provide water users a mechanism to operate a plan for augmentation or change of water right with temporary approval from the State Engineer as allowed by  37-92-308, C.R.S., or  37-90-137(11), C.R.S.
 
 - **DWR Dam Safety Active Design Review**  
   [Data](https://data.colorado.gov/resource/m6vb-k9fw.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/m6vb-k9fw) | Last update: Recent  
@@ -6470,6 +6465,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **HOV and Restricted Driving Lanes in Colorado**  
   [Data](https://data.colorado.gov/resource/7sv7-7d5a.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/7sv7-7d5a) | Last update: Recent  
   High Occupancy Vehicle and restricted driving lanes in the state of Colorado from the Colorado Department of Transportation (CDOT).
+
+- **Higher Education Programs in Colorado**  
+  [Data](https://data.colorado.gov/resource/jnj7-fw37.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/jnj7-fw37) | Last update: Recent  
+  Higher Education Programs in Colorado, from the CDLE and the Workforce Information Database.
 
 - **Highway Curves in Colorado**  
   [Data](https://data.colorado.gov/resource/an2q-gwrx.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/an2q-gwrx) | Last update: Recent  
@@ -6734,10 +6733,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.colorado.gov/resource/6aqe-63uq.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/6aqe-63uq) | Last update: Recent  
   Line segment data of CDOT designated scenic byways in Colorado.
 
-- **School Programs in Colorado**  
-  [Data](https://data.colorado.gov/resource/jnj7-fw37.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/jnj7-fw37) | Last update: Recent  
-  School Programs in Colorado, from the CDLE and the Workforce Information Database.
-
 - **Secured Party Information in Colorado**  
   [Data](https://data.colorado.gov/resource/ap62-sav4.json) | [Docs](https://dev.socrata.com/foundry/data.colorado.gov/ap62-sav4) | Last update: Recent  
   This dataset includes Uniform Commercial Code (UCC) financing statements, effective financing statements (EFS), and liens. Fields in this dataset include action type, record status and secured party name and address. This data set is provided by the Colorado Department of State (CDOS).
@@ -6906,13 +6901,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.countyofnapa.org/resource/c6c6-5q6r.json) | [Docs](https://dev.socrata.com/foundry/data.countyofnapa.org/c6c6-5q6r) | Last update: Dec 2023  
   This dataset, which is automatically updated contains American Community Survey 5-Year Estimates. This dataset is updated by a Socrata process; please contact support@socrata.com if you encounter any questions or issues.
 
+- **Bacterial STI's- Age Bins**  
+  [Data](https://data.countyofnapa.org/resource/vebb-j994.json) | [Docs](https://dev.socrata.com/foundry/data.countyofnapa.org/vebb-j994) | Last update: Jan 2024  
+  Chlamydia, gonorrhea, and syphilis infections stratified by age.
+
 - **Kid Counseling**  
   [Data](https://data.countyofnapa.org/resource/cm83-wsun.json) | [Docs](https://dev.socrata.com/foundry/data.countyofnapa.org/cm83-wsun) | Last update: May 2023  
   Percent of children (not teens) that never received psychological/emotional counseling in past year for Napa and California
-
-- **Life Expectancy Map**  
-  [Data](https://data.countyofnapa.org/resource/ik2t-3h8x.json) | [Docs](https://dev.socrata.com/foundry/data.countyofnapa.org/ik2t-3h8x) | Last update: Nov 2023  
-  Life expectancy map by census tract calculated based on the County Health Rankings Life Expectancy Calculator. Source data from the California Department of Public Health Vital Records Data
 
 [[TOP]](#toc)
 
@@ -6957,8 +6952,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.ct.gov
 
 - **Agency Data Officers**  
-  [Data](https://data.ct.gov/resource/ti3z-strx.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/ti3z-strx) | Last update: Jan 2024  
+  [Data](https://data.ct.gov/resource/ti3z-strx.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/ti3z-strx) | Last update: Recent  
   This dataset includes a list of the name and contact information for the Agency Data Officers.
+
+- **Aging and Disability Services Office Locations**  
+  [Data](https://data.ct.gov/resource/bt8z-mbps.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/bt8z-mbps) | Last update: Recent  
+  Office Locations by Bureau for the Department of Aging and Disability Services
 
 - **American Rescue Plan Act – Coronavirus State and Local Fiscal Recovery Fund (ARPA – SLFRF)**  
   [Data](https://data.ct.gov/resource/t8h8-vu2h.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/t8h8-vu2h) | Last update: Aug 2023  
@@ -7032,6 +7031,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ct.gov/resource/5e73-kfqf.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/5e73-kfqf) | Last update: Jan 2024  
   Section 62 of Public Act 21-2, June Special Session, as modified by Section 71 of Public Act 23-204, required the Office of Policy and Management (OPM) to conduct a Housing and Segregation Study. This dataset is one of the products of the Housing and Segregation Study.
 
+- **Housing and Segregation Study - Race/Ethnicity Indices**  
+  [Data](https://data.ct.gov/resource/64hr-r7jd.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/64hr-r7jd) | Last update: Jan 2024  
+  Section 62 of Public Act 21-2, June Special Session, as modified by Section 71 of Public Act 23-204, required the Office of Policy and Management (OPM) to conduct a Housing and Segregation Study. This dataset is one of the products of the Housing and Segregation Study.
+
 - **Insurance Company Complaints, Resolutions, Status, and Recoveries**  
   [Data](https://data.ct.gov/resource/t64r-mt64.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/t64r-mt64) | Last update: Recent  
   Listing of consumer complaints filed against Insurance companies licensed in Connecticut. This dataset includes the Company, Line of Business, nature of complaint, outcome or resolution, and recovery.
@@ -7084,9 +7087,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ct.gov/resource/6372-bb8s.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/6372-bb8s) | Last update: Recent  
   The medication collection and disposal program provides a safe disposal location for citizens to properly dispose of unused household medications
 
+- **Prescription Monitoring Program: Opioid, Benzodiazepine, Stimulant, Naloxone, and Gabapentin Prescription Count & Rate by Patient Residence**  
+  [Data](https://data.ct.gov/resource/4t4v-dqr9.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/4t4v-dqr9) | Last update: Recent  
+  This dataset provides the prescription counts and rates per 1,000 residents by town for opioid, benzodiazepine, stimulant, gabapentin, & naloxone dispensations. The most current population data available at the end of a quarter is used to calculate rates. This only includes dispensations to CT residents reported to the CT Prescription Monitoring & Reporting System (CPMRS).
+
 - **Public assets on data.ct.gov**  
   [Data](https://data.ct.gov/resource/3pxu-4d3n.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/3pxu-4d3n) | Last update: Recent  
   This dataset provides information about public assets on the CT Open Data Portal. It includes datasets that meet the following criteria:
+
+- **Releases from Federally Regulated Underground Storage Tank Systems**  
+  [Data](https://data.ct.gov/resource/yc6z-jrb5.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/yc6z-jrb5) | Last update: Recent  
+  If errors are found please contact the program unit using the following email address:  DEEP.Leakingust@ct.gov .
 
 - **State Owned Buildings**  
   [Data](https://data.ct.gov/resource/6htq-gj2r.json) | [Docs](https://dev.socrata.com/foundry/data.ct.gov/6htq-gj2r) | Last update: Oct 2023  
@@ -7177,10 +7188,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.delaware.gov/resource/2hnj-zwix.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/2hnj-zwix) | Last update: Recent  
   This dataset is updated weekly and provides a list of open bids posted on Delaware Bids & Contracts for informational purposes.
 
-- **Permitted Septic Systems**  
-  [Data](https://data.delaware.gov/resource/mv7j-tx3u.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/mv7j-tx3u) | Last update: Recent  
-  This dataset includes information such as location (tax parcel), size and capacity, date, and permit number.
-
 - **Proposed Datasets for the Open Data Portal**  
   [Data](https://data.delaware.gov/resource/pq48-3tmt.json) | [Docs](https://dev.socrata.com/foundry/data.delaware.gov/pq48-3tmt) | Last update: Oct 2022  
   This dataset contains a list of proposed datasets for publication on the Open Data Portal that Executive Branch agencies have identified per Governor's Executive Order # 18. This proposed dataset list is a working list and will be modified as more datasets are identified or the status of publishing the dataset is determined.
@@ -7206,6 +7213,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.dumfriesva.gov/resource/ycjg-fh3q.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/ycjg-fh3q) | Last update: Sep 2023  
   From data.virginia.gov: "This dataset includes the number of COVID-19 vaccine doses administered for each locality in Virginia by administration date and by facility type. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily."
 
+- **Covid-19 | Vaccine Doses Administered by Age Group**  
+  [Data](https://data.dumfriesva.gov/resource/m5wn-fjf2.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/m5wn-fjf2) | Last update: Sep 2023  
+  From data.virginia.gov: "This dataset includes the number of people in each locality by vaccination status and age group. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily."
+
+- **Covid-19 | Vaccine Doses Administered by Race and Ethnicity**  
+  [Data](https://data.dumfriesva.gov/resource/4v9y-ejqp.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/4v9y-ejqp) | Last update: Sep 2023  
+  From data.virginia.gov: "This dataset includes the number of people in each locality by vaccination status, race and ethnicity. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily."
+
+- **Covid-19 | Vaccine Doses Administered by Sex**  
+  [Data](https://data.dumfriesva.gov/resource/6t8j-6mva.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/6t8j-6mva) | Last update: Sep 2023  
+  From data.virginia.gov: "This dataset includes the number of people in each locality by vaccination status and sex. The data set increases in size daily and as a result, the dataset may take longer to update; however, it is expected to be available by 12:00 noon daily."
+
 - **GIS | Parcels in the Town of Dumfries**  
   [Data](https://data.dumfriesva.gov/resource/w7rh-kecy.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/w7rh-kecy) | Last update: Nov 2022  
   This dataset provides a geographic representation of the jurisdictional boundary and parcels in the Town of Dumfries. This data is provided by Prince William County. https://gisdata-pwcgov.opendata.arcgis.com/
@@ -7213,6 +7232,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Public Safety**  
   [Data](https://data.dumfriesva.gov/resource/444v-fdeb.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/444v-fdeb) | Last update: Oct 2023  
   This dataset is provided by Police Department of Town of Dumfries. It includes crimes against, property, persons and calls of service. Data set is updated monthly and always one month behind.
+
+- **Public Safety Community Events**  
+  [Data](https://data.dumfriesva.gov/resource/ei2t-tg69.json) | [Docs](https://dev.socrata.com/foundry/data.dumfriesva.gov/ei2t-tg69) | Last update: Oct 2023  
+  This dataset is provided by Police Department of the Town of Dumfries. It includes community events and public service occasions to create a safe environment and improve the quality of life for all our citizens. Data set is updated monthly and always one month behind.
 
 [[TOP]](#toc)
 
@@ -7239,6 +7262,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/jvdw-3ymk.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jvdw-3ymk) | Last update: Feb 2022  
   This dataset shows the current liquor store locations (major and minor alcohol sales / Zoning bylaw 12800) outlining all of the existing alcohol sales use permits and applications.
 
+- **All Photo Enforcement Zone Centre Points**  
+  [Data](https://data.edmonton.ca/resource/epqc-y5cq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/epqc-y5cq) | Last update: Recent  
+  Designated Zones are continuously reviewed, revised, added, removed and otherwise updated in accordance to the guidelines for establishing a Zone for photo enforcement.
+
 - **Animals Admitted to the Animal Care & Control Centre**  
   [Data](https://data.edmonton.ca/resource/wx5p-e8cd.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/wx5p-e8cd) | Last update: Sep 2023  
   Animals Admitted to the Animal Care & Control Centre
@@ -7252,7 +7279,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Approved Operating Budget - Revenues**  
   [Data](https://data.edmonton.ca/resource/m84q-ghmu.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/m84q-ghmu) | Last update: Recent  
-  This dataset powers the Revenues Module of the Edmonton Open Budget site budget.edmonton.ca. Budget is as of June 30, 2024.
+  This dataset powers the Revenues Module of the Edmonton Open Budget site budget.edmonton.ca. Budget is as of Aug 31, 2024.
 
 - **Arenas**  
   [Data](https://data.edmonton.ca/resource/bsfu-a7sm.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/bsfu-a7sm) | Last update: Recent  
@@ -7278,10 +7305,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/squ4-6i2m.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/squ4-6i2m) | Last update: Sep 2023  
   The results presented in this data were determined using computer modelling software that represented the distribution and transmission water network current in EWS's digital records as of February 16, 2023. Modifications to the water system after this date may change the water network capacity at any given time or place.
 
-- **Ball Diamonds**  
-  [Data](https://data.edmonton.ca/resource/6mre-4inz.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/6mre-4inz) | Last update: Recent  
-  List of all baseball diamonds in Edmonton
-
 - **Bike Counter Locations (Eco Counter)**  
   [Data](https://data.edmonton.ca/resource/py7x-4d39.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/py7x-4d39) | Last update: Recent  
   There are a number of locations along bike lanes in addition to some key cyclist/pedestrian traffic areas.
@@ -7301,10 +7324,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Bike Routes**  
   [Data](https://data.edmonton.ca/resource/vd4b-a4iv.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/vd4b-a4iv) | Last update: Recent  
   On-road and off-road bike routes within the City of Edmonton.
-
-- **Bike and Pedestrian Counts (Eco Counter)**  
-  [Data](https://data.edmonton.ca/resource/tq23-qn4m.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/tq23-qn4m) | Last update: Recent  
-  This dataset contains bicycle only or bicycle and pedestrian counts that are currently being monitored at a number of locations (see https://data.edmonton.ca/Monitoring-and-Data-Collection/Bike-Counter-Locations-Eco-Counter-/py7x-4d39) along bike lanes in addition to some key cyclist/pedestrian traffic areas.
 
 - **Buddy Benches**  
   [Data](https://data.edmonton.ca/resource/yaqx-emv3.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yaqx-emv3) | Last update: Recent  
@@ -7329,6 +7348,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **CO2 Mosquitos Trap Locations**  
   [Data](https://data.edmonton.ca/resource/jce4-4arb.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jce4-4arb) | Last update: Recent  
   Location of CO2 mosquito trap locations in Edmonton. Note: Geographic coordinates are only an approximation.
+
+- **COVID-19 Relaunch Status**  
+  [Data](https://data.edmonton.ca/resource/tbsn-ir7p.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/tbsn-ir7p) | Last update: May 2022  
+  Regions are designated as open, watch or enhanced relaunch status. All regions must continue to follow Albertas public health measures and guidelines, regardless of relaunch status.
 
 - **COVID-19 in Alberta: Day by day**  
   [Data](https://data.edmonton.ca/resource/gxqm-z6fa.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gxqm-z6fa) | Last update: Sep 2023  
@@ -7375,8 +7398,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   History of changes of Edmonton's municipal boundaries (via annexation) since 1892.
 
 - **City of Edmonton - Business Licences**  
-  [Data](https://data.edmonton.ca/resource/qhi4-bdpu.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/qhi4-bdpu) | Last update: Sep 2023  
+  [Data](https://data.edmonton.ca/resource/qhi4-bdpu.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/qhi4-bdpu) | Last update: Recent  
   City Council has approved a new Business Licence Bylaw effective January 17, 2022. To support this new bylaw, our data systems are undergoing a series of major enhancements. For more information about the new Business Licence Bylaw, visit https://www.edmonton.ca/businesslicencebylawrenewal.
+
+- **City of Edmonton - Financial Budget**  
+  [Data](https://data.edmonton.ca/resource/qycq-4ckj.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/qycq-4ckj) | Last update: Jul 2019  
+  High-level detail summary of the City of Edmonton's 2014 Financial Operating Budget by Department or Civic Agency. In addition, one can see Full Time equivalencies at - https://data.edmonton.ca/Financial/City-of-Edmonton-Financial-Budget-Full-Time-Equiva/eazf-zhey
 
 - **City of Edmonton - Neighbourhoods**  
   [Data](https://data.edmonton.ca/resource/65fr-66s6.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/65fr-66s6) | Last update: Recent  
@@ -7439,36 +7466,40 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The City of Edmonton provides no warranty or representation as to whether the information is correct, accurate or free from error and whether it is otherwise suitable for your use or purpose.
 
 - **Drainage: Catch Basin Leads**  
-  [Data](https://data.edmonton.ca/resource/jufi-ds3w.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jufi-ds3w) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/jufi-ds3w.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jufi-ds3w) | Last update: Jul 2024  
   The location of catch basin leads in the City of Edmonton.
 
 - **Drainage: Catch Basins**  
-  [Data](https://data.edmonton.ca/resource/5xxs-hqn7.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/5xxs-hqn7) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/5xxs-hqn7.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/5xxs-hqn7) | Last update: Jul 2024  
   The location of catch basins in the City of Edmonton.
 
 - **Drainage: Inlets/Outlets**  
-  [Data](https://data.edmonton.ca/resource/qpsa-ivnn.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/qpsa-ivnn) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/qpsa-ivnn.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/qpsa-ivnn) | Last update: Jul 2024  
   The location of Inlet-Outlets in the City of Edmonton. An Inlet-Outlet is a drainage facility through which stormwater enters or exits a stormwater managed feature.
 
 - **Drainage: Manholes**  
-  [Data](https://data.edmonton.ca/resource/6waz-yxqq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/6waz-yxqq) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/6waz-yxqq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/6waz-yxqq) | Last update: Jul 2024  
   The location of manholes in the City of Edmonton. A manhole is a vertical structure connecting the ground level to an underground sewer.
 
 - **Drainage: Outfall**  
-  [Data](https://data.edmonton.ca/resource/gpxt-s37s.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gpxt-s37s) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/gpxt-s37s.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gpxt-s37s) | Last update: Jul 2024  
   The location of outfalls in the City of Edmonton. An outfall is a drainage facility that conveys stormwater into a natural receiving water body (creek, river, etc.)
 
 - **Drainage: Pipe Segments**  
-  [Data](https://data.edmonton.ca/resource/bh8y-pn5j.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/bh8y-pn5j) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/bh8y-pn5j.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/bh8y-pn5j) | Last update: Jul 2024  
   The location of pipe segments in the City of Edmonton.
 
 - **Drainage: Pump Stations**  
-  [Data](https://data.edmonton.ca/resource/yhez-gf32.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yhez-gf32) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/yhez-gf32.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yhez-gf32) | Last update: Jul 2024  
   The location of Pump Stations in the City of Edmonton. A Pump Station is a mechanism that raises or lifts water from a lower elevation to a higher elevation.
 
 - **Drainage: Stormwater Management**  
-  [Data](https://data.edmonton.ca/resource/72ee-mmkx.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/72ee-mmkx) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/72ee-mmkx.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/72ee-mmkx) | Last update: Jul 2024  
   The location of stormwater management facilities (stormwater ponds/lakes) in Edmonton.
+
+- **Driver Feedback Sign Aggregated Data**  
+  [Data](https://data.edmonton.ca/resource/h2v4-zkmj.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/h2v4-zkmj) | Last update: Recent  
+  The City has a number of Driver Feedback Signs (DFS) installed around the city. These units collect data as traffic approaches them and in some cases may display a message or a speed that is being detected. Also, these units are radar based and can only track one vehicle at a time (strongest signal).
 
 - **Driver Feedback Sign Locations**  
   [Data](https://data.edmonton.ca/resource/u5kr-rbif.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/u5kr-rbif) | Last update: Recent  
@@ -7496,6 +7527,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **ETS Bus Schedule GTFS Data Feed - Routes**  
   [Data](https://data.edmonton.ca/resource/d577-xky7.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/d577-xky7) | Last update: Recent  
   See https://developers.google.com/transit/gtfs/reference#routestxt for documentation.
+
+- **ETS Bus Schedule GTFS Data Feed - Stop Times**  
+  [Data](https://data.edmonton.ca/resource/greh-g7ac.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/greh-g7ac) | Last update: Recent  
+  This dataset lists the times that a vehicle arrives at and departs from individual stops for each trip in Edmonton.
 
 - **ETS Bus Schedule GTFS Data Feed - Stops**  
   [Data](https://data.edmonton.ca/resource/4vt2-8zrq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/4vt2-8zrq) | Last update: Recent  
@@ -7558,10 +7593,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/9jbh-cd9c.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/9jbh-cd9c) | Last update: Nov 2022  
   List of all Catholic schools in Edmonton for the all available school years, excluding the most recently available. Note - some schools may not be offering all necessary grade years.For the most recently availability school year data, see Edmonton Catholic Schools (Current).
 
-- **Edmonton City Of Learners - Edmonton Insight Community**  
-  [Data](https://data.edmonton.ca/resource/kfnf-vqbh.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/kfnf-vqbh) | Last update: Jul 2019  
-  At the time the survey was launched survey invitations were sent to 6468 Insight Community Members. 2500 members completed the survey which represents a completion rate of 39%. A total of 2537 respondents completed the survey: 2500 Insight Community Members and 37 using the anonymous link(s) which will have no demographic info.
-
 - **Edmonton Council Membership History**  
   [Data](https://data.edmonton.ca/resource/yqff-55ja.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yqff-55ja) | Last update: May 2022  
   The information within is derived from publicly accessible sources, often historical in nature. While every effort was made to ensure accuracy, some discrepancies may exist. Questions and requests for clarification can be sent to the elections office by clicking on the contact dataset owner button.
@@ -7585,6 +7616,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Edmonton Public School Board Ward Boundaries: Current**  
   [Data](https://data.edmonton.ca/resource/d7pj-rist.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/d7pj-rist) | Last update: Recent  
   This dataset provides the current (as of the date that this dataset was last refreshed) geometric polygons of the Edmonton Public School Division ward boundaries and the associated board trustee in office.
+
+- **Edmonton Public School Board Ward Boundaries: Current, Historical, and Future**  
+  [Data](https://data.edmonton.ca/resource/y5qu-dj6t.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/y5qu-dj6t) | Last update: Recent  
+  This dataset provides the Current, Historical, and Future geometric polygons of the Edmonton Public School Division ward boundaries and the associated board trustee in office.
+
+- **Edmonton Road Projects (Planned, Current & Complete)**  
+  [Data](https://data.edmonton.ca/resource/yunb-tdph.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yunb-tdph) | Last update: Aug 2023
+
+- **Edmonton Waste Management Centre and Eco Station Wait Times - Historical**  
+  [Data](https://data.edmonton.ca/resource/nw96-tdgd.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/nw96-tdgd) | Last update: Aug 2022  
+  Edmonton Waste Management Centre and Eco Station Wait Times - Historical numbers starting from November 9, 2021
 
 - **Education Performance Results (Edmonton Public School Board)**  
   [Data](https://data.edmonton.ca/resource/mxv8-kyh5.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/mxv8-kyh5) | Last update: Oct 2021  
@@ -7646,10 +7688,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/66ax-3ztq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/66ax-3ztq) | Last update: Recent  
   The start date for the recording of the life to date trip count was on Aug 1, 2019.
 
-- **GTFS Downloads**  
-  [Data](https://data.edmonton.ca/resource/yiem-dcbw.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yiem-dcbw) | Last update: Recent  
-  Daily snapshot of GTFS near-real-time downloads
-
 - **General Building Permits**  
   [Data](https://data.edmonton.ca/resource/24uj-dj8v.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/24uj-dj8v) | Last update: Recent  
   Please note : the decision was made to not release applicant information on this dataset as it was seen as a potential privacy issue. For instance, if a high profile member of the public were to apply for a permit, their name (and consequently address) would show up on this table and become easily searchable by the public.
@@ -7657,10 +7695,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Government of Alberta Funded Emergency Shelters in Edmonton Daily Occupancy**  
   [Data](https://data.edmonton.ca/resource/ni6e-cvyq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/ni6e-cvyq) | Last update: Sep 2019  
   Please review the "Open Government Licence - Alberta" (https://open.alberta.ca/licence) as well as our Terms of Use (https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/) as both apply to this dataset.
-
-- **Growth Monitoring Reports**  
-  [Data](https://data.edmonton.ca/resource/k8bn-rfq9.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/k8bn-rfq9) | Last update: Nov 2023  
-  Growth Monitoring Reports summarize urban growth trends at various geographic scales, from city-wide to neighbourhood levels. Further growth monitoring and analysis context and products can be found on the City of Edmonton website.
 
 - **Hens and Bees**  
   [Data](https://data.edmonton.ca/resource/trz2-qkzs.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/trz2-qkzs) | Last update: Recent  
@@ -7773,10 +7807,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/3xir-jjpa.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/3xir-jjpa) | Last update: Jul 2021  
   City of Edmonton promotes Low Impact Development (LID). Seven LID Best Management Practices are Bioswales, Bioretention, Box Planters, Rain Water Harvesting, Green Roofs, Naturalized Drainage Ways, and Permeable Pavement.
 
-- **Mature Neighbourhood Reinvestment**  
-  [Data](https://data.edmonton.ca/resource/vd42-umu2.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/vd42-umu2) | Last update: Feb 2022  
-  Summary of development activities in Mature Neighbourhood Overlay neighbourhoods. This data-set is from 2000 to present year. Data is updated annually.
-
 - **Mature Neighbourhoods**  
   [Data](https://data.edmonton.ca/resource/gnzw-67i5.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gnzw-67i5) | Last update: Mar 2024  
   Mature neighbourhoods in Edmonton are those generally completed before 1970, the majority of which experienced their greatest growth in the post-WWII era.
@@ -7824,14 +7854,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/czvu-e6gx.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/czvu-e6gx) | Last update: Oct 2022  
   Information from the campaign disclosures filed by official candidates in municipal elections have been split into two datasets.
 
-- **Municipal Election - Filed Campaign Disclosures (Campaign Contribution Listing)**  
-  [Data](https://data.edmonton.ca/resource/mc7k-wh24.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/mc7k-wh24) | Last update: Oct 2022  
-  Information from the campaign disclosures filed by official candidates in municipal elections have been split into two datasets.
-
-- **Naming Edmonton**  
-  [Data](https://data.edmonton.ca/resource/8e7n-6xm5.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/8e7n-6xm5) | Last update: Mar 2024  
-  Historical naming information collected by Matthew Dance (http://www.namingedmonton.com/), primarily from Berger, Carol, editor. "Naming Edmonton: From Ada to Zoie". The University of Alberta Press, 2004 (ISBN 0-88864-423-X).
-
 - **Neighbourhoods and Wards**  
   [Data](https://data.edmonton.ca/resource/gihh-utrc.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gihh-utrc) | Last update: Recent  
   List of current neighbourhoods, their unique identifier number and the respective civic ward the neighbourhood is found in.
@@ -7852,6 +7874,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/yddt-93qf.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/yddt-93qf) | Last update: Feb 2022  
   Due to the constant changing of subsurface infrastructure (adding, upgrading, etc.) combined with the constant changing definition of a 1 in 100 year rainfall event (based on historic rainfall amounts), this raster file reflects the results of a study done in 2016 and should neither suggest previous years vulnerabilities nor future years vulnerabilities.
 
+- **Outline Agreements over $10,000**  
+  [Data](https://data.edmonton.ca/resource/ydv5-y4pu.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/ydv5-y4pu) | Last update: Dec 2019  
+  An annual report of all Outline Agreements (standing offer agreement) over $10,000 that were open and valid.
+
 - **Parcel Addresses**  
   [Data](https://data.edmonton.ca/resource/ut27-nrpn.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/ut27-nrpn) | Last update: Recent  
   Please see our Digital Map Products website  https://www.edmonton.ca/business_economy/purchase_maps_aerial_photographs/digital-products  for more information. 
@@ -7867,10 +7893,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Parks**  
   [Data](https://data.edmonton.ca/resource/gdd9-eqv9.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gdd9-eqv9) | Last update: Recent  
   List of all park spaces in Edmonton
-
-- **Parks Operations Districts**  
-  [Data](https://data.edmonton.ca/resource/x84x-uttq.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/x84x-uttq) | Last update: Sep 2019  
-  These 4 districts are used for Parks Operations for a variety of reasons.
 
 - **Pet License History by Neighbourhood**  
   [Data](https://data.edmonton.ca/resource/7hy9-wuyj.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/7hy9-wuyj) | Last update: Recent  
@@ -7892,7 +7914,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data-sharing agreements with the INACs internal groups (Negotiations Central and Implementation branch) as well as the Department of Natural Resources Canada are in place to ensure that any update to the attributes data or geography is reflected in the Treaties and Aboriginal Agreements geospatial information.
 
 - **Property Assessment Data (Current Calendar Year)**  
-  [Data](https://data.edmonton.ca/resource/q7d6-ambg.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/q7d6-ambg) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/q7d6-ambg.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/q7d6-ambg) | Last update: Jun 2024  
   The information is collected for property assessment interpretation purposes only. It is effective from 2024-01-01 to 2024-12-31. See also https://data.edmonton.ca/d/dkk9-cj3x.
 
 - **Property Assessment Data (Historical)**  
@@ -7900,15 +7922,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The City of Edmonton does not warrant or guarantee the completeness and accuracy of the information presented. The City of Edmonton does not assume responsibility nor accept any liability arising from any use of the information other than for property assessment interpretation.
 
 - **Property Information (Current Calendar Year)**  
-  [Data](https://data.edmonton.ca/resource/dkk9-cj3x.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/dkk9-cj3x) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/dkk9-cj3x.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/dkk9-cj3x) | Last update: Jun 2024  
   The City of Edmonton does not assume responsibility nor accept any liability arising from any use of the information other than for property assessment interpretation.
 
-- **Public Notices**  
-  [Data](https://data.edmonton.ca/resource/vfpx-jrew.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/vfpx-jrew) | Last update: Recent  
-  Public Notices are legally required advertisements for various things such as Bylaw Ads, Development Permits, Intention Land Sale or Lease, etc.
+- **Public Library - Holiday Closures**  
+  [Data](https://data.edmonton.ca/resource/jpf5-5wik.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jpf5-5wik) | Last update: Recent
 
 - **Public Picnic Table Locations**  
-  [Data](https://data.edmonton.ca/resource/vk3s-q842.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/vk3s-q842) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/vk3s-q842.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/vk3s-q842) | Last update: Jun 2024  
   While an effort is made to post only accurate information, the City does not guarantee that the information posted is always current or correct. The City does not warrant or make any representations as to the quality, content, accuracy or completeness of the information, text, maps, graphics, links and other items contained on its web pages.
 
 - **Public Washrooms**  
@@ -7938,16 +7959,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Recreation Facilities: Facility Information**  
   [Data](https://data.edmonton.ca/resource/buc9-mag8.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/buc9-mag8) | Last update: Recent
 
-- **Recreation Facilities: Memberships**  
-  [Data](https://data.edmonton.ca/resource/rzhs-dea8.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/rzhs-dea8) | Last update: Recent  
-  This dataset represents memberships offered by the City of Edmonton for the Recreation Facilities & Attractions.
-
 - **Requests for Data**  
   [Data](https://data.edmonton.ca/resource/i4kt-z6xs.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/i4kt-z6xs) | Last update: Recent  
   This dataset, updated daily at 6:30 am, houses all requests for datasets since automated intake began on the re-branded platform (January 26, 2016).
 
 - **Residential Street Cleaning Schedule**  
-  [Data](https://data.edmonton.ca/resource/5557-j2mr.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/5557-j2mr) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/5557-j2mr.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/5557-j2mr) | Last update: Jun 2024  
   For an interactive map, please see https://www.edmonton.ca/streetsweeping.
 
 - **Residential Subdivision Applications in Mature Neighbourhoods**  
@@ -7979,7 +7996,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   It is obtained by paging through the data exposed by the ArcGIS REST API, e.g. https://gis.edmonton.ca/arcgishosting/rest/services/Hosted/SNIC_Routes_2020/FeatureServer/0/query?where=1%3D1&outFields=&returnGeometry=true&resultOffset=0&resultRecordCount=500&f=geojson.
 
 - **Soccer Fields**  
-  [Data](https://data.edmonton.ca/resource/6avx-8i8e.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/6avx-8i8e) | Last update: Recent  
+  [Data](https://data.edmonton.ca/resource/6avx-8i8e.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/6avx-8i8e) | Last update: Jun 2024  
   List of all soccer fields maintained by the City of Edmonton
 
 - **Sports Field Fixtures**  
@@ -7990,17 +8007,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/us3k-6swx.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/us3k-6swx) | Last update: Recent  
   Note that not all of these facilities are owned and maintained by the City of Edmonton; for facilities owned by entities other than the City of Edmonton (community leagues for example), it is possible that there may be access restrictions, a charge for access etc.
 
-- **Spray Parks**  
-  [Data](https://data.edmonton.ca/resource/jyra-si4k.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/jyra-si4k) | Last update: Recent  
-  List of all spray parks in Edmonton
-
 - **Statistics Canada: Edmonton Forward Sortation Area (FSA) Boundaries**  
   [Data](https://data.edmonton.ca/resource/pzmr-h7ha.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/pzmr-h7ha) | Last update: Feb 2021  
   Adapted from Census Forward Sortation Area Boundary File, 2016 Census. Statistics Canada Catalogue no. 92-179-X, 2021-02-05. This does not constitute an endorsement by Statistics Canada of this product.
-
-- **Tennis Courts**  
-  [Data](https://data.edmonton.ca/resource/h5ce-uubp.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/h5ce-uubp) | Last update: Recent  
-  List of all public tennis court(s) locations in Edmonton
 
 - **Traffic Disruptions**  
   [Data](https://data.edmonton.ca/resource/k4tx-5k8p.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/k4tx-5k8p) | Last update: Recent  
@@ -8009,10 +8018,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Tree Insects & Other Pests**  
   [Data](https://data.edmonton.ca/resource/9wtw-cyd3.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/9wtw-cyd3) | Last update: Recent  
   This dataset shows the pesticide treatment activity of the Tree Insects & Other Pests Management Program.
-
-- **Update to Ten Year Plan to End Homelessness - Edmonton Insight Community**  
-  [Data](https://data.edmonton.ca/resource/gz6i-p7fd.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gz6i-p7fd) | Last update: Jul 2019  
-  At the time the survey was launched survey invitations were sent to 6705 Insight Community Members. 1748 members completed the survey which represents a completion rate of 26%. A total of 1758 respondents completed the survey: 1748 Insight Community Members and 10 using the anonymous link(s) which will have no demographic info.
 
 - **Vacant Land - Industrial**  
   [Data](https://data.edmonton.ca/resource/stt5-pzaa.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/stt5-pzaa) | Last update: Recent  
@@ -8034,6 +8039,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.edmonton.ca/resource/2fsx-zifk.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/2fsx-zifk) | Last update: Recent  
   List of valid vehicle for hire dispatchers in the City
 
+- **Vehicle for Hire Inspection Results - by Month and Type**  
+  [Data](https://data.edmonton.ca/resource/3cyd-j69j.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/3cyd-j69j) | Last update: Recent  
+  Note: One Inspection can result in a number of Tickets/Warnings or Other Enforcement Actions as well as a number of Bylaw Names and Bylaw sections that were violated.
+
 - **Vehicle for Hire Inspections - Locations**  
   [Data](https://data.edmonton.ca/resource/p6uk-hk2w.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/p6uk-hk2w) | Last update: Recent  
   Note: One Inspection can result in a number of Tickets/Warnings or Other Enforcement Actions as well as a number of Bylaw Names and Bylaw sections that were violated.
@@ -8045,10 +8054,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Vehicle for Hire Street Hailing Results - by Month and Location**  
   [Data](https://data.edmonton.ca/resource/uxze-xgs2.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/uxze-xgs2) | Last update: Recent  
   This dataset is the monthly aggregated results of Vehicle for Hire Street Hailing inspections conducted by Bylaw Enforcement Officers to ensure compliance by the Vehicle for Hire Bylaw.
-
-- **Wading Pools**  
-  [Data](https://data.edmonton.ca/resource/gajw-anue.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/gajw-anue) | Last update: May 2021  
-  List of all wading pools in Edmonton
 
 - **Waste/Recycling Depot List**  
   [Data](https://data.edmonton.ca/resource/27pm-x74q.json) | [Docs](https://dev.socrata.com/foundry/data.edmonton.ca/27pm-x74q) | Last update: Recent  
@@ -8112,6 +8117,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
+## data.framinghamma.gov
+
+- **Checkbook**  
+  [Data](https://data.framinghamma.gov/resource/cqve-ehkr.json) | [Docs](https://dev.socrata.com/foundry/data.framinghamma.gov/cqve-ehkr) | Last update: Jan 2020  
+  Details of expenses (Accounts Payable) from fiscal year 2014 through 2019 including vendor, check, and amounts.
+
+[[TOP]](#toc)
+
+
 ## data.fultoncountyga.gov
 
 - **Budget and Expenditures**  
@@ -8137,10 +8151,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Revenue**  
   [Data](https://data.fultoncountyga.gov/resource/f59y-9f4e.json) | [Docs](https://dev.socrata.com/foundry/data.fultoncountyga.gov/f59y-9f4e) | Last update: Recent  
   Fulton County revenues have six major sources: taxes, intergovernmental, licenses and permits, charges for services, fines and forfeitures, and other revenues.
-
-- **Transportation Projects funded through the Transportation Special Purpose Local Option Sales Tax (TSPLOST)**  
-  [Data](https://data.fultoncountyga.gov/resource/5kk5-4dwf.json) | [Docs](https://dev.socrata.com/foundry/data.fultoncountyga.gov/5kk5-4dwf) | Last update: Oct 2022  
-  This dataset contains information on transportation projects in Fulton County funded through the Transportation Special Purpose Local Option Sales Tax (TSPLOST).
 
 - **Vendor Payments**  
   [Data](https://data.fultoncountyga.gov/resource/mxhc-krcg.json) | [Docs](https://dev.socrata.com/foundry/data.fultoncountyga.gov/mxhc-krcg) | Last update: Recent  
@@ -8181,7 +8191,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Locations of registered AED's in KCMO. Find out more http://goo.gl/hZlzPr  Automatic External Defibrillator or AED means an external defibrillator 
 
 - **Animal Services Cases**  
-  [Data](https://data.kcmo.org/resource/4mkm-gagx.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/4mkm-gagx) | Last update: Recent  
+  [Data](https://data.kcmo.org/resource/4mkm-gagx.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/4mkm-gagx) | Last update: Jun 2024  
   This dataset shows animal services cases created by Kansas City Pet Project in response to a resident contacting them with an animal control issue. The dataset begins December 1, 2020, when Kansas City Pet Project began receiving requests directly for animal services. It will be updated on a weekly basis.
 
 - **Business License Holders**  
@@ -8193,12 +8203,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Cases are based on the date an individual was tested for COVID-19. Using date tested means counts for most recent dates are likely to change as tests are reported to the the Health Department. Cases include those without an address assigned to KCMO by MODHSS to investigate. Antigen tests are not included at this time.
 
 - **COVID-19 Data by ZIP Code**  
-  [Data](https://data.kcmo.org/resource/374j-h7xt.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/374j-h7xt) | Last update: Dec 2023  
-  As of April 1, 2022 MODHSS is no longer providing negative test data. As a result we will no longer publish total residents tested, nor two-week total residents tested
-
-- **COVID-19 Data by ZIP Code**  
   [Data](https://data.kcmo.org/resource/98fz-2jyt.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/98fz-2jyt) | Last update: Dec 2023  
   This is an archived dataset & will no longer be updated. Please visit https://data.kcmo.org/Health/COVID-19-Data-by-ZIP-Code/374j-h7xt for updated COVID-19 data by ZIP code.
+
+- **COVID-19 Data by ZIP Code**  
+  [Data](https://data.kcmo.org/resource/374j-h7xt.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/374j-h7xt) | Last update: Dec 2023  
+  As of April 1, 2022 MODHSS is no longer providing negative test data. As a result we will no longer publish total residents tested, nor two-week total residents tested
 
 - **COVID-19 Overall Trends - Cases & Deaths**  
   [Data](https://data.kcmo.org/resource/2wd3-28zr.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/2wd3-28zr) | Last update: Dec 2023  
@@ -8248,12 +8258,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset was provided by the City Planning and Development Department and contains population figures for each Kansas City, Missouri Neighborhood according to the 2010 Census.
 
 - **Property Violations from EnerGov**  
-  [Data](https://data.kcmo.org/resource/vq3e-m9ge.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/vq3e-m9ge) | Last update: Mar 2024  
+  [Data](https://data.kcmo.org/resource/vq3e-m9ge.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/vq3e-m9ge) | Last update: Recent  
   Property violations (Chapter 56/48 of the Kansas City Code of Ordinances) are primarily residential, exterior violations that are seen to create nuisances, danger, or otherwise detract from the health and safety of the neighborhood in which they occur. Inspectors follow a process to inspect, advise of violations, reinspect, and take enforcement actions if necessary
 
 - **ReBuildKC Applications**  
   [Data](https://data.kcmo.org/resource/az64-ndac.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/az64-ndac) | Last update: Feb 2023  
   Summary of ReBuildKC applications received in 2022.
+
+- **Solar Electricity Supply for Energy Demand in City-Owned Buildings**  
+  [Data](https://data.kcmo.org/resource/7b8u-my9x.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/7b8u-my9x) | Last update: Dec 2023  
+  This dataset shows the total amount of electricity demand and amount of solar energy supply for city-owned buildings.
 
 - **Volunteers in Kansas City Metrowide**  
   [Data](https://data.kcmo.org/resource/3ki8-vjsv.json) | [Docs](https://dev.socrata.com/foundry/data.kcmo.org/3ki8-vjsv) | Last update: Dec 2023  
@@ -8283,21 +8297,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.kingcounty.gov/resource/ddc7-9f23.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/ddc7-9f23) | Last update: May 2024  
   This dataset contains phytoplankton samples collected from Puget Sound and analyzed using a particle imaging analyzer (FlowCAM). For more information see the King County  marine phytoplankton webpage.
 
-- **Marine Phytoplankton Grouped by Sample and Size Class**  
-  [Data](https://data.kingcounty.gov/resource/qah3-t5yd.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/qah3-t5yd) | Last update: Mar 2024  
-  This dataset contains phytoplankton samples collected from Puget Sound and analyzed using a particle imaging analyzer (FlowCAM). For more information see the King County  marine phytoplankton webpage.
-
 - **Marine Phytoplankton Grouped by Sample and Specific Functional Group**  
   [Data](https://data.kingcounty.gov/resource/xyty-wq8n.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/xyty-wq8n) | Last update: Recent  
   This dataset contains phytoplankton samples collected from Puget Sound and analyzed using a particle imaging analyzer (FlowCAM). For more information see the King County  marine phytoplankton webpage.
 
-- **Marine Phytoplankton Grouped by Size Class**  
-  [Data](https://data.kingcounty.gov/resource/ap4k-tvru.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/ap4k-tvru) | Last update: Mar 2024  
-  This dataset contains phytoplankton samples collected from Puget Sound and analyzed using a particle imaging analyzer (FlowCAM). For more information see the King County  marine phytoplankton webpage.
-
 - **Marine Phytoplankton Samples by Taxonomic Group**  
   [Data](https://data.kingcounty.gov/resource/uydm-m3ym.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/uydm-m3ym) | Last update: Recent  
-  This dataset contains phytoplankton samples collected from Puget Sound and analyzed using a particle imaging analyzer (FlowCAM). For more information see the King County  marine phytoplankton webpage.
+  This dataset contains phytoplankton biovolume data from Puget Sound. For species level presence/absence data, please contact  MarineWQ@kingcounty.gov . Please download the ReadMe file prior to using the data. For phytoplankton photos, go to https://green2.kingcounty.gov/marine/photo. For more information see the King County  marine phytoplankton webpage.
 
 - **Marine Zooplankton Detailed Records**  
   [Data](https://data.kingcounty.gov/resource/fp47-d4q8.json) | [Docs](https://dev.socrata.com/foundry/data.kingcounty.gov/fp47-d4q8) | Last update: Dec 2023  
@@ -8336,6 +8342,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.lacity.org/resource/4qmh-sz39.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/4qmh-sz39) | Last update: Jun 2024  
   This dataset is an inventory of the assets on the site. Here you can track the performance of data publishing, metadata maintenance, as well as present an overview of what data exists on the site.
 
+- **BSL- Percent Of Streetlight Outages Repaired Within 10 Business Days**  
+  [Data](https://data.lacity.org/resource/fc3u-86zh.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/fc3u-86zh) | Last update: Nov 2020  
+  This dataset shows the percentage of streetlight outages that are repaired within 10 business days.
+
 - **Building and Safety Code Enforcement Case**  
   [Data](https://data.lacity.org/resource/2uz8-3tj3.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/2uz8-3tj3) | Last update: Nov 2023  
   This dataset has been retired and no longer updated.
@@ -8344,20 +8354,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.lacity.org/resource/q3qu-98vb.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/q3qu-98vb) | Last update: Nov 2023  
   This dataset has been retired and no longer updated.
 
-- **Citywide Response Metrics**  
-  [Data](https://data.lacity.org/resource/adam-59ei.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/adam-59ei) | Last update: Nov 2020  
-  Archived citywide response time metrics. Filtered views for each of the years is also available.
-
-- **Constants Table for Stormwater Capture Dashboard**  
-  [Data](https://data.lacity.org/resource/jyyg-7bst.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/jyyg-7bst) | Last update: Nov 2020  
-  These metrics do not change on a regular basis. See Water Capture dataset for more dynamic information about stormwater capture in Los Angeles.
-
 - **Datasets Freshness Report**  
   [Data](https://data.lacity.org/resource/5h3p-n236.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/5h3p-n236) | Last update: Nov 2020  
   The Datasets Freshness Report provides useful information about how up to date the public datasets on the platform are. The 'Is Data Up to Date' column indicates whether the dataset has been refreshed as frequently as required.
-
-- **Department of Recreation and Parks' Facility and Park Information**  
-  [Data](https://data.lacity.org/resource/ax8j-dhzm.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/ax8j-dhzm) | Last update: Nov 2020
 
 - **Energy and Water Use - Municipal Buildings**  
   [Data](https://data.lacity.org/resource/8m62-bye6.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/8m62-bye6) | Last update: Nov 2020  
@@ -8416,14 +8415,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Restaurant and Market Health Violations**  
   [Data](https://data.lacity.org/resource/ckya-qgys.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/ckya-qgys) | Last update: Nov 2020
-
-- **Spreading Grounds Centralized Monthly Capture**  
-  [Data](https://data.lacity.org/resource/cy8h-q3bu.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/cy8h-q3bu) | Last update: Nov 2020  
-  Centralized stormwater capture facilities are engineered features located in specific locations that perform well at capturing large flows when available. In general, these facilities can capture and infiltrate more than 100 acre-feet per year.
-
-- **Station Response Metrics - Updated**  
-  [Data](https://data.lacity.org/resource/4hqz-rxff.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/4hqz-rxff) | Last update: Recent  
-  The LAFD updated the public facing metrics to include Operational Response Time in April 2017. This dataset is an archive of the metrics beginning January 2016.
 
 - **Street Tree Inventory - 1990s**  
   [Data](https://data.lacity.org/resource/vt5t-mscf.json) | [Docs](https://dev.socrata.com/foundry/data.lacity.org/vt5t-mscf) | Last update: Nov 2020  
@@ -8663,7 +8654,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   All County Audit reports filed with the County Clerk's office are available in this dataset.
 
 - **County Board Appointments**  
-  [Data](https://data.macoupincountyil.gov/resource/qzna-9pdx.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/qzna-9pdx) | Last update: Apr 2024  
+  [Data](https://data.macoupincountyil.gov/resource/qzna-9pdx.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/qzna-9pdx) | Last update: Recent  
   Numerous boards and districts have their membership approved by the County Board. This dataset includes a list of all appointments made by the County Board, which district they were appointed to as well as when their term expires.
 
 - **County Contracts**  
@@ -8674,9 +8665,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.macoupincountyil.gov/resource/tanh-epi3.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/tanh-epi3) | Last update: Jan 2016  
   In 2006, Illinois started early voting before Election Day. Since then, more and more voters are voting early. This dataset includes stats of how many voters cast their ballot early, how many voted by mail, how many military voters voted, etc.
 
+- **Genealogy Birth Index**  
+  [Data](https://data.macoupincountyil.gov/resource/8xkn-tmau.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/8xkn-tmau) | Last update: Dec 2021  
+  This dataset provides an index of all birth records on file in Macoupin County before 1916. Those looking for genealogy copies of birth records can search this record by name and date of birth. They can then order a genealogy copy online using the certified copy request self service site and checking the genealogy copy option. https://selfservice.macoupincountyil.gov/web/action/ACTIONGROUP239S1
+
 - **Genealogy Death Index**  
   [Data](https://data.macoupincountyil.gov/resource/xu33-ytc2.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/xu33-ytc2) | Last update: Dec 2021  
   This dataset provides an index of all death records on file in Macoupin County before 1916. Those looking for genealogy copies of death records can search this record by name and date of death. They can then order a genealogy copy online using the certified copy request self service site and checking the genealogy copy option. https://selfservice.macoupincountyil.gov/web/action/ACTIONGROUP239S1
+
+- **Genealogy Marriage Index**  
+  [Data](https://data.macoupincountyil.gov/resource/j5tt-hfna.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/j5tt-hfna) | Last update: Dec 2021
 
 - **Lotus Wind Farm Permit Application & Public Hearing Documents**  
   [Data](https://data.macoupincountyil.gov/resource/sgxi-8643.json) | [Docs](https://dev.socrata.com/foundry/data.macoupincountyil.gov/sgxi-8643) | Last update: Oct 2023  
@@ -8778,7 +8776,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Contains formational information about specific collaborative sites within Marin County's internal employee website, called the HUB. Information includes the site name and its publication date.
 
 - **Community Gardens**  
-  [Data](https://data.marincounty.org/resource/rq75-ini4.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/rq75-ini4) | Last update: May 2020  
+  [Data](https://data.marincounty.org/resource/rq75-ini4.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/rq75-ini4) | Last update: Recent  
   The Community Garden Program aims to support all types of community gardens in the County as part of increasing access to healthy food, building community, and encouraging physical activity.
 
 - **Commute Times**  
@@ -8790,7 +8788,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Location information for County of Marin offices, broken out by department, department division, department head, address information, contact information and location coordinates.
 
 - **County Sheriff Reported Crimes**  
-  [Data](https://data.marincounty.org/resource/ahxi-5nsc.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/ahxi-5nsc) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/ahxi-5nsc.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/ahxi-5nsc) | Last update: Jul 2024  
   Reported crimes of the Marin County Sheriff's Department. Data is updated every four hours. Data begins as of January 1, 2013. Each reported crime includes its date/time, approximate location, crime type, and crime classification.
 
 - **Countywide Expense**  
@@ -8801,6 +8799,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.marincounty.org/resource/hn6i-xcpx.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/hn6i-xcpx) | Last update: Nov 2023  
   Budgeted revenues for the County of Marin for Fiscal Years 2023-24; 2022-23; 2021-22; 2020-21. Each Fiscal Year begins July 1 and ends the following June 30. Revenues are broken out by department and budget category.
 
+- **Current Support Distributed per Federal Fiscal Year (FFY) - State of California vs Marin County**  
+  [Data](https://data.marincounty.org/resource/xwy6-9xax.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/xwy6-9xax) | Last update: Jul 2024  
+  This data table provides the total cumulative percentage amount of current support due and distributed at the end of the federal fiscal year (FFY) for the State of California versus Marin County.
+
 - **Defendant Court Dates - Public Defender**  
   [Data](https://data.marincounty.org/resource/f8iq-5syg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/f8iq-5syg) | Last update: Recent  
   Information about each Defendant includes the number of text notifications he or she received, whether the court date is for a misdemeanor or felony, the crime type, the age range of the defendant at the time of the court date, ethnicity and gender.
@@ -8809,11 +8811,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.marincounty.org/resource/9xwm-42i9.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/9xwm-42i9) | Last update: Jul 2022
 
 - **Delegated Contracts**  
-  [Data](https://data.marincounty.org/resource/rp6f-b7dy.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/rp6f-b7dy) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/rp6f-b7dy.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/rp6f-b7dy) | Last update: Jun 2024  
   Contact the listed Department for a copy of any contracts in the data table that have a Contract Number value, but do not have a corresponding Review Contract web link value.
 
 - **Designated vs Social - Open Space Roads and Trails - Marin County Parks**  
-  [Data](https://data.marincounty.org/resource/auzs-3ams.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/auzs-3ams) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/auzs-3ams.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/auzs-3ams) | Last update: Jul 2024  
   Progress toward improving open space habitat preservation and visitor safety via a designated road and trail system.
 
 - **Electric Vehicles Charging Stations Installed**  
@@ -8825,11 +8827,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Total number of unique users and EV charging sessions across all County of Marin owned EV charging stations.
 
 - **Electrical Meter Compliance**  
-  [Data](https://data.marincounty.org/resource/xvyr-hdck.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/xvyr-hdck) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/xvyr-hdck.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/xvyr-hdck) | Last update: Jul 2024  
   Dataset to monitor electric submeter compliance with California's inspection and testing requirements related to meter performance, accuracy, and adherence to specifications.
 
 - **Electrical Submeter On Site Audit**  
-  [Data](https://data.marincounty.org/resource/aw88-aaqv.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/aw88-aaqv) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/aw88-aaqv.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/aw88-aaqv) | Last update: Jul 2024  
   Dataset to monitor on-site audits of known sites in Marin County that operate electric submeters used to deliver and sell electricity to tenants/customers.
 
 - **Emergency Medical Service (EMS) Incidents**  
@@ -8845,7 +8847,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Agricultural Conservation Easements (ACE) purchased through Farmland Preservation program funded by Parks Measure A
 
 - **Food Facility Handwash Violations**  
-  [Data](https://data.marincounty.org/resource/7wjm-mn6w.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/7wjm-mn6w) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/7wjm-mn6w.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/7wjm-mn6w) | Last update: Jul 2024  
   For each food facility, data contains four year look backs (or less if not licensed that long) of the number of regular inspections, number of inspections with major hand wash violations, whether the facility had consecutive inspections with major hand wash violations, and geographic information.
 
 - **Food Facility Inspections**  
@@ -8867,20 +8869,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.marincounty.org/resource/k3nv-s959.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/k3nv-s959) | Last update: Recent  
   Educational visits conducted in Marin County's food facilities. Data contains a number of monthly educational visits , both in person and virtual.
 
-- **Homelessness**  
-  [Data](https://data.marincounty.org/resource/idz6-yedg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/idz6-yedg) | Last update: May 2020  
-  Please refer to the Featured Content resources shown below for more information on point-in-time counts and homelessness programs.
-
 - **House Price**  
   [Data](https://data.marincounty.org/resource/sqdg-y9e6.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/sqdg-y9e6) | Last update: Dec 2023  
   Detailed information regarding the median home value, by location, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Households by Income, Age and Race**  
-  [Data](https://data.marincounty.org/resource/yjpq-ija2.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/yjpq-ija2) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/yjpq-ija2.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/yjpq-ija2) | Last update: Jun 2024  
   Detailed household information in regards to income, age, and race, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Housing Affordability**  
-  [Data](https://data.marincounty.org/resource/gz7z-2nj9.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/gz7z-2nj9) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/gz7z-2nj9.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/gz7z-2nj9) | Last update: Jun 2024  
   Detailed information regarding rental and home owner's cost as a percentage of annual median household income, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Housing and Federal Grants Funding of Affordable Housing**  
@@ -8910,10 +8908,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Library Minutes Read**  
   [Data](https://data.marincounty.org/resource/uqip-awav.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/uqip-awav) | Last update: Aug 2023
 
-- **Library Resources Utilization**  
-  [Data](https://data.marincounty.org/resource/59pb-6whg.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/59pb-6whg) | Last update: Oct 2022  
-  Digital and circulation materials monthly usage
-
 - **MCOSD Vegetation Management**  
   [Data](https://data.marincounty.org/resource/3vqz-ejck.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/3vqz-ejck) | Last update: Apr 2024  
   Open Space Vegetation Management Projects By Preserve
@@ -8930,7 +8924,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Tracking of demographic information for various participant groups in Marin County arts and culture organizations.
 
 - **Median Household Income**  
-  [Data](https://data.marincounty.org/resource/kn6f-gx3p.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/kn6f-gx3p) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/kn6f-gx3p.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/kn6f-gx3p) | Last update: Jun 2024  
   Detailed information regarding median household income by age and race, in Marin County. Data is sourced from American Community Survey 5-Year Estimates, which is updated annually.
 
 - **Medical Waste Generator Inspections**  
@@ -8966,7 +8960,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of preserves and the year road and trail designation was completed for each.
 
 - **Open Space Road and Trail Distances - Marin County Parks**  
-  [Data](https://data.marincounty.org/resource/msqx-vv47.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/msqx-vv47) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/msqx-vv47.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/msqx-vv47) | Last update: Jul 2024  
   Distance and use of designated roads and trails in the Marin County Open Space District.
 
 - **Opioid Overdose - Contacts for Treatment and Detoxification**  
@@ -8986,10 +8980,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Counts of ranger-reported incidents by calendar month by various categories of infractions and by park or preserve.
 
 - **Parks Science and Research Expenditures by Year**  
-  [Data](https://data.marincounty.org/resource/xseh-tzzn.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/xseh-tzzn) | Last update: Recent
+  [Data](https://data.marincounty.org/resource/xseh-tzzn.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/xseh-tzzn) | Last update: Jul 2024
 
 - **Parks Vegetation Management Expenditures**  
-  [Data](https://data.marincounty.org/resource/c7yy-z667.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/c7yy-z667) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/c7yy-z667.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/c7yy-z667) | Last update: Jul 2024  
   Vegetation and Fiire Fuel Management Expenditures by Year
 
 - **Parks and Pathways - Marin County Parks**  
@@ -9047,7 +9041,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset provides number of Standard and Training for Corrections (STC) and Peace Officer Standards Training (POST) hours by Fiscal Year.
 
 - **Short Term Rentals That Are Registered and Active**  
-  [Data](https://data.marincounty.org/resource/b95t-z3rb.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/b95t-z3rb) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/b95t-z3rb.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/b95t-z3rb) | Last update: Jul 2024  
   For each rental property, data includes the Doing Business As name (DBA), address, geographic information, registration date and parcel number.
 
 - **Special Districts Budget - Taxes**  
@@ -9079,8 +9073,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Budgeted revenues for the County of Marins Special District Funds for Fiscal Years 2023-24; 2022-23; 2021-22; 2020-21. Each Fiscal Year begins July 1 and ends the following June 30. Detail by fund and program
 
 - **Street Pavement Condition**  
-  [Data](https://data.marincounty.org/resource/9ytj-6syh.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/9ytj-6syh) | Last update: Apr 2024  
+  [Data](https://data.marincounty.org/resource/9ytj-6syh.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/9ytj-6syh) | Last update: Recent  
   Pavement condition is measured using the Pavement Condition Index (PCI), as described below.
+
+- **Tax Collector ERAF Contribution**  
+  [Data](https://data.marincounty.org/resource/whct-xqwb.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/whct-xqwb) | Last update: Jan 2022  
+  It is a mechanism, enacted in July of 1992 by the State Legislature, to shift local tax revenues from cities, counties, and special districts to a state-controlled Education Revenue Augmentation Fund. The state uses this fund to reduce their obligation to the schools. ERAF funds have been used by the State to help school and community college districts meet minimum funding requirements.
 
 - **Tax District by Local Agency**  
   [Data](https://data.marincounty.org/resource/gwjh-2qbz.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/gwjh-2qbz) | Last update: Jan 2022  
@@ -9091,7 +9089,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Methods used to notify and train poll workers on the new voting system and changes at polling places.
 
 - **Transient Occupancy Tax Revenue**  
-  [Data](https://data.marincounty.org/resource/mhtq-t6fz.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/mhtq-t6fz) | Last update: Recent  
+  [Data](https://data.marincounty.org/resource/mhtq-t6fz.json) | [Docs](https://dev.socrata.com/foundry/data.marincounty.org/mhtq-t6fz) | Last update: Jul 2024  
   Transient Occupancy Tax (TOT) Revenue collected by the County of Marin, by calendar quarter.
 
 - **Unclaimed Checks**  
@@ -9126,6 +9124,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## data.memphistn.gov
 
+- **311 Generated Service Requests**  
+  [Data](https://data.memphistn.gov/resource/5r9g-bwpp.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/5r9g-bwpp) | Last update: Recent  
+  This dataset shows the types and number of service requests generated from phone calls to 311.
+
 - **Citizen Connect Open Public Works Service Requests**  
   [Data](https://data.memphistn.gov/resource/aiee-9zqu.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/aiee-9zqu) | Last update: Recent  
   This dataset shows Public Works Open Service Requests reported on or after January 1, 2016. This dataset is used to populate Citizen Connect page.
@@ -9138,25 +9140,25 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.memphistn.gov/resource/hatf-xf9s.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/hatf-xf9s) | Last update: Jul 2019  
   This dataset contains a list of codes used through the code enforcement service request fields and their associated meanings.
 
+- **Economic Development – EDGE – TIFs**  
+  [Data](https://data.memphistn.gov/resource/xvxt-cvwc.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/xvxt-cvwc) | Last update: Mar 2024  
+  This dataset shows the TIFs that have been issued by the Economic Development Growth Engine (EDGE).
+
 - **MDR Scorecard Open Requests**  
   [Data](https://data.memphistn.gov/resource/ys6v-2mwb.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/ys6v-2mwb) | Last update: Recent  
   This dataset focuses on five high volume service requests: missed pickups, potholes, cart repair, weeds, and outside bin pickup.
 
 - **Memphis Police Department Aggregate Crime**  
-  [Data](https://data.memphistn.gov/resource/n7ue-iwew.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/n7ue-iwew) | Last update: Recent  
+  [Data](https://data.memphistn.gov/resource/n7ue-iwew.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/n7ue-iwew) | Last update: Jun 2024  
   This dataset shows the number of major property crimes and major violent crimes reported by MPD each month.
 
-- **Memphis Public Libraries Shapefile**  
-  [Data](https://data.memphistn.gov/resource/4kk2-hed2.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/4kk2-hed2) | Last update: Oct 2019  
-  The dataset describes the locations of the Memphis Public Libraries within the City of Memphis
+- **Memphis Police Department: Public Safety Incidents**  
+  [Data](https://data.memphistn.gov/resource/puh4-eea4.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/puh4-eea4) | Last update: Recent  
+  This dataset contains all crime incidents where a police report was taken. Data goes back to 2019 and is updated each morning by 8:30am. Note that sex crimes and juvenile specific crime types are omitted from this dataset. Please see the data dictionary attached for more details.
 
 - **Police Headcount**  
   [Data](https://data.memphistn.gov/resource/iwk8-fxnz.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/iwk8-fxnz) | Last update: May 2024  
   Dataset that contains the historical number of sworn commissioned officers for the Memphis Police Department. The dataset also contains some statistical info about the 13-month rolling average of the number of officers, and confidence intervals around the number of officers. Additionally, there is information about the projected number of officers through 2020.
-
-- **Residential & Commercial Alarms**  
-  [Data](https://data.memphistn.gov/resource/wwn8-sipn.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/wwn8-sipn) | Last update: Recent  
-  This dataset shows detailed information related to the operation of the City's Metro Alarm Office, including the number of permits issued and the number of false alarms recorded each month.
 
 - **Residential & Commercial Building Permits**  
   [Data](https://data.memphistn.gov/resource/iw6n-y3bc.json) | [Docs](https://dev.socrata.com/foundry/data.memphistn.gov/iw6n-y3bc) | Last update: Sep 2021  
@@ -9198,6 +9200,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **TREAS - Department of Treasury - Public Facing - Dataset**  
   [Data](https://data.michigan.gov/resource/ntgh-6bn2.json) | [Docs](https://dev.socrata.com/foundry/data.michigan.gov/ntgh-6bn2) | Last update: Recent  
   External Dataset
+
+- **US 50 States Boundaries Shapefile**  
+  [Data](https://data.michigan.gov/resource/s3x9-e5hg.json) | [Docs](https://dev.socrata.com/foundry/data.michigan.gov/s3x9-e5hg) | Last update: Oct 2019
 
 [[TOP]](#toc)
 
@@ -9260,7 +9265,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## data.montgomerycountymd.gov
 
 - **ABS Store Inventory and Sale Items**  
-  [Data](https://data.montgomerycountymd.gov/resource/ib5t-5ncy.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/ib5t-5ncy) | Last update: Nov 2023  
+  [Data](https://data.montgomerycountymd.gov/resource/ib5t-5ncy.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/ib5t-5ncy) | Last update: Recent  
   This dataset provide a listing of inventory items, including store quantities and sale prices. Update Frequency : Daily
 
 - **ACE - All Children Excel - Early Learning Attendance Fiscal Year 17**  
@@ -9323,10 +9328,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.montgomerycountymd.gov/resource/mhkm-fwjj.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/mhkm-fwjj) | Last update: Jul 2023  
   To reserve a public facility follow this link: http://www.montgomerycountymd.gov/cupf/  and select "Reserve Facility" from the  menu on the left side.
 
-- **Annual Self Insurance Fund Lawsuit Settlement Report**  
-  [Data](https://data.montgomerycountymd.gov/resource/a88e-vwyk.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/a88e-vwyk) | Last update: Oct 2023  
-  List of Case Names, Settlement Amounts, and Parties Demographic Information if available, for the prior fiscal year. Demographic survey is not applicable to cases settled prior to Bill 19-21s effective date 1/12/2022 NA = Not applicable, NR = Not responded, OO = Opt Out.The Settlement amount shown is for the entire matter, not for each individual plaintiff. Report updates annually.
-
 - **Approved Fiscal Revenues**  
   [Data](https://data.montgomerycountymd.gov/resource/9qa6-3ucq.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/9qa6-3ucq) | Last update: Oct 2022  
   The dataset details all revenue by agency, fund type, and fund. The revenue schedules include data for the following County agencies: MCG, Debt Service, MCPS, Montgomery College, and M-NCPPC. Not included are: WSSC, HOC, and the Montgomery County Revenue Authority.
@@ -9336,8 +9337,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset lists licensed assisted living facilities in Montgomery County, MD. The dataset provides each facilitys address, phone number, and geographic coordinates, as well as the facilitys capacity according to the license issued by the Maryland Department of Health. Updated annually.
 
 - **Automated Red Light Violations**  
-  [Data](https://data.montgomerycountymd.gov/resource/3cju-6hst.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/3cju-6hst) | Last update: May 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/3cju-6hst.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/3cju-6hst) | Last update: Recent  
   This data set contains data about violations for running red lights at traffic signals captured by automated enforcement (red-light cameras).
+
+- **Automated Speed Enforcement Violations**  
+  [Data](https://data.montgomerycountymd.gov/resource/uv5p-zm58.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/uv5p-zm58) | Last update: Recent  
+  This data set contains data about speeding violations captured through automated enforcement (speed cameras).
 
 - **Average Salary by Job Classification**  
   [Data](https://data.montgomerycountymd.gov/resource/48wg-fkab.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/48wg-fkab) | Last update: Apr 2023  
@@ -9363,18 +9368,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Separated and marked bike lanes, bike-friendly shoulders, signed and sharrowed on-road routes, paved and natural surface trails in Montgomery County. A '1' in LEVEL field indicates major trails. For a more robust view of this data, see http://bikemap.montgomerycountymd.gov
 
 - **Bodyworks Licenses**  
-  [Data](https://data.montgomerycountymd.gov/resource/4j6r-m459.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/4j6r-m459) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/4j6r-m459.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/4j6r-m459) | Last update: Jul 2024  
   This dataset is a listing of all bodyworks licenses.
 
 - **Building Energy Benchmarking Results**  
   [Data](https://data.montgomerycountymd.gov/resource/izzs-2bn4.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/izzs-2bn4) | Last update: Jul 2023
 
 - **Cable Complaints**  
-  [Data](https://data.montgomerycountymd.gov/resource/v2ei-xfce.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/v2ei-xfce) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/v2ei-xfce.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/v2ei-xfce) | Last update: Jul 2024  
   All cable complaints filed with the Montgomery County Cable Office since January 2010.
 
 - **Cable Inspections**  
-  [Data](https://data.montgomerycountymd.gov/resource/tzyi-s757.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/tzyi-s757) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/tzyi-s757.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/tzyi-s757) | Last update: Jul 2024  
   Information on Cable Inspections performed by the Montgomery County Cable Office since September 1, 2010.
 
 - **Capital Improvement Program (CIP) Project Status**  
@@ -9391,10 +9396,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Childcare Organizations**  
   [Data](https://data.montgomerycountymd.gov/resource/5avi-k6sb.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/5avi-k6sb) | Last update: Aug 2022  
   List of childcare organizations and facilities with company addresses and contact information.
-
-- **Circulation of Juvenile Materials**  
-  [Data](https://data.montgomerycountymd.gov/resource/fpga-jiz6.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/fpga-jiz6) | Last update: Apr 2023  
-  Number of checkouts and/or renewals (i.e., circulation) of physical materials from the Juvenile collection, by branch, by fiscal year. Updated annually.
 
 - **Commercial Fast Track Permits**  
   [Data](https://data.montgomerycountymd.gov/resource/drdm-p89i.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/drdm-p89i) | Last update: Jun 2023  
@@ -9500,6 +9501,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.montgomerycountymd.gov/resource/pah9-6f8f.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/pah9-6f8f) | Last update: Recent  
   Sanitary sewer overflows reported to the Department of Environmental Protection by the Washington Suburban Sanitary Commission or individuals in the County. Update Frequency - Daily
 
+- **DGS - Leases**  
+  [Data](https://data.montgomerycountymd.gov/resource/ixyy-xm8d.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/ixyy-xm8d) | Last update: Jul 2024  
+  Update Frequency : Quarterly
+
 - **DGS Facilities Maintenance Work Order Completion Status**  
   [Data](https://data.montgomerycountymd.gov/resource/8bc9-dvwf.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/8bc9-dvwf) | Last update: Recent  
   This Facilities Maintenance Work Order Completion Status dataset shows number (#) and percent (%) of work orders in open (incomplete) and closed (complete) status on a monthly basis.
@@ -9509,7 +9514,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset Includes number of inappropriate releases from our facility, escapes from Pre-Release and Re-Entry Services (PRRS), escapes returned to PRRS, inmate suicides, and jail escapes.
 
 - **DOT Parking Tickets**  
-  [Data](https://data.montgomerycountymd.gov/resource/uyb2-cfmc.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/uyb2-cfmc) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/uyb2-cfmc.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/uyb2-cfmc) | Last update: Jul 2024  
   Update Frequency:  This data is updated annually.
 
 - **DPS - Antenna/Wireless Permits**  
@@ -9604,8 +9609,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Update Frequency : Monthly
 
 - **FEMA Disaster Reimbursements**  
-  [Data](https://data.montgomerycountymd.gov/resource/supq-ye8j.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/supq-ye8j) | Last update: Apr 2023  
+  [Data](https://data.montgomerycountymd.gov/resource/supq-ye8j.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/supq-ye8j) | Last update: Recent  
   This dataset contains a list of disasters from 2000 to the present in which Montgomery County received FEMA reimbursements.
+
+- **FIN - Economic Development Fund Grant and Loan Program**  
+  [Data](https://data.montgomerycountymd.gov/resource/cnrw-ucvw.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/cnrw-ucvw) | Last update: Recent  
+  Economic Development Fund Grant and Loan Program (EDFGLP) is established under Chapter 20, Article XIII, Sec. 20-73 through Sec 20-75 of the Montgomery County Code. The purpose of the program is to aid the economic development of the County by assisting private employers who are located or plan to locate or substantially expand
+
+- **FIN - Small Business Innovation Research And Small Business Technology Transfer Matching Grant Program**  
+  [Data](https://data.montgomerycountymd.gov/resource/72gg-n7au.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/72gg-n7au) | Last update: Recent  
+  The Council enacted Bill 37-19 on 3/16/ 2021, effective 6/24/2021. A portion of the Bill changes the eligibility requirements for the SBIR/STTR Local Matching Grant Program, no longer restricting eligibility to NIH grant recipients, but requiring that the grant received from a Federal agency is for research in medicine, biotechnology or life sciences.
+
+- **FIRE and Rescue - Community Emergency Response Training**  
+  [Data](https://data.montgomerycountymd.gov/resource/6dvv-5qc4.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/6dvv-5qc4) | Last update: Aug 2021
 
 - **FRS - Apparatus Equipment Location at Fire Stations**  
   [Data](https://data.montgomerycountymd.gov/resource/awi6-fp63.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/awi6-fp63) | Last update: Jul 2023  
@@ -9652,16 +9668,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains data on child car seat program numbers to include total number of car seats installed by month, car seats given, personnel hours, and event hours.
 
 - **Fleet Equipment Inventory**  
-  [Data](https://data.montgomerycountymd.gov/resource/93vc-wpdr.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/93vc-wpdr) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/93vc-wpdr.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/93vc-wpdr) | Last update: Jul 2024  
   This dataset contains a list of Montgomery County Fleet equipment (vehicle) inventory and status (readiness).
 
 - **Fleet Fuel Consumption**  
-  [Data](https://data.montgomerycountymd.gov/resource/xscd-kanq.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/xscd-kanq) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/xscd-kanq.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/xscd-kanq) | Last update: Jul 2024  
   This dataset contains a list of Montgomery County and Public fuel consumption by fuel types based on Fuel Transactions for 180 days prior to published date.
-
-- **Floodplain District Permit**  
-  [Data](https://data.montgomerycountymd.gov/resource/sgci-afes.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/sgci-afes) | Last update: Recent  
-  Floodplain district permit plan: A set of representational drawings or other documents submitted by an applicant to obtain a floodplain district permit that contains the information and specifications the Department requires minimizing the safety hazards of or the negative hydraulic and environmental impacts associated with development in or near a floodplain."
 
 - **Floodplain Study**  
   [Data](https://data.montgomerycountymd.gov/resource/78y7-gx22.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/78y7-gx22) | Last update: Recent  
@@ -9712,7 +9724,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Address and Locations for Hospitals in Montgomery County, MD and the immediate vicinity.
 
 - **Hotel Tax**  
-  [Data](https://data.montgomerycountymd.gov/resource/2jez-gq75.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/2jez-gq75) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/2jez-gq75.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/2jez-gq75) | Last update: Jul 2024  
   Update Frequency: Quarterly
 
 - **Housing Code Violations**  
@@ -9744,7 +9756,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains allegations brought to the attention of the Internal Affairs Division either through external complaints or internal complaint or recognition.
 
 - **Journeyman Electrician License**  
-  [Data](https://data.montgomerycountymd.gov/resource/vajy-hwge.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/vajy-hwge) | Last update: Apr 2023  
+  [Data](https://data.montgomerycountymd.gov/resource/vajy-hwge.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/vajy-hwge) | Last update: Recent  
   This dataset contains a list of Journeyman Electrician License information. A Journeyman Electrician's License is required for electrical work performed without the supervision of a Master Electrician or another Journeyman. A Journeyman may supervise up to three other unlicensed electrical workers.
 
 - **Leaf Collection Posting Log**  
@@ -9812,7 +9824,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains a list of National Association of Counties (NACo) Achievement Awards received by various departments in the Montgomery County Government since 2017.
 
 - **MCG Open Positions**  
-  [Data](https://data.montgomerycountymd.gov/resource/vds6-zrjk.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/vds6-zrjk) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/vds6-zrjk.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/vds6-zrjk) | Last update: Jul 2024  
   This dataset contains a list of open positions and classifications available in the County.
 
 - **MCG Personnel Management Review (PMR)**  
@@ -9922,6 +9934,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.montgomerycountymd.gov/resource/ag7k-prhd.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/ag7k-prhd) | Last update: Apr 2023  
   Total number of programs held, at County libraries, which focus on Science, Technology, Engineering and Mathematics (STEM). Updated annually.
 
+- **Number of Summer Reading Programs Held**  
+  [Data](https://data.montgomerycountymd.gov/resource/g2jx-5qqw.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/g2jx-5qqw) | Last update: Nov 2021  
+  Number of programs held, by branch, during annual Summer Read & Learn (June through August). Numbers represent programs held for target audiences (i.e., babies, toddlers, preschoolers, kindergartners, elementary school-aged, teenagers).
+
+- **Number of Wireless Sessions**  
+  [Data](https://data.montgomerycountymd.gov/resource/p3h3-8jbu.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/p3h3-8jbu) | Last update: Aug 2022  
+  The number of wireless sessions, by branch,  provided by the Montgomery County Public Library wireless service. These are annual numbers, regardless if the service is accessed within the walls of the Library or from the parking lot, etc. Updated annually.
+
 - **OCA Appeals Statistics**  
   [Data](https://data.montgomerycountymd.gov/resource/kv4r-zq75.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/kv4r-zq75) | Last update: Recent  
   Office of the County Attorney Appeals Statistics. Updated monthly
@@ -10013,12 +10033,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set contains data from juveniles cited by a police officer in Montgomery County.
 
 - **Police Marijuana Possession Violations**  
-  [Data](https://data.montgomerycountymd.gov/resource/8kxe-64dw.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/8kxe-64dw) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/8kxe-64dw.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/8kxe-64dw) | Last update: Jun 2024  
   This data set contains data on citations for marijuana possession of < 10g.
 
 - **Police Search Warrants**  
   [Data](https://data.montgomerycountymd.gov/resource/qyj4-r2cd.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/qyj4-r2cd) | Last update: Recent  
   This data set contains individuals associated with search warrants for physical locations, including the use of SWAT and no-knock service.
+
+- **Police Service Calls Deemed Unfounded**  
+  [Data](https://data.montgomerycountymd.gov/resource/5d73-8hsh.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/5d73-8hsh) | Last update: Recent  
+  This data set contains calls for service determined to be unfounded.
 
 - **Police Service Calls for Mental Health**  
   [Data](https://data.montgomerycountymd.gov/resource/r7cy-t8ms.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/r7cy-t8ms) | Last update: Recent  
@@ -10076,7 +10100,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Names and registration number of Business repairing radio, television and small appliances, updated monthly.
 
 - **Recreation Fall Programs**  
-  [Data](https://data.montgomerycountymd.gov/resource/f55u-tbjr.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/f55u-tbjr) | Last update: Oct 2023  
+  [Data](https://data.montgomerycountymd.gov/resource/f55u-tbjr.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/f55u-tbjr) | Last update: Recent  
   Montgomery County Recreation Fall Programs,  Included are types of programs, dates and time, duration, cost and age requirements
 
 - **Recreation Fall/Winter Programs**  
@@ -10139,6 +10163,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.montgomerycountymd.gov/resource/2pp9-yjcs.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/2pp9-yjcs) | Last update: Jun 2023  
   Names of Businesses Selling Second Hand Goods
 
+- **Sediment Control Permits**  
+  [Data](https://data.montgomerycountymd.gov/resource/bdky-n9r2.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/bdky-n9r2) | Last update: Recent  
+  Update Frequency : Daily
+
 - **Sewage Disposal Permits**  
   [Data](https://data.montgomerycountymd.gov/resource/jf73-mva3.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/jf73-mva3) | Last update: Recent  
   Update Frequency : Daily"
@@ -10154,6 +10182,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Site Specific Vendor's License**  
   [Data](https://data.montgomerycountymd.gov/resource/wevq-nzst.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/wevq-nzst) | Last update: Recent  
   This dataset contains information of a site-specific vendor's license which is required if an individual sells or offers to sell goods or services from a stationary location.
+
+- **Snow Emergency EO Roads**  
+  [Data](https://data.montgomerycountymd.gov/resource/btwn-et3z.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/btwn-et3z) | Last update: Apr 2024  
+  Snow and Emergency Road surfaces maintained by Montgomery County Transportation. Updated yearly
 
 - **Solicitations**  
   [Data](https://data.montgomerycountymd.gov/resource/eeq6-nnwe.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/eeq6-nnwe) | Last update: Recent  
@@ -10207,7 +10239,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set gives the numbers of program attendance by branches in a given fiscal year. Updated annually.
 
 - **Total Use of Library Materials**  
-  [Data](https://data.montgomerycountymd.gov/resource/iiy7-8seq.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/iiy7-8seq) | Last update: Recent  
+  [Data](https://data.montgomerycountymd.gov/resource/iiy7-8seq.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/iiy7-8seq) | Last update: Jul 2024  
   This data set gives the numbers of library materials loaned (including e-content) in a given quarter.
 
 - **Total Use of eMaterials**  
@@ -10243,7 +10275,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Montgomery County DHCA classifies properties as Troubled, At-Risk, and Compliant through scheduled property code inspections. In general, a Troubled Property is a multifamily rental property with numerous and or severe health and safety housing code violations. The full Fiscal Year 2023 Troubled Property report for properties inspected between July 1, 2022 and June 30, 2023, is available at
 
 - **Tuition Assistance**  
-  [Data](https://data.montgomerycountymd.gov/resource/p7z5-tjrz.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/p7z5-tjrz) | Last update: Feb 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/p7z5-tjrz.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/p7z5-tjrz) | Last update: Recent  
   This dataset includes a list of classes approved and paid through the County tuition assistance program, including the title and description of the course, the school the course will be taken at, the degree this class curriculum is a part of, the Department and title of the requester, the dollar amount reimbursed to the employee.
 
 - **Use and Occupancy Certificates**  
@@ -10266,7 +10298,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains a list of sales and movement data by item and department appended monthly.
 
 - **Water Quality Protection Charges**  
-  [Data](https://data.montgomerycountymd.gov/resource/97f6-dhn4.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/97f6-dhn4) | Last update: Jun 2024  
+  [Data](https://data.montgomerycountymd.gov/resource/97f6-dhn4.json) | [Docs](https://dev.socrata.com/foundry/data.montgomerycountymd.gov/97f6-dhn4) | Last update: Recent  
   The clean water initiatives funded by the WQPC remediate the environmental damage caused by stormwater pollution. Further, the WQPC funds programs that are needed to meet the National Pollutant Discharge Elimination System permit from the state of Maryland.
 
 - **eCigarette Excise Tax**  
@@ -10308,78 +10340,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
-## data.nashville.gov
-
-- **Active Right of Way Permits**  
-  [Data](https://data.nashville.gov/resource/a5tp-4w2v.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/a5tp-4w2v) | Last update: Recent  
-  Active (valid / in process) issued Right-of-Way (ROW) permits for partial or full street, lane, or sidewalk closures, sidewalk cafes, excavations, driveway construction, or construction trailers/dumpsters in Davidson County. These permits may be related to construction projects, special events, films, or parades.
-
-- **Community Enhancement Fund Awards**  
-  [Data](https://data.nashville.gov/resource/6345-mrz7.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/6345-mrz7) | Last update: Apr 2021  
-  This dataset contains all the non-profit agencies that were awarded Community Enhancement Fund (CEF) funds by the Metropolitan Government from the year ended June 30, 2009 to current.
-
-- **Davidson County Cemetery Survey**  
-  [Data](https://data.nashville.gov/resource/ttqg-mpiz.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/ttqg-mpiz) | Last update: Dec 2022  
-  Data set includes site photos of cemeteries, and individual photos of identifiable graves.
-
-- **Davidson County Voting Precincts**  
-  [Data](https://data.nashville.gov/resource/i3fu-jbj3.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/i3fu-jbj3) | Last update: May 2022  
-  Geographic boundaries of voting precincts within Davidson County. (This geographic information can be used in conjunction with other datasets on this Portal relating to election information.)
-
-- **Direct Appropriation Awards**  
-  [Data](https://data.nashville.gov/resource/yp7f-fiff.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/yp7f-fiff) | Last update: Jan 2024  
-  This dataset contains all the agencies that are awarded Direct Appropriation funds by the Metropolitan Government for the year ended June 30, 2009 to current.
-
-- **Fire Stations**  
-  [Data](https://data.nashville.gov/resource/frq9-a5iv.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/frq9-a5iv) | Last update: Apr 2024
-
-- **Metro Nashville Police Department Calls for Service**  
-  [Data](https://data.nashville.gov/resource/kwnd-qrrm.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/kwnd-qrrm) | Last update: Recent  
-  Details about emergency and non-emergency calls for Metro Nashville Police Department service received by the Emergency Communications Center.
-
-- **Metro Public Wi-Fi Locations**  
-  [Data](https://data.nashville.gov/resource/4ugp-s85t.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/4ugp-s85t) | Last update: Oct 2019
-
-- **NDOT Capital Projects**  
-  [Data](https://data.nashville.gov/resource/xbwj-ne6u.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/xbwj-ne6u) | Last update: Recent  
-  List of current and planned Capital Projects in Davidson County undertaken by the Nashville Department of Transportation and Multimodal Infrastructure.
-
-- **Public Safety Resource Locations**  
-  [Data](https://data.nashville.gov/resource/5ac5-37sv.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/5ac5-37sv) | Last update: Apr 2019  
-  This dataset is a combination of the existing Police and Fire datasets. They are combined here for easier mapping of the two resources.
-
-- **Regional Transportation Authority Bus Stops**  
-  [Data](https://data.nashville.gov/resource/p886-fnbd.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/p886-fnbd) | Last update: Oct 2019  
-  Bus stop locations for the Regional Transport Authority (RTA) buses.
-
-- **Social Services Monthly Seniors Meal Counts**  
-  [Data](https://data.nashville.gov/resource/44bu-tanb.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/44bu-tanb) | Last update: Mar 2018  
-  This dataset tracks the number of congregate and home delivered meals provided to seniors per month.
-
-- **Tornado Siren Locations**  
-  [Data](https://data.nashville.gov/resource/736j-2drk.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/736j-2drk) | Last update: Jan 2023  
-  Tornado Siren locations in Nashville/Davidson County.
-
-- **Traffic Accidents**  
-  [Data](https://data.nashville.gov/resource/6v6w-hpcw.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/6v6w-hpcw) | Last update: Recent  
-  Details about traffic accidents reported to Metro Nashville Police Department.
-
-- **Zip Codes**  
-  [Data](https://data.nashville.gov/resource/72um-tmbe.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/72um-tmbe) | Last update: Sep 2022  
-  Boundaries of ZIP Codes in Davidson County presented in GIS format. For a more friendly view of this data, see the ZIP Codes (Map) dataset.
-
-- **hubNashville (311) Service Requests**  
-  [Data](https://data.nashville.gov/resource/7qhx-rexh.json) | [Docs](https://dev.socrata.com/foundry/data.nashville.gov/7qhx-rexh) | Last update: Recent  
-  Details of service requests to hubNashville, Metro Nashville government's comprehensive customer service system. Residents or visitors can connect with a Metro representative to request services, share feedback, or ask questions by calling 311 (615-862-5000 if out of county when making the call) or by visiting https://hub.nashville.gov.
-
-[[TOP]](#toc)
-
-
 ## data.nj.gov
-
-- **Accredited NJ Career and Technical Institutions**  
-  [Data](https://data.nj.gov/resource/md9k-qpmg.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/md9k-qpmg) | Last update: Apr 2023  
-  This data set provides a list of accredited Career and Technical Institutions located in New Jersey.
 
 - **NJ Construction Permit Data**  
   [Data](https://data.nj.gov/resource/w9se-dmra.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/w9se-dmra) | Last update: Recent  
@@ -10388,10 +10349,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **NJ Private Inspection Facilities and Emission Repair Facilities**  
   [Data](https://data.nj.gov/resource/9qpt-bnm4.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/9qpt-bnm4) | Last update: Sep 2023  
   The original dataset can be found here: https://data.nj.gov/Transportation/Vehicle-Inspection-Facility-Locations/t6tk-mr48
-
-- **NJDOC Incarcerated Persons Census**  
-  [Data](https://data.nj.gov/resource/ceap-kj5e.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/ceap-kj5e) | Last update: Mar 2023  
-  Dataset includes characteristics of state incarcerated persons under the jurisdiction of the New Jersey Department of Corrections on January 3, 2023.
 
 - **Sandy DOL Master Data**  
   [Data](https://data.nj.gov/resource/smat-cvb9.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/smat-cvb9) | Last update: Nov 2019
@@ -10404,16 +10361,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.nj.gov/resource/44xg-bswk.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/44xg-bswk) | Last update: Recent
 
 - **YourMoney Agency Expenditures**  
-  [Data](https://data.nj.gov/resource/apet-rp2i.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/apet-rp2i) | Last update: Recent
+  [Data](https://data.nj.gov/resource/apet-rp2i.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/apet-rp2i) | Last update: Jul 2024
 
 - **YourMoney Agency Payroll**  
   [Data](https://data.nj.gov/resource/iqwc-r2w7.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/iqwc-r2w7) | Last update: Recent
 
 - **YourMoney Agency Purchasing**  
   [Data](https://data.nj.gov/resource/ubnu-tqu7.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/ubnu-tqu7) | Last update: May 2024
-
-- **YourMoney Agency Revenue**  
-  [Data](https://data.nj.gov/resource/k9iw-i8yt.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/k9iw-i8yt) | Last update: Recent
 
 - **YourMoney Authority Expenditures**  
   [Data](https://data.nj.gov/resource/s7ep-27n7.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/s7ep-27n7) | Last update: Recent  
@@ -10430,8 +10384,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.nj.gov/resource/xh2f-e2pu.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/xh2f-e2pu) | Last update: Recent  
   This represents the combined expenditures of both agencies and authorities. It is summarized at a high level due to inconsistencies in accounting systems. Additional information is in the attached dataset summary PDF (available on the [About] tab under "Attachments").
 
+- **YourMoney Combined Revenue**  
+  [Data](https://data.nj.gov/resource/akr9-8jzi.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/akr9-8jzi) | Last update: Jul 2024  
+  This represents the combined revenue of both agencies and authorities. It is summarized at a high level due to inconsistencies in accounting systems. Additional information is in the attached dataset summary PDF (available on the [About] tab under "Attachments".).
+
 - **YourMoney Retired Pension Members**  
-  [Data](https://data.nj.gov/resource/nma7-ti96.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/nma7-ti96) | Last update: Recent  
+  [Data](https://data.nj.gov/resource/nma7-ti96.json) | [Docs](https://dev.socrata.com/foundry/data.nj.gov/nma7-ti96) | Last update: Jul 2024  
   This dataset contains pension benefit data for retired employees paid through a State retirement system. The data reflects year-to-date payments and the monthly allowances for each pensioner during the time period noted. Additional information is in the attached dataset summary PDF (available on the [About] tab under "Attachments".).
 
 [[TOP]](#toc)
@@ -10459,9 +10417,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.nola.gov/resource/xxb5-5azv.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/xxb5-5azv) | Last update: Recent  
   You can read more about each of these case types here: https://nola.gov/next/city-planning/resources/cpc-open-project-viewer/
 
-- **Certified Disadvantaged Business Enterprise (DBE) Directory**  
-  [Data](https://data.nola.gov/resource/q42h-ptn2.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/q42h-ptn2) | Last update: Nov 2019
-
 - **City Data Discovery**  
   [Data](https://data.nola.gov/resource/hkuw-i89a.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/hkuw-i89a) | Last update: Apr 2020  
   This dataset tracks real-time progress toward a comprehensive City Data Inventory.
@@ -10482,7 +10437,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Please note that this data set contains Code Enforcement cases from May 12th, 2009 to present. For the purpose of analyzing active cases, please filter for "Open" on the first column, "O/C". Cases are closed in when the in rem judgement is paid and violations are abated. Please see https://www.nola.gov/code-enforcement/ for more information.
 
 - **Code Enforcement Active Pipeline**  
-  [Data](https://data.nola.gov/resource/d4d6-yab5.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/d4d6-yab5) | Last update: Recent  
+  [Data](https://data.nola.gov/resource/d4d6-yab5.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/d4d6-yab5) | Last update: Jul 2024  
   Point dataset showing blighted properties reported via citizens. Updated weekly based on LAMA database. Also available via data.nola.gov as tabular dataset.
 
 - **Code Enforcement Hearings**  
@@ -10491,10 +10446,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Grass Cutting (Lot Abatement/Chapter 66)**  
   [Data](https://data.nola.gov/resource/xhih-vxs6.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/xhih-vxs6) | Last update: Recent  
   Building public trust to secure additional funding in the future by more quickly responding to residents requests
-
-- **Grocery Stores**  
-  [Data](https://data.nola.gov/resource/fjp2-vp3i.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/fjp2-vp3i) | Last update: Recent  
-  Locations of Grocery Stores, which are deemed essential following hurricanes or other disaster scenarios.This dataset is fed from the revenue department with weekly updates.
 
 - **Historical Permit Data**  
   [Data](https://data.nola.gov/resource/f7tt-z5vu.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/f7tt-z5vu) | Last update: Aug 2015  
@@ -10521,7 +10472,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.nola.gov/resource/hpm5-48nj.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/hpm5-48nj) | Last update: Recent  
   Note: this dataset contains duplicate addresses, which likely represent reversions or quitclaims that NORA sold again.
 
-- **Non-Commercial Short-Term Rental Permits**  
+- **Non-Commercial Short-Term Rental Licenses**  
   [Data](https://data.nola.gov/resource/2ei9-wqw2.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/2ei9-wqw2) | Last update: Recent  
   Permit applications for non-commercial short-term rentals.
 
@@ -10552,6 +10503,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.nola.gov/resource/va3u-jspg.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/va3u-jspg) | Last update: Feb 2022  
   For more information about this data, see: https://data.nola.gov/dataset/Traffic-Camera-Locations/htp7-qv47
 
+- **Traffic Signals**  
+  [Data](https://data.nola.gov/resource/rs34-zwuu.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/rs34-zwuu) | Last update: Dec 2021
+
 - **Vacation Rentals**  
   [Data](https://data.nola.gov/resource/rbhq-zbz9.json) | [Docs](https://dev.socrata.com/foundry/data.nola.gov/rbhq-zbz9) | Last update: Recent
 
@@ -10568,7 +10522,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The revenue dataset reflects money coming into the city; some examples include real estate tax payments, state aid and parking fine collections. The citys financial system, where revenue collections are recorded daily, is the source for this data.
 
 - **Better Buildings Challenge Properties**  
-  [Data](https://data.norfolk.gov/resource/ykcq-76im.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/ykcq-76im) | Last update: Feb 2024
+  [Data](https://data.norfolk.gov/resource/ykcq-76im.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/ykcq-76im) | Last update: Recent
 
 - **Blocked Railroad Crossing Incident Reports**  
   [Data](https://data.norfolk.gov/resource/bguc-8iwd.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/bguc-8iwd) | Last update: Recent
@@ -10580,9 +10534,21 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **City Tree Inventory**  
   [Data](https://data.norfolk.gov/resource/cmvv-agyb.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/cmvv-agyb) | Last update: Recent
 
+- **Complaints**  
+  [Data](https://data.norfolk.gov/resource/m9m3-wk2s.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/m9m3-wk2s) | Last update: Recent  
+  Disclaimer: Unless otherwise indicated, presence in this dataset signifies only that a complaint has been made against the subject property. Presence within this dataset does not reflect any assessment by the City of Norfolk of whether or not the complaint accurately reflects the condition of the property and whether or not the condition of the property violates any applicable law.
+
 - **Delinquent Property Taxes**  
   [Data](https://data.norfolk.gov/resource/7qie-z5gv.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/7qie-z5gv) | Last update: Recent  
   This dataset includes data on all real estate parcels in the city of Norfolk that are at least one quarter behind on taxes. Payments are processed as received requiring frequent updates to the data for accuracy.
+
+- **Electric Vehicle Charging Stations**  
+  [Data](https://data.norfolk.gov/resource/d85v-gj67.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/d85v-gj67) | Last update: Recent  
+  If you are aware of an electric vehicle charging port that is not listed, please submit a request via the Department of Energys Electric Vehicle Charging Station Locator to help us maintain the most accurate, up-to-date information for residents.
+
+- **Emergency Communications 24-Hour Call Volume**  
+  [Data](https://data.norfolk.gov/resource/nj5u-a2dj.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/nj5u-a2dj) | Last update: Recent  
+  This dataset shows all calls processed by emergency communications personnel in Norfolk, VA. The Emergency Communications Center is where calls are received from the public and then dispatched to public safety personnel (police, fire-rescue). The dataset shows daily (24-hour period of operations) calls and texts processed by emergency communications personnel. This dataset will be updated daily.
 
 - **Employee Salaries**  
   [Data](https://data.norfolk.gov/resource/4fsk-z8s8.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/4fsk-z8s8) | Last update: Recent  
@@ -10598,6 +10564,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Inspections**  
   [Data](https://data.norfolk.gov/resource/ihzr-5x5n.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/ihzr-5x5n) | Last update: Recent
+
+- **Library Active Users Statistics**  
+  [Data](https://data.norfolk.gov/resource/fq9t-6imp.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/fq9t-6imp) | Last update: May 2024  
+  This dataset contains information about Norfolk Public Library active users by month starting in July 2016. This information will be updated annually. Active users include users whose accounts have had any activity during the previous three years including card renewal, fines added, payments made, or computer usage. This dataset is updated monthly.
 
 - **Lifelong Learning**  
   [Data](https://data.norfolk.gov/resource/c7gp-ugij.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/c7gp-ugij) | Last update: Jul 2022  
@@ -10630,6 +10600,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Norfolk Mermaid Sculptures**  
   [Data](https://data.norfolk.gov/resource/fq4f-ag5s.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/fq4f-ag5s) | Last update: Jan 2023  
   This dataset provides a listing of all known Norfolk mermaid sculptures and their locations as well as the artists name, the mermaids name, and photographs of the mermaid. If you know of a mermaid that is missing from this dataset, please email Come Home or use the online form. This dataset will be updated as new mermaids are reported.
+
+- **Norfolk Public Library Programs**  
+  [Data](https://data.norfolk.gov/resource/dxzz-67xk.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/dxzz-67xk) | Last update: Jul 2023  
+  This dataset includes information regarding Norfolk Public Library programs featured on the Norfolk Public Library webpage calendar. The program data is uploaded into the calendar by library staff. Data will specify the date, time, program, program type, and target audience. This dataset will be updated quarterly.
 
 - **Parking Citations**  
   [Data](https://data.norfolk.gov/resource/ei2q-6g8n.json) | [Docs](https://dev.socrata.com/foundry/data.norfolk.gov/ei2q-6g8n) | Last update: Apr 2024
@@ -10708,8 +10682,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/569x-2wnq.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/569x-2wnq) | Last update: Jun 2021  
   Also available via GeoNova at: https://nsgi.novascotia.ca/WSF_DDS/DDS.svc/DownloadFile?tkey=fhrTtdnDvfytwLz6&id=82
 
-- **1:10,000 Nova Scotia Tertiary Watersheds**  
-  [Data](https://data.novascotia.ca/resource/6htv-yzkm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/6htv-yzkm) | Last update: Jun 2021  
+- **1:10,000 Nova Scotia Secondary Watersheds**  
+  [Data](https://data.novascotia.ca/resource/ynkv-x6rx.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/ynkv-x6rx) | Last update: Jun 2021  
   Also available via GeoNova at: https://nsgi.novascotia.ca/WSF_DDS/DDS.svc/DownloadFile?tkey=fhrTtdnDvfytwLz6&id=82
 
 - **ARCHVIED Alcohol, Gaming, Fuel & Tobacco Licensing Notices**  
@@ -10742,21 +10716,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/kgdu-nqdp.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/kgdu-nqdp) | Last update: May 2024  
   Oceanographic data from sensor strings deployed in Antigonish County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
-- **Asthma Crude Prevalence**  
-  [Data](https://data.novascotia.ca/resource/2bih-5dgk.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/2bih-5dgk) | Last update: Feb 2024  
-  Asthma prevalence data is from the Canadian Chronic Disease Surveillance System (CCDSS). Asthma prevalence in Nova Scotia. Includes the following data fields: Year, Management Zone, Sex, Age Group, Population, Asthma Prevalence Count, Crude Prevalence Rate %
-
-- **Birth Registrations 1864-1877, 1908-1921**  
-  [Data](https://data.novascotia.ca/resource/hr8e-zhmr.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/hr8e-zhmr) | Last update: Nov 2023  
-  Civil registration of births in Nova Scotia began in 1864, continued to 1877, then lapsed until 1908, when the province resumed record-keeping. Registrations for 1864-1877 are incomplete. Since 1 October 1908 the records have been maintained without interruption.
-
 - **Boil Water Advisories**  
-  [Data](https://data.novascotia.ca/resource/7t68-9xmm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/7t68-9xmm) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/7t68-9xmm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/7t68-9xmm) | Last update: Jul 2024  
   This dataset includes the following information for public registered and municipal drinking water supplies:  Site Name, County, Date Boil Advisory Issued, Date Boil Advisory Removed, Facility Type (Registered or Municipal), Length of Advisory in Days, Reason for the Report. This dataset includes boil water advisories from 2006 - current.
-
-- **Cape Breton County Water Quality Data**  
-  [Data](https://data.novascotia.ca/resource/5daj-5icy.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/5daj-5icy) | Last update: May 2024  
-  Oceanographic data from sensor strings deployed in Cape Breton County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
 - **Citizenship of Nominees**  
   [Data](https://data.novascotia.ca/resource/qnrf-gkt9.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/qnrf-gkt9) | Last update: Apr 2024  
@@ -10786,12 +10748,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Map service view also available via GeoNova: https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fnsgiwa.novascotia.ca%2Farcgis%2Frest%2Fservices%2FPLAN%2FPLANCrownLandsWM84V1%2FMapServer&source=sd
 
 - **Cruise Ship Passenger Visits**  
-  [Data](https://data.novascotia.ca/resource/cz56-9pdm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/cz56-9pdm) | Last update: May 2024  
+  [Data](https://data.novascotia.ca/resource/cz56-9pdm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/cz56-9pdm) | Last update: Recent  
   Number of cruise ship passenger visitors. Dataset broken down by the Port of Halifax and Port of Sydney. Data is reported quarterly.
-
-- **Death Registrations 1864-1877, 1908-1971; City of Halifax 1890-1908**  
-  [Data](https://data.novascotia.ca/resource/77h9-je62.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/77h9-je62) | Last update: Nov 2023  
-  Civil registration of deaths in Nova Scotia began in 1864, continued to 1877, then lapsed until 1908, when the province resumed record-keeping. Registrations for 1864-1877 are incomplete. There are two registers for the city of Halifax 1890-1908. Since 1 October 1908, the records have been maintained without interruption.
 
 - **Digby County Current Data**  
   [Data](https://data.novascotia.ca/resource/is3b-ip8b.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/is3b-ip8b) | Last update: Jun 2023  
@@ -10802,12 +10760,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Oceanographic data from sensor strings deployed in Digby County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
 - **Electric Vehicle Registration Data**  
-  [Data](https://data.novascotia.ca/resource/avxy-ifhs.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/avxy-ifhs) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/avxy-ifhs.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/avxy-ifhs) | Last update: Jul 2024  
   The number of Electric Vehicles registered in Nova Scotia with an active licence plate attached. This data breaks down the number of electric vehicles by vehicle model year, vehicle make and County of Nova Scotia in which the licence plate owner resides.
 
 - **Employee Engagement Survey Results for "How's Work Going"**  
-  [Data](https://data.novascotia.ca/resource/m5ke-g2xy.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/m5ke-g2xy) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/m5ke-g2xy.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/m5ke-g2xy) | Last update: Jul 2024  
   How's Work Going? Workplace Engagement Survey summary results to all questions for all of Government and by Department.
+
+- **Familiarity with the Nova Scotia Justice System**  
+  [Data](https://data.novascotia.ca/resource/bqp8-exbu.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/bqp8-exbu) | Last update: Nov 2018  
+  This dataset provides data on the level of familiarity with the justice system expressed by Nova Scotians and is based on a question included in the Atlantic Quarterly survey administered by Corporate Research Associates (CRA).
 
 - **Ferry Schedules**  
   [Data](https://data.novascotia.ca/resource/7izn-s679.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/7izn-s679) | Last update: Jan 2024  
@@ -10837,24 +10799,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/x9dy-aai9.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/x9dy-aai9) | Last update: May 2024  
   Oceanographic data from sensor strings deployed in Halifax County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
-- **Hand Hygiene – Hand Washing Rates for Healthcare Workers**  
-  [Data](https://data.novascotia.ca/resource/sj67-rkzg.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/sj67-rkzg) | Last update: May 2024  
-  Hand Hygiene rates represents the hand washing rates for healthcare workers within the Nova Scotia Health Authority and the IWK.
-
 - **Inverness County Current Data**  
   [Data](https://data.novascotia.ca/resource/fu6s-y58d.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/fu6s-y58d) | Last update: Sep 2023  
   Current speed and direction time series data collected in a vertical profile at various locations throughout the coastal waters of Inverness County.
-
-- **Inverness County Water Quality Data**  
-  [Data](https://data.novascotia.ca/resource/a9za-3t63.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/a9za-3t63) | Last update: May 2024  
-  Oceanographic data from sensor strings deployed in Inverness County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
 - **Labour Market Classification of Nominees**  
   [Data](https://data.novascotia.ca/resource/givj-4y7p.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/givj-4y7p) | Last update: Apr 2024  
   The Department of Labour, Skills and Immigration (LSI) issues nomination certificates to prospective immigrants who meet a labour market need and who will make a contribution to Nova Scotias economy. Nominees then apply to Immigration, Refugees and Citizenship Canada for a permanent resident visa.
 
 - **Long-term Care Waitlist**  
-  [Data](https://data.novascotia.ca/resource/c39g-gsdd.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/c39g-gsdd) | Last update: May 2024  
+  [Data](https://data.novascotia.ca/resource/c39g-gsdd.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/c39g-gsdd) | Last update: Recent  
   Number of individuals waiting for Long-term Care placement - weekly
 
 - **Lunenburg County Current Data**  
@@ -10865,20 +10819,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/eda5-aubu.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/eda5-aubu) | Last update: May 2024  
   Oceanographic data from sensor strings deployed in Lunenburg County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
-- **Marriage Bonds 1763-1864; Marriage Registrations 1864-1946**  
-  [Data](https://data.novascotia.ca/resource/nvp4-84se.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/nvp4-84se) | Last update: Mar 2023
-
 - **Municipal Affairs Funding Programs**  
-  [Data](https://data.novascotia.ca/resource/5rgt-der6.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/5rgt-der6) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/5rgt-der6.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/5rgt-der6) | Last update: Jul 2024  
   The Department of Municipal Affairs and Housing administers a variety of programs that provide funding to municipalities and not-for-profit community groups. This dataset includes a list of the funding programs that are administered by Department of Municipal Affairs and Housing. Information include: Funding Program, Area, Year, Actual Funding Amount.
 
 - **Municipal Fiscal Statistics - Financial Condition Indicators**  
-  [Data](https://data.novascotia.ca/resource/44ah-ugrd.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/44ah-ugrd) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/44ah-ugrd.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/44ah-ugrd) | Last update: Jun 2024  
   Financial Condition Indicators are produced by the Department which provide a general picture of a municipality's financial condition.
-
-- **Municipal Polling Districts**  
-  [Data](https://data.novascotia.ca/resource/gcep-xeci.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/gcep-xeci) | Last update: Recent  
-  This dataset delineates the municipal polling districts for towns and rural, district, county and regional municipalities.
 
 - **Municipal Property Tax Rates**  
   [Data](https://data.novascotia.ca/resource/ure8-3w7m.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/ure8-3w7m) | Last update: Feb 2024  
@@ -10887,10 +10834,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Municipality Boundaries**  
   [Data](https://data.novascotia.ca/resource/7bqh-hssn.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/7bqh-hssn) | Last update: Recent  
   This dataset delineates the municipal boundaries for towns and district, county and regional municipalities in Nova Scotia.
-
-- **NS Adult Admissions to Custody by Ethnicity**  
-  [Data](https://data.novascotia.ca/resource/9cqk-8ceu.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/9cqk-8ceu) | Last update: Oct 2021  
-  This dataset provides information on the percentage of offenders in adult correctional facilities by ethnicity and admission status (e.g., remand or sentenced custody). Percentage calculations exclude records where the ethnic background of the offender is unknown. The data is sourced from the Nova Scotia Department of Justice's Justice Enterprise Information Network (JEIN).
 
 - **NS Adult Admissions to Custody by Gender**  
   [Data](https://data.novascotia.ca/resource/aske-6h8e.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/aske-6h8e) | Last update: Feb 2022  
@@ -10929,7 +10872,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Province wide dataset of all physical locations which have been assigned a civic number by Municipalities and First Nations Communities.
 
 - **Nova Scotia Control Monuments**  
-  [Data](https://data.novascotia.ca/resource/jdf8-5rt8.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/jdf8-5rt8) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/jdf8-5rt8.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/jdf8-5rt8) | Last update: Jul 2024  
   The Nova Scotia Control Monuments (NSCM) dataset is updated and maintained from ongoing observations on survey monuments. The NSCM indicates the locations of physical survey monuments in Nova Scotia. Information includes the Station Number, Station Name, Station Description, Monument Type, Monument Status, Status Date, Construction Date, GPS suitability and general comments.
 
 - **Nova Scotia Current Data: Deployment Information**  
@@ -10949,7 +10892,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Absences reported by employees during the 2014-2015 to 2022-2023 fiscal year periods, by absence date, absence type category, absence type, absence hours, employee type, gender, and age cohort on absence date.
 
 - **Nova Scotia Government Pay Scales**  
-  [Data](https://data.novascotia.ca/resource/hn6q-5dmm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/hn6q-5dmm) | Last update: Recent  
+  [Data](https://data.novascotia.ca/resource/hn6q-5dmm.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/hn6q-5dmm) | Last update: Jul 2024  
   Nova Scotia Government Pay scales based upon effective period start and end dates. Columns include: Start Date, End Date, Pay Plan Type, Pay Plan, Pay Plan Level, Biweekly Pay Rate, Hourly Pay Rate
 
 - **Nova Scotia Health Authority Management Zones**  
@@ -10973,7 +10916,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Provides locations of Nova Scotia Works employment services centres. It includes fields for the following: region, name, address, contact information, and URL.
 
 - **Number of Aquaculture Licenses by County**  
-  [Data](https://data.novascotia.ca/resource/a8ri-ndhe.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/a8ri-ndhe) | Last update: Recent
+  [Data](https://data.novascotia.ca/resource/a8ri-ndhe.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/a8ri-ndhe) | Last update: Jul 2024
 
 - **Number of Charges - Select MVA Offences**  
   [Data](https://data.novascotia.ca/resource/neit-pbhj.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/neit-pbhj) | Last update: Mar 2024
@@ -10983,19 +10926,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset includes convictions for the following specified offences in the Motor Vehicle Act: MVA 100D Cellphone distracted driving; and MVA 103(3) Passing a school bus with red lights flashing. The information is recorded on the Nova Scotia Justice Enterprise Information Network (JEIN). The number of convictions are defined by calendar years.
 
 - **Number of Fish Buyer and Processor Licenses by County**  
-  [Data](https://data.novascotia.ca/resource/rqjj-zcsn.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/rqjj-zcsn) | Last update: Mar 2024
+  [Data](https://data.novascotia.ca/resource/rqjj-zcsn.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/rqjj-zcsn) | Last update: Recent
 
 - **Numbers and rates of substance-related fatalities in Nova Scotia**  
   [Data](https://data.novascotia.ca/resource/iu6y-z4n3.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/iu6y-z4n3) | Last update: Recent  
   This dataset contains frequencies, rates, and proportions that describe drug toxicity deaths in Nova Scotia over time and space and by certain demographic and contextual characteristics. See usage considerations for further details on these data.
 
+- **Onshore Petroleum Tenure**  
+  [Data](https://data.novascotia.ca/resource/8vwz-9w2v.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/8vwz-9w2v) | Last update: Apr 2022  
+  This data was created to graphically illustrate where petroleum exploration and production tenure areas are located onshore Nova Scotia.
+
 - **Order of Nova Scotia Award Recipients**  
   [Data](https://data.novascotia.ca/resource/557h-8837.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/557h-8837) | Last update: Dec 2023  
   This dataset provides the names of individuals who have received the Order of Nova Scotia from 2002 to 2023. The dataset includes the recipients name, residence, the date they received their ONS, and position.
-
-- **Perceived safety from crime when home alone at night**  
-  [Data](https://data.novascotia.ca/resource/nw2i-ymps.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/nw2i-ymps) | Last update: Nov 2018  
-  This dataset provides data on the level of perceived safety from crime when home at night reported by Nova Scotians and is based on a question included in the Atlantic Quarterly survey administered by Corporate Research Associates (CRA).
 
 - **Pictou County Current Data**  
   [Data](https://data.novascotia.ca/resource/e7d2-4ybd.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/e7d2-4ybd) | Last update: Jan 2023  
@@ -11009,9 +10952,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/kcy9-uern.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/kcy9-uern) | Last update: Jan 2023  
   Current speed and direction time series data collected in a vertical profile at various locations throughout the coastal waters of Queens County.
 
+- **Register of Private Career Colleges**  
+  [Data](https://data.novascotia.ca/resource/k3yz-94y3.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/k3yz-94y3) | Last update: Feb 2024  
+  Registered private career colleges and programs.
+
 - **Richmond County Current Data**  
   [Data](https://data.novascotia.ca/resource/d5cn-i8sx.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/d5cn-i8sx) | Last update: Jan 2024  
   Current speed and direction time series data collected in a vertical profile at various locations throughout the coastal waters of Richmond County.
+
+- **Richmond County Water Quality Data**  
+  [Data](https://data.novascotia.ca/resource/v6sa-tiit.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/v6sa-tiit) | Last update: May 2024  
+  Oceanographic data from sensor strings deployed in Richmond County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
 
 - **Road Weight Designations**  
   [Data](https://data.novascotia.ca/resource/y7tt-edu2.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/y7tt-edu2) | Last update: Jun 2024  
@@ -11025,10 +10976,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/s9tf-xmke.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/s9tf-xmke) | Last update: Jan 2023  
   Current speed and direction time series data collected in a vertical profile at various locations throughout the coastal waters of Shelburne County.
 
-- **Shelburne County Water Quality Data**  
-  [Data](https://data.novascotia.ca/resource/mq2k-54s4.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/mq2k-54s4) | Last update: May 2024  
-  Oceanographic data from sensor strings deployed in Shelburne County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
-
 - **Spring Weight Restrictions - Exempt Roads**  
   [Data](https://data.novascotia.ca/resource/qusm-8w98.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/qusm-8w98) | Last update: May 2024  
   For the non-exempt roads please check https://data.novascotia.ca/Roads-Driving-and-Transport/Spring-Weight-Restrictions-Non-exempt-Roads/8xvj-phvi
@@ -11041,13 +10988,21 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.novascotia.ca/resource/dhns-eqjr.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/dhns-eqjr) | Last update: Recent  
   Deployment specifications for wave time series data collected at various locations throughout the waters of Nova Scotia by the Department of Fisheries and Aquacultures Aquaculture Division.
 
+- **Treaty Day Award Recipients**  
+  [Data](https://data.novascotia.ca/resource/q8su-547s.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/q8su-547s) | Last update: Dec 2023  
+  This dataset provides the names of individuals who have received an award during Treaty Day Celebrations. In addition to the recipients name, the following data is also included: community, award name, and the year the award was presented.
+
+- **Victim Services Offices**  
+  [Data](https://data.novascotia.ca/resource/2bju-ndbs.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/2bju-ndbs) | Last update: Aug 2023  
+  This dataset lists the location of Department of Justice victim services offices throughout the province.
+
 - **Victoria County Current Data**  
   [Data](https://data.novascotia.ca/resource/y8qv-uhmu.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/y8qv-uhmu) | Last update: Jun 2023  
   Current speed and direction time series data collected in a vertical profile at various locations throughout the coastal waters of Victoria County.
 
-- **Victoria County Water Quality Data**  
-  [Data](https://data.novascotia.ca/resource/t2ms-7jgj.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/t2ms-7jgj) | Last update: May 2024  
-  Oceanographic data from sensor strings deployed in Victoria County as part of the Centre for Marine Applied Research's (CMAR) Coastal Monitoring Program.
+- **Village Boundaries**  
+  [Data](https://data.novascotia.ca/resource/23hp-7dde.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/23hp-7dde) | Last update: Recent  
+  This dataset delineates the village boundaries for Nova Scotia.
 
 - **Yarmouth County Current Data**  
   [Data](https://data.novascotia.ca/resource/7wwn-in3c.json) | [Docs](https://dev.socrata.com/foundry/data.novascotia.ca/7wwn-in3c) | Last update: Jun 2023  
@@ -11114,7 +11069,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of executive contacts within state agencies.
 
 - **Air Monitoring Station Locations & Attributes**  
-  [Data](https://data.ny.gov/resource/qcpj-zdb6.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qcpj-zdb6) | Last update: Jun 2023  
+  [Data](https://data.ny.gov/resource/qcpj-zdb6.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qcpj-zdb6) | Last update: Recent  
   Location maps of  monitoring sites and measured parameters in the NY State Ambient Air Monitoring Network
 
 - **Air Passenger Traffic per Month, Port Authority of NY NJ: Beginning 1977**  
@@ -11130,7 +11085,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Go to https://afdc.energy.gov/stations/#/find/nearest to access the full database of alternative fuel station locations nationwide, collected and maintained by the U.S. Department of Energy National Renewable Energy Laboratory.
 
 - **Annual Average Daily Traffic (AADT): Beginning 1977**  
-  [Data](https://data.ny.gov/resource/6amx-2pbv.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6amx-2pbv) | Last update: Feb 2022
+  [Data](https://data.ny.gov/resource/6amx-2pbv.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6amx-2pbv) | Last update: Recent
 
 - **Annual Enplanements in NYS Airports: Beginning 1997**  
   [Data](https://data.ny.gov/resource/vpv5-zd4k.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/vpv5-zd4k) | Last update: Mar 2024  
@@ -11170,7 +11125,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/ndex-ad5r.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ndex-ad5r) | Last update: Recent
 
 - **Banking Institution History: Beginning 1784**  
-  [Data](https://data.ny.gov/resource/mbsk-bxfq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/mbsk-bxfq) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/mbsk-bxfq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/mbsk-bxfq) | Last update: Jun 2024  
   This file contains a history of banking institutions that are, or were, state chartered, as well as most federally chartered institutions that have operated in the state of New York.
 
 - **Bicycle Routes Across New York State**  
@@ -11192,6 +11147,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Birding Trail Locations**  
   [Data](https://data.ny.gov/resource/dpe3-6uw2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/dpe3-6uw2) | Last update: Apr 2023  
   The NYS Birding Trail locations with information on the land administrator, link, county, DEC region, latitude and longitude, potential birds to observe, and if the location has a bird conservation area designation.
+
+- **Blasters Certificate of Competence**  
+  [Data](https://data.ny.gov/resource/65tz-hymq.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/65tz-hymq) | Last update: Recent
 
 - **Boat Launch Sites by State Parks or Marine Facility**  
   [Data](https://data.ny.gov/resource/2gcg-hikh.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/2gcg-hikh) | Last update: Dec 2020  
@@ -11265,7 +11223,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset presented in this forum is monthly data. The Port Authority collects monthly data for domestic and international cargo, flight, passengers and aircraft equipment type from each carrier at PANYNJ-operated airports. The data is aggregated and forms the basis for estimating flight fees, parking, concession, and PFC revenues at the Port Authority Airports.
 
 - **Case-Specific Beneficial Use Determinations: Beginning 1988**  
-  [Data](https://data.ny.gov/resource/id6x-swrj.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/id6x-swrj) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/id6x-swrj.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/id6x-swrj) | Last update: Jun 2024  
   All case-specific beneficial use determinations (BUDs) granted by DECs Division of Materials Management since 1988.
 
 - **Certified Disadvantaged Business Enterprises (DBEs) in the NYS Unified Certification Program**  
@@ -11280,7 +11238,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Information on OCFS regulated child care programs, which includes program overview information and violation history.
 
 - **Child Welfare and Community Services Funded Programs**  
-  [Data](https://data.ny.gov/resource/ahjq-dbec.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ahjq-dbec) | Last update: Jun 2023  
+  [Data](https://data.ny.gov/resource/ahjq-dbec.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ahjq-dbec) | Last update: Recent  
   Data elements include the name of the provider agency, the business address and phone number, the county served, type of program, funding source, description of services, contract dates, contract number, funding level and the agencies website, where available
 
 - **Children in Foster Care Annually: Beginning 1994**  
@@ -11383,6 +11341,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/4xc7-bukh.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/4xc7-bukh) | Last update: Jun 2019  
   The locations are the street address of the primary county office building.
 
+- **Crane Operator Certificate of Competence**  
+  [Data](https://data.ny.gov/resource/bu6a-ty84.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/bu6a-ty84) | Last update: Recent
+
 - **Curb Ramps on NYS-Owned Highways**  
   [Data](https://data.ny.gov/resource/hmbc-hni2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/hmbc-hni2) | Last update: Apr 2022  
   This data set includes all curb ramps located on the road system under the jurisdiction of New York State Department of Transportation (DOT). It contains the Regional Office responsible for the management of the feature, the state county where the feature is located and the route name and number for all curb ramps on state-owned routes within New York State.
@@ -11427,7 +11388,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The current stocking data is updated annually in mid-March.
 
 - **Currently Accredited Law Enforcement Agencies**  
-  [Data](https://data.ny.gov/resource/n86b-q7rb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/n86b-q7rb) | Last update: Recent
+  [Data](https://data.ny.gov/resource/n86b-q7rb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/n86b-q7rb) | Last update: Jul 2024
 
 - **Currently Licensed Commercial Nuisance Wildlife Control Operators**  
   [Data](https://data.ny.gov/resource/868p-5nmh.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/868p-5nmh) | Last update: Feb 2024  
@@ -11457,7 +11418,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Land acquisition projects completed by DEC reported since the institution of the required Annual Land Acquisition Report in ECL  49-0213.
 
 - **DMV Driver Sanctions: Four Year Window**  
-  [Data](https://data.ny.gov/resource/qwti-3ybe.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qwti-3ybe) | Last update: May 2024  
+  [Data](https://data.ny.gov/resource/qwti-3ybe.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qwti-3ybe) | Last update: Recent  
   Many sections of NYS law provide for suspension or revocation (sanction) of an individuals driving privilege. This data set describes each instance when a sanction has been ordered.
 
 - **DMV Driving Schools**  
@@ -11502,7 +11463,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is a listing of vehicle and vessel registration transactions with
 
 - **Department of State Business Filings: Beginning 1991**  
-  [Data](https://data.ny.gov/resource/m7i3-tv6j.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/m7i3-tv6j) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/m7i3-tv6j.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/m7i3-tv6j) | Last update: Jul 2024  
   The dataset includes demographic information setting forth the number of filings made by business entities with the Department of States Division of Corporations.
 
 - **Designated Scenic Byways**  
@@ -11539,10 +11500,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/a4s2-d9tt.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/a4s2-d9tt) | Last update: Jun 2024  
   This data set includes general demographics for all persons who hold, or have recently held a: Driver License, Permit or Non-Driver Identification Card (a.k.a. credential) issued by the New York State Department of Motor Vehicles.
 
-- **E-ZPass Retailers Locations**  
-  [Data](https://data.ny.gov/resource/y59h-w6v4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/y59h-w6v4) | Last update: Recent  
-  This dataset is a moment in time snapshot of the locations of authorized businesses that can sell E-ZPass tags. It includes the name of the company, and its address.
-
 - **ESD Broadband Awarded Census Blocks Phase 1**  
   [Data](https://data.ny.gov/resource/y522-pesw.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/y522-pesw) | Last update: Apr 2022  
   Awarded Census Blocks (CB) in Phase 1 of the New NY Broadband Program, including the number of homes connected and whether or not the entire CB was served.
@@ -11562,15 +11519,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/3sqx-ew2z.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/3sqx-ew2z) | Last update: Feb 2024
 
 - **Electric Generation By Fuel Type, GWh: Beginning 1960**  
-  [Data](https://data.ny.gov/resource/h4gs-8qnu.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/h4gs-8qnu) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/h4gs-8qnu.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/h4gs-8qnu) | Last update: Jul 2024  
   New York Electric Generation By Fuel Type, GWh dataset provides data on total electricity requirements and in-state generation for New York State in giga-watt hours. Sources of electricity include coal, natural gas, petroleum products, hydro, nuclear, waste, landfill gas, wood, wind, solar, and net imports of electricity.
 
 - **Electricity Sales By Sector, GWh: Beginning 1980**  
-  [Data](https://data.ny.gov/resource/pv7j-5nz8.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pv7j-5nz8) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/pv7j-5nz8.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pv7j-5nz8) | Last update: Jun 2024  
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
 
 - **Electricity Sales By Sector, TBtu: Beginning 1980**  
-  [Data](https://data.ny.gov/resource/8m9z-nvih.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/8m9z-nvih) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/8m9z-nvih.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/8m9z-nvih) | Last update: Jun 2024  
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
 
 - **Electronic Waste Recycling Facilities List**  
@@ -11590,7 +11547,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data from the Current Population Survey (CPS) provide detailed labor market information and demographics. The CPS data are provided for NYS. Topics include Veterans (employment status and selected demographics only available for New York State), employment status and other labor force demographics.
 
 - **Energy Efficiency Completed Projects: Beginning 1987**  
-  [Data](https://data.ny.gov/resource/erjw-j2zx.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/erjw-j2zx) | Last update: Mar 2024  
+  [Data](https://data.ny.gov/resource/erjw-j2zx.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/erjw-j2zx) | Last update: Recent  
   This data set contains information on energy efficiency projects completed since 1987. The data set is updated in a quarterly basis to reflect new data as projects are implemented. The information includes project location, customer name, project name, total cost, and energy efficiency benefits, including energy reduction (electric, natural gas, oil) and greenhouse gas emissions reductions.
 
 - **Energy Efficiency Portfolio Standard (EEPS) Program Estimated Energy Savings Data**  
@@ -11598,11 +11555,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   New York States utilities and the New York State Energy Research and Development Authority (NYSERDA) administer energy efficiency programs to achieve energy efficiency savings. EEPS energy efficiency programs provide technical services, information and customer incentives to encourage customers in implementing energy efficiency measures.
 
 - **Energy Prices Per Physical Unit By Sector: Beginning 1970**  
-  [Data](https://data.ny.gov/resource/cxu4-yemb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cxu4-yemb) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/cxu4-yemb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cxu4-yemb) | Last update: Jun 2024  
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
 
 - **Energy Prices, Dollars per Million Btu: Beginning 1970**  
-  [Data](https://data.ny.gov/resource/pzgr-wqm5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pzgr-wqm5) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/pzgr-wqm5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pzgr-wqm5) | Last update: Jun 2024  
   This section includes a column in the price table displaying gross domestic product (GDP) price deflators for converting nominal (current year) dollars to constant (real) dollars.
 
 - **Enforcement Actions by NYS Joint Commission on Public Ethics and Predecessor Agencies**  
@@ -11634,7 +11591,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Estimated gasoline sales data is derived from New York StateDepartment of Taxation and Finance data on gasoline sales andgasoline sales tax collections. Gasoline sales data is estimated for eachcounty with the exception that individual county data for New YorkCity is not available. Data is weighted for regional price differencesand differing county tax rates.
 
 - **Excess Revenues for Battery Park City Authority (BPCA) Provided to NYC Annually: Beginning 1987**  
-  [Data](https://data.ny.gov/resource/c4zw-e4pa.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/c4zw-e4pa) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/c4zw-e4pa.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/c4zw-e4pa) | Last update: Jun 2024  
   The disposition and allocation of annual Excess Revenues is governed by the 1986 amendment to the Settlement Agreement which defined the relationship between the Authority and the City of New York.
 
 - **Facilities Licensed by the Department of Motor Vehicles (DMV)**  
@@ -11642,7 +11599,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data set containing information on the facilities licensed by DMV in accordance with Vehicle and Traffic Law.
 
 - **Farm Product Dealer Licenses Currently Issued**  
-  [Data](https://data.ny.gov/resource/ehtk-kzxa.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ehtk-kzxa) | Last update: Recent
+  [Data](https://data.ny.gov/resource/ehtk-kzxa.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/ehtk-kzxa) | Last update: Jun 2024
 
 - **Farmers' Markets in New York State**  
   [Data](https://data.ny.gov/resource/qq4h-8p86.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/qq4h-8p86) | Last update: Recent  
@@ -11661,7 +11618,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing OpenNY@nyserda.ny.gov.
 
 - **Fuel-NY Emergency Generators and Transfer Switches**  
-  [Data](https://data.ny.gov/resource/i67p-6ac2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/i67p-6ac2) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/i67p-6ac2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/i67p-6ac2) | Last update: Jul 2024  
   These stations have either the capability to easily accept backup power or have a backup generator permanently installed on site. The equipment allows the stations to mitigate the effects of power outages, increase the availability of fuel, and support first responders during and after emergencies and severe weather events.
 
 - **Golf Courses**  
@@ -11680,7 +11637,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset includes emissions for each year from 1990 through the present (currently 2010), broken down by the sector (Residential/Commercial/Industrial, Electricity generation, and Transportation).
 
 - **Guides Currently Licensed in New York State**  
-  [Data](https://data.ny.gov/resource/q9d5-zxbn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/q9d5-zxbn) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/q9d5-zxbn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/q9d5-zxbn) | Last update: Jul 2024  
   List of all Guides currently licensed by the NY State Department of Environmental Conservation's (DEC) Division of Forest Protection (DFP).
 
 - **Headcount Enrollment by Student Level and Student Load, State University of New York: Beginning 1948**  
@@ -11822,7 +11779,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains a listing of lodging available near the NYS Canal System
 
 - **Long Term Occupational Projections**  
-  [Data](https://data.ny.gov/resource/pqm4-9qqb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pqm4-9qqb) | Last update: Recent
+  [Data](https://data.ny.gov/resource/pqm4-9qqb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/pqm4-9qqb) | Last update: Jul 2024
 
 - **Long-term Industry Projections**  
   [Data](https://data.ny.gov/resource/b7d6-zygf.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/b7d6-zygf) | Last update: Jun 2023  
@@ -11848,12 +11805,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/cgzt-smqf.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cgzt-smqf) | Last update: Recent  
   This dataset is a list of MTA bus routes that intersect with the CBD, and how each route relates to the CBD (whether it crosses the CBD or is entirely in the CBD). It is meant to be a dimension table that can easily be used with other bus route-level datasets so that data users can easily distinguish between routes serving the CBD and routes that do not.
 
+- **MTA Central Business District Taxi Zones**  
+  [Data](https://data.ny.gov/resource/yfdc-w5jh.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/yfdc-w5jh) | Last update: Recent
+
 - **MTA Colors**  
-  [Data](https://data.ny.gov/resource/3uhz-sej2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/3uhz-sej2) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/3uhz-sej2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/3uhz-sej2) | Last update: Jun 2024  
   This dataset includes the RGB Hex code and CMYK values for the colors used by the MTA for its various services, including the New York City Subway, the Staten Island Railway, the Long Island Rail Road, Metro-North Railroad, and Bridges & Tunnels, and for the MTA logo itself.
 
 - **MTA Debt Outstanding**  
   [Data](https://data.ny.gov/resource/sze3-m8qh.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/sze3-m8qh) | Last update: Recent
+
+- **MTA E-ZPass Retailers Locations**  
+  [Data](https://data.ny.gov/resource/y59h-w6v4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/y59h-w6v4) | Last update: Recent  
+  This dataset is a moment in time snapshot of the locations of authorized businesses that can sell E-ZPass tags. It includes the name of the company, and its address.
 
 - **MTA Fuel Hedging**  
   [Data](https://data.ny.gov/resource/dips-jfpb.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/dips-jfpb) | Last update: Recent  
@@ -11875,7 +11839,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/f462-ka72.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/f462-ka72) | Last update: Recent
 
 - **MTA Permanent Art Catalog: Beginning 1980**  
-  [Data](https://data.ny.gov/resource/4y8j-9pkd.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/4y8j-9pkd) | Last update: Recent
+  [Data](https://data.ny.gov/resource/4y8j-9pkd.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/4y8j-9pkd) | Last update: Jun 2024
 
 - **MTA Subway Entrances and Exits**  
   [Data](https://data.ny.gov/resource/i9wp-a4ja.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/i9wp-a4ja) | Last update: Recent  
@@ -11899,11 +11863,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains a list of marinas along with location and services provided that are near the NYS Canal System
 
 - **Master Contract Value Added Resellers (VAR) Report**  
-  [Data](https://data.ny.gov/resource/cjqa-a3p4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cjqa-a3p4) | Last update: May 2024  
+  [Data](https://data.ny.gov/resource/cjqa-a3p4.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/cjqa-a3p4) | Last update: Recent  
   The information in the dataset represents the Master contracts used by State agencies and other authorized users, and the value-added resellers associated with the Master Contract.
 
 - **Meals Served by the Office for the Aging: Beginning 1974**  
-  [Data](https://data.ny.gov/resource/uhw9-gyvi.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/uhw9-gyvi) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/uhw9-gyvi.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/uhw9-gyvi) | Last update: Jun 2024  
   This dataset is a listing of congregate and home delivered meals served 1974 to the present by the network of Area Agencies on Aging (AAAs).
 
 - **Metropolitan Transportation Authority (MTA) Capital Dashboard Agencies Detail**  
@@ -11999,7 +11963,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Details of State Highway Construction projects. Provides locations, construction dates, contract amounts, State Highway numbers, contract numbers, work description, nature of work.
 
 - **NYSERDA Building Energy Data Exchange Specification (BEDES)**  
-  [Data](https://data.ny.gov/resource/man9-y8du.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/man9-y8du) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/man9-y8du.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/man9-y8du) | Last update: Jul 2024  
   For more information regarding BEDES data, please visit: https://www.energy.gov/eere/buildings/building-energy-data-exchange-specification-bedes
 
 - **NYSERDA New York Offshore Wind Supply Chain Dataset**  
@@ -12007,10 +11971,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   How does your organization use this dataset? What other NYSERDA or energy-related datasets would you like to see on Open NY? Let us know by emailing  OpenNY@nyserda.ny.gov.
 
 - **NYSERDA Supported Clean Energy Research and Development Projects: Beginning 1991**  
-  [Data](https://data.ny.gov/resource/7xzk-zyk5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7xzk-zyk5) | Last update: Recent
+  [Data](https://data.ny.gov/resource/7xzk-zyk5.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/7xzk-zyk5) | Last update: Jul 2024
 
 - **NYSWCB Workers’ Compensation Claim – Multiple Body Parts**  
-  [Data](https://data.ny.gov/resource/y496-mkk9.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/y496-mkk9) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/y496-mkk9.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/y496-mkk9) | Last update: Jun 2024  
   This dataset is a subset of Assembled Workers Compensation Claims: Beginning 2000 with two new fields: Part of Body Injured List and Part of Body Injured Decode. The first field is a list of Workers Compensation Insurance Organizations (WCIO) part of body codes, separated by commas, the second field is a list of WCIO Part of Body Descriptions, separated by commas. Each row is per claim.
 
 - **NYSsnowmobiletrails**  
@@ -12018,7 +11982,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The New York State Office of Parks, Recreation and Historic Preservation (OPRHP) oversees more than 250 state parks, historic sites, recreational trails, golf courses, boat launches and more,  encompassing nearly 350,000 acres, that are visited by 74 million people annually.
 
 - **National Register of Historic Places**  
-  [Data](https://data.ny.gov/resource/iisn-hnyv.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/iisn-hnyv) | Last update: Feb 2022  
+  [Data](https://data.ny.gov/resource/iisn-hnyv.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/iisn-hnyv) | Last update: Recent  
   The New York State Office of Parks, Recreation and Historic Preservation (OPRHP) oversees more than 250 state parks, historic sites, recreational trails, golf courses, boat launches and more,  encompassing nearly 350,000 acres, that are visited by 74 million people annually.
 
 - **Neighborhood and Rural Preservation Companies Directory**  
@@ -12119,7 +12083,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset provides information on intercepts of lottery winnings of PA recipients to repay PA benefits received, aggregated by month, year, district and total amount recovered for that district by assistance type.
 
 - **Occupational Employment and Wage Statistics**  
-  [Data](https://data.ny.gov/resource/gkgz-nw24.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/gkgz-nw24) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/gkgz-nw24.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/gkgz-nw24) | Last update: Jul 2024  
   The Occupational Employment and Wage Statistics (OEWS) survey is a semiannual mail survey of employers that measures occupational employment and occupational wage rates for wage and salary workers in nonfarm establishments, by industry.
 
 - **Occupations Licensed or Certified by New York State**  
@@ -12179,7 +12143,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Examples include: lean-to, parking lot, primitive campsite, pit privy, trail structure, fire tower, scenic vista, picnic site, boat launch, accessible asset, horse stall.
 
 - **Police Officer Memorial Honor Roll: Beginning 1791**  
-  [Data](https://data.ny.gov/resource/psym-z9ae.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/psym-z9ae) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/psym-z9ae.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/psym-z9ae) | Last update: Jul 2024  
   The Office of Public Safety (OPS) of the NYS Division of Criminal Justice Services (DCJS) facilitates and provides support services for all activities surrounding the New York State Police Officers Memorial.
 
 - **Port Authority Trans-Hudson (PATH) Monthly Ridership: Beginning 1996**  
@@ -12230,7 +12194,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains a list of decisions issued by the Public Employment Relations Board, by date on which they were issued, in the form of links to pdf documents.
 
 - **Public Events at the Empire State Plaza: Beginning 1999**  
-  [Data](https://data.ny.gov/resource/w7m2-v3g2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/w7m2-v3g2) | Last update: May 2024  
+  [Data](https://data.ny.gov/resource/w7m2-v3g2.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/w7m2-v3g2) | Last update: Recent  
   This dataset contains a listing of public events held at the Empire State Plaza with information about the events such as date and time, including many upcoming events.
 
 - **Public Fishing Rights Parking Areas**  
@@ -12267,7 +12231,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/t7uh-5ac8.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t7uh-5ac8) | Last update: Oct 2023
 
 - **Recharge New York Customers**  
-  [Data](https://data.ny.gov/resource/mkqe-r4dx.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/mkqe-r4dx) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/mkqe-r4dx.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/mkqe-r4dx) | Last update: Jul 2024  
   Recharge New York  Power is available to businesses and not-for-profit corporations for job retention and business expansion and attraction purposes. This dataset contains Recharge New York Customers, including their location, amount of allocation, and amount of jobs committed.
 
 - **Recommended Fishing Lakes and Ponds**  
@@ -12277,7 +12241,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ny.gov/resource/jcxg-7gnm.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/jcxg-7gnm) | Last update: Jun 2019
 
 - **Regional Economic Development Councils (REDC)**  
-  [Data](https://data.ny.gov/resource/6u6d-i2fg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6u6d-i2fg) | Last update: Recent
+  [Data](https://data.ny.gov/resource/6u6d-i2fg.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/6u6d-i2fg) | Last update: Jul 2024
 
 - **Registered Lobbyist Disclosures: 7 Year Window**  
   [Data](https://data.ny.gov/resource/djsm-9cw7.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/djsm-9cw7) | Last update: Jul 2023  
@@ -12304,7 +12268,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This data set contains the New York State Department of Transportation maintained rest areas across New York state.
 
 - **Retail Food Stores**  
-  [Data](https://data.ny.gov/resource/9a8c-vfzj.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/9a8c-vfzj) | Last update: Feb 2024
+  [Data](https://data.ny.gov/resource/9a8c-vfzj.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/9a8c-vfzj) | Last update: Recent
 
 - **Runaway And Homeless Youth Programs**  
   [Data](https://data.ny.gov/resource/q88j-j2mi.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/q88j-j2mi) | Last update: Mar 2024
@@ -12314,7 +12278,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The SPDES Multi-Sector General Permit (MSGP), which is administered by the Department of Environmental Conservation (the Department), regulates stormwater discharges associated with industrial activity from a point source.
 
 - **START-UP NY Tax-Free Area Locations**  
-  [Data](https://data.ny.gov/resource/rpku-hjxn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rpku-hjxn) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/rpku-hjxn.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/rpku-hjxn) | Last update: Jul 2024  
   The dataset displays the name of the Sponsor, the street address, city and county of the tax-free areas (TFA) designated by that college or university, square footage of each building space and acreage of each parcel of vacant land, the name of buildings designated and the START-UPNY website of the college.
 
 - **Salary Information for Industrial Development Agencies**  
@@ -12499,7 +12463,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These insurers are required under Article 64 of the New York Insurance Law to meet minimum financial security requirements.
 
 - **Title and Salary Listing**  
-  [Data](https://data.ny.gov/resource/t3vp-5tka.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t3vp-5tka) | Last update: Recent  
+  [Data](https://data.ny.gov/resource/t3vp-5tka.json) | [Docs](https://dev.socrata.com/foundry/data.ny.gov/t3vp-5tka) | Last update: Jul 2024  
   The Title and Salary Listing is a compilation of job titles under the jurisdiction of the Department of Civil Service.
 
 - **Total Income And Tax Liability By Place Of Residence: Beginning Tax Year 1999**  
@@ -12662,6 +12626,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oaklandca.gov/resource/tjvx-uwhe.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/tjvx-uwhe) | Last update: Apr 2019  
   Shotspotter Data 11288
 
+- **Shotspotter Data 8-1-15 To 8-31-15**  
+  [Data](https://data.oaklandca.gov/resource/w77u-8dmu.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/w77u-8dmu) | Last update: Apr 2019
+
 - **Shotspotter Data 8-16-15 To 9-15-15**  
   [Data](https://data.oaklandca.gov/resource/45hc-hrd3.json) | [Docs](https://dev.socrata.com/foundry/data.oaklandca.gov/45hc-hrd3) | Last update: Apr 2019
 
@@ -12690,14 +12657,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **City Services**  
   [Data](https://data.orcities.org/resource/qusy-xbnk.json) | [Docs](https://dev.socrata.com/foundry/data.orcities.org/qusy-xbnk) | Last update: Apr 2019  
   City service providers based on data from the 2015 State of the Cities Survey
-
-- **City financial data**  
-  [Data](https://data.orcities.org/resource/n3gy-ac7h.json) | [Docs](https://dev.socrata.com/foundry/data.orcities.org/n3gy-ac7h) | Last update: Aug 2016  
-  The data includes:  property tax revenue, public safety expenditure, governmental fund revenue and expenditure and general fund revenue and expenditure.
-
-- **Police Departments and Total Employees**  
-  [Data](https://data.orcities.org/resource/2wew-eeq2.json) | [Docs](https://dev.socrata.com/foundry/data.orcities.org/2wew-eeq2) | Last update: Apr 2019  
-  List of Cities with Police Departments and respective FTE as of 2013.
 
 [[TOP]](#toc)
 
@@ -12737,8 +12696,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Nonprofit corporations active on the record of the Secretary of State Corporation Division as of the first working day of the month.
 
 - **Active Notaries**  
-  [Data](https://data.oregon.gov/resource/j2pk-zk6z.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/j2pk-zk6z) | Last update: Recent  
-  List of current active Notaries
+  [Data](https://data.oregon.gov/resource/j2pk-zk6z.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/j2pk-zk6z) | Last update: Recent
 
 - **Active Trademark Registrations**  
   [Data](https://data.oregon.gov/resource/ny3n-dx3v.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/ny3n-dx3v) | Last update: Recent  
@@ -12752,7 +12710,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oregon.gov/resource/iqea-tt27.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/iqea-tt27) | Last update: May 2024
 
 - **Agency Expenditures – Multi-Year Report**  
-  [Data](https://data.oregon.gov/resource/y9g9-xsxs.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/y9g9-xsxs) | Last update: Jan 2024  
+  [Data](https://data.oregon.gov/resource/y9g9-xsxs.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/y9g9-xsxs) | Last update: Recent  
   This list of state agencies expenditure data covers multiple fiscal years. Visit the Oregon Transparency website for more information, and an interactive data display.
 
 - **Audits**  
@@ -12796,9 +12754,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **COVID-19 Assistance**  
   [Data](https://data.oregon.gov/resource/8umw-9ajq.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/8umw-9ajq) | Last update: Oct 2021  
   Grants provided in Fiscal Year 2021 to businesses, hospitals, tenants/landlords, public municipalities, and community organizations to deliver various forms of relief to impacts of the COVID-19 pandemic. Funding for these programs comes from federal and state allocations.
-
-- **COVID-19 Frequently Asked Questions as of 11/24/21**  
-  [Data](https://data.oregon.gov/resource/h9td-pddv.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/h9td-pddv) | Last update: Dec 2021
 
 - **Campaign Finance Penalty Notices**  
   [Data](https://data.oregon.gov/resource/fku5-vh2b.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/fku5-vh2b) | Last update: Recent  
@@ -12848,7 +12803,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Services provided by the Enterprise Information Services, E-Government Program for state of Oregon departments, boards, commissions, offices and branches of government.
 
 - **Education Service District: Revenue by Fund & Source - Multi-Year Report**  
-  [Data](https://data.oregon.gov/resource/acp7-jb3d.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/acp7-jb3d) | Last update: Jul 2023  
+  [Data](https://data.oregon.gov/resource/acp7-jb3d.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/acp7-jb3d) | Last update: Recent  
   Audited Educational Service District (ESD) revenues by schoolyear, educational service district, revenue fund and revenue source. For more information visit: https://www.oregon.gov/ode/Pages/default.aspx and https://www.oregon.gov/transparency/Pages/index.aspx
 
 - **Eligible Training Provider List**  
@@ -12912,7 +12867,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   High Impact Opportunity Projects (HIOP) support the growth of target industry sectors in Oregon by removing barriers to research and development, product development and testing, technology commercialization, and other aspects of industry innovation. HIOPs are awarded to projects that provide benefit and further innovation across an industry and are not grants to individual companies.
 
 - **Historical personal income tax return statistics by county and tax year**  
-  [Data](https://data.oregon.gov/resource/v2yt-n6gs.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/v2yt-n6gs) | Last update: Dec 2023
+  [Data](https://data.oregon.gov/resource/v2yt-n6gs.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/v2yt-n6gs) | Last update: Recent
 
 - **House BIll 2402 Grantee List**  
   [Data](https://data.oregon.gov/resource/cw9y-pftk.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/cw9y-pftk) | Last update: Apr 2024  
@@ -12927,7 +12882,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Report includes contracts and amendments issued for the Oregon Judicial Department. Contract values provided are estimates. Visit the Oregon Transparency website https://www.oregon.gov/transparency/Pages/index.aspx, or the Oregon Judicial website https://www.courts.oregon.gov/Pages/default.aspx for more information.
 
 - **Long-Term Rural (LTR) Enterprise Zone EZ - Facilities Reports**  
-  [Data](https://data.oregon.gov/resource/re77-krua.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/re77-krua) | Last update: Feb 2024
+  [Data](https://data.oregon.gov/resource/re77-krua.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/re77-krua) | Last update: Recent  
+  Long-Term Rural Enterprise Zone Facilities Program: Extends property tax abatement for 715 years, compared to the standard three to five years, in most rural enterprise zones. Any type of business activity is eligible, but these incentives depend on local approval and minimum levels for investment size, job creation and employee compensation.
 
 - **Lottery Contracts - Multi-Year Report**  
   [Data](https://data.oregon.gov/resource/rkhh-35im.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/rkhh-35im) | Last update: Oct 2023  
@@ -12937,7 +12893,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.oregon.gov/resource/anxj-teqh.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/anxj-teqh) | Last update: Oct 2023
 
 - **New Business List - April**  
-  [Data](https://data.oregon.gov/resource/5qwt-pfng.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/5qwt-pfng) | Last update: Recent  
+  [Data](https://data.oregon.gov/resource/5qwt-pfng.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/5qwt-pfng) | Last update: Jun 2024  
   Businesses registered with the Secretary of State Corporation Division during the month of April.
 
 - **New Business List - February**  
@@ -12957,7 +12913,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Businesses registered with the Secretary of State Corporation Division during the month of March.
 
 - **New Business List - May**  
-  [Data](https://data.oregon.gov/resource/qnw2-qahx.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/qnw2-qahx) | Last update: Recent  
+  [Data](https://data.oregon.gov/resource/qnw2-qahx.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/qnw2-qahx) | Last update: Jul 2024  
   Businesses registered with the Secretary of State Corporation Division during the month of May
 
 - **New Businesses Registered Last Month**  
@@ -12973,14 +12929,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is a multi-year report of Oregon Department of Transportation (ODOT) highway construction contracts. This information is not available in the ORPIN (Oregon Procurement Information Network) system. Visit the Oregon Transparency  website for more information: https://www.oregon.gov/transparency/Pages/index.aspx.
 
 - **OEM - Natural Hazards Mitigation Plans**  
-  [Data](https://data.oregon.gov/resource/kc6q-i535.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/kc6q-i535) | Last update: Recent  
+  [Data](https://data.oregon.gov/resource/kc6q-i535.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/kc6q-i535) | Last update: Jun 2024  
   Natural Hazard Mitigation Plans for entities in Oregon
 
 - **OESD Calendar**  
   [Data](https://data.oregon.gov/resource/we68-crey.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/we68-crey) | Last update: Recent
 
 - **OLCC Monthly Pricing**  
-  [Data](https://data.oregon.gov/resource/vmf2-f83h.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/vmf2-f83h) | Last update: Recent  
+  [Data](https://data.oregon.gov/resource/vmf2-f83h.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/vmf2-f83h) | Last update: Jun 2024  
   Prices for liquor items sold by the OLCC
 
 - **OPIF, L-OPIF, and R-OPIF Payments - Multi-Year Report**  
@@ -13000,7 +12956,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Employer Database System is a database of all Oregon employers and their history of workers compensation (WC) insurance coverage. The system produces a snapshot of current employers with active workers compensation insurance policies.
 
 - **Oregon Agencies, Boards and Commissions**  
-  [Data](https://data.oregon.gov/resource/wu8n-jqum.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/wu8n-jqum) | Last update: Mar 2024  
+  [Data](https://data.oregon.gov/resource/wu8n-jqum.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/wu8n-jqum) | Last update: Recent  
   The primary intention of this dataset is to be used as a lookup field when inputting data into the the Public Meeting Notices dataset. Last refreshed/updated on 01.04.23 (PN).
 
 - **Oregon Business Development Fund**  
@@ -13097,7 +13053,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Port Planning & Marketing Fund helps ports fund planning or marketing studies related to expanding their trade and commerce activities. This report covers Fiscal Years 2019-2023. For more information visit https://www.oregon.gov/biz/programs/PPMF/Pages/default.aspx
 
 - **PrioritizedListFundingLine**  
-  [Data](https://data.oregon.gov/resource/2mv8-fp67.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/2mv8-fp67) | Last update: Feb 2024  
+  [Data](https://data.oregon.gov/resource/2mv8-fp67.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/2mv8-fp67) | Last update: Recent  
   Health Evidence Review Commission files; HERC; Prioritized List; PL; OHA
 
 - **PrioritizedListGLMapping**  
@@ -13176,6 +13132,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **State Preparedness Calendar**  
   [Data](https://data.oregon.gov/resource/btf5-mbw8.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/btf5-mbw8) | Last update: Recent
 
+- **State Procurement Services Training Offerings**  
+  [Data](https://data.oregon.gov/resource/abf2-ch7a.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/abf2-ch7a) | Last update: Recent  
+  Training calendar
+
 - **State of Oregon Agency Data Inventory**  
   [Data](https://data.oregon.gov/resource/yp9j-pm7w.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/yp9j-pm7w) | Last update: Recent  
   For questions about any dataset listed in this inventory, contact the agency directly. For additional information about this inventory or Oregons Open Standard, visit Oregons Open Data Program. https://data.oregon.gov/stories/s/Oregon-s-Open-Data-Standard/xr2x-d2d7/
@@ -13194,9 +13154,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Technical Assistance Program**  
   [Data](https://data.oregon.gov/resource/e6ah-88r5.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/e6ah-88r5) | Last update: Sep 2023
 
-- **Training Calendar**  
-  [Data](https://data.oregon.gov/resource/abf2-ch7a.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/abf2-ch7a) | Last update: Recent  
-  Training calendar
+- **The Office of the Long-Term Care Ombudsman Complaint Data**  
+  [Data](https://data.oregon.gov/resource/7c3e-tfpr.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/7c3e-tfpr) | Last update: Recent  
+  The Office of the Long-Term Care Ombudsman complaint investigation data for the Federal Fiscal year 2022 (October 1, 2021 - September 30. 2022).
 
 - **Treasury Contracts - Multi-Year Report**  
   [Data](https://data.oregon.gov/resource/4iz8-xm93.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/4iz8-xm93) | Last update: Mar 2024  
@@ -13211,7 +13171,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   List of all Current Secured Parties
 
 - **University - Statewide Program Listing**  
-  [Data](https://data.oregon.gov/resource/22jg-3x9e.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/22jg-3x9e) | Last update: Aug 2023  
+  [Data](https://data.oregon.gov/resource/22jg-3x9e.json) | [Docs](https://dev.socrata.com/foundry/data.oregon.gov/22jg-3x9e) | Last update: Recent  
   The following information is from statewide programs operated by a public university as listed in ORS 352.002. It is provided per HB 2946 (2017) and sorted by program name. For more information visit https://www.oregon.gov/highered/institutions-programs/postsecondary-finance-capital/Pages/public-university-funding.aspx
 
 - **Veteran Memorials in Oregon - Working Copy**  
@@ -13260,10 +13220,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.pa.gov/resource/kayn-sjhx.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/kayn-sjhx) | Last update: May 2024  
   This dataset contains aggregate hospitalization data related to COVID-19 patient which includes availability of ICU beds, patients on ventilators, ventilators in use, and total patients hospitalized data at the state and county level for Pennsylvania residents.
 
-- **COVID-19 Cases by Age Current County Health NO FURTHER UPDATES**  
-  [Data](https://data.pa.gov/resource/fdeg-39uk.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/fdeg-39uk) | Last update: May 2024  
-  This dataset contains aggregate COVID-19 case counts by age by county of first report for all counties in Pennsylvania. Counts include both confirmed and probable cases as defined by the Council of State and Territorial Epidemiologists (CSTE). Suppression applies for quantities 1-4.
-
 - **COVID-19 Cases by Zip Code Current Health NO FURTHER UPDATES**  
   [Data](https://data.pa.gov/resource/tsf6-pnaf.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/tsf6-pnaf) | Last update: Sep 2023  
   For cases, the ZIP code represents the best residential address received around the time they were first identified as a case. Persons with no known residential address are not included.
@@ -13271,6 +13227,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **COVID-19 Deaths by Age Current Monthly County Health**  
   [Data](https://data.pa.gov/resource/jtyj-ug4y.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/jtyj-ug4y) | Last update: May 2024  
   This dataset contains counts of COVID-19 deaths by age by county. Suppression applies for quantities less than 5.
+
+- **COVID-19 Deaths by Gender Current Monthly County Health**  
+  [Data](https://data.pa.gov/resource/het5-dwm7.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/het5-dwm7) | Last update: May 2024  
+  Data only includes information reported to EDRS, the Electronic Death Reporting System.
+
+- **COVID-19 Deaths by Race Current Monthly County Health**  
+  [Data](https://data.pa.gov/resource/7ix4-a8g6.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/7ix4-a8g6) | Last update: May 2024  
+  This dataset contains counts of COVID-19 deaths by race by county. Suppression applies for quantities less than 5.
 
 - **COVID-19 Federal Pharmacy Partners Long Term Care Facility Vaccine Clinics Current Health**  
   [Data](https://data.pa.gov/resource/iwiy-rwzp.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/iwiy-rwzp) | Last update: May 2024  
@@ -13288,8 +13252,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.pa.gov/resource/r5v4-zbqw.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/r5v4-zbqw) | Last update: May 2024  
   Data only includes information reported to PA-SIIS, the Pennsylvania Statewide Immunization Information System. Providers participating in the COVID-19 Program that are located in Philadelphia County or who are receiving vaccine inventory directly from CDC are not included in this dataset since they do not report inventory information to PA-SIIS.
 
+- **COVID-19 Vaccinations by Day by County of Residence Current Health NO FURTHER UPDATES**  
+  [Data](https://data.pa.gov/resource/bicw-3gwi.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/bicw-3gwi) | Last update: May 2024  
+  This dataset contains aggregate data of COVID vaccines administered each day within a county. Data includes counts of individuals who received a vaccine dose that provides partial coverage against the disease and counts of individuals that received a vaccine dose that provides full coverage against the disease.
+
 - **COVID-19 Vaccinations by Zip Code by Coverage Current Health NO FURTHER UPDATES**  
-  [Data](https://data.pa.gov/resource/d63n-ygar.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/d63n-ygar) | Last update: May 2024  
+  [Data](https://data.pa.gov/resource/d63n-ygar.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/d63n-ygar) | Last update: Recent  
   Effective 7/9/2021, the COVID-19 Vaccine Dashboard is updated to more accurately reflect the number of people who are partially and fully vaccinated in each county outside of Philadelphia, along with the demographics of those receiving vaccine. For state-to-state comparisons refer to the CDC vaccine data tracker located here: https://covid.cdc.gov/covid-data-tracker/#county-view
 
 - **COVID-19 Weekly 1st Dose Vaccine Allocated by Pennsylvania to Providers Current Health NO FURTHER UPDATES**  
@@ -13320,6 +13288,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.pa.gov/resource/373d-qjbe.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/373d-qjbe) | Last update: Recent  
   Various Groupings of Services for Pennsylvanians to find a service and information near any given address. These are in the Voting & Tax Services group
 
+- **PA Higher Education Institutions by Sector Current Statewide Education**  
+  [Data](https://data.pa.gov/resource/8u5h-xvus.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/8u5h-xvus) | Last update: May 2024  
+  These represent all PA college campuses by sector, county, zip code, and PDE location type, including the accreditor (Middle States) location type as secondary reference. These indicate full-service college locations and doesnt include off-site limited instructional sites.
+
 - **PA Turnpike Service Plazas Current Statewide Transportation**  
   [Data](https://data.pa.gov/resource/hxyb-rhri.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/hxyb-rhri) | Last update: Aug 2022  
   Location of the Service Plazas or Rest Areas that have different services available besides only restrooms along the Pennsylvania Turnpikes Routes 76 and 476. Going East, West and Both Directions.
@@ -13339,16 +13311,20 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.pa.gov/resource/vm4e-6nir.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/vm4e-6nir) | Last update: Oct 2023  
   The data derived in the State of Pennsylvania is published and searchable online on the www.pa.gov website. This data will be updated annually for the prior calendar year in the first Quarter of the following year.
 
+- **Rate of Hospitalizations for Opioid Overdose per 100,000 Residents County Health Care Cost Containment Council (PHC4)**  
+  [Data](https://data.pa.gov/resource/3f26-q827.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/3f26-q827) | Last update: Oct 2022  
+  This analysis is restricted to Pennsylvania residents age 15 and older who were hospitalized in Pennsylvania general acute care hospitals.
+
 - **Registered Businesses in PA Current by County**  
   [Data](https://data.pa.gov/resource/xvd7-5r2c.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/xvd7-5r2c) | Last update: Recent  
   Due to statutory limitations in removing businesses no longer in operation from our database, this data shows a larger number of active businesses than currently exist.
 
 - **Reproductive Services Site Information**  
-  [Data](https://data.pa.gov/resource/vq6y-7vt5.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/vq6y-7vt5) | Last update: Recent  
+  [Data](https://data.pa.gov/resource/vq6y-7vt5.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/vq6y-7vt5) | Last update: Jun 2024  
   You do not need to be a resident of Pennsylvania to receive abortion services in the state. We do not collect any search data.
 
 - **Revenue and Lottery Regional Office Public Locations Current Statewide Revenue**  
-  [Data](https://data.pa.gov/resource/rkqx-wvad.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/rkqx-wvad) | Last update: Recent  
+  [Data](https://data.pa.gov/resource/rkqx-wvad.json) | [Docs](https://dev.socrata.com/foundry/data.pa.gov/rkqx-wvad) | Last update: Jun 2024  
   Revenue and Lottery Regional Offices locations which are public facing.
 
 - **Safety & Transportation Related Locations Statewide Current Various PA Agencies**  
@@ -13450,16 +13426,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset provides a list of vendor payments made since FY2017
 
 - **City of Providence Operating Budget**  
-  [Data](https://data.providenceri.gov/resource/su69-jatv.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/su69-jatv) | Last update: Aug 2016  
-  This dataset contains annual operating budgets, per department, beginning in FY2012. The data includes Recommended Amounts from the Mayor's budget, as well as City Council Approved Amounts.
-
-- **City of Providence Operating Budget**  
   [Data](https://data.providenceri.gov/resource/bxav-8a5v.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/bxav-8a5v) | Last update: Feb 2017  
   This dataset includes the Proposed and Approved Operating Budget from FY2012 through FY2017. Actual Operating Expenses have been included through FY2016.
 
-- **City of Providence Revenue Budget**  
-  [Data](https://data.providenceri.gov/resource/9jte-7uk8.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/9jte-7uk8) | Last update: Aug 2016  
-  This dataset contains annual revenues budgets, per department, beginning in FY2012. The data includes Recommended Amounts from the Mayor's budget, as well as City Council Approved Amounts.
+- **City of Providence Operating Budget**  
+  [Data](https://data.providenceri.gov/resource/su69-jatv.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/su69-jatv) | Last update: Aug 2016  
+  This dataset contains annual operating budgets, per department, beginning in FY2012. The data includes Recommended Amounts from the Mayor's budget, as well as City Council Approved Amounts.
 
 - **Community Gardens in the City of Providence**  
   [Data](https://data.providenceri.gov/resource/uj2v-k4s7.json) | [Docs](https://dev.socrata.com/foundry/data.providenceri.gov/uj2v-k4s7) | Last update: Apr 2019  
@@ -13494,6 +13466,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Adult Protection Data**  
   [Data](https://data.ramseycounty.us/resource/hast-jpnz.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/hast-jpnz) | Last update: Mar 2023  
   Adult Protection reports and investigations with demographic data.
+
+- **Affordable Housing Production, Ramsey County**  
+  [Data](https://data.ramseycounty.us/resource/na8e-j6xs.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/na8e-j6xs) | Last update: Mar 2022  
+  This dataset consists of summary data for owner-occupied and rental housing production, based on building permits issued during each calendar year by cities and townships within Ramsey County. Data is collected via an annual survey of community officials, in conjunction with the collection of data on residential building permits.
 
 - **Age of Population Data**  
   [Data](https://data.ramseycounty.us/resource/8xrh-b222.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/8xrh-b222) | Last update: Oct 2019  
@@ -13538,6 +13514,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/5k94-6sue.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/5k94-6sue) | Last update: Mar 2023  
   Businesses that received funding from the Minnesota Department of Employment and Economic Development. Data is through March 31, 2021.
 
+- **CDC COVID-19 Community Levels by County**  
+  [Data](https://data.ramseycounty.us/resource/uazb-iwdp.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/uazb-iwdp) | Last update: Recent  
+  This public use dataset has 11 data elements reflecting United States COVID-19 community levels for all available counties. This dataset contains the same values used to display information available on the COVID Data Tracker at: https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states&list_select_county=all_counties&data-type=CommunityLevels
+
 - **COVID Hotels and Respite Homeless Shelters by Age and Gender**  
   [Data](https://data.ramseycounty.us/resource/rukb-y64x.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/rukb-y64x) | Last update: Apr 2023  
   Singles adults served since hotels and respite sites opened in mid-March 2020 to dedensify existing shelters for single adults and eventually help homeless persons move out of encampments.
@@ -13553,6 +13533,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **COVID-19 Vaccinations Administered by Week**  
   [Data](https://data.ramseycounty.us/resource/iekr-xhwm.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/iekr-xhwm) | Last update: Jul 2023  
   This dataset outlines the COVID-19 vaccinations administered weekly.
+
+- **COVID-19 Variant Prevalence in Waste Water**  
+  [Data](https://data.ramseycounty.us/resource/9dm5-96c5.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/9dm5-96c5) | Last update: Sep 2023  
+  Variant presence and frequency are inferred from the N501Y mutation (Alpha, Beta and Gamma); the L452R mutation (Delta); and the K417N mutation (Omicron). K417N mutations present before November 18, 2020 are assumed to be Beta variants, and are marked as Other in the variant column.
 
 - **Call Center Metrics**  
   [Data](https://data.ramseycounty.us/resource/4fqc-s7b9.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/4fqc-s7b9) | Last update: May 2024  
@@ -13588,6 +13572,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Cost of Living Data**  
   [Data](https://data.ramseycounty.us/resource/baxh-fa9y.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/baxh-fa9y) | Last update: Dec 2021  
   Dataset showing monthly living costs in seven categories: food, housing, health care, transportation, child care, other necessities and net taxes.
+
+- **County Borders**  
+  [Data](https://data.ramseycounty.us/resource/2f98-3ybv.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/2f98-3ybv) | Last update: Mar 2022  
+  Copy of Metro GIS' county dataset. Updated as of 7-2011.
 
 - **Countywide Workforce Statistics Data**  
   [Data](https://data.ramseycounty.us/resource/3d5g-2g6z.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/3d5g-2g6z) | Last update: Mar 2022  
@@ -13628,10 +13616,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Election Day Registration Over Time from 1992 to present**  
   [Data](https://data.ramseycounty.us/resource/xkdu-ynp3.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/xkdu-ynp3) | Last update: Mar 2023  
   This dataset shows the Election Day registration rate in Ramsey County from 1992-present. The data are grouped by the type of election: presidential, mid-term, and St. Paul election.
-
-- **Emergency Assistance Payments by Date**  
-  [Data](https://data.ramseycounty.us/resource/gs2r-nbi5.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/gs2r-nbi5) | Last update: Mar 2022  
-  This dataset outlines the emergency assistance payments by date. These payments include permanent housing, car repairs, utility shut-off, and subsidy rent.
 
 - **Emergency Communications Call Volume by Month and Hour Data**  
   [Data](https://data.ramseycounty.us/resource/wyyz-qumf.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/wyyz-qumf) | Last update: Apr 2024  
@@ -13676,10 +13660,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Financial Assistance Services Lobby Data**  
   [Data](https://data.ramseycounty.us/resource/8msn-fhsa.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/8msn-fhsa) | Last update: Mar 2023  
   Lobby wait time data from Cafe. Shows each appointment with time stamps for creation of the contact card, booking, to interview check-in. Only includes Supplemental Nutrition Assistance Program  (SNAP) and cash assistance interview visits, not visits for people who were in the lobby for other reasons like dropping off paperwork.
-
-- **Financial Assistance Services Programs**  
-  [Data](https://data.ramseycounty.us/resource/qz4y-nibw.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/qz4y-nibw) | Last update: Apr 2024  
-  Program participant information on people served in Financial Assistance programs, such as cash, food, and medical assistance as well as the Family Homelessness Prevention and Assistance Program.
 
 - **Financial Assistance Services Revenue**  
   [Data](https://data.ramseycounty.us/resource/fay5-rapu.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/fay5-rapu) | Last update: Mar 2022  
@@ -13732,6 +13712,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Health Risk Factors Data**  
   [Data](https://data.ramseycounty.us/resource/kceg-k3a6.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/kceg-k3a6) | Last update: Mar 2022
 
+- **Historical Median Assessment Values**  
+  [Data](https://data.ramseycounty.us/resource/5xta-hrhf.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/5xta-hrhf) | Last update: Mar 2024  
+  This dataset outlines the Median Estimated Market Values in the City of Saint Paul, suburbs, and countywide from 2002 (Residential and Apartment) or 2005 (Commercial and Industrial) to 2022.
+
 - **Homeless Counts**  
   [Data](https://data.ramseycounty.us/resource/gtgh-79jc.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/gtgh-79jc) | Last update: Mar 2023  
   Counts of people experiencing homelessness from two sources. PIT refers to the annual Point-in-Time count done in January each year. HMIS is a unique count of shelter users over the calendar year from the Homelessness Management Information System (HMIS).
@@ -13776,10 +13760,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Lead Window Replacement Data**  
   [Data](https://data.ramseycounty.us/resource/5t8d-fp5t.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/5t8d-fp5t) | Last update: Jul 2023  
   Data on the use of grant funds from the U.S. Department of Housing and Urban Development and the City of Saint Paul to replace deteriorating windows painted with lead-based paint.
-
-- **Library Collection**  
-  [Data](https://data.ramseycounty.us/resource/kcji-kbjx.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/kcji-kbjx) | Last update: Recent  
-  Number of items owned by library branch and category, and number of times items were checked out by library users.
 
 - **Library Statistics**  
   [Data](https://data.ramseycounty.us/resource/6x3q-xhqg.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/6x3q-xhqg) | Last update: Recent  
@@ -13843,6 +13823,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/qghe-acew.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/qghe-acew) | Last update: Mar 2022  
   Statistics by precinct for odd-year elections in Ramsey County, Minnesota.
 
+- **Odd year total absentee voting over time**  
+  [Data](https://data.ramseycounty.us/resource/8de3-47vz.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/8de3-47vz) | Last update: Mar 2023  
+  Odd year total AB voting over time
+
 - **Open Data Tag and Data Domain Library Data**  
   [Data](https://data.ramseycounty.us/resource/fryv-q78d.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/fryv-q78d) | Last update: Feb 2023  
   If new tags are needed, they can be added, but all publishers should check with this list and use existing tags, rather than creating their own versions.
@@ -13855,14 +13839,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/xf8z-p453.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/xf8z-p453) | Last update: Recent  
   The countys estimated revenue sources for the current budget, including property tax levy, intergovernmental revenue, charges for services and other sources.
 
-- **Parks (8K-32K)**  
-  [Data](https://data.ramseycounty.us/resource/b79h-2tdj.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/b79h-2tdj) | Last update: Recent  
-  This dataset outlines County parks (8k-32K).
-
-- **Parks (<8K)**  
-  [Data](https://data.ramseycounty.us/resource/sh36-a534.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/sh36-a534) | Last update: Recent  
-  This dataset outlines Parks (<8k).
-
 - **Popular Annual Financial Report (PAFR) Comprehensive Data**  
   [Data](https://data.ramseycounty.us/resource/yk9n-kend.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/yk9n-kend) | Last update: Jun 2023
 
@@ -13874,13 +13850,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/7rk6-tadk.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/7rk6-tadk) | Last update: Oct 2023  
   Poverty rates for residents of Color include the combined numbers of people self-identified as Black/African American, American Indian Alaska Native, Native Hawaiian Pacific Islander, Hispanic (non-White) or Asian.
 
+- **Poverty Under 18 Over Time**  
+  [Data](https://data.ramseycounty.us/resource/nbvj-nbnv.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/nbvj-nbnv) | Last update: Jul 2023  
+  This data displays the percentage of children under age 18 living in poverty for the years 2012-2016 by three geographies: Minnesota, Ramsey County and Saint Paul. Among these regions, Saint Paul has the highest percentage of children in poverty at 30.5 percent in 2016, which has decreased from 33.6 percent in 2012. Footnote 6.
+
 - **Pre-election Voting Statistics by City Data**  
   [Data](https://data.ramseycounty.us/resource/k6hv-h9uq.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/k6hv-h9uq) | Last update: Jan 2023  
   This dataset shows pre-election voting statistics by city for the 2018 general election.
 
-- **Ramsey County 4 to 3 Study Corridors**  
-  [Data](https://data.ramseycounty.us/resource/bnjy-k6iv.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/bnjy-k6iv) | Last update: Oct 2021  
-  This dataset outlines the 4 to 3 study corridors by location.
+- **Premature Death Rate Data**  
+  [Data](https://data.ramseycounty.us/resource/c8gi-nvxs.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/c8gi-nvxs) | Last update: Oct 2023
 
 - **Ramsey County Deer Survey - Dataset**  
   [Data](https://data.ramseycounty.us/resource/crnr-rfvf.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/crnr-rfvf) | Last update: Mar 2023  
@@ -13904,6 +13883,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Sex by County Data**  
   [Data](https://data.ramseycounty.us/resource/u9rc-7vye.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/u9rc-7vye) | Last update: Oct 2019
+
+- **Share of Residents with Debt in Collections**  
+  [Data](https://data.ramseycounty.us/resource/tss5-k4d9.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/tss5-k4d9) | Last update: Mar 2023
 
 - **Social Services Expenditures**  
   [Data](https://data.ramseycounty.us/resource/xec7-9u5u.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/xec7-9u5u) | Last update: Mar 2022  
@@ -13996,7 +13978,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset outlines the Workforce Statistics countywide data for 2019.
 
 - **WFS - EEO4 Department Data**  
-  [Data](https://data.ramseycounty.us/resource/eq6j-tx3j.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/eq6j-tx3j) | Last update: Recent  
+  [Data](https://data.ramseycounty.us/resource/eq6j-tx3j.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/eq6j-tx3j) | Last update: Jun 2024  
   This dataset outlines the EEO4 Department data. Includes all departments from 2019.
 
 - **WFS - Employees Over Time Data**  
@@ -14004,7 +13986,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset outlines Workforce Statistics for employees over time data from 2010-2020.
 
 - **WFS - Gender by Department Data**  
-  [Data](https://data.ramseycounty.us/resource/2u4u-83ab.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/2u4u-83ab) | Last update: Recent  
+  [Data](https://data.ramseycounty.us/resource/2u4u-83ab.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/2u4u-83ab) | Last update: Jun 2024  
   Data on employee reported gender gathered by department.
 
 - **WFS - Generations Data**  
@@ -14012,12 +13994,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset outlines the Workforce Statistics by generations data.
 
 - **WFS - Race/Ethnicity Department Data**  
-  [Data](https://data.ramseycounty.us/resource/kyd5-usni.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/kyd5-usni) | Last update: Recent  
+  [Data](https://data.ramseycounty.us/resource/kyd5-usni.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/kyd5-usni) | Last update: Jun 2024  
   This dataset outlines the Workforce Statistics by race and ethnicity within the department for 2019.
-
-- **WFS - Racially and Ethnically Diverse Officials and Administrators Data**  
-  [Data](https://data.ramseycounty.us/resource/7vnr-d7ue.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/7vnr-d7ue) | Last update: Feb 2024  
-  This dataset outlines the racially and ethnically diverse officials and administrators within the workforce. Includes the percentage of employee count.
 
 - **WFS - Separation Summary Data**  
   [Data](https://data.ramseycounty.us/resource/3ucf-zcb9.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/3ucf-zcb9) | Last update: Jan 2024  
@@ -14043,14 +14021,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.ramseycounty.us/resource/x86f-9kv6.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/x86f-9kv6) | Last update: Jul 2023  
   Annual volume summary of yard waste materials brought to the Ramsey County yard waste collection sites.
 
-[[TOP]](#toc)
-
-
-## data.readingpa.gov
-
-- **City Poll Locations**  
-  [Data](https://data.readingpa.gov/resource/7ghu-jatf.json) | [Docs](https://dev.socrata.com/foundry/data.readingpa.gov/7ghu-jatf) | Last update: Oct 2016  
-  All polling locations throughout the city.
+- **Zip Codes**  
+  [Data](https://data.ramseycounty.us/resource/uafy-tha8.json) | [Docs](https://dev.socrata.com/foundry/data.ramseycounty.us/uafy-tha8) | Last update: Recent  
+  This dataset outlines zip codes.
 
 [[TOP]](#toc)
 
@@ -14100,12 +14073,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.sccgov.org/resource/ksyb-fnbm.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/ksyb-fnbm) | Last update: Mar 2022  
   This table was updated for the last time on May 20, 2021.
 
+- **COVID-19 cases, hospitalizations and deaths at Long Term Care Facilities**  
+  [Data](https://data.sccgov.org/resource/kb5s-tppg.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/kb5s-tppg) | Last update: Mar 2022  
+  This table was updated for the last time on May 20, 2021.
+
 - **Count of deaths with COVID-19 by date**  
   [Data](https://data.sccgov.org/resource/tg4j-23y2.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/tg4j-23y2) | Last update: Oct 2023  
   This table is updated Monday-Friday and will not be updated on holidays.
 
 - **Crime Reports**  
-  [Data](https://data.sccgov.org/resource/n9u6-aijz.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/n9u6-aijz) | Last update: Feb 2024  
+  [Data](https://data.sccgov.org/resource/n9u6-aijz.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/n9u6-aijz) | Last update: Recent  
   Santa Clara County Sheriff's Office incident dataset
 
 - **Deaths with COVID-19 by age group**  
@@ -14123,14 +14100,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Deaths with COVID-19 by race/ethnicity**  
   [Data](https://data.sccgov.org/resource/nd69-4zii.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/nd69-4zii) | Last update: Recent  
   The dataset provides information about the demographics and characteristics of deaths with COVID-19 by racial/ethnic groups among Santa Clara County residents. Source: California Reportable Disease Information Exchange. Data notes: The Other category for the race/ethnicity graph includes American Indian/Alaska Native and people who identify as multi-racial.
-
-- **Healthy Cities Medals**  
-  [Data](https://data.sccgov.org/resource/6g5m-fyib.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/6g5m-fyib) | Last update: Mar 2024  
-  The Healthy Cities Medals dataset contains data on medals County of Santa Clara cities and towns have earned for passing policies that support the health of their residents within 9 policy categories
-
-- **Healthy Cities Policies**  
-  [Data](https://data.sccgov.org/resource/7xik-2chf.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/7xik-2chf) | Last update: Mar 2024  
-  The Healthy Cities Policies dataset contains data on policies and practices County of Santa Clara cities and towns have adopted within 9 policy categories to support the health of their residents.
 
 - **Medical Examiner-Coroner, COVID-19 Deaths dataset**  
   [Data](https://data.sccgov.org/resource/wr33-p5jd.json) | [Docs](https://dev.socrata.com/foundry/data.sccgov.org/wr33-p5jd) | Last update: Recent  
@@ -14280,10 +14249,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **County Returns**  
   [Data](https://data.texas.gov/resource/ctj5-pypw.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ctj5-pypw) | Last update: Jun 2020
 
-- **Custodial Deaths Report**  
-  [Data](https://data.texas.gov/resource/ypvi-69jj.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ypvi-69jj) | Last update: Nov 2023  
-  Report of Custodian Deaths on record with the Office of the Attorney General. These reports include the date, the reporting agency, and the name of the deceased.
-
 - **Eminent Domain Noncompliant Entities List**  
   [Data](https://data.texas.gov/resource/qpkm-pcgh.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qpkm-pcgh) | Last update: Recent  
   Should an entity that has previously submitted a report of eminent domain authority later inform the Comptroller that a change has occurred such that the entity no longer possesses eminent domain authority or is required to submit a report in accordance with 2206.154, that entity will not be placed on the noncompliant entities list (or will be removed from the list, as the case may be).
@@ -14337,7 +14302,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This file contains a list of licensed interstate truckers in Texas.
 
 - **Licensed CNG/LNG Taxpayers**  
-  [Data](https://data.texas.gov/resource/i2qy-sv94.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/i2qy-sv94) | Last update: Recent  
+  [Data](https://data.texas.gov/resource/i2qy-sv94.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/i2qy-sv94) | Last update: Jul 2024  
   This is a list of Compressed Natural Gas (CNG) and Liquefied Natural Gas (LNG) license holders.
 
 - **Licensed Fuels Taxpayers**  
@@ -14432,13 +14397,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## data.urbanaillinois.us
 
+- **Rental Inspection Grades History**  
+  [Data](https://data.urbanaillinois.us/resource/ydun-zxac.json) | [Docs](https://dev.socrata.com/foundry/data.urbanaillinois.us/ydun-zxac) | Last update: Recent  
+  City staff inspect rental properties on a rotating basis, assigning a letter grade ("Class A", "Class B", etc.).
+
 - **Rental Inspection Grades Listing**  
   [Data](https://data.urbanaillinois.us/resource/tn7v-fm2b.json) | [Docs](https://dev.socrata.com/foundry/data.urbanaillinois.us/tn7v-fm2b) | Last update: Recent  
   The "Rental Inspection Grades History" dataset shows all historical inspections (that are electronically available), including multiple ones at each location.
-
-- **Urbana: Open Expenditures - Payment Details**  
-  [Data](https://data.urbanaillinois.us/resource/uxyi-367i.json) | [Docs](https://dev.socrata.com/foundry/data.urbanaillinois.us/uxyi-367i) | Last update: Recent  
-  This dataset contains payment details that are the source for the City's Open Expenditures web site, which can be found here: http://expenditures.urbanaillinois.us/
 
 [[TOP]](#toc)
 
@@ -14469,13 +14434,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/x4z7-ddhj.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/x4z7-ddhj) | Last update: Feb 2022  
   This dataset documents Groups A and B arrests reported by the City of Asotin Police Department to NIBRS (National Incident-Based Reporting System).
 
+- **Arrests for Criminal Offenses Reported to the Clarkston Police Department, NIBRS Group A**  
+  [Data](https://data.wa.gov/resource/ts74-pnhq.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/ts74-pnhq) | Last update: Mar 2022  
+  This dataset shows crime statistics for the City of Clarkston, WA Police Department.
+
 - **Arrests for Criminal Offenses Reported to the Clarkston Police Department, NIBRS Group B**  
   [Data](https://data.wa.gov/resource/myws-9yw2.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/myws-9yw2) | Last update: Mar 2022  
   This dataset documents Group B arrests for crimes reported by the City of Clarkston Police Department to NIBRS (National Incident-Based Reporting System).
-
-- **Asotin County (WA) Building Permits**  
-  [Data](https://data.wa.gov/resource/fdfj-3az2.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/fdfj-3az2) | Last update: Jun 2020  
-  This dataset shows the Asotin County building permit activity by calendar year, including construction type, value and costs. Data is compiled by Asotin County Building and Planning Department.
 
 - **Asotin County Fire District 1 Incidents**  
   [Data](https://data.wa.gov/resource/x49j-9h4z.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/x49j-9h4z) | Last update: Jan 2021  
@@ -14505,9 +14470,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/7qr9-q2c9.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/7qr9-q2c9) | Last update: Recent  
   This dataset is a best-effort by the PDC to provide a complete set of records as described herewith and may contain incomplete or incorrect information. The PDC provides access to the original reports for the purpose of record verification.
 
+- **Candidate and Committee Registrations**  
+  [Data](https://data.wa.gov/resource/iz23-7xxj.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/iz23-7xxj) | Last update: May 2024  
+  This dataset is a best-effort by the PDC to provide a complete set of records as described herewith and may contain incomplete or incorrect information. The PDC provides access to the original reports for the purpose of record verification.
+
 - **Childcare Stabilization - Statewide**  
   [Data](https://data.wa.gov/resource/tk4f-cxhb.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/tk4f-cxhb) | Last update: May 2024  
   This dataset supports a the Childcare Stabilization dashboard, available here: https://www.dcyf.wa.gov/practice/oiaa/reports/early-learning-dashboards/child-care-stabilization
+
+- **City of Asotin Building Permits**  
+  [Data](https://data.wa.gov/resource/ez9k-2c5k.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/ez9k-2c5k) | Last update: Feb 2022  
+  This dataset shows building permits issued by the City of Asotin Public Works.
 
 - **Column Description Guidance for Data.wa.gov Publishers**  
   [Data](https://data.wa.gov/resource/u3e5-g5ig.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/u3e5-g5ig) | Last update: Jan 2024  
@@ -14525,13 +14498,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/3r6b-hsaa.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/3r6b-hsaa) | Last update: Recent  
   This dataset is a best-effort by the PDC to provide a complete set of records as described herewith and may contain incomplete or incorrect information. The PDC provides access to the original reports for the purpose of record verification.
 
-- **Department of Licensing's Business Licenses Related to the Transportation Industry**  
-  [Data](https://data.wa.gov/resource/ucdg-xgbj.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/ucdg-xgbj) | Last update: Recent  
-  This is a point-in-time list of business licenses within the transportation industries related to Washington State Department of Licensing. However, this does not include business licenses associated with the trucking industry.
-
 - **Driver License Transfers to Asotin County**  
   [Data](https://data.wa.gov/resource/vhzd-vikk.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/vhzd-vikk) | Last update: Nov 2020  
   This dataset includes information about driver license transfers from other states and countries to Asotin County, Washington.
+
+- **Drug Offenses by Type of Drug, Clarkston Police Department**  
+  [Data](https://data.wa.gov/resource/wf4i-evff.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/wf4i-evff) | Last update: Mar 2022  
+  This dataset is compilation of percentages of drug offenses by type of drug as reported by the City of Clarkston Police Department to NIBRS (National Incident-Based Reporting System), Group A.
 
 - **Expenditures by Candidates and Political Committees**  
   [Data](https://data.wa.gov/resource/tijg-9zyp.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/tijg-9zyp) | Last update: Recent  
@@ -14550,7 +14523,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   What percent of high school graduates enrolled in post secondary institutions in the first year after graduation?
 
 - **High School Graduate Outcomes - Persistence /Retention**  
-  [Data](https://data.wa.gov/resource/7hx3-t3pn.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/7hx3-t3pn) | Last update: Recent  
+  [Data](https://data.wa.gov/resource/7hx3-t3pn.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/7hx3-t3pn) | Last update: Jun 2024  
   What percentage of high school graduates persist/retain in post secondary institutions after the first year of post secondary enrollment?
 
 - **Imaged Documents and Reports**  
@@ -14572,10 +14545,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **L&I Public Works Project Details**  
   [Data](https://data.wa.gov/resource/qp8s-a5uf.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/qp8s-a5uf) | Last update: Recent  
   Updated daily for all projects where the primes intent was filed on/after July 1, 2019. Fields beginning with Final will only have data populated once the Notice of Completion is filed by the Awarding Agency for the project. Use the Project ID as the unique identifier to link data from other L&I public works datasets.
-
-- **LCB Cannabis Renewal**  
-  [Data](https://data.wa.gov/resource/brpd-b6zd.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/brpd-b6zd) | Last update: Recent  
-  The dataset was renamed to "LCB Cannabis Renewal" in accordance with HB 1210 on 12/07/2023
 
 - **Lobbyist Agent Employers**  
   [Data](https://data.wa.gov/resource/e7sd-jbuy.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/e7sd-jbuy) | Last update: Recent  
@@ -14608,10 +14577,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/8bva-rkeb.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/8bva-rkeb) | Last update: Recent  
   This dataset contains a list of all pledges reported on the C4 report for the last 17 years beginning 2007. The dataset presents a historical perspective of pledges made by a contributor. A committee is required to report pledges of $100 or more received but not yet paid on each C4 submitted.
 
-- **Professional License Transactions by Department of Licensing**  
-  [Data](https://data.wa.gov/resource/ixni-jq78.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/ixni-jq78) | Last update: Recent  
-  This dataset shows counts of original, renewal, and reinstatement professional license transactions from July 2020 through the end of the last complete month.
-
 - **Relationship of Victim to Offender, Clarkston Police Department**  
   [Data](https://data.wa.gov/resource/vgxg-6wg9.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/vgxg-6wg9) | Last update: Mar 2022  
   This dataset shows the relationship of victims to offenders for crimes as reported by the City of Clarkston Police Department to NIBRS (National Incident-Based Reporting System), Group A
@@ -14643,14 +14608,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/akbt-b92p.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/akbt-b92p) | Last update: Recent  
   This dataset reports on physical materials borrowed for the Timberland Regional Library District, a five-county rural library district serving Thurston, Lewis, Mason, Pacific, and Grays Harbor counties. It includes a count of items by each library location, year, and month, and target audience, from 2011 to the present.
 
-- **Timberland Regional Library Circulation by Item Type**  
-  [Data](https://data.wa.gov/resource/ss5i-yx6m.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/ss5i-yx6m) | Last update: Recent  
-  This dataset reports on physical materials borrowed for the Timberland Regional Library District, a five-county rural library district serving Thurston, Lewis, Mason, Pacific, and Grays Harbor counties. It includes a count of items by each library location, year, and month, and item type, from 2011 to the present.
-
-- **Timberland Regional Library Digital Circulation**  
-  [Data](https://data.wa.gov/resource/e7i3-cutn.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/e7i3-cutn) | Last update: Recent  
-  This dataset reports on digital materials borrowed from the Timberland Regional Library District, a five-county rural library district serving Thurston, Lewis, Mason, Pacific, and Grays Harbor counties. Digital materials includes e-books, digital audiobooks, and video through Overdrive. It includes a count of items by each library location, month and year, from 2012 to the present.
-
 - **Timberland Regional Library Registered Cardholders by Zip Code**  
   [Data](https://data.wa.gov/resource/bm2r-usqu.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/bm2r-usqu) | Last update: Recent
 
@@ -14678,7 +14635,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The transportation fuel supplier sector describes emissions associated with the complete combustion or oxidation of fuels supplied by transportation fuel suppliers under the Washington Department of Licensing Fuel Tax Program.
 
 - **Washington State Insurers Dental Loss Ratios**  
-  [Data](https://data.wa.gov/resource/gi9j-78eu.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/gi9j-78eu) | Last update: Oct 2023  
+  [Data](https://data.wa.gov/resource/gi9j-78eu.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/gi9j-78eu) | Last update: Recent  
   This dataset serves as a dental insurance summary database. The dataset provides annual loss ratios for insurers that operate in Washington state. Loss ratios track payments to premiums and are an indicator of fiscal health. This data is cumulative at the company level as reported to the National Association of Insurance Commissioners (NAIC).
 
 - **Washington State Public Libraries' Wifi Locations**  
@@ -14688,12 +14645,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.wa.gov/resource/ma99-sxnd.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/ma99-sxnd) | Last update: Apr 2021  
   This dataset tracks services that Washington State public libraries continued to provide to the public during the COVID-19 pandemic, when many library buildings and facilities were closed to prevent viral spread and protect public health. The dataset also tracks reopening that began in summer 2020.
 
-- **Weapons Used in Crimes, Clarkston Police Department**  
-  [Data](https://data.wa.gov/resource/3fui-us56.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/3fui-us56) | Last update: Mar 2022  
-  This dataset shows the types and numbers of weapons used in crimes reported by the City of Clarkston Police Department to NIBRS (National Incident-Based Reporting System), Group A.
-
 - **Western Washington Hydrology Model (WWHM)**  
-  [Data](https://data.wa.gov/resource/5sqj-8rp7.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/5sqj-8rp7) | Last update: Recent  
+  [Data](https://data.wa.gov/resource/5sqj-8rp7.json) | [Docs](https://dev.socrata.com/foundry/data.wa.gov/5sqj-8rp7) | Last update: Jul 2024  
   This dataset includes versions of the WWHM as they are released, including installation files and descriptions of changes along with dates and version numbers.
 
 [[TOP]](#toc)
@@ -14735,13 +14688,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.winnipeg.ca/resource/rmsh-97k4.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/rmsh-97k4) | Last update: Dec 2022  
   Dataset represents parking allocations and restrictions by block-faces using pay-by-phone (as an alternative to parking by paystations)
 
-- **City of Winnipeg LRS**  
-  [Data](https://data.winnipeg.ca/resource/jwfi-vjqw.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/jwfi-vjqw) | Last update: Recent  
-  This dataset is the base geometry used by The City of Winnipeg's Linear Reference System (LRS). It is to be used in conjunction with LRS events also published on the Open Data portal.
+- **Census Values**  
+  [Data](https://data.winnipeg.ca/resource/ckim-fid6.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/ckim-fid6) | Last update: Jun 2021  
+  Geographic Census Values used in conjunction with the Census Boundaries.
 
 - **Data Quality Score**  
   [Data](https://data.winnipeg.ca/resource/73sq-j2qi.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/73sq-j2qi) | Last update: Recent  
   For more information about the method by which the score is calculated, please visit the following PDF: http://wpgopendata.blob.core.windows.net/documents/Data-Quality-Score-Documentation.pdf
+
+- **Detailed Building Permit Data**  
+  [Data](https://data.winnipeg.ca/resource/it4w-cpf4.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/it4w-cpf4) | Last update: Recent  
+  City of Winnipeg building permits issued since 2010, containing most information about the permit with the exception of declared construction value. For definitions of the building permit status, please see https://ppdportal.winnipeg.ca/Permits/PropertyPermitSearch/SearchFAQ.jsp
 
 - **Detailed Development Permit Data**  
   [Data](https://data.winnipeg.ca/resource/w842-cdeb.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/w842-cdeb) | Last update: Recent  
@@ -14752,7 +14709,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Due to FIPPA legislative requirements our Departments and/or Union Groups have been rolled up where  the head count is less than 10.
 
 - **Infrastructure Plan Funding**  
-  [Data](https://data.winnipeg.ca/resource/rwrz-d7hc.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/rwrz-d7hc) | Last update: Recent  
+  [Data](https://data.winnipeg.ca/resource/rwrz-d7hc.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/rwrz-d7hc) | Last update: Jun 2024  
   Consolidation of departmental investment planning data representing a prioritized set of total infrastructure needs that are either funded, partially funded or unfunded.
 
 - **LRS School Speed Limits**  
@@ -14762,6 +14719,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **LRS Speed Limits**  
   [Data](https://data.winnipeg.ca/resource/j5wn-5wz7.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/j5wn-5wz7) | Last update: Recent  
   This dataset is an LRS event that can be used in conjunction with the base City of Winnipeg LRS Open Data layer. (https://data.winnipeg.ca/Streets/City-of-Winnipeg-LRS/jwfi-vjqw/data)
+
+- **LeisureONLINE Activity Charges**  
+  [Data](https://data.winnipeg.ca/resource/92vb-ibgb.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/92vb-ibgb) | Last update: Recent  
+  See https://www.winnipeg.ca/cms/recreation/leisure/leisureguide.stm for more information about recreation activities.
+
+- **Library**  
+  [Data](https://data.winnipeg.ca/resource/bt47-pkkm.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/bt47-pkkm) | Last update: Recent  
+  Locations of Winnipeg Public Libraries.
+
+- **MASC Crop Yield And Acreage By Variety**  
+  [Data](https://data.winnipeg.ca/resource/5ctu-8526.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/5ctu-8526) | Last update: Dec 2023  
+  This data set shows yield information for various grain crops and their varieties, grouped by risk area and year. This data comes from reports by producers that insure with MASC only. For details on Manitoba risk areas please refer to the attached document to this dataset.
 
 - **Orthographic Photography Index for Winnipeg**  
   [Data](https://data.winnipeg.ca/resource/sf35-zz6g.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/sf35-zz6g) | Last update: Nov 2021  
@@ -14791,6 +14760,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.winnipeg.ca/resource/tgrf-v2zc.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/tgrf-v2zc) | Last update: Recent  
   Record of river levels (Assiniboine and Red) at various locations around the City of Winnipeg. Values are in Feet above James Ave. Datum, Geodetic Feet, and Geodetic Metric. Please see https://legacy.winnipeg.ca/waterandwaste/flood/riverLevels.stm for more details.
 
+- **Rooming House Enforcement Activity**  
+  [Data](https://data.winnipeg.ca/resource/vk2f-xwp7.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/vk2f-xwp7) | Last update: Recent  
+  This dataset comprises of illegal rooming house enforcement incident counts and the status of investigation counts collected by the City of Winnipeg. The neigbourhoods will only be listed if an investigation was opened.
+
 - **School Zone Signage**  
   [Data](https://data.winnipeg.ca/resource/5298-dhjx.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/5298-dhjx) | Last update: Dec 2021  
   Dataset contains the locations of all road signs denoting reduced speed limit school zones
@@ -14809,10 +14782,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Traffic Signal Inventory - Heads (Displays) Detail**  
   [Data](https://data.winnipeg.ca/resource/3jzf-z9w2.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/3jzf-z9w2) | Last update: Jun 2021  
   Detailed information about traffic signal pedestrian and vehicular heads and the display indications, such as Walk/Dont Walk, Pedestrian Countdowns, Red Ball, Amber Ball, Green Ball, Turn Indications, etc.
-
-- **WPA Paystation**  
-  [Data](https://data.winnipeg.ca/resource/b85e-mbuw.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/b85e-mbuw) | Last update: Recent  
-  Onstreet and Surface lot PayStation
 
 - **Water and Waste LiDAR**  
   [Data](https://data.winnipeg.ca/resource/g634-qskh.json) | [Docs](https://dev.socrata.com/foundry/data.winnipeg.ca/g634-qskh) | Last update: Nov 2022
@@ -14847,7 +14816,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset provides inputs to the R model to equitably distribute CARES Act funding to underlying municipalities. Data is as of June 2020.
 
 - **Campaign Contributions - Restricted Contractors**  
-  [Data](https://datacatalog.cookcountyil.gov/resource/reqf-x8fs.json) | [Docs](https://dev.socrata.com/foundry/datacatalog.cookcountyil.gov/reqf-x8fs) | Last update: Apr 2024
+  [Data](https://datacatalog.cookcountyil.gov/resource/reqf-x8fs.json) | [Docs](https://dev.socrata.com/foundry/datacatalog.cookcountyil.gov/reqf-x8fs) | Last update: Recent
 
 - **Cook County Address Points**  
   [Data](https://datacatalog.cookcountyil.gov/resource/78yw-iddh.json) | [Docs](https://dev.socrata.com/foundry/datacatalog.cookcountyil.gov/78yw-iddh) | Last update: Apr 2024  
@@ -14908,43 +14877,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 [[TOP]](#toc)
 
 
-## datadiscovery.nlm.nih.gov
-
-- **Dataset Catalog - Datasets Over Time**  
-  [Data](https://datadiscovery.nlm.nih.gov/resource/2yve-snqy.json) | [Docs](https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/2yve-snqy) | Last update: Recent  
-  The number of datasets from each repository included in the Dataset Catalog, totaled monthly.
-
-- **Dataset Catalog - Datasets per Repository**  
-  [Data](https://datadiscovery.nlm.nih.gov/resource/3j9y-mr82.json) | [Docs](https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/3j9y-mr82) | Last update: Recent  
-  Not all datasets from each repository are included in the catalog; only those within biomedical research.
-
-- **Dataset Catalog - Information Pages**  
-  [Data](https://datadiscovery.nlm.nih.gov/resource/anbq-aeu3.json) | [Docs](https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/anbq-aeu3) | Last update: Recent  
-  Visits to the Dataset Catalog's information pages.
-
-- **Dataset Catalog - Outbound Repository Links**  
-  [Data](https://datadiscovery.nlm.nih.gov/resource/5txu-p56r.json) | [Docs](https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/5txu-p56r) | Last update: Recent  
-  When a Dataset Catalog user identifies a dataset, they will leave the Catalog for the repository which holds that dataset.
-
-- **Dataset Catalog - Total Users and Views**  
-  [Data](https://datadiscovery.nlm.nih.gov/resource/q84u-8bbg.json) | [Docs](https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/q84u-8bbg) | Last update: Recent  
-  Website users and views totaled weekly for the Dataset Catalog.
-
-- **Dataset Catalog - Users by Channel**  
-  [Data](https://datadiscovery.nlm.nih.gov/resource/jisf-airv.json) | [Docs](https://dev.socrata.com/foundry/datadiscovery.nlm.nih.gov/jisf-airv) | Last update: Recent  
-  Referral metrics to the Dataset Catalog through various channels.
-
-[[TOP]](#toc)
-
-
 ## datahub.austintexas.gov
 
-- **(%)Adopted Operations and Maintenance (O&M) Tax Rate as a Percentage of the Effective O&M Tax Rate**  
-  [Data](https://datahub.austintexas.gov/resource/3d7x-x4q8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3d7x-x4q8) | Last update: Apr 2023  
-  This dataset contains information about the annual Adopted Operations and Maintenance (O&M) Tax Rate as a Percentage of the Effective O&M Tax Rate for the same fiscal year (SD23 measure GTW.A.3).
+- **(%)Active Transport Construction Data**  
+  [Data](https://datahub.austintexas.gov/resource/hbh2-fkab.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hbh2-fkab) | Last update: Recent  
+  This dataset supports SD23 performance measure HE.C.5: Number and percentage of linear miles of newly constructed sidewalks and urban trails that lie within census tracts with no low levels of leisure-time physical activity among adults aged 18 years or older. View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/22ei-wafp
 
 - **(%)Aggregated Sidewalk Construction Data**  
-  [Data](https://datahub.austintexas.gov/resource/833q-w2dz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/833q-w2dz) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/833q-w2dz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/833q-w2dz) | Last update: Recent  
   View more details and insights related to this data set on the story page: https://data.austintexas.gov/stories/s/Percentage-of-Missing-Sidewalk-Network-Completed/ffkw-wkiv/
 
 - **(%)CC.D.2 Historic Preservation**  
@@ -14974,16 +14914,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/h7bb-ecqc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h7bb-ecqc) | Last update: Jun 2024  
   The dataset comes from the 2019 U.S. Census Bureau, American Communities Survey (5yr) Table B19082. The row levels contain total percentage of income shares by the middle 3 quintiles (20-80%) of population. This data can be used to provide insights into growth/decline of middle class.
 
-- **(%)EOA.D.4 Number of subsidized and incentivized rental units considered to be affordable**  
-  [Data](https://datahub.austintexas.gov/resource/q9r8-agig.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/q9r8-agig) | Last update: Recent  
-  View more details and insights related to this measure on the story page: https://data.austintexas.gov/stories/s/uu7b-psr5
-
 - **(%)HE.E.5.c - Buildings Protected by COA Efforts**  
   [Data](https://datahub.austintexas.gov/resource/ejk8-63sb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ejk8-63sb) | Last update: Oct 2023  
   This dataset shows the number and percentage of buildings whose exposure to wildfire risk have decreased due to City efforts - SD23 Measure HE.E.5.c. View more details and insights related to this measure on the story page: https://data.austintexas.gov/stories/s/HE-E-5-c_Number-and-percentage-of-buildings-roadwa/3h5e-xc5y
 
 - **(%)Infant mortality rate**  
-  [Data](https://datahub.austintexas.gov/resource/qxch-wiie.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qxch-wiie) | Last update: Jan 2024  
+  [Data](https://datahub.austintexas.gov/resource/qxch-wiie.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qxch-wiie) | Last update: Recent  
   This dataset includes counts of infant births and deaths within Austin city limits by year.
 
 - **(%)Median City Property Tax as a Percentage of Median Family Income**  
@@ -15003,12 +14939,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Each row represents the number of crashes resulting in fatalities or injuries due to the top contributing factors for a year. This dataset can be used to understand the trends in the number and percentages of crashes resulting in serious injuries or fatalities caused by the top contributing factors.
 
 - **(%)Number and percentage of students attending schools rated as "F” by the Texas Education Agency**  
-  [Data](https://datahub.austintexas.gov/resource/4zte-y74h.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4zte-y74h) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/4zte-y74h.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4zte-y74h) | Last update: Recent  
   Austin Public Health, using Texas Education Agency data, is measuring the percentage of students attending schools with an "F" rating. The ratings are determined by the Texas Education Agency. The city uses this information for individual school performance measurement. This data set is intended to power visualizations for related measures in the strategic plan.
 
 - **(%)Number of fatalities and serious injuries on the High-Injury Network**  
   [Data](https://datahub.austintexas.gov/resource/ft3n-udtt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ft3n-udtt) | Last update: Feb 2024  
   Each row represents the number of fatalities or injuries on the High Injury Network for a year. This dataset can be used to see how many fatalities and serious injuries have occurred on the High Injury Network.
+
+- **(%)Number of transportation projects, programs, and initiatives that are coordinated with partner agencies**  
+  [Data](https://datahub.austintexas.gov/resource/fi2q-4nnb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fi2q-4nnb) | Last update: Feb 2024  
+  View more details and insights related to this measure on the story page : https://data.austintexas.gov/stories/s/yejj-ryqx
 
 - **(%)Open Data Asset Access Frequency**  
   [Data](https://datahub.austintexas.gov/resource/crhh-mb3x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/crhh-mb3x) | Last update: Recent  
@@ -15019,7 +14959,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains information about the percent variance between the actual and budgeted revenue (SD23 measure GTW.A.8). The City of Austin has numerous revenue sources, including charges for services/goods, taxes, and more. This measure helps provide insight about whether the City is receiving as much revenue as anticipated.
 
 - **(%)Percent of Median Household Income Spent on the Average Annual Residential Austin Water Bill**  
-  [Data](https://datahub.austintexas.gov/resource/unww-rhuk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/unww-rhuk) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/unww-rhuk.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/unww-rhuk) | Last update: Jun 2024  
   This dataset demonstrates the affordability of the average Austin Water residential customers annual combined water and wastewater bill as a percentage of median household income.
 
 - **(%)Percent of all ages and abilities bicycle network completed**  
@@ -15033,18 +14973,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/tg7m-tpy9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tg7m-tpy9) | Last update: Apr 2023  
   This dataset includes the average number of people in the civilian labor force, the employment count, the unemployment count, and the unemployment rate for Austin,  the Austin Round-Rock MSA, Texas, and the United States. The unemployment rate can be useful in understanding economic and workforce trends in Austin over time.
 
-- **(%)Percentage of new residential units by type permitted within a quarter-mile of a high-frequency transit route or protected bicycle facility**  
-  [Data](https://datahub.austintexas.gov/resource/kzp3-82am.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kzp3-82am) | Last update: Feb 2024
-
 - **(%)Percentage of new residential units permitted within a quarter-mile of a high-frequency transit route or protected bicycle facility**  
   [Data](https://datahub.austintexas.gov/resource/u7cg-k9ts.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u7cg-k9ts) | Last update: Feb 2024
 
 - **(%)Percentage of participants in mobility public engagement processes that identify as African American, Asian, Hispanic/Latino, Indigenous, Pacific Islander, and/or other people of color**  
   [Data](https://datahub.austintexas.gov/resource/5mnr-6pmn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5mnr-6pmn) | Last update: Feb 2024
-
-- **(%)Percentage of residents eligible for federal food assistance programs and who are currently enrolled**  
-  [Data](https://datahub.austintexas.gov/resource/xkf7-f9dv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xkf7-f9dv) | Last update: Jan 2024  
-  View more details and insights related to this data set on the story page:
 
 - **(%)Race/ethnicity of BIPOC mobility engagement process participants compared to the race/ethnicity of Austin**  
   [Data](https://datahub.austintexas.gov/resource/exck-px5c.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/exck-px5c) | Last update: Feb 2024
@@ -15054,42 +14987,28 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Annual Budget Document provides information about the General Fund Reserve as a percentage of the total General Fund requirements (SD23 measure GTW.A.5). The General Fund Reserve ensures the City is capable of offsetting potential downturns in revenue sources and provides a sufficient cash balance for daily financial needs.
 
 - **(%)Sidewalk Condition Data**  
-  [Data](https://datahub.austintexas.gov/resource/8e5u-8itq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8e5u-8itq) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/8e5u-8itq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8e5u-8itq) | Last update: Recent  
   Condition assessment is a manual process, requiring people to walk the sidewalks, measure their conditions, and record observations and measurements in a cloud database that is tied to a map of the sidewalks.
 
 - **(%)Sidewalk Condition Data Aggregated**  
-  [Data](https://datahub.austintexas.gov/resource/h2k3-wb78.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h2k3-wb78) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/h2k3-wb78.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/h2k3-wb78) | Last update: Recent  
   Condition assessment is a manual process, requiring people to walk the sidewalks, measure their conditions, and record observations and measurements in a cloud database that is tied to a map of the sidewalks.
 
 - **(%)Sidewalk Segment Data**  
-  [Data](https://datahub.austintexas.gov/resource/apxe-72wn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/apxe-72wn) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/apxe-72wn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/apxe-72wn) | Last update: Recent  
   It includes constructed ('Existing') and planned ('Absent') sidewalk segments for the network as described in the Sidewalk Master Plan adopted by the Austin City Council in June 2016.
 
-- **(%)Transit Travel Time Reliability: Percent change in MetroBus on-time performance by Type**  
-  [Data](https://datahub.austintexas.gov/resource/y8d2-q7cq.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/y8d2-q7cq) | Last update: Feb 2024
-
-- **(%)Transit Travel Time Reliability: percent change in MetroBus on-time performance**  
-  [Data](https://datahub.austintexas.gov/resource/qxqj-zxnn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qxqj-zxnn) | Last update: Feb 2024
-
 - **APD CAD Incidents Dataset**  
-  [Data](https://datahub.austintexas.gov/resource/hvr6-u327.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hvr6-u327) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/hvr6-u327.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/hvr6-u327) | Last update: Jun 2024  
   Enter a description of
 
-- **APD Cadets in Training**  
-  [Data](https://datahub.austintexas.gov/resource/y77z-cte5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/y77z-cte5) | Last update: Recent  
-  It is the order of the Department to administer a training program that will provide for the professional growth and continued development of its personnel. By doing so, the Department will ensure its personnel possess the knowledge, skills and abilities necessary to provide a professional level of service that meets the needs of the community.
-
-- **APD Warnings**  
-  [Data](https://datahub.austintexas.gov/resource/qwt7-pfwv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qwt7-pfwv) | Last update: Recent  
-  This dataset provides the case report number, the date the incident occurred, subject race and gender at the time of the interaction and the lead charge. This dataset contains only instances where a warning was issued to the subject of the interaction for a violation.
+- **APD Commendations**  
+  [Data](https://datahub.austintexas.gov/resource/t4xg-fnyp.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/t4xg-fnyp) | Last update: Jul 2024  
+  Austin Police Department General Order 922 states, "Any employee, group of employees, or individual outside of the Department may initiate the creation of a personal commendation to honor an employee or group of employees for exceptional performance."
 
 - **APH Social Service Vendor Main Locations**  
-  [Data](https://datahub.austintexas.gov/resource/iicu-im5w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/iicu-im5w) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/iicu-im5w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/iicu-im5w) | Last update: Recent  
   This dataset is a list of main headquarter office locations for non profit and governmental organizations that have formal agreements with Austin Public Health for the delivery of social services within the City of Austin and/or Travis County.
-
-- **ATD Data & Tech Services Issues**  
-  [Data](https://datahub.austintexas.gov/resource/rzwg-fyv8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/rzwg-fyv8) | Last update: Recent  
-  This is a dataset of Github issues managed by the Austin Transportation Data & Technology Services team. We publish this data primarily so that it can be used as a data source for reporting purposes. For more information about our team, visit our website:
 
 - **Active Credit Access Business Licenses**  
   [Data](https://datahub.austintexas.gov/resource/3buj-7jze.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3buj-7jze) | Last update: Recent  
@@ -15100,11 +15019,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains all active mobile home operating licenses
 
 - **Adult and Children Vaccinations Provided**  
-  [Data](https://datahub.austintexas.gov/resource/nttt-2a35.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nttt-2a35) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/nttt-2a35.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nttt-2a35) | Last update: Recent  
   The data was previously extracted from the  Texas Department of State Health Services Texas-Wide Integrated Client Encounter System (TWICES) into an aggregate report for each clinic by an Austin Public Health employee at the beginning of each month. APH transitioned from TWICES to the eClinicalWorks (eCW) platform in December 2017.
 
 - **Austin Code COVID-19 Complaint Cases**  
-  [Data](https://datahub.austintexas.gov/resource/4p54-9544.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4p54-9544) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/4p54-9544.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4p54-9544) | Last update: Recent  
   This dataset displays info on COVID-19 complaints which Austin Code has received since March 17th, 2020. This dataset is unique to Austin Code case responses and doesn't include case data from Austin Fire, Austin Police, or other entities responding to COVID-19 complaints.
 
 - **Austin Crash Report Data - Crash Level Records**  
@@ -15127,7 +15046,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Location information for Austin Fire stations
 
 - **Austin MetroBike Kiosk Locations**  
-  [Data](https://datahub.austintexas.gov/resource/qd73-bsdg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qd73-bsdg) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/qd73-bsdg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qd73-bsdg) | Last update: Jul 2024  
   You may also be interested in Austin MetroBike trip data, available here: https://data.austintexas.gov/dataset/Austin-MetroBike-Trip-Data/tyfh-5r8s/data
 
 - **Austin MetroBike Trips**  
@@ -15139,7 +15058,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Location information for Austin Police stations
 
 - **Bike Fix It**  
-  [Data](https://datahub.austintexas.gov/resource/cvnz-fq2z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cvnz-fq2z) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/cvnz-fq2z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cvnz-fq2z) | Last update: Jun 2024  
   The Austin Parks and Recreation Department has installed 24 Bicycle Fix-it Stations at Parks and Recreation facilities all over Austin in an attempt to help promote healthier, more active and sustainable lifestyles for community members of all ages and backgrounds. These stations are free for the public to use in helping to make minor repairs to their bicycles.
 
 - **Bluetooth Travel Sensors - Individual Address Files (IAFs)**  
@@ -15159,19 +15078,27 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset was created to compile information about Board of Adjustment (BOA) cases filed with the City of Austin.
 
 - **Bright Green Future Grant Data**  
-  [Data](https://datahub.austintexas.gov/resource/9pey-pbm5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9pey-pbm5) | Last update: Recent
+  [Data](https://datahub.austintexas.gov/resource/9pey-pbm5.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9pey-pbm5) | Last update: Jun 2024
 
 - **Brownfield Site List**  
   [Data](https://datahub.austintexas.gov/resource/22wq-47zy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/22wq-47zy) | Last update: May 2023  
   The column with ftp folder # corresponds to another posted dataset Brownfield Site Data which provides links to supporting documents for each of the sites.
 
 - **Camera Traffic Counts**  
-  [Data](https://datahub.austintexas.gov/resource/sh59-i6y9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sh59-i6y9) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/sh59-i6y9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/sh59-i6y9) | Last update: Jul 2024  
   The Travel Detectors dataset ( https://data.austintexas.gov/Transportation-and-Mobility/Traffic-Detectors/qpuw-8eeb ) is related to this dataset using the 'ATD Device ID' field. The Travel Detectors dataset provides more information on device location and status.
 
 - **Campaign Finance - Contributions**  
   [Data](https://datahub.austintexas.gov/resource/3kfv-biw6.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3kfv-biw6) | Last update: Recent  
   Note: Texas Election Code  254.0401 requires the City Clerk to publish campaign finance reports online and was amended in 2023 to allow the Clerk to remove the street address of the contributors listed in the report, as long as the city, state, and ZIP code remain visible in the report, and the entire address is available on the original report maintained by the City Clerk in her office.
+
+- **Campaign Finance - Expenditures**  
+  [Data](https://datahub.austintexas.gov/resource/gd3e-xut2.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gd3e-xut2) | Last update: Recent  
+  This dataset lists all expenditures and incurred obligations reported by candidates, officeholders and political committees on data files submitted per City Code Chapter 2-2-26.
+
+- **Campaign Finance - Loans**  
+  [Data](https://datahub.austintexas.gov/resource/teb3-cwz9.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/teb3-cwz9) | Last update: Recent  
+  This dataset lists all loans taken out by candidates, officeholders and political committees on data files submitted per City Code Chapter 2-2-26.
 
 - **Campaign Finance - Pre-Election Summary**  
   [Data](https://datahub.austintexas.gov/resource/xbpn-n65g.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/xbpn-n65g) | Last update: Recent  
@@ -15186,11 +15113,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   If you have any questions or comments regarding this database, or any budget inquiry, please contact the Budget Office via email at coa.budget@austintexas.gov or telephone at (512) 974-2610.
 
 - **Cohort Training Dataset- NRR**  
-  [Data](https://datahub.austintexas.gov/resource/fuz8-c222.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fuz8-c222) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/fuz8-c222.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fuz8-c222) | Last update: Jun 2024  
   Dataset for the SD23 Cohort Training
 
 - **Community Registry**  
   [Data](https://datahub.austintexas.gov/resource/u3yy-shmz.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u3yy-shmz) | Last update: Recent
+
+- **Crime Reports**  
+  [Data](https://datahub.austintexas.gov/resource/fdj4-gpfu.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/fdj4-gpfu) | Last update: Recent  
+  Pursuant to section 552.301 (c) of the Government Code, the City of Austin has designated certain addresses to receive requests for public information sent by electronic mail. For requests seeking public records held by the Austin Police Department, please submit by utilizing the following link:
 
 - **Displacement and Gentrification Recommendation Inventory**  
   [Data](https://datahub.austintexas.gov/resource/acst-e5v8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/acst-e5v8) | Last update: Apr 2023  
@@ -15200,9 +15131,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/4r2j-b4rx.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/4r2j-b4rx) | Last update: Recent  
   This dataset contains information on the handful of dynamic message signs (DMS) deployed across the City of Austin. The data is updated every hour and is maintained by the Arterial Management Division of the City of Austin Transportation and Public Works Department.
 
-- **EMS - Child Passenger Safety**  
-  [Data](https://datahub.austintexas.gov/resource/gtky-m2xb.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gtky-m2xb) | Last update: Apr 2023  
-  This dataset shows yearly data for car seat events, car seat distribution, and total car seats checked.
+- **EMS - Percent of Applicants Hired**  
+  [Data](https://datahub.austintexas.gov/resource/8ryn-q79x.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8ryn-q79x) | Last update: Apr 2023  
+  This dataset shows the percent of applicants hired by EMS Recruiting (based on total hired/total applications received).
 
 - **EOA.B.5 - Number of jobs provided by City of Austin that do not pay a living wage**  
   [Data](https://datahub.austintexas.gov/resource/dkrc-wc8q.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/dkrc-wc8q) | Last update: Apr 2023  
@@ -15217,15 +15148,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This measure provides employee attrition or turnover rate. This data is reported to provide city leaders with a measure that enables them make decisions about their workforce needs. This dataset will show the rate of turnover by department. The provided here can be used to view specific departmental attrition rates.
 
 - **HIV Provider Locations**  
-  [Data](https://datahub.austintexas.gov/resource/2wcf-ht5w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2wcf-ht5w) | Last update: Apr 2023  
+  [Data](https://datahub.austintexas.gov/resource/2wcf-ht5w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/2wcf-ht5w) | Last update: Recent  
   The name of each provider and and sublocations that offer HIV services in the Austin Transitional Grant area. This was generated by previous staff and is not a complete list.
 
 - **HPD Yearly Blueprint Goals Percentage**  
-  [Data](https://datahub.austintexas.gov/resource/vdj5-ixtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vdj5-ixtc) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/vdj5-ixtc.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/vdj5-ixtc) | Last update: Jul 2024  
   This dataset includes Blueprint goals that contain yearly percentages. The Fiscal Year runs from 10/1-9/30.
 
 - **Imagine Austin Indicators**  
-  [Data](https://datahub.austintexas.gov/resource/apwj-7zty.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/apwj-7zty) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/apwj-7zty.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/apwj-7zty) | Last update: Jul 2024  
   The complete results of the Imagine Austin indicators including an analysis of the results and visualizations are available as part of the Imagine Austin indicator dashboard and Imagine Austin Year 5 Progress Report.
 
 - **Issued Sign/Banner Permits**  
@@ -15247,6 +15178,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Lobbyist - City Officials**  
   [Data](https://datahub.austintexas.gov/resource/tnne-6nva.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/tnne-6nva) | Last update: Recent  
   This table lists city officials that benefited from a lobbyist expenditure. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
+
+- **Lobbyist - Clients**  
+  [Data](https://datahub.austintexas.gov/resource/7ena-g23u.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7ena-g23u) | Last update: Recent  
+  This table lists the clients reported by lobbyists. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
+
+- **Lobbyist - Due Dates**  
+  [Data](https://datahub.austintexas.gov/resource/nydq-gwfg.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/nydq-gwfg) | Last update: Recent
 
 - **Lobbyist - Employees**  
   [Data](https://datahub.austintexas.gov/resource/u6yt-em2w.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/u6yt-em2w) | Last update: Recent  
@@ -15275,6 +15213,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/aahu-djdd.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/aahu-djdd) | Last update: Recent  
   This dataset lists each report submitted by a lobbyist. You can recreate the City Clerk's lobbyist database by downloading all lobbyist datasets on the data portal and view the complete data model of the lobbyist database here: https://services.austintexas.gov/edims/document.cfm?id=293053
 
+- **Lobbyist - Subject Matter List**  
+  [Data](https://datahub.austintexas.gov/resource/7jrx-icwh.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/7jrx-icwh) | Last update: Recent
+
 - **Lobbyists - Master List of Lobbyists (Oracle View)**  
   [Data](https://datahub.austintexas.gov/resource/96z6-upac.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/96z6-upac) | Last update: Recent  
   This dataset lists all registered lobbyists with the City of Austin.
@@ -15299,6 +15240,18 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/28ys-ieqv.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/28ys-ieqv) | Last update: Recent  
   This dataset lists the public and internals datasets published on the City of Austin Open Data Portal filtered to the Austin Transportation and Public Works department. Dataset types include stories, charts, datasets, filters, embedded links, and files. This dataset is maintained by the Data and Technology Services division in the department.
 
+- **PARD Golf Courses**  
+  [Data](https://datahub.austintexas.gov/resource/gdcw-p335.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gdcw-p335) | Last update: Jun 2024  
+  List of City of Austin Parks and Recreation Department golf courses.
+
+- **PARD Nature-Based Centers**  
+  [Data](https://datahub.austintexas.gov/resource/9fxv-rc6t.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/9fxv-rc6t) | Last update: Jun 2024  
+  List of Austin Parks and Recreation Department's nature-based centers.
+
+- **PARD Senior Activity Centers**  
+  [Data](https://datahub.austintexas.gov/resource/3yna-uh9e.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/3yna-uh9e) | Last update: Jun 2024  
+  List of Austin Parks and Recreation Department Senior Activity Centers.
+
 - **Parking Lot Entranaces and Exits**  
   [Data](https://datahub.austintexas.gov/resource/ij6a-fwpi.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ij6a-fwpi) | Last update: Feb 2024  
   This product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of property boundaries.
@@ -15312,7 +15265,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Plug-In EVerywhere L2 stations.
 
 - **Pole Attachments**  
-  [Data](https://datahub.austintexas.gov/resource/btg5-ebcy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/btg5-ebcy) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/btg5-ebcy.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/btg5-ebcy) | Last update: Jul 2024  
   This dataset is currently being developed and may change at any time. As a result, this may contain incomplete or inaccurate information.
 
 - **Pool Inspections**  
@@ -15320,11 +15273,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This is a dataset of information from the results of inspections and /or enforcement of violations related to commercial pool and spa for public health and safety by Austin Public Health - Environmental Health Services Division.
 
 - **Properties Affected by the Recycling Diversion Requirements of the Universal Recycling Ordinance (URO)**  
-  [Data](https://datahub.austintexas.gov/resource/uic2-id33.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uic2-id33) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/uic2-id33.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uic2-id33) | Last update: Jun 2024  
   Austin Resource Recovery staff is available to answer questions  call 512-974-9727 or email commercialrecycling@austintexas.gov.
 
+- **Public Improvement Bonds Chart Data**  
+  [Data](https://datahub.austintexas.gov/resource/uigr-7tp8.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/uigr-7tp8) | Last update: Recent  
+  Dataset showing projects, encumbrances, expenditures, and available balances related to Public Improvement Bonds.
+
 - **Radar Traffic Counts**  
-  [Data](https://datahub.austintexas.gov/resource/i626-g7ub.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i626-g7ub) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/i626-g7ub.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/i626-g7ub) | Last update: Jun 2024  
   The Travel Sensor dataset ( https://data.austintexas.gov/Transportation-and-Mobility/Travel-Sensors/6yd9-yz29 ) is related to this dataset using the 'KITS ID' field. The Travel Sensors dataset provides more information on sensor location and status.
 
 - **Real-Time Road Conditions**  
@@ -15336,7 +15293,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains traffic incident information from the Austin-Travis County traffic reports collected from the various Public Safety agencies through a data feed from the Combined Transportation, Emergency, and Communications Center (CTECC).
 
 - **Recreation Centers**  
-  [Data](https://datahub.austintexas.gov/resource/8dff-2vkt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8dff-2vkt) | Last update: Recent  
+  [Data](https://datahub.austintexas.gov/resource/8dff-2vkt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/8dff-2vkt) | Last update: Jun 2024  
   The Parks and Recreation Department offers a wide variety of programs for youth and teens, adults and 50+/seniors at our Community Recreation Centers. This dataset contains the name, address, zip code, phone number, and website url for all of PARD's recreation centers.
 
 - **Repeat Offender Registrations**  
@@ -15359,15 +15316,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.austintexas.gov/resource/ggnk-3ykn.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ggnk-3ykn) | Last update: Recent  
   This dataset contains records of street sign assets installed and maintained from June 2018 to present. Any signs installed or maintained before June 2018 was collected by a vendor (Roadway Asset Services) in November 2021.
 
-- **SD23 Measures List**  
-  [Data](https://datahub.austintexas.gov/resource/67xi-dh72.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/67xi-dh72) | Last update: Jan 2024
-
 - **SD23 Strategies List**  
   [Data](https://datahub.austintexas.gov/resource/ni9f-t5ai.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ni9f-t5ai) | Last update: Jan 2024
-
-- **Sample3**  
-  [Data](https://datahub.austintexas.gov/resource/ph79-ki2f.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/ph79-ki2f) | Last update: Jun 2024  
-  Sample3
 
 - **Stores Supplying Extra Trash Stickers**  
   [Data](https://datahub.austintexas.gov/resource/gpeq-wpdt.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/gpeq-wpdt) | Last update: May 2023
@@ -15431,19 +15381,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains information about travel sensors in Austin, TX. Travel sensors are owned and operated by the City of Austin Transportation Department and are used to monitor traffic conditions across the city.
 
 - **Travis County 4-Year High School Graduation Rates by Campus**  
-  [Data](https://datahub.austintexas.gov/resource/kzjr-yr6n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kzjr-yr6n) | Last update: May 2024  
+  [Data](https://datahub.austintexas.gov/resource/kzjr-yr6n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/kzjr-yr6n) | Last update: Recent  
   This data set shows the number and percentage of children graduating from high school in Travis County, including public, private, charter, home schools, and other high school equivalents. The data is from the Texas Education Agency (TEA) state agency that oversees primary and secondary public education in the state of Texas.
 
 - **Travis County High School Information**  
-  [Data](https://datahub.austintexas.gov/resource/b6qz-64ts.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b6qz-64ts) | Last update: Jan 2024  
+  [Data](https://datahub.austintexas.gov/resource/b6qz-64ts.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/b6qz-64ts) | Last update: Recent  
   This dataset shows all high schools that were included in the 2020 TEA 4-year graduation rate report, and indicates their street address, zip code, district, and type of school (private/charter).
 
 - **Tree Inventory**  
   [Data](https://datahub.austintexas.gov/resource/wrik-xasw.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/wrik-xasw) | Last update: Jun 2024
-
-- **Water Quality Publications by Reach and Program (beta)**  
-  [Data](https://datahub.austintexas.gov/resource/es93-5tyr.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/es93-5tyr) | Last update: Apr 2023  
-  The Watershed Protection Department has been distributing engineering assessments and scientific reports using the text-driven Watershed Publications Search tool.
 
 - **Water Quality Sampling Data**  
   [Data](https://datahub.austintexas.gov/resource/5tye-7ray.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/5tye-7ray) | Last update: Recent
@@ -15451,10 +15397,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Water Quality Sampling Locations (deprecated)**  
   [Data](https://datahub.austintexas.gov/resource/cj3v-cz6n.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/cj3v-cz6n) | Last update: Aug 2023  
   Locations for water quality sampling performed in the Austin, TX area by the Watershed Protection Environmental Resource Management division.
-
-- **Wildfire Mechanical Fuel Treatments**  
-  [Data](https://datahub.austintexas.gov/resource/qa3e-ix2z.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/qa3e-ix2z) | Last update: Oct 2023  
-  Date of last description update: March 30, 2020
 
 - **Zoning by Address**  
   [Data](https://datahub.austintexas.gov/resource/x6u4-4bmj.json) | [Docs](https://dev.socrata.com/foundry/datahub.austintexas.gov/x6u4-4bmj) | Last update: May 2024  
@@ -15469,15 +15411,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## datahub.hhs.gov
 
-- **COVID-19 Community Vulnerability Crosswalk - Crosswalk by Census Tract**  
-  [Data](https://datahub.hhs.gov/resource/x2y5-9muu.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/x2y5-9muu) | Last update: Jul 2023
-
 - **COVID-19 Hospital Data Coverage Summary**  
-  [Data](https://datahub.hhs.gov/resource/e9gr-58h7.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/e9gr-58h7) | Last update: Recent  
+  [Data](https://datahub.hhs.gov/resource/e9gr-58h7.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/e9gr-58h7) | Last update: Jun 2024  
   After May 3, 2024, this dataset and webpage will no longer be updated because hospitals are no longer required to report data on COVID-19 hospital admissions, and hospital capacity and occupancy data, to HHS through CDCs National Healthcare Safety Network. Data voluntarily reported to NHSN after May 1, 2024, will be available starting May 10, 2024, at COVID Data Tracker Hospitalizations.
 
 - **COVID-19 Public Therapeutic Locator**  
-  [Data](https://datahub.hhs.gov/resource/rxn6-qnx8.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/rxn6-qnx8) | Last update: Recent  
+  [Data](https://datahub.hhs.gov/resource/rxn6-qnx8.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/rxn6-qnx8) | Last update: Jun 2024  
   Locations of publicly available COVID-19 Therapeutics. Dataset only includes locations for Paxlovid (oral antiviral), Lagevrio (oral antiviral), and outpatient Veklury (intravenous antiviral infusion). COVID-19 therapeutics require a prescription to obtain. Limitations: public contact information.
 
 - **COVID-19 Treatments**  
@@ -15485,11 +15424,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   All therapeutics identified in the locator not approved by the FDA must be used in alignment with the terms of the respective products Emergency Use Authorization. Visit COVID-19 Treatments and Therapeutics for more information on all treatment options.
 
 - **HHS IDs**  
-  [Data](https://datahub.hhs.gov/resource/vz64-k9wr.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/vz64-k9wr) | Last update: Recent  
+  [Data](https://datahub.hhs.gov/resource/vz64-k9wr.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/vz64-k9wr) | Last update: Jun 2024  
   After May 3, 2024, this dataset and webpage will no longer be updated because hospitals are no longer required to report data on COVID-19 hospital admissions, and hospital capacity and occupancy data, to HHS through CDCs National Healthcare Safety Network. Data voluntarily reported to NHSN after May 1, 2024, will be available starting May 10, 2024, at COVID Data Tracker Hospitalizations.
 
 - **Percentage of Hospitals Reporting Data to HHS by State**  
-  [Data](https://datahub.hhs.gov/resource/8xss-g7j8.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/8xss-g7j8) | Last update: Recent  
+  [Data](https://datahub.hhs.gov/resource/8xss-g7j8.json) | [Docs](https://dev.socrata.com/foundry/datahub.hhs.gov/8xss-g7j8) | Last update: Jun 2024  
   The reported hospital list includes all hospitals registered with the Centers for Medicare & Medicaid Services (CMS), and non-CMS hospitals that have reported since July 15, 2020. It does not include psychiatric, rehabilitation, Indian Health Service (IHS) facilities, U.S. Department of Veterans Affairs (VA) facilities, and religious non-medical facilities.
 
 [[TOP]](#toc)
@@ -15501,6 +15440,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.smcgov.org/resource/miht-8rmd.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/miht-8rmd) | Last update: Jun 2015  
   Data about Active Transportation Projects in San Mateo County. Active transportation includes walking and biking as a form of transportation.
 
+- **DP04 American Community Survey 5-Year Estimates**  
+  [Data](https://datahub.smcgov.org/resource/2kka-6i3k.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/2kka-6i3k) | Last update: Jun 2024  
+  This dataset contains variables from Data Profile 4 (DP04). Topics include: housing, housing characteristics, vehicle access, occupancy, housing cost, mortgage cost, rent cost, and gross rent as a percentage of income (GRAPI), all at the State, County, and Census Tract level for each Tract in the County.
+
 - **Educational Attainment**  
   [Data](https://datahub.smcgov.org/resource/mb6a-xn89.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/mb6a-xn89) | Last update: Dec 2015  
   This dataset contains data about the highest grade completed by residents of San Mateo County by city. Grade levels include less than high school graduate, high school graduate, some college or associate's degree, and bachelor's degree or higher. This data was extracted from the United States Cenus Bureau's American Community Survey 2014 5 year estimates.
@@ -15511,6 +15454,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Number of Datasets in Portal By Year**  
   [Data](https://datahub.smcgov.org/resource/ynyy-5ag5.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/ynyy-5ag5) | Last update: Mar 2021  
   Count of the number of datasets in the open data portal
+
+- **SB 272 Data Systems Inventory**  
+  [Data](https://datahub.smcgov.org/resource/jk5a-wjr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/jk5a-wjr3) | Last update: Recent
 
 - **San Mateo County Adopted Budget FY 13/14**  
   [Data](https://datahub.smcgov.org/resource/ukib-ans8.json) | [Docs](https://dev.socrata.com/foundry/datahub.smcgov.org/ukib-ans8) | Last update: Jul 2014  
@@ -15610,6 +15556,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Mobility Trends County Modeling Dataset**  
   [Data](https://datahub.transportation.gov/resource/wusc-iwue.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/wusc-iwue) | Last update: Recent
 
+- **Monthly NHS Traffic Speed**  
+  [Data](https://datahub.transportation.gov/resource/ra4w-8xud.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/ra4w-8xud) | Last update: Recent  
+  This dataset reports the historical National Highway System 50th percentile median speeds for various roadway types, months, and vehicles on US roads.
+
 - **National Bicycle Network**  
   [Data](https://datahub.transportation.gov/resource/epq5-enxz.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/epq5-enxz) | Last update: Recent
 
@@ -15623,6 +15573,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **RAISE Persistent Poverty**  
   [Data](https://datahub.transportation.gov/resource/mmgn-pg9s.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/mmgn-pg9s) | Last update: Jan 2023
+
+- **Rail Equipment Accident/Incident Data (Form 54)**  
+  [Data](https://datahub.transportation.gov/resource/85tf-25kj.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/85tf-25kj) | Last update: Recent  
+  This dataset is in a user-friendly human-readable format. To download the source dataset that contains raw data values, go here: https://data.transportation.gov/dataset/Form-54-Source-Table/aqxq-n5hy.
 
 - **Recalls Data**  
   [Data](https://datahub.transportation.gov/resource/6axg-epim.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/6axg-epim) | Last update: Recent  
@@ -15651,6 +15605,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.transportation.gov/resource/mt5m-skz3.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/mt5m-skz3) | Last update: Recent  
   This dataset consists of truck size and weight enforcement data including number of trucks weighed, number of violations, and number of oversize/overweight permits, as reported by the States in their annual certification to FHWA.
 
+- **Weekly Gasoline Product Supplied**  
+  [Data](https://datahub.transportation.gov/resource/yuth-jt4g.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/yuth-jt4g) | Last update: Recent
+
 - **Weekly Traffic Volume**  
   [Data](https://datahub.transportation.gov/resource/yeig-3uz6.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/yeig-3uz6) | Last update: May 2024  
   This dataset contains the estimates of the vehicle miles traveled (VMT) for interstate highways and how the total travel measured by VMT compares with travel that occurred in the same week of the previous year.
@@ -15667,17 +15624,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.transportation.gov/resource/2rdx-wgpx.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/2rdx-wgpx) | Last update: Apr 2024  
   Revision Note: This dataset only contains TIM sample data prior to December 18, 2018. For the most recent sample of TIM data, please refer to the Schema Version 6 dataset or retrieve the data from the ITS DataHub data sandbox.
 
-- **Wyoming CV Pilot Traveler Information Message Sample (Schema Version 6)**  
-  [Data](https://datahub.transportation.gov/resource/6nxx-nmxk.json) | [Docs](https://dev.socrata.com/foundry/datahub.transportation.gov/6nxx-nmxk) | Last update: Apr 2024  
-  This dataset contains a sample of the broadcast Traveler Information Messages (TIM) being generated by the Wyoming Connected Vehicle (CV) Pilot. This dataset only contains SchemaVersion 6 TIM sample data from December 18, 2018 to present. It is updated hourly and will hold up to 3 million of the most recent TIM records.
-
 [[TOP]](#toc)
 
 
 ## datahub.usac.org
 
 - **CAF Disbursements and Locations Data**  
-  [Data](https://datahub.usac.org/resource/hghw-69cg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/hghw-69cg) | Last update: Recent  
+  [Data](https://datahub.usac.org/resource/hghw-69cg.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/hghw-69cg) | Last update: Jun 2024  
   This dataset provides information at the Study Area Code (SAC) level about dollar amounts paid to carriers that participate in Connect America Fund (CAF) programs, the number of locations these carriers have deployed with CAF support and their total deployment obligations by location count.
 
 - **E-Rate FCC Form 470 Tool Data**  
@@ -15734,6 +15687,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.usac.org/resource/tuem-agyq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/tuem-agyq) | Last update: Recent  
   This dataset contains information about the entities who receive the service and associated cost allocations included within each FCC Form 471, and related information from the E-Rate Productivity Center (EPC).
 
+- **E-Rate Service Provider Information**  
+  [Data](https://datahub.usac.org/resource/xcy2-bdid.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/xcy2-bdid) | Last update: Recent
+
 - **E-Rate Supplemental Entity Information**  
   [Data](https://datahub.usac.org/resource/7i5i-83qf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/7i5i-83qf) | Last update: Recent  
   This dataset contains E-Rate Productivity Center (EPC) information about schools, libraries, school districts, library systems, consortia, and non-instructional facilities (NIFs). For Annexes information, please refer to the "E-Rate Supplemental Entity Information: Annexes" dataset.
@@ -15745,6 +15701,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Emergency Connectivity Fund FCC Form 471**  
   [Data](https://datahub.usac.org/resource/i5j4-3rvr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/i5j4-3rvr) | Last update: Recent
 
+- **High Cost Detailed Payment Tool Data (Adjustments)**  
+  [Data](https://datahub.usac.org/resource/c4e4-rzwm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/c4e4-rzwm) | Last update: Recent  
+  This dataset provides detailed payment information dating back 10 years to show the types and dollar amounts of adjustments to prior-period support disbursed to Eligible Telecommunications Carriers (ETCs) that receive High Cost funding to provide voice and broadband service in rural America.
+
 - **High Cost Detailed Payment Tool Data (Payments)**  
   [Data](https://datahub.usac.org/resource/54bu-6jcj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/54bu-6jcj) | Last update: Recent
 
@@ -15753,7 +15713,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset provides information about total dollars disbursed to Eligible Telecommunication Carriers (ETCs) within the High Cost Program by month and year since January 2003.
 
 - **High Cost: Connect America Fund Broadband Map (CAF Map)**  
-  [Data](https://datahub.usac.org/resource/r59r-rpip.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/r59r-rpip) | Last update: Recent
+  [Data](https://datahub.usac.org/resource/r59r-rpip.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/r59r-rpip) | Last update: Jun 2024
 
 - **Lifeline Companies Near Me**  
   [Data](https://datahub.usac.org/resource/kjtb-4uf7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usac.org/kjtb-4uf7) | Last update: Recent
@@ -15786,7 +15746,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
 
 - **Assessment of ACS Administration Provider Dataset - India**  
-  [Data](https://datahub.usaid.gov/resource/ndnq-242j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ndnq-242j) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ndnq-242j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ndnq-242j) | Last update: Jun 2024  
   Assess current use of antenatal corticosteroids (ACS) in selected sites in Haryana, India, and identify critical pre-conditions needed to safely administer ACS by all health care providers at delivery points in the Indian health system to inform revision of national policy/guidelines. Provider dataset.
 
 - **Badin Kowa Market Grain Prices**  
@@ -15794,7 +15754,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
 
 - **Bangladesh: Inter & Intra Variability Measurement of Fundal Height & Abdominal Circumf. Dataset**  
-  [Data](https://datahub.usaid.gov/resource/2n56-b5uu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2n56-b5uu) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/2n56-b5uu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2n56-b5uu) | Last update: Jun 2024  
   Determine the accuracy, reliability and feasibility of maternal anthropometric measurements (e.g. symphysis fundal height, abdominal girth) in the third trimester of pregnancy to estimate gestational age.
 
 - **Birnin Kebbi Market Grain Prices**  
@@ -15802,55 +15762,51 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Household Dataset**  
-  [Data](https://datahub.usaid.gov/resource/j94c-exxy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j94c-exxy) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/j94c-exxy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j94c-exxy) | Last update: Jul 2024
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Household Net Roster Dataset**  
-  [Data](https://datahub.usaid.gov/resource/q2az-2exj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q2az-2exj) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/q2az-2exj.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q2az-2exj) | Last update: Jul 2024
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Men's Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9zgx-yjxn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9zgx-yjxn) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/9zgx-yjxn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9zgx-yjxn) | Last update: Jul 2024  
   The mens questionnaire dataset is a compiliation of all the responses to the men's questionnaire of the Malaria Behavior Survey in Malawi.
 
 - **Breakthrough ACTION Malaria Behavior Survey - Malawi Women's Dataset**  
-  [Data](https://datahub.usaid.gov/resource/d77e-tpgu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d77e-tpgu) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/d77e-tpgu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/d77e-tpgu) | Last update: Jul 2024  
   The women's questionnaire dataset is a compiliation of all the responses to the women's questionnaire of the Malaria Behavior Survey.
 
 - **Cambodia Health Information Management System Data Demand and Information Use: Commune Council Dataset**  
-  [Data](https://datahub.usaid.gov/resource/r2v8-fn9f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r2v8-fn9f) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/r2v8-fn9f.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/r2v8-fn9f) | Last update: Jun 2024  
   This dataset solicits information about the respondents knowledge regarding the use and preparation of health data within the commune investment plan. It also asks the respondents to identify how they use health data and to what extent they understand the Cambodia Health Information Management System.
 
 - **Cambodia Health Information Management System Data Demand and Information Use: Health Decision Maker Dataset**  
-  [Data](https://datahub.usaid.gov/resource/pdip-atc2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pdip-atc2) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/pdip-atc2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pdip-atc2) | Last update: Jun 2024  
   This dataset solicits information about the respondents use health data and to what extent they understand the Cambodia Health Information Management System. Respondents were asked to identify barriers to data usage.
 
 - **Climate Change Impacts on Water Resources in Malawi: Dataset**  
-  [Data](https://datahub.usaid.gov/resource/g9h3-tx57.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g9h3-tx57) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/g9h3-tx57.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g9h3-tx57) | Last update: Jun 2024
 
 - **Climate Change Impacts on Water Resources in Tanzania: Simulation Dataset**  
   [Data](https://datahub.usaid.gov/resource/xssc-gb6c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xssc-gb6c) | Last update: Jun 2024  
   The dataset has 57 variables and 895441 records. It contains the historical as well as future hydrological conditions under RCP 8.5 scenario projected by the six climate models (CanESM2, CCSM4, CSIROMK3.6, IPSL-CM5A-LR, MPI-ESM-LR, and MRI-CGCM3).
 
 - **Cross River State Agricultural Development Project Funds and Expenditures**  
-  [Data](https://datahub.usaid.gov/resource/xcve-haew.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xcve-haew) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/xcve-haew.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xcve-haew) | Last update: Jun 2024  
   Dataset was created with documents provided by the Cross River State Agricultural Development Programme in Calabar, Nigeria.
 
 - **Cross River State Agricultural Input Prices**  
-  [Data](https://datahub.usaid.gov/resource/wpnb-daue.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wpnb-daue) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/wpnb-daue.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wpnb-daue) | Last update: Jun 2024  
   These are data on agricultural input prices from 2000 to 2016. Dataset was created with documents provided by the Cross River State Agricultural Development Programme in Calabar, Nigeria.
-
-- **Cross River State Agricultural Production Data**  
-  [Data](https://datahub.usaid.gov/resource/hsjg-msys.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hsjg-msys) | Last update: Recent  
-  Dataset of agricultural production estimates for Cross River state, Nigeria for 2000 to 2016.
 
 - **Dakingari Market Grain Prices**  
   [Data](https://datahub.usaid.gov/resource/5dc8-wdqb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/5dc8-wdqb) | Last update: Jun 2024  
   Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
 
 - **Dataset on firm-­level attributes and civil resistance against corporate HR violations in Mexico, Indonesia, Nigeria, and South Africa**  
-  [Data](https://datahub.usaid.gov/resource/rnyz-btz7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rnyz-btz7) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/rnyz-btz7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rnyz-btz7) | Last update: Jun 2024
 
 - **Development Credit Authority (DCA) Data Set: Loan Transactions**  
-  [Data](https://datahub.usaid.gov/resource/dt8c-833c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dt8c-833c) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/dt8c-833c.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dt8c-833c) | Last update: Jun 2024
 
 - **Development Experience Clearinghouse (DEC) - document repository**  
   [Data](https://datahub.usaid.gov/resource/ivrf-nnk3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ivrf-nnk3) | Last update: Jun 2024
@@ -15864,85 +15820,85 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
 
 - **EC-LEDS Clean Energy Program Georgia Dataset**  
-  [Data](https://datahub.usaid.gov/resource/3xfr-uc4e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3xfr-uc4e) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/3xfr-uc4e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3xfr-uc4e) | Last update: Jun 2024
 
 - **ELTAP ELAP Baseline Wives Dataset**  
-  [Data](https://datahub.usaid.gov/resource/v9kp-v6dt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v9kp-v6dt) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/v9kp-v6dt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v9kp-v6dt) | Last update: Jun 2024  
   The attached data is from the baseline surveys conducted prior
 
 - **ELTAP ELAP Woreda Dataset**  
-  [Data](https://datahub.usaid.gov/resource/4hsg-xes8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4hsg-xes8) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/4hsg-xes8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4hsg-xes8) | Last update: Jun 2024  
   The attached data is from the endline surveys conducted after to the ELTAP
 
 - **Ebola Geocoding Data**  
-  [Data](https://datahub.usaid.gov/resource/q66i-fqnq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q66i-fqnq) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/q66i-fqnq.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q66i-fqnq) | Last update: Jun 2024  
   This dataset contains geocoded data for Ebola financing commissioned by USAID to clinics in Sub-Saharan Africa.
 
 - **Ethnographic research on the food security of rice farmers in Vietnam**  
-  [Data](https://datahub.usaid.gov/resource/hqug-vgjt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hqug-vgjt) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hqug-vgjt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hqug-vgjt) | Last update: Jul 2024  
   This project examines the effects of climate change on gendered agricultural practices of rice farmers including their household food security.
 
 - **Europe and Eurasia Energy Security Index (Dataset)**  
-  [Data](https://datahub.usaid.gov/resource/79wa-ydfp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/79wa-ydfp) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/79wa-ydfp.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/79wa-ydfp) | Last update: Jun 2024
 
 - **FTF "Don't Lose the Plot" Impact Assessment: Kenya Dataset**  
-  [Data](https://datahub.usaid.gov/resource/jh27-jpa9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jh27-jpa9) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/jh27-jpa9.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jh27-jpa9) | Last update: Jul 2024  
   Dataset file can be found in the metadata below under "Attachments".
 
 - **FTF "Don't Lose the Plot" Impact Assessment: Tanzania Dataset**  
-  [Data](https://datahub.usaid.gov/resource/qahj-fxcx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qahj-fxcx) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/qahj-fxcx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qahj-fxcx) | Last update: Jul 2024  
   Dataset file can be found in the metadata below under "Attachments".
 
 - **Family-Led Care Study Dataset - Malawi**  
-  [Data](https://datahub.usaid.gov/resource/9uej-sk4r.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9uej-sk4r) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/9uej-sk4r.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9uej-sk4r) | Last update: Jun 2024  
   Assess implementation of the Family-Led Care model in Balaka district against its expected outcomes: improved quality of facility-based care for preterm/LBW babies; families empowered to successfully care for preterm/LBW babies at the facility and household level; and pathways between communities and facilities strengthened for follow up care of preterm/LBW babies. Caregiver (family) dataset.
 
 - **Farm Plots Survey for Agriculture for Children Empowerment (ACE) in Liberia- Harvest Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/6tcg-icus.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6tcg-icus) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/6tcg-icus.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6tcg-icus) | Last update: Jun 2024  
   This dataset contains information about each plot the household owns, their size, the crops grown on them, and the methods used to grow plants on those plots.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Farm Plots Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/i2qz-bxga.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i2qz-bxga) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/i2qz-bxga.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i2qz-bxga) | Last update: Jun 2024  
   This dataset contains baseline information about each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Farm Plots Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hw9c-ghjx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hw9c-ghjx) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hw9c-ghjx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hw9c-ghjx) | Last update: Jun 2024  
   This dataset contains endline information about each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Fertilizer and Seed Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/ufvg-5699.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ufvg-5699) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ufvg-5699.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ufvg-5699) | Last update: Jun 2024  
   This dataset contains baseline information about the fertilizer and seed used on each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Fertilizer and Seed Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/n3zs-kyr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n3zs-kyr3) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/n3zs-kyr3.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/n3zs-kyr3) | Last update: Jun 2024  
   This dataset contains endline information about the fertilizer and seed used on each plot the household owns.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Harvest Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/deac-eeew.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/deac-eeew) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/deac-eeew.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/deac-eeew) | Last update: Jun 2024  
   This dataset contains endline information about each plot the household owns, their size, the crops grown on them, and the methods used to grow plants on those plots.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/qarj-m47b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qarj-m47b) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/qarj-m47b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qarj-m47b) | Last update: Jun 2024  
   This dataset contains information about each household surveyed.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/btry-8frb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/btry-8frb) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/btry-8frb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/btry-8frb) | Last update: Jun 2024  
   This dataset contains information about each household.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Member Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/txb9-i5bk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/txb9-i5bk) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/txb9-i5bk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/txb9-i5bk) | Last update: Jun 2024  
   This dataset contains information about the members of each household surveyed.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Household Member Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/2mzx-geke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2mzx-geke) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/2mzx-geke.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/2mzx-geke) | Last update: Jun 2024  
   This dataset contains information about members of each household surveyed.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Workforce Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/f8ea-tddm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f8ea-tddm) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/f8ea-tddm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f8ea-tddm) | Last update: Jun 2024  
   This dataset contains information about the workforce described in the survey.
 
 - **Farm Plots Survey for Agriculture for Children's Empowerment (ACE) in Liberia- Workforce Endline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/3iif-stim.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3iif-stim) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/3iif-stim.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3iif-stim) | Last update: Jun 2024  
   This dataset contains information about the workforce described in the survey.
 
 - **Feed The Future Rwanda Baseline Household Survey, Women's Empowerment in Agriculture Index-File 1**  
@@ -15950,59 +15906,59 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Rwanda Population-Based Survey (PBS) provides a comprehensive assessment of the current status of agriculture and food security in almost the entire country, including all four provinces and all of rural Rwanda. This dataset is one of two datasets needed to calculate the WEAI-related measures.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Children Dataset**  
-  [Data](https://datahub.usaid.gov/resource/mg7g-p9by.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mg7g-p9by) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/mg7g-p9by.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/mg7g-p9by) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Construction Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/gf5y-geey.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gf5y-geey) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/gf5y-geey.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/gf5y-geey) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Durable Goods Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/bnma-ukqk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnma-ukqk) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/bnma-ukqk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/bnma-ukqk) | Last update: Jul 2024  
   This dataset (n=69,540, vars=23) contains data from sub-Module E7: Durable Goods Expenditures. Each household with data for durable goods expenditures has multiple records (for the 38 durable goods in sub-Module E7). (69,540 records divided by 38 non-food items = 1,830 Module E households with sub-Module E7 data.)
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Food Consumption Dataset**  
-  [Data](https://datahub.usaid.gov/resource/wp3g-2r2g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wp3g-2r2g) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/wp3g-2r2g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wp3g-2r2g) | Last update: Jul 2024  
   This dataset (n=243,789, vars=28) contains variables from Module E1, Food Consumption Over Past 7 Days. Each household with food consumption data has multiple records (for the 133 food items in sub-Module E1). (243,789 records divided by 133 food items =1,833 Module E households with sub-Module E1 data.).
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Household Dataset**  
-  [Data](https://datahub.usaid.gov/resource/4htd-xesf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4htd-xesf) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/4htd-xesf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4htd-xesf) | Last update: Jul 2024  
   This baseline survey seeks to capture data on womens empowerment in agriculture, household food security, consumption, nutrition, and wellbeing of households in the geographic areas targeted by Feed the Future interventions, known as Feed the Future Zones of Influence (ZOI). The ZOI in northern Kenya comprises nine counties and approximately two-thirds of Kenyas total land area.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Household Members Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9dne-w6fk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9dne-w6fk) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/9dne-w6fk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9dne-w6fk) | Last update: Jul 2024  
   This baseline survey seeks to capture data on womens empowerment in agriculture, household food security, consumption, nutrition, and wellbeing of households in the geographic areas targeted by Feed the Future interventions, known as Feed the Future Zones of Influence (ZOI). The ZOI in northern Kenya comprises nine counties and approximately two-thirds of Kenyas total land area.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Housing Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/q78n-tndz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q78n-tndz) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/q78n-tndz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q78n-tndz) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Income Sources Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hq3v-yixf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hq3v-yixf) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hq3v-yixf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hq3v-yixf) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Income Sources During Stress Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hudi-67us.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hudi-67us) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hudi-67us.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hudi-67us) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Non-Food Expenditures Dataset**  
-  [Data](https://datahub.usaid.gov/resource/wfxm-ff2v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wfxm-ff2v) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/wfxm-ff2v.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wfxm-ff2v) | Last update: Jul 2024  
   This dataset (n=18,300, vars=17) contains variables from sub-Module E2, Non-Food Expenditures over Past 7 Days. Each household with data for non-food expenditurs over the past week has multiple records (for the 10 non-food items in sub-Module E2) (18,300 records divided by 10 non-food items=1,830 Module E households with sub-Module E2 data.)
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Women Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hiw5-p28g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hiw5-p28g) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hiw5-p28g.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hiw5-p28g) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Women's Empowerment in Agriculture Index (WEAI) Dataset**  
-  [Data](https://datahub.usaid.gov/resource/7bzx-qaw7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7bzx-qaw7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/7bzx-qaw7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/7bzx-qaw7) | Last update: Jul 2024  
   This dataset (n=14,055, var=11) is the first of two datasets needed to calculate the WEAI-related measures. It contains Module G data from the primary adult (18+) female decisionmaker within each household (for the sub-sample of households with a primary adult female decisionmaker).
 
 - **Feed the Future Northern Kenya Zone of Influence Survey Baseline - Women's Empowerment in Agriculture Index (WEAI) Household Dataset**  
-  [Data](https://datahub.usaid.gov/resource/nsvj-fw25.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nsvj-fw25) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/nsvj-fw25.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/nsvj-fw25) | Last update: Jul 2024  
   Feed the Future seeks to reduce poverty and undernutrition in 19 developing countries including Kenya by focusing on accelerating growth of the agricultural sector, addressing root causes of undernutrition, and reducing gender inequality.
 
 - **Feed the Future Uganda Enabling Environment for Agriculture Climate Change Survey**  
-  [Data](https://datahub.usaid.gov/resource/54nn-uhhw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/54nn-uhhw) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/54nn-uhhw.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/54nn-uhhw) | Last update: Jun 2024  
   Aimed at collecting information on decisionmakers capacity at the district-level to adapt to climate change. The study employed a quantitative methodology that entailed administering a structured questionnaire to the 8 district officials from each of the target districts.
 
 - **ForeignAssistance.gov - Complete**  
@@ -16038,58 +15994,61 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   These tables offer a summary of obligations and disbursements in current and constant dollars by U.S. Government (USG) sector and country from 2001 to the most recent year.
 
 - **Fostering Interventions for Rapid Market Advancement in BiH Impact Evaluation Dataset**  
-  [Data](https://datahub.usaid.gov/resource/avj6-2xcy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/avj6-2xcy) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/avj6-2xcy.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/avj6-2xcy) | Last update: Jun 2024
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Baseline Head Teacher Dataset**  
-  [Data](https://datahub.usaid.gov/resource/s6bm-82r7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s6bm-82r7) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/s6bm-82r7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s6bm-82r7) | Last update: Jun 2024
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Baseline Pupil Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9m62-y6hr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9m62-y6hr) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/9m62-y6hr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9m62-y6hr) | Last update: Jun 2024
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Head Teacher Dataset**  
-  [Data](https://datahub.usaid.gov/resource/uw38-mxj2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uw38-mxj2) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/uw38-mxj2.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uw38-mxj2) | Last update: Jun 2024
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Math Coach Dataset**  
-  [Data](https://datahub.usaid.gov/resource/yn4n-9iqu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn4n-9iqu) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/yn4n-9iqu.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yn4n-9iqu) | Last update: Jun 2024
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Structured Observation Dataset**  
-  [Data](https://datahub.usaid.gov/resource/k6mp-c5mk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k6mp-c5mk) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/k6mp-c5mk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k6mp-c5mk) | Last update: Jun 2024
 
 - **Ghana Early Grade Math Pilot Impact Evaluation: Endline Teacher Dataset**  
-  [Data](https://datahub.usaid.gov/resource/cp8a-qisd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cp8a-qisd) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/cp8a-qisd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/cp8a-qisd) | Last update: Jun 2024
 
 - **Groundwater Chemistry in Ramotswa, Botswana - Rainwater Chemistry Dataset**  
   [Data](https://datahub.usaid.gov/resource/828y-ynhz.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/828y-ynhz) | Last update: Jun 2024  
   Rainwater collected in clean bucket in Gaborone. Filtered and refrigerated before analysis. All concentrations in mg/L. Analyzed at WaterLab in Pretoria, South Africa.
 
 - **Health Policy Plus (HP+) Midterm Performance Evaluation Dataset**  
-  [Data](https://datahub.usaid.gov/resource/pawq-y4ya.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pawq-y4ya) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/pawq-y4ya.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pawq-y4ya) | Last update: Jun 2024
+
+- **Impact Evaluation Website (Data)**  
+  [Data](https://datahub.usaid.gov/resource/ki9g-tgzn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ki9g-tgzn) | Last update: Jun 2024  
+  This dataset contains responses by government officials from India, Tanzania and Peru who were interviewed during June-August 2017. They filled out a short survey and were introduced to the Impact Evidence website.
 
 - **Improving Agricultural Markets Project in Bosnia and Herzegovina: Summary Dataset**  
-  [Data](https://datahub.usaid.gov/resource/uhjt-76df.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uhjt-76df) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/uhjt-76df.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uhjt-76df) | Last update: Jun 2024  
   This data asset is a summary of the impact evaluation and provides information about the goal of improving competitiveness of agricultural subsectors dairy, fruits and vegetables, and medical and aromatic plants in Bosnia and Herzegovina by building the capacity of producer organizations to operate more effectively, increase sales, and obtain financing.
 
 - **Integration of Slurry Separation Technology & Refrigeration Units: Organic Fertilizer Study 2**  
-  [Data](https://datahub.usaid.gov/resource/j2b8-6sav.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j2b8-6sav) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/j2b8-6sav.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j2b8-6sav) | Last update: Jun 2024  
   Application of effluent from an anaerobic digesters (digestate) and other organic fertilizers to Maize plots in Kampala, Uganda to assess yield impacts.
 
 - **Integration of Slurry Separation Technology & Refrigeration Units: Public Sanitation - COD**  
-  [Data](https://datahub.usaid.gov/resource/4ezw-et9q.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4ezw-et9q) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/4ezw-et9q.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4ezw-et9q) | Last update: Jun 2024  
   Data analysed from February April 2014. Inputs and outputs (effluent)  measured. Available Hach high range 0-1,500 mg/L COD kits and a DR5000 spectrophotometer were used.
 
 - **Integration of Slurry Separation Technology & Refrigeration Units: Public Sanitation - DigTempRaw**  
-  [Data](https://datahub.usaid.gov/resource/a7f2-aekr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a7f2-aekr) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/a7f2-aekr.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a7f2-aekr) | Last update: Jun 2024  
   Data from logtag thermometers from December 1, 2014 to March 23, 2016. Data collected after March 23 is not currently included.
 
 - **Integration of Slurry Separation Technology & Refrigeration Units: Public Sanitation - FC-EC-all**  
-  [Data](https://datahub.usaid.gov/resource/p7dx-bm43.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p7dx-bm43) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/p7dx-bm43.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/p7dx-bm43) | Last update: Jun 2024
 
-- **Kaduna State Agricultural Production Data**  
-  [Data](https://datahub.usaid.gov/resource/ieyj-ibbd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ieyj-ibbd) | Last update: Recent  
-  Kaduna state agricultural production data for a set of crops for the period 1999 to 2014.
+- **Inventory Data for USAID Land and Resource Governance and Property Rights Programming**  
+  [Data](https://datahub.usaid.gov/resource/j5xv-ye92.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/j5xv-ye92) | Last update: Jun 2024
 
 - **Kaduna State Government Revenues (Data)**  
-  [Data](https://datahub.usaid.gov/resource/ethx-w9g4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ethx-w9g4) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ethx-w9g4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ethx-w9g4) | Last update: Jun 2024  
   Dataset on Kaduna State Government Revenues from various revenue streams over the period 2000 to 2017.
 
 - **Kedougou Nutrient Diversity - Household Survey Dataset**  
@@ -16101,21 +16060,25 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Kedougou Nutrient Diversity - Regional Production Dataset**  
   [Data](https://datahub.usaid.gov/resource/4vki-3fuv.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4vki-3fuv) | Last update: Jun 2024
 
+- **LEAF Performance Indicator Data: Enabling Condition Documents**  
+  [Data](https://datahub.usaid.gov/resource/htx2-d58j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/htx2-d58j) | Last update: Jun 2024  
+  This dataset provides information about national and sub-national policies, plans, and laws that enable LEAF to conduct activities in relevant countries.
+
+- **LEAF Performance Indicator Data: Funding Amounts and Sources**  
+  [Data](https://datahub.usaid.gov/resource/6kss-cz9w.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/6kss-cz9w) | Last update: Jun 2024  
+  This dataset includes the sources and amounts of funding contributed towards various LEAF activities and purposes.
+
 - **LEAF Performance Indicator Data: Greenhouse Gas Reduction**  
-  [Data](https://datahub.usaid.gov/resource/dipw-77zb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dipw-77zb) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/dipw-77zb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dipw-77zb) | Last update: Jun 2024  
   This dataset measures the reduction, avoidance, and sequestration of greenhouse gases in forest areas in several Asian countries as a result of LEAF activities.
 
 - **LEAF Performance Indicator Data: Institutions**  
-  [Data](https://datahub.usaid.gov/resource/uiah-a2vh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uiah-a2vh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/uiah-a2vh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/uiah-a2vh) | Last update: Jun 2024  
   This dataset includes universities, government agencies and departments, and other institutions in the region that have supported and worked with LEAF.
 
 - **LEAF Performance Indicator Data: Models**  
-  [Data](https://datahub.usaid.gov/resource/x7tk-824j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/x7tk-824j) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/x7tk-824j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/x7tk-824j) | Last update: Jun 2024  
   This dataset lists the different models, tools, and guidelines used by LEAF to design activities and policies.
-
-- **LEAF Performance Indicator Data: Training Workshops**  
-  [Data](https://datahub.usaid.gov/resource/g9tt-twes.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/g9tt-twes) | Last update: Recent  
-  This dataset provides data on training workshops conducted as part of USAID's LEAF activity. Data includes duration of the workshops, number of participants, and the number of hours participants spent in training based on gender, country location, and employment sector.
 
 - **Lailaba Market Grain Prices**  
   [Data](https://datahub.usaid.gov/resource/v2td-z7jx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v2td-z7jx) | Last update: Jun 2024  
@@ -16126,27 +16089,23 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Global Health Investment Landscaping project database consists of information about impact-oriented and global health-supporting investment funds or capital providers with a focus on East Africa and India.
 
 - **Limpopo Resilience Lab: Mbahela Dataset**  
-  [Data](https://datahub.usaid.gov/resource/xviu-jutd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xviu-jutd) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/xviu-jutd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xviu-jutd) | Last update: Jun 2024  
   Hydrology and meteorology data from Mbehela, Limpopo, South Africa.
 
 - **Limpopo Resilience Lab: Medike Nature Preserve Dataset**  
-  [Data](https://datahub.usaid.gov/resource/chfb-yzu5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/chfb-yzu5) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/chfb-yzu5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/chfb-yzu5) | Last update: Jun 2024  
   Hydrology and meteorology data from Medike Nature Preserve, Limpopo, South Africa 22 deg 59' 38.9" S, 29 deg 36' 48.4" E.
 
 - **Limpopo Resilience Lab: Mutale Weir Dataset**  
-  [Data](https://datahub.usaid.gov/resource/9ru6-b4nc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9ru6-b4nc) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/9ru6-b4nc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/9ru6-b4nc) | Last update: Jun 2024  
   Hydrology and meteorology data from the Mutale Weir, Limpopo, South Africa: 22 deg 46' 21.0" S, 30 deg 32' 11.2" E
 
 - **MEASURE-BiH: High Judicial and Prosecutorial Council Administrative Data Dataset**  
-  [Data](https://datahub.usaid.gov/resource/jbf9-2yi7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jbf9-2yi7) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/jbf9-2yi7.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jbf9-2yi7) | Last update: Jun 2024  
   The JEI-BiH was developed by USAID/MEASURE-BiH in close partnership with the BiH High Judicial and Prosecutorial Council. As such, it is not only a tool for donors but also for BiH authorities for informed decision-making and monitoring of progress towards establishing a more accountable, effective, and independent judiciary.
 
-- **Mahuta Market Grain Prices**  
-  [Data](https://datahub.usaid.gov/resource/93k3-i6pk.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/93k3-i6pk) | Last update: Jun 2024  
-  Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
-
 - **Morbidity Management and Disability Prevention Project: Lymphatic Filariasis Disease Management**  
-  [Data](https://datahub.usaid.gov/resource/q9fm-pzqt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q9fm-pzqt) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/q9fm-pzqt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/q9fm-pzqt) | Last update: Jun 2024  
   All data is aggregate and reported through the Ministries of Health, routine Project data collection and reporting tools, and various surveys and assessments.
 
 - **Nepal Business Literacy Impact Evaluation - Baseline Household Dataset**  
@@ -16162,64 +16121,68 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset (n=1,434, vars=414) contains womens records for Modules D (Self-Efficacy in Business Literacy Topics), E (Program Participation and Business Literacy Learning), and F (Household Resources and Production). Records can be uniquely identified by pbs_id + hm_id (although pbs_id can also be used alone because only one woman per household was interviewed).
 
 - **PPL Evaluation Registry Dataset**  
-  [Data](https://datahub.usaid.gov/resource/i658-ndf5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i658-ndf5) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/i658-ndf5.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/i658-ndf5) | Last update: Jun 2024
 
 - **PREDICT Event Animal Production**  
-  [Data](https://datahub.usaid.gov/resource/pytc-ijy8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pytc-ijy8) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/pytc-ijy8.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/pytc-ijy8) | Last update: Jun 2024  
   If animal production was chosen for the DiseaseTransmissionInterfaces in the Site/Event Characterization, the site is further characterized for additional attributes relating to this interface.
 
 - **PREDICT Event Dwellings**  
-  [Data](https://datahub.usaid.gov/resource/b6qu-bswt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b6qu-bswt) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/b6qu-bswt.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/b6qu-bswt) | Last update: Jun 2024  
   If dwellings was chosen for the DiseaseTransmissionInterfaces in the Site/Event Characterization, the site is further characterized for additional attributes relating to this interface.
 
+- **PREDICT Event Value Chain**  
+  [Data](https://datahub.usaid.gov/resource/dsdz-699h.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/dsdz-699h) | Last update: Jun 2024  
+  If value chain was chosen for the DiseaseTransmissionInterfaces in the Site/Event Characterization, the site is further characterized for additional attributes relating to this interface.
+
 - **PRESTIJ National Perceptions of the Teaching Profession Survey Dataset**  
-  [Data](https://datahub.usaid.gov/resource/fhxq-4w2b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fhxq-4w2b) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/fhxq-4w2b.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fhxq-4w2b) | Last update: Jun 2024
 
 - **Post-Discharge Mortality and Care Utilization Dataset**  
-  [Data](https://datahub.usaid.gov/resource/babq-c6ss.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/babq-c6ss) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/babq-c6ss.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/babq-c6ss) | Last update: Jul 2024  
   Assess the implementation of PTB/LBW services in different contexts (agrarian, agro-pastoral, and urban) to inform national preterm/LBW program recommendations. Post-discharge mortality dataset.
 
 - **Predictors and outcomes of perinatal HIV transmission in the PMTCT program: Dataset**  
-  [Data](https://datahub.usaid.gov/resource/4668-uf29.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4668-uf29) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/4668-uf29.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/4668-uf29) | Last update: Jun 2024
 
 - **Protecting Human Rights (PHR) Program: Number of Child Marriages Prevented Dataset**  
-  [Data](https://datahub.usaid.gov/resource/v78w-twpa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v78w-twpa) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/v78w-twpa.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/v78w-twpa) | Last update: Jul 2024
 
 - **Protecting Human Rights Bangladesh: Numbers of Human Rights Defenders Trained Dataset**  
-  [Data](https://datahub.usaid.gov/resource/3wpa-fbck.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3wpa-fbck) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/3wpa-fbck.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/3wpa-fbck) | Last update: Jun 2024
 
 - **REVIVE Climate Change Adaptation in Oromia, Ethiopia: Baseline Dataset**  
-  [Data](https://datahub.usaid.gov/resource/yu79-vkkx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yu79-vkkx) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/yu79-vkkx.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/yu79-vkkx) | Last update: Jun 2024  
   These data come from the Restoring Vibrant Villages and Environments (REVIVE) project in 9 woredas of Oromia region of Ethiopia. Project REVIVE is a threeyear project to increase vulnerable communities longterm resilience to climate change and climate-related shocks.
 
 - **Randomized Comparison of the Efficacy of Six Handwashing Methods on the Removal and Inactivation of Phi6 and E. coli (Dataset 1)**  
-  [Data](https://datahub.usaid.gov/resource/qcd6-d5eh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qcd6-d5eh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/qcd6-d5eh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/qcd6-d5eh) | Last update: Jun 2024  
   Phi6 data
 
 - **Randomized Comparison of the Efficacy of Six Handwashing Methods on the Removal and Inactivation of Phi6 and E. coli (Dataset 2)**  
-  [Data](https://datahub.usaid.gov/resource/f33h-j6sb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f33h-j6sb) | Last update: Recent
-
-- **Shelf-Life of Chlorine Solutions Recommended in Ebola Response: Raw Concentration Data**  
-  [Data](https://datahub.usaid.gov/resource/xcpf-gijn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/xcpf-gijn) | Last update: Recent  
-  This asset includes data generated in a laboratory on the concentration of chlorine solutions typically used in Ebola outbreak response, particularly during the 2014 West African Ebola outbreak. Data was collected over a period of 30 days under different temperature conditions to assess the rate of degradation of solutions.
+  [Data](https://datahub.usaid.gov/resource/f33h-j6sb.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/f33h-j6sb) | Last update: Jun 2024
 
 - **Shipments of Condoms and Contraceptives under USAID Deliver - Dataset**  
   [Data](https://datahub.usaid.gov/resource/wid8-fzph.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/wid8-fzph) | Last update: Jun 2024  
   The USAID Deliver Project is designed to procure and deliver health supplies to USAID-supported programs worldwide. These supplies included condoms, contraceptives and reproductive health supplies, laboratory equipment and supplies, essential medicines, and special equipment, such as ambulances, ambulance boats, incubators, x-ray machines, and more.
 
 - **SoilDoc Climate Trial Plant and Soil Analysis: Grain Yields Dataset**  
-  [Data](https://datahub.usaid.gov/resource/hgbr-pihc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hgbr-pihc) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/hgbr-pihc.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/hgbr-pihc) | Last update: Jun 2024  
   Yield and active soil carbon data collected from twelve maize-based SoilDoc climate field trials across Tanzania. SoilDoc Climate trials compared six different fertilizer treatments. Soil samples were sampled from 0 - 15cm.
 
 - **SoilDoc Climate Trial Plant and Soil Analysis: Tanzania Climate Trials Dataset**  
-  [Data](https://datahub.usaid.gov/resource/ear2-va22.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ear2-va22) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ear2-va22.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ear2-va22) | Last update: Jun 2024  
   Yield and active soil carbon data collected from twelve maize-based SoilDoc climate field trials across Tanzania. SoilDoc Climate trials compared six different fertilizer treatments. Soil samples were sampled from 0 - 15cm.
 
 - **Supply Chain Shipment Pricing Dataset**  
   [Data](https://datahub.usaid.gov/resource/a3rc-nmf6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/a3rc-nmf6) | Last update: Recent
 
+- **Suru Market Grain Prices**  
+  [Data](https://datahub.usaid.gov/resource/efxe-mb98.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/efxe-mb98) | Last update: Jun 2024  
+  Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
+
 - **Telephonic Survey of Domestic Election Observers Trained Under Citizen Voice Project (CVP): Dataset**  
-  [Data](https://datahub.usaid.gov/resource/k5ya-p2kd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k5ya-p2kd) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/k5ya-p2kd.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/k5ya-p2kd) | Last update: Jun 2024
 
 - **U.S. Stabilization Efforts: What Do the Data Say? Broad Panel Dataset with Relevant Outcome Measures**  
   [Data](https://datahub.usaid.gov/resource/ccfy-wven.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ccfy-wven) | Last update: Jun 2024  
@@ -16229,19 +16192,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://datahub.usaid.gov/resource/vqzd-s7rf.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/vqzd-s7rf) | Last update: Jun 2024
 
 - **USAID Activity Locations - Activity Descriptions**  
-  [Data](https://datahub.usaid.gov/resource/jusn-k97d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jusn-k97d) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/jusn-k97d.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jusn-k97d) | Last update: Jun 2024  
   The USAID Activities dataset is a snapshot of activities supported by USAID including their geographical locations within countries at the time of the snapshot. The data were used to create the map.usaid.gov web site on the Where We Work page. Only a subset of USAID's field offices provided data and many provided data on only a part of their portfolios.
 
 - **USAID Development Data Library (DDL) Referencing Dataset**  
-  [Data](https://datahub.usaid.gov/resource/73i2-t9vh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/73i2-t9vh) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/73i2-t9vh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/73i2-t9vh) | Last update: Jun 2024  
   This dataset captures data about articles referencing the DDL since it was formally established in 2014. It contains 147 rows and 13 columns.
 
 - **USAID GHSC-PSM Health Commodity Delivery Dataset**  
-  [Data](https://datahub.usaid.gov/resource/tikn-bfy4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tikn-bfy4) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/tikn-bfy4.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/tikn-bfy4) | Last update: Jul 2024  
   Dataset containing detailed information about all health commodity orders delivered through the USAID Global Health Supply Chain Program - Procurement and Supply Management (GHSC-PSM) project. This includes orders funded through PEPFAR, PMI, family planning / reproductive health, maternal and child health, COVID-19, and other USAID and USG programs.
 
 - **USAID University Online Course Catalog**  
-  [Data](https://datahub.usaid.gov/resource/rvwf-9khn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rvwf-9khn) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/rvwf-9khn.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/rvwf-9khn) | Last update: Jun 2024  
   Learning Management System online courses for USAID staff to access.
 
 - **USAID/Cambodia Greening Prey Lang Supported Community Forests Dataset**  
@@ -16249,15 +16212,19 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains shapefiles of the community forests and other community groups that are supported by GPL.
 
 - **Uganda HIV Patients' Dietary Patterns Dataset**  
-  [Data](https://datahub.usaid.gov/resource/75iu-dc8e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/75iu-dc8e) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/75iu-dc8e.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/75iu-dc8e) | Last update: Jun 2024  
   This was a retrospective unmatched case control study, which targeted 583 (147 cases and 436 controls) HIV infected individuals attending HIV clinics at eleven USAID/SUSTAIN supported Ugandan RRH. The specific objectives were 
 
 - **Violent Extremism Assessment Serbia/Face to Face research data**  
-  [Data](https://datahub.usaid.gov/resource/w5cp-5a4r.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w5cp-5a4r) | Last update: Recent
+  [Data](https://datahub.usaid.gov/resource/w5cp-5a4r.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/w5cp-5a4r) | Last update: Jun 2024
 
 - **Waste Facility Locator (Dataset)**  
-  [Data](https://datahub.usaid.gov/resource/s84t-nka6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s84t-nka6) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/s84t-nka6.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/s84t-nka6) | Last update: Jun 2024  
   The Bureau for Global Health (GH) environmental program is in the process of gathering and centralizing information on waste treatment technology units (e.g., incinerators, autoclaves, shredders) operating around the world in order to facilitate healthcare waste management (HCWM) options and compliance for USAID projects.
+
+- **Yauri Market Grain Prices**  
+  [Data](https://datahub.usaid.gov/resource/fcvp-8i2j.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/fcvp-8i2j) | Last update: Jun 2024  
+  Data obtained from the National Bureau of Statistics in Abuja, Nigeria on monthly prices for select markets in Kebbi State, Nigeria for January 2000 to December 2016.
 
 - **Yeldu Market Grain Prices**  
   [Data](https://datahub.usaid.gov/resource/jpkd-8aqh.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/jpkd-8aqh) | Last update: Jun 2024  
@@ -16276,13 +16243,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## educationtocareer.data.mass.gov
 
+- **Average Earnings of High School Graduates by Student Group**  
+  [Data](https://educationtocareer.data.mass.gov/resource/9vfm-6vxq.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/9vfm-6vxq) | Last update: Mar 2024  
+  Wage records are obtained from the Massachusetts Department of Unemployment Assistance (DUA) using a secure, anonymized matching process with limitations. For details on the process and suppression rules, please visit the Employment and Earnings of High School Graduates dashboard.
+
 - **College and Career Outcomes of High School Graduates**  
   [Data](https://educationtocareer.data.mass.gov/resource/vj54-j4q3.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/vj54-j4q3) | Last update: Mar 2024  
   Wage records are obtained from the Massachusetts Department of Unemployment Assistance (DUA) using a secure, anonymized matching process with limitations. For details on the process and suppression rules, please visit the Employment and Earnings of High School Graduates dashboard.
 
-- **DART: Success After High School**  
-  [Data](https://educationtocareer.data.mass.gov/resource/adqe-6sht.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/adqe-6sht) | Last update: Recent  
-  The District Analysis and Review Tools (DARTs) offer snapshots of district and school performance, allowing users to easily track select data elements over time, and make sound, meaningful comparisons to the state or to "comparable" organizations.
+- **Early College Credits**  
+  [Data](https://educationtocareer.data.mass.gov/resource/yau2-eqsf.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/yau2-eqsf) | Last update: Recent  
+  This dataset contains data on credits registered and earned by students in designated Early College programs since school year 2021-22. Early College is a program that designates partnerships between high schools and colleges to support high school students to complete college courses. The list of designated partnerships is available here.
 
 - **Early College Participation**  
   [Data](https://educationtocareer.data.mass.gov/resource/p2yd-4gvj.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/p2yd-4gvj) | Last update: Recent  
@@ -16296,6 +16267,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://educationtocareer.data.mass.gov/resource/t375-4q57.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/t375-4q57) | Last update: Recent  
   This dataset displays educator preparation data by race and ethnicity with rows for different years. It was created as part of a dashboard supporting the Massachusetts Department of Elementary and Secondary Education's commitment to provide all students with a racially diverse and culturally responsive educator workforce.
 
+- **Experienced and In-Field Teachers by Race/Ethnicity**  
+  [Data](https://educationtocareer.data.mass.gov/resource/b99t-n6jh.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/b99t-n6jh) | Last update: Recent  
+  Selected Teacher Indicators: This displays the number and percent of teachers who are licensed in the subject area(s) they teach (In-Field), as well as the number and percent of teachers who have been teaching in a Massachusetts public school for at least three years (Experienced). Note: The In-Field report uses end-of-year EPIMS; the most recently available data are displayed.
+
+- **MTEL Pass Rates by Race/Ethnicity**  
+  [Data](https://educationtocareer.data.mass.gov/resource/qjx9-arjj.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/qjx9-arjj) | Last update: Recent  
+  This dataset displays MTEL (Massachusetts Tests for Educator Licensure) data for each test subject by race and ethnicity with rows for different years. It was created as part of a dashboard supporting the Massachusetts Department of Elementary and Secondary Education's commitment to provide all students with a racially diverse and culturally responsive educator workforce.
+
 - **Next Generation MCAS Achievement Results**  
   [Data](https://educationtocareer.data.mass.gov/resource/i9w6-niyt.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/i9w6-niyt) | Last update: Mar 2024  
   Please note that Legacy MCAS results are not included in this dataset, nor are PARCC or other student assessment results. A table documenting the transition to Next Generation MCAS over time can be found in the DESE Researcher's Guide linked as featured content below.
@@ -16305,17 +16284,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains the total Fall enrollment headcount and FTE for undergraduate and graduate students at all public Massachusetts institutions of higher education since 2014.
 
 - **Student Progression from High School through Postsecondary Education**  
-  [Data](https://educationtocareer.data.mass.gov/resource/sg4g-eg2n.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/sg4g-eg2n) | Last update: Recent  
+  [Data](https://educationtocareer.data.mass.gov/resource/sg4g-eg2n.json) | [Docs](https://dev.socrata.com/foundry/educationtocareer.data.mass.gov/sg4g-eg2n) | Last update: Jun 2024  
   This dataset contains the same data that is also published on our DART Detail: 
 
 [[TOP]](#toc)
 
 
 ## finances.worldbank.org
-
-- **Afghanistan Reconstruction Trust Fund (ARTF) Documents - BETA**  
-  [Data](https://finances.worldbank.org/resource/fyqs-heff.json) | [Docs](https://dev.socrata.com/foundry/finances.worldbank.org/fyqs-heff) | Last update: Dec 2021  
-  This dataset contains metadata and links for all archive documents on the Afghanistan Reconstruction Trust Fund web site.
 
 - **Afghanistan Reconstruction Trust Fund (ARTF) Project Results - BETA**  
   [Data](https://finances.worldbank.org/resource/4x9h-fnzu.json) | [Docs](https://dev.socrata.com/foundry/finances.worldbank.org/4x9h-fnzu) | Last update: Oct 2021  
@@ -16357,6 +16332,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **IDA Statement Of Credits and Grants - Historical Data**  
   [Data](https://finances.worldbank.org/resource/tdwh-3krx.json) | [Docs](https://dev.socrata.com/foundry/finances.worldbank.org/tdwh-3krx) | Last update: Recent
 
+- **Key Ratios and Performance Metrics**  
+  [Data](https://finances.worldbank.org/resource/56hn-zupx.json) | [Docs](https://dev.socrata.com/foundry/finances.worldbank.org/56hn-zupx) | Last update: Recent  
+  Provides key ratios and select metrics from quarterly financial statements. Dataset based on unaudited data. Values are in millions of US$ equivalent, rounded to 2 decimal places.
+
 - **Paid In Contributions to IBRD/IDA/IFC Trust Funds based on FY of Receipt**  
   [Data](https://finances.worldbank.org/resource/nh5z-5qch.json) | [Docs](https://dev.socrata.com/foundry/finances.worldbank.org/nh5z-5qch) | Last update: Apr 2017  
   Data is provided at the individual Trust Fund level and is updated as of 04/02/2015. No further updates are planned for this particular dataset, please visit the Global Partnership and Trust Fund Operations website for more details: http://go.worldbank.org/GABMG2YEI0
@@ -16377,9 +16356,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 
 ## fusioncenter.nhit.org
-
-- **ACS - Age, Sex, and Race/Ethnicity (1-Year Estimates)**  
-  [Data](https://fusioncenter.nhit.org/resource/s6vm-t8ce.json) | [Docs](https://dev.socrata.com/foundry/fusioncenter.nhit.org/s6vm-t8ce) | Last update: Apr 2021
 
 - **CDC - Provisional COVID 19 Death Counts in the United States by County**  
   [Data](https://fusioncenter.nhit.org/resource/tg9j-vqnx.json) | [Docs](https://dev.socrata.com/foundry/fusioncenter.nhit.org/tg9j-vqnx) | Last update: Recent  
@@ -16449,7 +16425,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The dataset currently only contains the locations of hospitals and hospital extension clinics. The data for the remaining facility types will be added in the future.
 
 - **Justice Center Covered Adult Care Facilities**  
-  [Data](https://health.data.ny.gov/resource/94yn-vkup.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/94yn-vkup) | Last update: Recent
+  [Data](https://health.data.ny.gov/resource/94yn-vkup.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/94yn-vkup) | Last update: Jun 2024
 
 - **Managed Care Health Plan Profile**  
   [Data](https://health.data.ny.gov/resource/2dyd-pvah.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/2dyd-pvah) | Last update: Jan 2024
@@ -16515,6 +16491,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://health.data.ny.gov/resource/9b98-uh9t.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/9b98-uh9t) | Last update: Recent  
   The dataset includes CHHA information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
 
+- **New York State Statewide Certified Home Health Care Agency (CHHA) and Long-Term Home Health Care Program (LTHHCP) Annual Statistical Report: Patients and Cases by Service Type and County**  
+  [Data](https://health.data.ny.gov/resource/8z7b-z4ig.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/8z7b-z4ig) | Last update: Recent  
+  The purpose of collecting data from service providers is to obtain their demographic information as well as past operational statistics like volume, patient census, types of services provided, or workload information. This data is self-reported annually.
+
+- **New York State Statewide Certified Home Health Care Agency (CHHA) and Long-Term Home Health Care Program (LTHHCP) Annual Statistical Report: Patients, Cases and Discharges**  
+  [Data](https://health.data.ny.gov/resource/g8ah-vfcr.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/g8ah-vfcr) | Last update: Recent  
+  The purpose of collecting data from service providers is to obtain their demographic information as well as past operational statistics like volume, patient census, types of services provided, or workload information. This data is self-reported annually.
+
 - **New York State Statewide Hospice Staff COVID-19 Vaccinations**  
   [Data](https://health.data.ny.gov/resource/jzye-bcub.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jzye-bcub) | Last update: Recent  
   The dataset includes hospice information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
@@ -16526,6 +16510,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **New York State Statewide Licensed Home Care Services Agencies (LHCSAs) Staff COVID-19 Vaccinations**  
   [Data](https://health.data.ny.gov/resource/n3ke-5g88.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/n3ke-5g88) | Last update: Recent  
   The dataset includes LHCSA information at the reporting agency level of the total number of all staff and of direct care staff that are partially and fully vaccinated.
+
+- **New York State Statewide Licensed Home Care Services Agency (LCHSA) Annual Statistical Report: Cases and Discharges**  
+  [Data](https://health.data.ny.gov/resource/xq64-stv6.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/xq64-stv6) | Last update: Recent  
+  The dataset includes LHCSA information at the reporting agency level of the total number of patients, cases, and discharges for the reporting year.
+
+- **New York State Statewide Licensed Home Care Services Agency (LHCSA) Annual Statistical Report: Cases by Service Type and County**  
+  [Data](https://health.data.ny.gov/resource/apap-dxys.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/apap-dxys) | Last update: Recent  
+  The dataset includes LHCSA information at the county level of the total number of cases that received the specified services during the reporting year.
 
 - **New York State Statewide Nursing Home and Adult Care Facility Resident and Staff COVID-19 Infections**  
   [Data](https://health.data.ny.gov/resource/w6ed-sctw.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/w6ed-sctw) | Last update: Recent  
@@ -16555,7 +16547,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   The Professional Medical Conduct Board Actions data consist of all public actions taken against physicians, physician assistants, specialist assistants, and medical professional corporations pursuant to Section 230 of the New York State Public Health Law and Section 6530 of the New York State Education Law.
 
 - **Radioactive Materials Licensees**  
-  [Data](https://health.data.ny.gov/resource/2kvm-29bi.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/2kvm-29bi) | Last update: Recent  
+  [Data](https://health.data.ny.gov/resource/2kvm-29bi.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/2kvm-29bi) | Last update: Jul 2024  
   This dataset contains the list of facilities that hold radioactive material licenses in New York State, including: mailing address, radiation safety officer, and contact information. Excluding businesses that use radioactive materials in a commercial application, businesses located in New York City are not represented by these data. For more information, visit https://www.health.ny.gov/radiation.
 
 - **Retail Tobacco Enforcement Compliance Results**  
@@ -16566,7 +16558,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://health.data.ny.gov/resource/jcb4-hcyb.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/jcb4-hcyb) | Last update: Jul 2023
 
 - **Transitional Adult Homes**  
-  [Data](https://health.data.ny.gov/resource/rzzx-9t3e.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/rzzx-9t3e) | Last update: Recent
+  [Data](https://health.data.ny.gov/resource/rzzx-9t3e.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/rzzx-9t3e) | Last update: Jun 2024
 
 - **Women, Infants, Children (WIC) Vendor Information**  
   [Data](https://health.data.ny.gov/resource/4az8-5hx6.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/4az8-5hx6) | Last update: Recent
@@ -16579,7 +16571,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://health.data.ny.gov/resource/g4i5-r6zx.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/g4i5-r6zx) | Last update: Feb 2024
 
 - **X-Ray Facilities**  
-  [Data](https://health.data.ny.gov/resource/3ia2-ytpd.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/3ia2-ytpd) | Last update: Recent
+  [Data](https://health.data.ny.gov/resource/3ia2-ytpd.json) | [Docs](https://dev.socrata.com/foundry/health.data.ny.gov/3ia2-ytpd) | Last update: Jul 2024
+
+[[TOP]](#toc)
+
+
+## healthdata.tn.gov
+
+- **Nashville Air Quality**  
+  [Data](https://healthdata.tn.gov/resource/ryih-rhnf.json) | [Docs](https://dev.socrata.com/foundry/healthdata.tn.gov/ryih-rhnf) | Last update: Jun 2024  
+  This dataset focuses on the air quality index and pollen count in the Nashville area. The air quality index metric and pollen count metrics are also stratified by the responsible pollutant (i.e. PM2., Ozone) and pollen type (i.e., grass, birch) respectively.
 
 [[TOP]](#toc)
 
@@ -16611,16 +16612,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://highways.hidot.hawaii.gov/resource/727p-gh8g.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/727p-gh8g) | Last update: Mar 2022  
   The information provided in this dataset is used for performance metrics in the Annual Report and the Act100 Report. Data for these metrics are being pulled from the mileage and expenditure datasets. This dataset provides metrics certain metrics including total number of lane miles cost per lane mile.
 
-- **HPMS Reliability Metric | Multi Year | Interstate and Non Interstate NHS**  
-  [Data](https://highways.hidot.hawaii.gov/resource/rzsj-5rnm.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/rzsj-5rnm) | Last update: May 2021
-
 - **Pavement Condition Measures - PMF**  
   [Data](https://highways.hidot.hawaii.gov/resource/3arv-cx3v.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/3arv-cx3v) | Last update: Nov 2023  
   This dataset provides a breakdown of pavement conditions for roads within the HDOT Highways system. The dataset breaks pavement condition down by 'Good', 'Fair', or 'Poor'. This information is updated on a yearly basis.
-
-- **Raised Crosswalk Safety Projects - Act100**  
-  [Data](https://highways.hidot.hawaii.gov/resource/74i8-ue4f.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/74i8-ue4f) | Last update: May 2022  
-  This is a static dataset that provides the number of raised crosswalks for certain projects, throughout the state over the past two years. The dataset was used to provide the public with information related to their corresponding area in regards to raised crosswalk projects. This information is displayed in the 2021 Act100 report.
 
 - **Safety Counter Measure Summarized Data**  
   [Data](https://highways.hidot.hawaii.gov/resource/mmvn-5vj9.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/mmvn-5vj9) | Last update: Recent  
@@ -16629,23 +16623,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Safety CounterMeasure Data - By Month**  
   [Data](https://highways.hidot.hawaii.gov/resource/i3kx-mm3w.json) | [Docs](https://dev.socrata.com/foundry/highways.hidot.hawaii.gov/i3kx-mm3w) | Last update: Recent  
   This dataset is used to track Act 100 monthly safety countermeasures installed by HDOT to potentially reduce future fatalities and serious injuries. The dataset captures each countermeasure data point by month. The dataset is set to refresh/update everyday. New countermeasure rows will be appended to the dataset at the change of each month.
-
-[[TOP]](#toc)
-
-
-## idp.nz
-
-- **Cloud Readiness Index**  
-  [Data](https://idp.nz/resource/kxv9-kkch.json) | [Docs](https://dev.socrata.com/foundry/idp.nz/kxv9-kkch) | Last update: Jul 2016  
-  The Asia Cloud Computing Associations (ACCA) Cloud Readiness Index (CRI) measures the cloud readiness of economies along 10 parameters.
-
-- **ITU ICT Development Index (IDI)**  
-  [Data](https://idp.nz/resource/3bxy-wfk9.json) | [Docs](https://dev.socrata.com/foundry/idp.nz/3bxy-wfk9) | Last update: Oct 2016  
-  The ICT Development Index (IDI), which has been published annually since 2009, is a composite index that combines 11 indicators into one benchmark measure. It is used to monitor and compare developments in information and communication technology (ICT) between countries and over time.
-
-- **Web Index**  
-  [Data](https://idp.nz/resource/db9n-q2sz.json) | [Docs](https://dev.socrata.com/foundry/idp.nz/db9n-q2sz) | Last update: Jul 2016  
-  The Web Index is designed and produced by the World Wide Web Foundation. It is the worlds first measure of the World Wide Webs contribution to social, economic and political progress in countries across the world.
 
 [[TOP]](#toc)
 
@@ -16688,10 +16665,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://internal-sandiegocounty.data.socrata.com/resource/hwni-tapa.json) | [Docs](https://dev.socrata.com/foundry/internal-sandiegocounty.data.socrata.com/hwni-tapa) | Last update: Recent  
   This table provides the most frequently used and requested data associated with permitted Unified Program facilities that contain hazardous materials. This is not a full dataset. For a description of this data, see Facility data description. https://www.sandiegocounty.gov/content/dam/sdc/deh/waste/pdf/hmd/deh_hmd_facility_datadesc_civicdata.pdf
 
-- **Hazardous Materials Underground Storage Tanks**  
-  [Data](https://internal-sandiegocounty.data.socrata.com/resource/72e9-euy8.json) | [Docs](https://dev.socrata.com/foundry/internal-sandiegocounty.data.socrata.com/72e9-euy8) | Last update: Recent  
-  This table provides the most frequently used and requested data associated with permitted Unified Program underground storage tanks. This is not a full dataset. https://www.sandiegocounty.gov/content/dam/sdc/deh/waste/pdf/hmd/deh_hmd_ust_datadesc_civicdata.pdf
-
 - **Medical Examiner Cases**  
   [Data](https://internal-sandiegocounty.data.socrata.com/resource/jkvb-n4p7.json) | [Docs](https://dev.socrata.com/foundry/internal-sandiegocounty.data.socrata.com/jkvb-n4p7) | Last update: Recent  
   This dataset includes all San Diego County accidental deaths, homicides, suicides, in-custody deaths, and a very small percentage of sudden or unexpected natural deaths in which the decedent had not seen a health care provider in the last 20 days of life.
@@ -16729,6 +16702,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **CPD Districts**  
   [Data](https://internal.chattadata.org/resource/wumz-uiv5.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/wumz-uiv5) | Last update: Feb 2024
 
+- **Chattanooga Roadways**  
+  [Data](https://internal.chattadata.org/resource/mw3f-d2mz.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/mw3f-d2mz) | Last update: Feb 2024  
+  Roadways in Chattanooga
+
 - **City Council (old)**  
   [Data](https://internal.chattadata.org/resource/f5z4-nvb3.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/f5z4-nvb3) | Last update: Feb 2024  
   Chattanooga city council districts from 2019-2020
@@ -16737,8 +16714,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://internal.chattadata.org/resource/krf4-kjew.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/krf4-kjew) | Last update: Feb 2024  
   Cities with City Health Dashboard data currently in Chattadata
 
-- **Fire Prevention Districts**  
-  [Data](https://internal.chattadata.org/resource/9e4d-87h4.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/9e4d-87h4) | Last update: Feb 2024
+- **Fire Station Locations**  
+  [Data](https://internal.chattadata.org/resource/gk9n-mqtx.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/gk9n-mqtx) | Last update: Feb 2024
 
 - **HCDE School Zones - ESRI**  
   [Data](https://internal.chattadata.org/resource/xqhz-y4ia.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/xqhz-y4ia) | Last update: Feb 2024  
@@ -16749,7 +16726,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   StreetType tab from HCDE Zones file
 
 - **HCHD COVID Website Data - Zip Codes**  
-  [Data](https://internal.chattadata.org/resource/4xc2-5sba.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/4xc2-5sba) | Last update: Recent  
+  [Data](https://internal.chattadata.org/resource/4xc2-5sba.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/4xc2-5sba) | Last update: Jun 2024  
   Zip Code COVID data from HCHD website.
 
 - **HUD Cases by Zip Code**  
@@ -16761,60 +16738,56 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Geocoded addresses of Habitat for Humanity houses
 
 - **Hamilton County Cases by Zip Code**  
-  [Data](https://internal.chattadata.org/resource/fedh-4gj4.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/fedh-4gj4) | Last update: Recent
+  [Data](https://internal.chattadata.org/resource/fedh-4gj4.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/fedh-4gj4) | Last update: Jun 2024
 
 - **Hamilton County Health Department COVID-19 Data**  
   [Data](https://internal.chattadata.org/resource/89n8-dwxx.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/89n8-dwxx) | Last update: Feb 2024  
   Data downloaded from Houser, Jesse A. Hamilton County, Tennessee COVID-19 Dataset. COVID-19 in Hamilton County, TN, 2020, sites.google.com/view/hamiltoncounty-tn-covid19/data
 
-- **Intersections**  
-  [Data](https://internal.chattadata.org/resource/k7u5-cfs3.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/k7u5-cfs3) | Last update: Feb 2024  
-  Intersections in Chattanooga
+- **Median Chattanooga Income - Sex**  
+  [Data](https://internal.chattadata.org/resource/83sk-wbar.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/83sk-wbar) | Last update: Feb 2024  
+  Median Chattanooga income from 2011 - 2017. Data from ACS.
 
-- **Median Income by Tract - Year and Sex**  
-  [Data](https://internal.chattadata.org/resource/3nc2-xvnc.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/3nc2-xvnc) | Last update: Feb 2024  
-  Median annual income of full time employees by tract categorized by year and sex from 2011 - 2017. Data from ACS.
+- **Pass Visit Report**  
+  [Data](https://internal.chattadata.org/resource/si7b-v7a4.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/si7b-v7a4) | Last update: Recent  
+  Visits to YFD centers.
 
-- **Per Capita Chattanooga Income - Race**  
-  [Data](https://internal.chattadata.org/resource/dshm-tehy.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/dshm-tehy) | Last update: Feb 2024  
-  Per Capita Chattanooga income from 2011 - 2017. Data from ACS.
+- **Preliminary Housing Locations**  
+  [Data](https://internal.chattadata.org/resource/wgkk-k6um.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/wgkk-k6um) | Last update: Feb 2024
 
 - **Road Closures**  
   [Data](https://internal.chattadata.org/resource/4kxc-jcw5.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/4kxc-jcw5) | Last update: Feb 2024  
   Chattanooga road closures
 
-- **Sewer Subbasin Zip Codes**  
-  [Data](https://internal.chattadata.org/resource/bm5f-jd5q.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/bm5f-jd5q) | Last update: Feb 2024  
-  Zip codes intersecting sewer subbasins.
-
 - **Sewer Subbasins**  
   [Data](https://internal.chattadata.org/resource/npsx-m3tp.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/npsx-m3tp) | Last update: Feb 2024  
   Sewer subbasins
 
+- **Street Resurfacing**  
+  [Data](https://internal.chattadata.org/resource/7axh-k8jh.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/7axh-k8jh) | Last update: Recent  
+  Street resurfacing work beginning in 2016
+
 - **TDH Vaccine County Age Groups Census Aggregated 85+**  
-  [Data](https://internal.chattadata.org/resource/8zpt-8xs5.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/8zpt-8xs5) | Last update: Recent  
+  [Data](https://internal.chattadata.org/resource/8zpt-8xs5.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/8zpt-8xs5) | Last update: Jun 2024  
   This data contains the same information as TDH Vaccine County Age Groups Census (https://www.chattadata.org/dataset/TDH-Vaccine-County-Age-Groups-Census/4giv-dvmp/), but 85+ categories have been aggregated to match census age groups.
 
 - **TN Health Department COVID Data - Age by County**  
-  [Data](https://internal.chattadata.org/resource/4k6b-3jbf.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/4k6b-3jbf) | Last update: Recent
+  [Data](https://internal.chattadata.org/resource/4k6b-3jbf.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/4k6b-3jbf) | Last update: Jun 2024
 
 - **TN Health Department COVID Data - Cases 5 - 18 Years Old**  
-  [Data](https://internal.chattadata.org/resource/q45v-dttq.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/q45v-dttq) | Last update: Recent
+  [Data](https://internal.chattadata.org/resource/q45v-dttq.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/q45v-dttq) | Last update: Jun 2024
 
 - **TN Health Department COVID Data - County New**  
-  [Data](https://internal.chattadata.org/resource/5fnn-ha4k.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/5fnn-ha4k) | Last update: Recent  
+  [Data](https://internal.chattadata.org/resource/5fnn-ha4k.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/5fnn-ha4k) | Last update: Jun 2024  
   Data dictionary provided by TN Department of Health download link: https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-Data-Dictionary.xlsx
 
 - **TN Health Department COVID Data - Daily Case Information**  
-  [Data](https://internal.chattadata.org/resource/q6y2-66pb.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/q6y2-66pb) | Last update: Recent  
+  [Data](https://internal.chattadata.org/resource/q6y2-66pb.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/q6y2-66pb) | Last update: Jun 2024  
   Data dictionary provided by TN Department of Health download link: https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-Data-Dictionary.xlsx
 
 - **TN Health Department COVID Data - MMWR Week Case Count**  
-  [Data](https://internal.chattadata.org/resource/syga-i7wg.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/syga-i7wg) | Last update: Recent  
+  [Data](https://internal.chattadata.org/resource/syga-i7wg.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/syga-i7wg) | Last update: Jun 2024  
   Data dictionary provided by TN Department of Health download link: https://www.tn.gov/content/dam/tn/health/documents/cedep/novel-coronavirus/datasets/Public-Dataset-Data-Dictionary.xlsx
-
-- **YFD Centers**  
-  [Data](https://internal.chattadata.org/resource/uuvh-i2z5.json) | [Docs](https://dev.socrata.com/foundry/internal.chattadata.org/uuvh-i2z5) | Last update: Feb 2024
 
 [[TOP]](#toc)
 
@@ -16822,52 +16795,48 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## internal.open.piercecountywa.gov
 
 - **Adult Obesity Rate by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/sm6q-fatn.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/sm6q-fatn) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/sm6q-fatn.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/sm6q-fatn) | Last update: Jun 2024  
   Obesity rate for adults 20+ years old. Data from US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention. Obesity is defined with BMI >30.
 
 - **Adult Tobacco Use Rates**  
-  [Data](https://internal.open.piercecountywa.gov/resource/h5t5-qimx.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/h5t5-qimx) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/h5t5-qimx.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/h5t5-qimx) | Last update: Jun 2024  
   Percentage of adults that reported currently smoking. Data source: Behavioral Risk Factor Surveillance System
+
+- **American Rescue Plan Funding Allocations**  
+  [Data](https://internal.open.piercecountywa.gov/resource/ee5u-qbfa.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ee5u-qbfa) | Last update: Jun 2024  
+  This dataset contains allocations of American Rescue Plan funds by department.
 
 - **Average Days to Approve Commercial Permits with Annual Average**  
   [Data](https://internal.open.piercecountywa.gov/resource/4ze4-rs86.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/4ze4-rs86) | Last update: Aug 2023  
   This dataset tracks total days to review and approve commercial building permits. Dataset only includes approved permits and does not consider permits that are still open or pending.
 
 - **CARES Act Approved Allocations**  
-  [Data](https://internal.open.piercecountywa.gov/resource/t959-9qen.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/t959-9qen) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/t959-9qen.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/t959-9qen) | Last update: Jun 2024  
   This dataset contains approved funding amounts from the CARES Act to projects.
 
-- **CARES Act Financial Aid for Technical College Students**  
-  [Data](https://internal.open.piercecountywa.gov/resource/xydd-cds4.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xydd-cds4) | Last update: Recent  
-  This dataset contains counts of technical college students receiving CARES Act Financial Aid by school.
+- **CARES Act Financial Summary**  
+  [Data](https://internal.open.piercecountywa.gov/resource/c85h-ydqn.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c85h-ydqn) | Last update: May 2024  
+  This dataset contains summaries of Covid funding by department
 
-- **COM Pierce County Online Services**  
-  [Data](https://internal.open.piercecountywa.gov/resource/ysqu-kzzh.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ysqu-kzzh) | Last update: Feb 2024  
-  This dataset includes analytics for Pierce County's Online Services. These include Pierce County Websites, Linx, Pals, Epip, and Geospatial Services.
-
-- **COVID-19 Grant Tracking**  
-  [Data](https://internal.open.piercecountywa.gov/resource/jmst-fu4v.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/jmst-fu4v) | Last update: Apr 2024  
-  This dataset contains different sources of Covid-19 funding.
+- **COVID-19 CARES Act Funding Allocations - Detail**  
+  [Data](https://internal.open.piercecountywa.gov/resource/tt4p-psbi.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/tt4p-psbi) | Last update: Jun 2024  
+  This dataset contains projects funded by COVID-19 CARES Act
 
 - **County Health Rankings**  
-  [Data](https://internal.open.piercecountywa.gov/resource/mzcd-rv3c.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/mzcd-rv3c) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/mzcd-rv3c.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/mzcd-rv3c) | Last update: Jun 2024  
   Data from County Health Rankings and Roadmaps, a Robert Wood Johnson Foundation program. The County Health Rankings & Roadmaps program is a collaboration between the Robert Wood Johnson Foundation and the University of Wisconsin Population Health Institute.
-
-- **County Road Pavement Condition (Aggregated)**  
-  [Data](https://internal.open.piercecountywa.gov/resource/u6wc-dsbn.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/u6wc-dsbn) | Last update: Feb 2024  
-  Aggregated data for condition assessment of County road pavement segments by type of road (Collectors and Arterials, and Local Access Roads). Conditions are rated on a scale of good, fair, and poor. See https://open.piercecountywa.gov/Transportation/County-Road-Pavement-Condition/fvcc-effn for full dataset.
 
 - **DEM - Activations and Alerts**  
   [Data](https://internal.open.piercecountywa.gov/resource/u5hd-xqzc.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/u5hd-xqzc) | Last update: Recent  
   Pierce County Emergency Operations Center Activations, Notifications sent through PCALERT and PCWARN, public outreach activity and other services provided by Pierce County Emergency Management
 
 - **Economic - Women Who Give Birth Paid By Medicaid**  
-  [Data](https://internal.open.piercecountywa.gov/resource/xaab-zf72.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xaab-zf72) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/xaab-zf72.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/xaab-zf72) | Last update: Jun 2024  
   This dataset contains percent of births paid for by Medicaid.Data provided by the Washington State Health Care Authority (HCA).
 
-- **FIN Fleet Workload Service Data**  
-  [Data](https://internal.open.piercecountywa.gov/resource/833t-si7i.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/833t-si7i) | Last update: Recent  
-  This dataset contains information about County vehicle use.
+- **FIN Alternative Fuel Vehicles**  
+  [Data](https://internal.open.piercecountywa.gov/resource/3mqu-y78j.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/3mqu-y78j) | Last update: Jun 2024  
+  This dataset contains the number of County vehicles and information about alternative fuel use.
 
 - **FIN IT Project Status**  
   [Data](https://internal.open.piercecountywa.gov/resource/e937-rcgc.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/e937-rcgc) | Last update: Recent  
@@ -16882,7 +16851,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This dataset contains interest earned since 2013.
 
 - **FIN Open Pierce County Analytics**  
-  [Data](https://internal.open.piercecountywa.gov/resource/abzc-p2n8.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/abzc-p2n8) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/abzc-p2n8.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/abzc-p2n8) | Last update: Jun 2024  
   Analytic data from Socrata system
 
 - **FIN Open Pierce County Dataset Automation**  
@@ -16896,10 +16865,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **FIN Workday Training Satisfaction Rate**  
   [Data](https://internal.open.piercecountywa.gov/resource/p96h-b29v.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/p96h-b29v) | Last update: Recent  
   This dataset contains satisfaction rates of Workday trainings.
-
-- **FIN Workload Indicators**  
-  [Data](https://internal.open.piercecountywa.gov/resource/7kjd-5tix.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/7kjd-5tix) | Last update: Recent  
-  This dataset contains information about invoices from different sources.
 
 - **FPM Per Capita Dataset**  
   [Data](https://internal.open.piercecountywa.gov/resource/i274-ux6k.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/i274-ux6k) | Last update: Recent  
@@ -16915,6 +16880,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **HR Employee Satisfaction Ratings**  
   [Data](https://internal.open.piercecountywa.gov/resource/22nh-8v2f.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/22nh-8v2f) | Last update: Jan 2024  
   This dataset uses data from the biennial Employee Engagement Survey to determine the rate of employee satisfaction.
+
+- **HR Monthly Staffing Report**  
+  [Data](https://internal.open.piercecountywa.gov/resource/ea7y-23bd.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ea7y-23bd) | Last update: Recent  
+  This dataset is derived from Workday and provides monthly data on department new hires, separations, and vacancies.
 
 - **HR Public Records Metrics Dataset**  
   [Data](https://internal.open.piercecountywa.gov/resource/wdkv-my9s.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/wdkv-my9s) | Last update: Nov 2022
@@ -17067,15 +17036,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Rental assistance applications with primary applicant information. Total amount owe and amount paid by Rental Assistance program are also included.
 
 - **Health Insurance Coverage by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/9df5-saeu.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9df5-saeu) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/9df5-saeu.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9df5-saeu) | Last update: Jun 2024  
   Health insurance coverage data from ACS-1 (DP03_0095E, DP03_0096E, DP03_0096PE).
 
-- **Homeless Youth Who Regain Housing**  
-  [Data](https://internal.open.piercecountywa.gov/resource/t77e-d223.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/t77e-d223) | Last update: Recent  
-  Federal and State funders require any Continuum of Care receiving federal and state homeless funds use a locally-administered data system to record and analyze homeless information. To comply with this requirement Pierce County has contracted with Bowman Systems L.L.C. for the use of the ServicePoint HMIS database.
-
 - **Households with Broadband Internet by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/aw8f-qfrs.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/aw8f-qfrs) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/aw8f-qfrs.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/aw8f-qfrs) | Last update: Jun 2024  
   Number and percent of households that have broadband internet. Data from ACS1 year for county and state level.
 
 - **Housing Affordability Index**  
@@ -17083,39 +17048,35 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   For example, an index of 126 means that a median-income family has 26 percent more income than the bare minimum required to qualify for a mortgage on a median-price home. An index of 80 means that a median-income family has less income than the minimum required.
 
 - **Infant Birthweight by County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/c469-9q69.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c469-9q69) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/c469-9q69.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c469-9q69) | Last update: Jun 2024  
   Infant birthweight data obtained from United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS), Division of Vital Statistics, Natality public-use data, on CDC WONDER Online Database.
-
-- **Intergovernmental Revenue**  
-  [Data](https://internal.open.piercecountywa.gov/resource/un9s-h4qw.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/un9s-h4qw) | Last update: May 2024  
-  This dataset provides the change in intergovernmental and grant revenue from year to year. Due to changes in state and federal grant funding levels, revenues can very year to year.
 
 - **Lobby Wait Time Data - Aggregated**  
   [Data](https://internal.open.piercecountywa.gov/resource/ek7b-3aci.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ek7b-3aci) | Last update: May 2024  
   Aggregated lobby wait time for the Assessor Treasurer's lobby and
 
-- **Nuisance Violations**  
-  [Data](https://internal.open.piercecountywa.gov/resource/9wmg-abtz.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/9wmg-abtz) | Last update: Recent  
-  The Code Enforcement section investigates and works to resolve nuisance complaints. This dataset captures the number of violations each quarter and the number that are resolved.
+- **Open Budget Expenditure Data**  
+  [Data](https://internal.open.piercecountywa.gov/resource/w2wc-2pqu.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/w2wc-2pqu) | Last update: Recent  
+  This dataset contains funding and expenditures for different funds.
 
-- **Open Checkbook Data**  
-  [Data](https://internal.open.piercecountywa.gov/resource/iwu2-biyj.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/iwu2-biyj) | Last update: Recent  
-  This dataset includes expenditure data extracted from the County's financial management system.
+- **Open Budget Revenue Data**  
+  [Data](https://internal.open.piercecountywa.gov/resource/q4j6-9kp5.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/q4j6-9kp5) | Last update: Recent  
+  This dataset contains budgets for various funds
 
-- **PPW AirportData**  
-  [Data](https://internal.open.piercecountywa.gov/resource/hqr2-dmpi.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/hqr2-dmpi) | Last update: May 2022  
-  Dataset contains information on hangar occupancy rate, gallons of fuel sold, and waitlist lengths for each of Pierce County's airports.
+- **PPW Ferry Ticket Sales**  
+  [Data](https://internal.open.piercecountywa.gov/resource/66mn-p7id.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/66mn-p7id) | Last update: Jun 2024  
+  This dataset contains the number of ferry tickets sold by year.
 
 - **Pierce County Qualified Tracts**  
-  [Data](https://internal.open.piercecountywa.gov/resource/ybvy-hv8v.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ybvy-hv8v) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/ybvy-hv8v.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/ybvy-hv8v) | Last update: Jun 2024  
   This data consists of geospatial data of tracts.
 
 - **Potentially Preventable Hospitalization Rate**  
-  [Data](https://internal.open.piercecountywa.gov/resource/66kt-n3yc.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/66kt-n3yc) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/66kt-n3yc.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/66kt-n3yc) | Last update: Jun 2024  
   Discharges for Ambulatory Care Sensitive Conditions per 100,000 Medicare Enrollees. Data from Mapping Medicare Disparities Tool (https://data.cms.gov/tools/mapping-medicare-disparities-by-population).
 
 - **RSK Number of County Facilities Inspected**  
-  [Data](https://internal.open.piercecountywa.gov/resource/w6gb-p7a6.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/w6gb-p7a6) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/w6gb-p7a6.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/w6gb-p7a6) | Last update: Jun 2024  
   This dataset contains the number of facilities inspected by year
 
 - **Suicide Related Deaths**  
@@ -17127,11 +17088,11 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Simplified dataset cataloged from ArcGIS. Dataset contains information on the status of unauthorized use encampments on Planning and Public Works Property.
 
 - **Youth Obesity Rate By County**  
-  [Data](https://internal.open.piercecountywa.gov/resource/m82h-u5vd.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/m82h-u5vd) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/m82h-u5vd.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/m82h-u5vd) | Last update: Jun 2024  
   Youth (8th, 10th  and 12th grade)  obesity and overweight rate from Washington State Healthy Youth Survey (HYS). The Healthy Youth Survey (HYS) is a collaborative effort of the Office of the Superintendent of Public Instruction, the Department of Health, the Health Care Authority - Division of Behavioral Health and Recovery, and Liquor and Cannabis Board.
 
 - **Youth Suicide Attempt Rate**  
-  [Data](https://internal.open.piercecountywa.gov/resource/c86h-wg9s.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c86h-wg9s) | Last update: Recent  
+  [Data](https://internal.open.piercecountywa.gov/resource/c86h-wg9s.json) | [Docs](https://dev.socrata.com/foundry/internal.open.piercecountywa.gov/c86h-wg9s) | Last update: Jun 2024  
   Youth (6th, 8th, 10th, and 12th grade students)  suicide attempt rate from Washington State Healthy Youth Survey (HYS). The Healthy Youth Survey (HYS) is a collaborative effort of the Office of the Superintendent of Public Instruction, the Department of Health, the Health Care Authority - Division of Behavioral Health and Recovery, and Liquor and Cannabis Board.
 
 [[TOP]](#toc)
@@ -17173,7 +17134,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iadb.org/resource/4nap-2ipr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/4nap-2ipr) | Last update: Feb 2024
 
 - **Accountability Data - Social and environmental claims managed by MICI**  
-  [Data](https://mydata.iadb.org/resource/gwz9-e5pe.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/gwz9-e5pe) | Last update: Recent  
+  [Data](https://mydata.iadb.org/resource/gwz9-e5pe.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/gwz9-e5pe) | Last update: Jun 2024  
   Complaints managed by the Independent Consultation and Investigation Mechanism (MICI) to address social or environmental complaints related to IDB Group-financed projects.
 
 - **Advanced Experiences in Cybersecurity Policies and Practices Data Set**  
@@ -17290,7 +17251,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iadb.org/resource/wjva-jgbh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/wjva-jgbh) | Last update: Feb 2024
 
 - **Latin Macro Watch Dataset**  
-  [Data](https://mydata.iadb.org/resource/tbnd-z94f.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/tbnd-z94f) | Last update: Recent
+  [Data](https://mydata.iadb.org/resource/tbnd-z94f.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/tbnd-z94f) | Last update: Jun 2024
 
 - **Learning Improvement Information Center: Indicators and Descriptions**  
   [Data](https://mydata.iadb.org/resource/wjh3-9awh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iadb.org/wjh3-9awh) | Last update: Feb 2024  
@@ -17411,10 +17372,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/67aj-bdft.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/67aj-bdft) | Last update: Aug 2023  
   Assisted living programs are to provide the housing and services in a homelike environment that encourages family involvement, tenant self-direction, and tenant participation in decisions.
 
-- **Cemeteries in Iowa**  
-  [Data](https://mydata.iowa.gov/resource/6qh2-3hz2.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/6qh2-3hz2) | Last update: Dec 2023  
-  This dataset provides a point location of Iowa Historic Cemeteries. Originally it was based on an Iowa DNR point file marking cemetery locations as found on 7.5 min. USGS quad maps.
-
 - **City Property Tax Levies by Levy Line by Fiscal Year**  
   [Data](https://mydata.iowa.gov/resource/gx5j-gym5.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gx5j-gym5) | Last update: Recent  
   These rates make up the total city rate that shows up on property tax statements.
@@ -17431,6 +17388,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/45xi-rj9h.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/45xi-rj9h) | Last update: Aug 2023  
   This dataset provides information on cases and outbreaks for diseases in Iowa by year and county.
 
+- **Housing Opportunities for Persons with AIDS (HOPWA) Iowa Allocations**  
+  [Data](https://mydata.iowa.gov/resource/89ed-t9fs.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/89ed-t9fs) | Last update: Aug 2023  
+  This dataset includes Housing Opportunities for Persons with AIDS (HOPWA) 2017-2018 Iowa Allocations.
+
 - **IFA Home Buyers - Down Payment Assistance by Mortgage Program and County**  
   [Data](https://mydata.iowa.gov/resource/3kdc-k3bd.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/3kdc-k3bd) | Last update: Aug 2023  
   This dataset includes all home buyers who purchased a home using down payment assistance with loan purchase date between July 1, 2016 and June 30,2018. The data includes Loan Purchase Date, Bond Series, Loan Amount and County.
@@ -17443,13 +17404,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/2k8x-8uay.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/2k8x-8uay) | Last update: Recent  
   This dataset contains a listing of producer business entities licensed in Iowa
 
-- **Iowa Board of Regents' Vendor Payments by Institution, Fiscal Year And Vendor**  
-  [Data](https://mydata.iowa.gov/resource/y3id-d73d.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/y3id-d73d) | Last update: Aug 2023  
-  Payments made by the Board of Regents are assigned to fiscal years that run from July 1 to the following June 30, and are numbered for the calendar year in which they end (e.g. FY 2014 is July 1, 2013  June 30, 2014).
-
 - **Iowa Campaign Contributions Received**  
   [Data](https://mydata.iowa.gov/resource/smfg-ds7h.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/smfg-ds7h) | Last update: Recent  
   This dataset contains information on contributions and in kind donations made by organizations and individuals to state-wide, legislative or local candidate committees, state PACs, county central committees, state parties, and state and local ballot issue committees in Iowa.
+
+- **Iowa Community College Districts**  
+  [Data](https://mydata.iowa.gov/resource/4sn8-te9s.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/4sn8-te9s) | Last update: Mar 2024  
+  Dataset provides the names, numbers and boundaries for community college districts in Iowa.
 
 - **Iowa Correctional Institutions**  
   [Data](https://mydata.iowa.gov/resource/556g-yw8p.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/556g-yw8p) | Last update: Aug 2023  
@@ -17463,9 +17424,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/nqiw-f9td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/nqiw-f9td) | Last update: Recent  
   The Food Assistance Program provides Electronic Benefit Transfer (EBT) cards that can be used to buy groceries at supermarkets, grocery stores and some Farmers Markets. This dataset provides data on the number of households, recipients and cash assistance provided through the Food Assistance Program participation in Iowa by month and county starting in January 2011 and updated monthly.
 
+- **Iowa Judicial Districts**  
+  [Data](https://mydata.iowa.gov/resource/i76m-6bsm.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/i76m-6bsm) | Last update: Aug 2023  
+  This dataset provides the names, counties served and boundaries of Judicial Districts in Iowa who deliver community-based correction services.
+
 - **Iowa Juvenile Detention Secure Placements**  
   [Data](https://mydata.iowa.gov/resource/3kck-gq3y.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/3kck-gq3y) | Last update: Dec 2023  
   This dataset contains de-identified individual data for youth placed in a juvenile detention center in Iowa. The dataset includes information regarding age, gender, race/ethnicity, placement facility, month and year of release, and offense class and type. Please note that the Month of Release reflects the first day in the month the placement was released.
+
+- **Iowa Liquor Products**  
+  [Data](https://mydata.iowa.gov/resource/gckp-fe7r.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gckp-fe7r) | Last update: Recent  
+  This dataset provides a list of liquor products maintained by the Iowa Alcoholic Beverages Division.
 
 - **Iowa Liquor Sales**  
   [Data](https://mydata.iowa.gov/resource/m3tr-qhgy.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/m3tr-qhgy) | Last update: Recent  
@@ -17475,16 +17444,16 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/ykb6-ywnd.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ykb6-ywnd) | Last update: Recent  
   This dataset provides a list of active and inactive liquor stores in Iowa.
 
+- **Iowa Local Area Unemployment Statistics**  
+  [Data](https://mydata.iowa.gov/resource/tjnj-ed6z.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tjnj-ed6z) | Last update: Recent  
+  This dataset contains employment, unemployment, labor force, and labor force participation rates for Iowa, the counties, cities, and metropolitan statistical areas.
+
 - **Iowa Medicaid Payments & Recipients by Month and Vendor**  
   [Data](https://mydata.iowa.gov/resource/b3t9-awkp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/b3t9-awkp) | Last update: Recent
 
 - **Iowa Motor Fuel Sales by County and Year**  
   [Data](https://mydata.iowa.gov/resource/hbwp-wys3.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/hbwp-wys3) | Last update: Apr 2024  
   The State of Iowa set a goal to replace 25.0 percent of petroleum in Iowa with biofuel by 2020. The biofuel distribution percentage measures how the State is doing toward meeting that goal. The formula for determining the biofuel distribution percentage is as follows:  Biofuel Distribution Percentage = (Pure Ethanol Gallons + Pure Biodiesel Gallons) / Total Gasoline Gallons.
-
-- **Iowa Pandemic Recovery Reporting: State Receipts**  
-  [Data](https://mydata.iowa.gov/resource/gw42-bpv2.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/gw42-bpv2) | Last update: Recent  
-  This dataset provides information on receipts associated with Federal Awards considered covered funds under Section 15011 of the Coronavirus Aid, Relief, and Economic Security (CARES) Act.
 
 - **Iowa Perpetual Care Cemeteries**  
   [Data](https://mydata.iowa.gov/resource/qfme-aw7v.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/qfme-aw7v) | Last update: Aug 2023  
@@ -17506,6 +17475,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/54c3-gcuf.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/54c3-gcuf) | Last update: Aug 2023  
   This dataset includes Iowa Statewide Emergency Solutions Grant (ESG) Program Funding Awards for the 2017 and 2018 Calendar Year.
 
+- **Iowa Unemployment Compensation Fund Status - Benefits Paid**  
+  [Data](https://mydata.iowa.gov/resource/bbux-m3a4.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/bbux-m3a4) | Last update: Feb 2024  
+  This data is analyzed in the "Status Report on the Iowa Unemployment Compensation Trust Fund" report.
+
 - **Iowa Unemployment Insurance Benefit Payments and Recipients by County (Monthly)**  
   [Data](https://mydata.iowa.gov/resource/aeyn-twxp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/aeyn-twxp) | Last update: Recent  
   This dataset contains Iowa unemployment insurance benefit payments, weeks compensated, and number of benefit recipients by county.
@@ -17518,20 +17491,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/7uss-66ak.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/7uss-66ak) | Last update: Recent  
   This dataset provides information on the age composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey.
 
-- **Iowa Unemployment Insurance Claimants by Industry Sector (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/ck65-myxr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ck65-myxr) | Last update: Recent  
-  This dataset provides information on the industry composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey. (Source: ETA-203)
-
 - **Iowa Unemployment Insurance Claimants by Occupational Group (Monthly)**  
   [Data](https://mydata.iowa.gov/resource/2ypv-48td.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/2ypv-48td) | Last update: Recent  
   This dataset provides information on the occupational composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey.
 
 - **Iowa Unemployment Insurance Claimants by Race and Ethnicity (Monthly)**  
   [Data](https://mydata.iowa.gov/resource/xhef-iq3u.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/xhef-iq3u) | Last update: Recent
-
-- **Iowa Unemployment Insurance Claimants by Sex (Monthly)**  
-  [Data](https://mydata.iowa.gov/resource/t92x-wtrh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/t92x-wtrh) | Last update: Recent  
-  This dataset provides information on the gender composition of unemployment insurance claimants. The data are based on those who file a continued claim in the week containing the 19th of the month, which reflects unemployment during the week containing the 12th. This corresponds with the Bureau of Labor Statistics' Current Population Survey. (Source: ETA-203)
 
 - **Iowa Unemployment Insurance Claims Data (Weekly)**  
   [Data](https://mydata.iowa.gov/resource/njph-rx66.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/njph-rx66) | Last update: Recent  
@@ -17548,17 +17513,24 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Iowa Watershed Boundaries: Subwatersheds (HUC 12)**  
   [Data](https://mydata.iowa.gov/resource/iqbz-d3re.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/iqbz-d3re) | Last update: Dec 2023
 
+- **Iowa Watershed Boundaries: Watersheds (HUC 10)**  
+  [Data](https://mydata.iowa.gov/resource/jp2y-4hkt.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/jp2y-4hkt) | Last update: Dec 2023
+
+- **Licensed Viatical Brokers in Iowa**  
+  [Data](https://mydata.iowa.gov/resource/feh3-5evi.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/feh3-5evi) | Last update: Dec 2023  
+  This dataset is a listing of viatical brokers that are licensed to do business in Iowa.
+
 - **Licensed Viatical Settlement Providers in Iowa**  
   [Data](https://mydata.iowa.gov/resource/pdbp-h6yh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/pdbp-h6yh) | Last update: Dec 2023  
   This dataset is a listing of viatical settlement providers licensed in the State of Iowa.
 
 - **Local Government TIF Expenditures By Project & Debt**  
-  [Data](https://mydata.iowa.gov/resource/hf7s-mtwp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/hf7s-mtwp) | Last update: Recent  
+  [Data](https://mydata.iowa.gov/resource/hf7s-mtwp.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/hf7s-mtwp) | Last update: Jul 2024  
   The dataset shows the expenditures reported by local governments, the debt that expenditure repaid and the project that was funded by this TIF debt.
 
-- **Local Option Sales Tax Collected by Iowa County and Fiscal Year**  
-  [Data](https://mydata.iowa.gov/resource/fh4z-kdxb.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/fh4z-kdxb) | Last update: Aug 2023  
-  In those jurisdictions that impose it, LOST applies to all sales that are subject to the State sales tax. Most cities and unincorporated areas in Iowa have adopted LOST. LOST collections are allocated to LOST jurisdictions within counties based on sales in each county.
+- **Long Term Care, and Individual and Small Group Major Medical/Hospital Rate Increases**  
+  [Data](https://mydata.iowa.gov/resource/ew6f-atpq.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ew6f-atpq) | Last update: Recent  
+  This dataset provides a historical view of proposed long term care, and individual and small group major medical/hospital rate increases starting in January 2005.
 
 - **Lottery Sales, Proceeds, and Prizes**  
   [Data](https://mydata.iowa.gov/resource/b9m5-qwb9.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/b9m5-qwb9) | Last update: Oct 2023  
@@ -17573,44 +17545,32 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Dataset contains information on Iowa public school districts' academic progress of their students in reading and math annually starting with school year ending in 2003.
 
 - **Motor Vehicle Service Contract Companies Licensed in Iowa**  
-  [Data](https://mydata.iowa.gov/resource/j78q-bdp3.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/j78q-bdp3) | Last update: Recent  
+  [Data](https://mydata.iowa.gov/resource/j78q-bdp3.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/j78q-bdp3) | Last update: Jul 2024  
   The motor vehicle service contract company that issues the motor vehicle service contract and is obligated to arrange for the performance of services must be licensed with the Iowa Insurance Division.
 
 - **Payments to School Districts by State of Iowa**  
   [Data](https://mydata.iowa.gov/resource/cv3q-vr69.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/cv3q-vr69) | Last update: Recent  
   Data has been enhanced by the Iowa Department of Management to only return records associated with school districts by joining the State of Iowa Checkbook data to a crosswalk dataset that relates vendor numbers to district numbers assigned by the Iowa Department of Education.
 
-- **Peace officers certified by the Iowa Law Enforcement Academy by calendar year.**  
-  [Data](https://mydata.iowa.gov/resource/tyef-pm5y.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/tyef-pm5y) | Last update: Mar 2024  
-  This Dataset contains information on the number of officers that have been certified each year by graduating from the Basic Academy course held at the Iowa Law Enforcement Academy at Camp Dodge, Johnston, IA.
-
 - **Peace officers decertified by the Iowa Law Enforcement Academy by calendar year.**  
   [Data](https://mydata.iowa.gov/resource/m6hg-dubw.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/m6hg-dubw) | Last update: Mar 2024  
   This dataset represents the number of peace officers whose certifications were revoked or suspended by the Iowa Law Enforcement Academy.
 
 - **Public Adjusters Licensed in Iowa**  
-  [Data](https://mydata.iowa.gov/resource/rw5w-dmcr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/rw5w-dmcr) | Last update: Recent  
+  [Data](https://mydata.iowa.gov/resource/rw5w-dmcr.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/rw5w-dmcr) | Last update: Jul 2024  
   This dataset contains a listing of licensed resident and non-resident public adjusters.
+
+- **Registered Political Candidates, Committees and Entities in Iowa**  
+  [Data](https://mydata.iowa.gov/resource/5dtu-swbk.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/5dtu-swbk) | Last update: Recent  
+  The dataset contains address lists for registered candidates and committees that file with the Iowa Ethics & Campaign Disclosure Board.
 
 - **Registered Retirement Facilities in Iowa**  
   [Data](https://mydata.iowa.gov/resource/cvnj-m3t8.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/cvnj-m3t8) | Last update: Recent  
   Retirement facilities must comply with the requirements in Iowa Code Chapter 523D and Iowa Administrative Code chapter 191-102. The requirements include distribution of a disclosure statement to prospective residents and a contract providing required disclosure items.
 
 - **Residential Service Contract Companies Licensed in Iowa**  
-  [Data](https://mydata.iowa.gov/resource/x8vj-4rtf.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/x8vj-4rtf) | Last update: Recent  
+  [Data](https://mydata.iowa.gov/resource/x8vj-4rtf.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/x8vj-4rtf) | Last update: Jul 2024  
   The residential service contract company that issues the residential service contract and is obligated to arrange for the performance of services must be licensed with the Iowa Insurance Division.
-
-- **Sovereign Meandered Rivers of Iowa**  
-  [Data](https://mydata.iowa.gov/resource/usgs-v8jh.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/usgs-v8jh) | Last update: Aug 2023  
-  Meandered sovereign rivers means those rivers which, at the time of the original federal government surveys, were surveyed as navigable and important water bodies and were transferred to the states upon their admission to the union to be transferred or retained by the public in accordance with the laws of the respective states upon their admission to the union.
-
-- **State Housing Trust Fund Recipients**  
-  [Data](https://mydata.iowa.gov/resource/jsdf-mhmk.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/jsdf-mhmk) | Last update: Aug 2023  
-  This dataset includes the FY 2017 and FY 2018 State Housing Trust Fund Recipients for both Local Housing Trust Fund (LHTF) Program and Project-Based Housing Program (PBHP). The data includes Fiscal Year, Project Application Number, Grantee, Program and Award Amount.
-
-- **State of Iowa - Monthly Voter Registration Totals by County**  
-  [Data](https://mydata.iowa.gov/resource/cp55-uurs.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/cp55-uurs) | Last update: Recent  
-  Inactive voters are those to whom official mailings have been sent from the county auditors office, the notice was returned as undeliverable by the United States Postal Service and the voter has not responded to a follow up confirmation notice. [48A.37]
 
 - **State of Iowa - Monthly Voter Registration Totals by State House District**  
   [Data](https://mydata.iowa.gov/resource/4tx3-s285.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/4tx3-s285) | Last update: Recent  
@@ -17623,16 +17583,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://mydata.iowa.gov/resource/cyqb-8ina.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/cyqb-8ina) | Last update: Recent  
   This dataset contains payment transactions recorded in the State of Iowas central accounting system for the Executive Branch.
 
-- **State of Iowa Executive Branch Employee Counts by Month and Agency**  
-  [Data](https://mydata.iowa.gov/resource/ixhm-96mq.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/ixhm-96mq) | Last update: Recent  
-  This dataset provides monthly counts of full-time, part-time and temporary employees for within the Executive Branch of the State of Iowa beginning with December 2010.
-
 - **State of Iowa Executive Branch Out-of-State Travel Reimbursements**  
   [Data](https://mydata.iowa.gov/resource/vtga-efxt.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/vtga-efxt) | Last update: Recent
-
-- **State of Iowa Forfeiture Cases**  
-  [Data](https://mydata.iowa.gov/resource/wenv-4h8b.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/wenv-4h8b) | Last update: Recent  
-  This dataset provides forfeiture case information including the money, real estate and vehicles seized in the State of Iowa beginning October 6, 2016.
 
 - **State of Iowa Registered Wells**  
   [Data](https://mydata.iowa.gov/resource/sfas-f77w.json) | [Docs](https://dev.socrata.com/foundry/mydata.iowa.gov/sfas-f77w) | Last update: Aug 2023
@@ -17691,10 +17643,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.fcgov.com/resource/g87z-rviz.json) | [Docs](https://dev.socrata.com/foundry/opendata.fcgov.com/g87z-rviz) | Last update: Recent  
   The real-time map of these values is located at https://gisweb.fcgov.com/HTML5Viewer/Index.html?viewer=Flood%20Warning
 
-- **Fort Collins Homeless/Transient Police Contacts**  
-  [Data](https://opendata.fcgov.com/resource/htfg-p5ej.json) | [Docs](https://dev.socrata.com/foundry/opendata.fcgov.com/htfg-p5ej) | Last update: Feb 2020  
-  Bi-weekly homeless/transient contacts made by police services August 2016 to last month. Includes 4 most common call types.
-
 - **Fort Collins OpenBook Departments**  
   [Data](https://opendata.fcgov.com/resource/mf2v-ctau.json) | [Docs](https://dev.socrata.com/foundry/opendata.fcgov.com/mf2v-ctau) | Last update: Recent  
   Full department list from OpenBook, with the overall summation of payments for each department over the time period. The time period is the "All Years" range in OpenBook, which is a rolling 24 months.
@@ -17714,10 +17662,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Fort Collins OpenData Asset Timeline - Datatypes**  
   [Data](https://opendata.fcgov.com/resource/m2p7-i4pg.json) | [Docs](https://dev.socrata.com/foundry/opendata.fcgov.com/m2p7-i4pg) | Last update: Recent  
   These values represent all assets on the platform, including those that aren't available to the public, either due to sensitive or otherwise protected information or because they're undergoing the process of public release. For a current list of publicly-posted Portal assets, go to the Published Asset Inventory.
-
-- **Fort Collins Per Capita Water Use**  
-  [Data](https://opendata.fcgov.com/resource/q2r4-5us3.json) | [Docs](https://dev.socrata.com/foundry/opendata.fcgov.com/q2r4-5us3) | Last update: Dec 2019  
-  Gallons per Capita per Day (GPCD) water use from the City of Fort Collins distribution plant.
 
 - **Fort Collins Public Incident Log**  
   [Data](https://opendata.fcgov.com/resource/ht5q-h5ms.json) | [Docs](https://dev.socrata.com/foundry/opendata.fcgov.com/ht5q-h5ms) | Last update: Sep 2020  
@@ -17828,6 +17772,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.maryland.gov/resource/3rgd-zjxx.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/3rgd-zjxx) | Last update: May 2024  
   Although MDE requires that all public sewer system owners or operators report overflows to us, there may be incidents that were not reported. Note that overflow amounts provided by the person reporting the overflow may be estimated using best professional judgment or they may be actual readings from flow measurement devices when available.
 
+- **SHA Districts by County**  
+  [Data](https://opendata.maryland.gov/resource/amgn-fptx.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/amgn-fptx) | Last update: Jan 2020  
+  This dataset shows the boundaries of the State Highway Administration's (SHA's) seven regions.
+
 - **SHA Facilities Statewide**  
   [Data](https://opendata.maryland.gov/resource/p76f-zpri.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/p76f-zpri) | Last update: Jan 2020  
   This dataset shows the 36 facilities of the State Highway Administration (SHA), including maintenance offices, landscape depots, and district offices, as well as the SHA Headquarters in Baltimore City and Hanover Complex.
@@ -17835,10 +17783,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **State of Maryland Full Time Equivalents**  
   [Data](https://opendata.maryland.gov/resource/x8qy-486w.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/x8qy-486w) | Last update: Jan 2024  
   Maryland's FY2017 , FY2018, FY2019, FY2020, FY2021, and FY2022 operating budget (actual expenditures), FY2023 operating budget (working), and FY2024 operating budget (legislative appropriation). The data for each FY should be considered in the state listed
-
-- **Toll Transactions**  
-  [Data](https://opendata.maryland.gov/resource/hrir-ejvj.json) | [Docs](https://dev.socrata.com/foundry/opendata.maryland.gov/hrir-ejvj) | Last update: Apr 2023  
-  Dataset contains counts of toll transactions collected by the MD Transportation Authority at its eight toll facilities.
 
 [[TOP]](#toc)
 
@@ -17851,9 +17795,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **ACA Enrollments By Zip Code Utah**  
   [Data](https://opendata.utah.gov/resource/qe2j-vacr.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qe2j-vacr) | Last update: Feb 2019  
   Utah consumers by zip code who purchased Affordable Care Act insurance from the HealthCare.gov platform during the 2017 Mid Open Enrollment Period. This includes consumers who interacted with the Spanish version of the site at CuidadodeSalud.gov.
-
-- **AM Transmission Towers in Utah**  
-  [Data](https://opendata.utah.gov/resource/nfwu-8egu.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/nfwu-8egu) | Last update: Mar 2020
 
 - **APPLETREE Sites**  
   [Data](https://opendata.utah.gov/resource/6kej-2wpq.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/6kej-2wpq) | Last update: Apr 2024  
@@ -17931,9 +17872,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/xrer-zz9e.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/xrer-zz9e) | Last update: Apr 2019  
   Average Annual Number Of Postneonatal Deaths Over 5 Year Period All States
 
-- **Average Annual Number Of Very Preterm Live Singleton Births Over 5 Year Period All States**  
-  [Data](https://opendata.utah.gov/resource/9tdj-mzb6.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/9tdj-mzb6) | Last update: Apr 2019  
-  Average Annual Number Of Very Preterm Live Singleton Births Over 5 Year Period All States
+- **Average Annual Number Of Very Preterm Live Births Over 5 Year Period All States**  
+  [Data](https://opendata.utah.gov/resource/pcz5-ng6z.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/pcz5-ng6z) | Last update: Apr 2019  
+  Average Annual Number Of Very Preterm Live Births Over 5 Year Period All States
+
+- **Average Annual Percent Of Very Low Birthweight Over 5 Year Period All States**  
+  [Data](https://opendata.utah.gov/resource/sbqq-7d36.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/sbqq-7d36) | Last update: Apr 2019  
+  Average Annual Percent Of Very Low Birthweight Over 5 Year Period All States
+
+- **Average Annual Postneonatal Morality Rate Per 100 Live Births All States**  
+  [Data](https://opendata.utah.gov/resource/d7d4-j73t.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/d7d4-j73t) | Last update: Apr 2019  
+  Average Annual Postneonatal Morality Rate Per 100 Live Births All States
 
 - **BLDS Working Copy**  
   [Data](https://opendata.utah.gov/resource/dxbe-8368.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/dxbe-8368) | Last update: Aug 2015
@@ -17981,6 +17930,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/62nn-3zz5.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/62nn-3zz5) | Last update: Apr 2019  
   Carbon Monoxide Poisoning Emergency Dept Visits Per 100,000 All States Homes
 
+- **Carbon Monoxide Poisoning Hospitalizations For CO Per 100,000 All States**  
+  [Data](https://opendata.utah.gov/resource/x7wt-vzcn.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/x7wt-vzcn) | Last update: Apr 2019  
+  Carbon Monoxide Poisoning Hospitalizations For CO Per 100,000 All States
+
 - **Cedar City Police & Crime Data**  
   [Data](https://opendata.utah.gov/resource/wzvh-ytm9.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/wzvh-ytm9) | Last update: Apr 2019  
   Cedar City Police Department crime data.
@@ -17988,10 +17941,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **CedarBeaverLU1989**  
   [Data](https://opendata.utah.gov/resource/ij5t-qwrp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ij5t-qwrp) | Last update: Apr 2024  
   Cedar Beaver River Shapefile 1989
-
-- **Children Receiving Interventions Developmental Disabilities 3-5 All States**  
-  [Data](https://opendata.utah.gov/resource/ypim-tysw.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ypim-tysw) | Last update: Apr 2019  
-  Children Receiving Interventions Developmental Disabilities 3-5 All States
 
 - **Children Receiving Interventions For Developmental Disabilities All States**  
   [Data](https://opendata.utah.gov/resource/piuj-dg2w.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/piuj-dg2w) | Last update: Apr 2019  
@@ -18001,17 +17950,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/vb2s-fry9.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/vb2s-fry9) | Last update: Oct 2018  
   This data set contains police, crime & incident reporting data from the Clinton City police department.
 
-- **Coal Ownership**  
-  [Data](https://opendata.utah.gov/resource/kixt-mvry.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/kixt-mvry) | Last update: Apr 2024  
-  Coal Ownership in Utah  This dataset depicts Coal Ownership for the State of Utah School and Institutional Trust Lands Administration (SITLA). This is a statewide dataset that is updated on a regular basis.
+- **Clinton City Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/mfwr-np3m.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/mfwr-np3m) | Last update: Apr 2019  
+  Clinton City Police Crime Data
 
 - **Coal mines in Utah.**  
   [Data](https://opendata.utah.gov/resource/pgre-66a5.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/pgre-66a5) | Last update: Apr 2019  
   This data set contains coal mines within the State of Utah.
-
-- **CoalDepositAreas1988**  
-  [Data](https://opendata.utah.gov/resource/md64-w2zv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/md64-w2zv) | Last update: Apr 2024  
-  This dataset represents areas of coal deposits in Utah.
 
 - **Common Medical Procedure Prices in Utah**  
   [Data](https://opendata.utah.gov/resource/6c3e-vvdg.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/6c3e-vvdg) | Last update: Dec 2021  
@@ -18025,6 +17970,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/axfe-55hv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/axfe-55hv) | Last update: Apr 2024  
   This Shapefile depicts the route of Utah Transit Authoritys FrontRunner North and South commuter rail tracks as received from UTA May of 2013.
 
+- **Consumer Complains to FCC from Utah Citizens**  
+  [Data](https://opendata.utah.gov/resource/3mfx-qye9.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/3mfx-qye9) | Last update: Mar 2020  
+  This data set contains Individual informal consumer complaint data detailing complaints filed with the Consumer Help Center beginning October 31, 2014 from citizens of Utah. This data represents information selected by the consumer. The FCC does not verify the facts alleged in these complaints.
+
 - **Consumer Financial Protection Bureau Complaints Utah**  
   [Data](https://opendata.utah.gov/resource/awvj-g94q.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/awvj-g94q) | Last update: Oct 2018  
   These complaints are published here after the company responds or after 15 days, whichever comes first. By adding their voice, consumers help improve the financial marketplace.
@@ -18032,6 +17981,22 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Cougar 14**  
   [Data](https://opendata.utah.gov/resource/h5qs-q2sq.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/h5qs-q2sq) | Last update: Apr 2024  
   Cougar Hunting Boundaries Utah 2014
+
+- **DNROilGasFields**  
+  [Data](https://opendata.utah.gov/resource/neiz-anka.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/neiz-anka) | Last update: Apr 2024  
+  This is a dataset containing oil and gas wells throughout the state of Utah. Data is reported and maintained by the Division of Oil, Gas, and Mining
+
+- **DNROilGasUnits**  
+  [Data](https://opendata.utah.gov/resource/pwwh-3a6z.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/pwwh-3a6z) | Last update: Apr 2024  
+  This is a dataset containing oil and gas wells throughout the state of Utah. Data is reported and maintained by the Division of Oil, Gas, and Mining
+
+- **DNROilGasWells HDPath**  
+  [Data](https://opendata.utah.gov/resource/fnxg-msnw.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/fnxg-msnw) | Last update: Apr 2024  
+  This is a dataset containing oil and gas wells throughout the state of Utah. Data is reported and maintained by the Division of Oil, Gas, and Mining
+
+- **Davis County Layton Public Health Indicators Census FINAL**  
+  [Data](https://opendata.utah.gov/resource/3eca-wish.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/3eca-wish) | Last update: Apr 2020  
+  This data set contains census tract and city public health indicators for chronic diseases like obesity, diabetes, smoking, cancer, kidney disease, etc. These small area estimates will allow cities and local health departments to better understand the burden and geographic distribution of health-related variables in their jurisdictions, and assist them in planning public health interventions.
 
 - **Deep Basin list of Water, Oil, Gas, Geothermal exploration holes in Utah**  
   [Data](https://opendata.utah.gov/resource/kqau-f3p2.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/kqau-f3p2) | Last update: Jan 2015
@@ -18068,10 +18033,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/exnw-rgy3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/exnw-rgy3) | Last update: Apr 2019  
   The rated cancer risk due to pollutants in US counties.
 
-- **Elk LE 14**  
-  [Data](https://opendata.utah.gov/resource/g3ek-hzs4.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/g3ek-hzs4) | Last update: Apr 2024  
-  Elk - Limited Entry Hunting boundaries Utah 2014
-
 - **Employers In Utah (Firmfind) Except Salt Lake**  
   [Data](https://opendata.utah.gov/resource/ni5h-hag4.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ni5h-hag4) | Last update: Apr 2019  
   Employers In Utah ( Firmfind) Except Salt Lake
@@ -18107,9 +18068,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/k4zw-bzn3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/k4zw-bzn3) | Last update: Feb 2019  
   This data set contains Fiscal Year Revenue Collections from the Economic Report to the Governor for 2016.
 
-- **GSLFlooding**  
-  [Data](https://opendata.utah.gov/resource/v6me-auvs.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/v6me-auvs) | Last update: Apr 2024
-
 - **Gas and Hazardous Transmission Pipeline Mileage by County Utah**  
   [Data](https://opendata.utah.gov/resource/ya8u-4efv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ya8u-4efv) | Last update: Apr 2020  
   This data set contains total mileage by county of gas and hazardous transmission pipelines by county in Utah.
@@ -18117,10 +18075,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **General AnyBull Elk 14**  
   [Data](https://opendata.utah.gov/resource/im22-agam.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/im22-agam) | Last update: Apr 2024  
   Bull Elk General Season Hunting Areas Utah 2014
-
-- **General Spike Elk 14**  
-  [Data](https://opendata.utah.gov/resource/gk4x-j3fz.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/gk4x-j3fz) | Last update: Apr 2024  
-  Spike Elk Hunting Areas Utah 2014
 
 - **GolfCourses**  
   [Data](https://opendata.utah.gov/resource/f49r-p4g2.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/f49r-p4g2) | Last update: Apr 2024  
@@ -18198,6 +18152,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Hurricane City Police Data**  
   [Data](https://opendata.utah.gov/resource/wcix-rnsw.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/wcix-rnsw) | Last update: Jan 2019  
   Hurricane City Police Department crime data.
+
+- **Incidence Rate Of Breast Cancer Per 100,000 All States**  
+  [Data](https://opendata.utah.gov/resource/q22t-rbk9.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/q22t-rbk9) | Last update: Apr 2019  
+  Incidence Rate Of Breast Cancer Per 100,000 All States
 
 - **Incidence Rate Of Larynx Cancer Per 100,000 All States**  
   [Data](https://opendata.utah.gov/resource/xm4u-xjs7.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/xm4u-xjs7) | Last update: Apr 2019  
@@ -18305,14 +18263,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **LakesNHDHighRes**  
   [Data](https://opendata.utah.gov/resource/wq5p-dqvc.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/wq5p-dqvc) | Last update: Apr 2024
 
-- **LandUsePlanning**  
-  [Data](https://opendata.utah.gov/resource/v3ia-bxm7.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/v3ia-bxm7) | Last update: Apr 2024  
-  Land Use Planning areas Utah BLM
-
-- **LandUsePlanning**  
-  [Data](https://opendata.utah.gov/resource/8krk-um7u.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8krk-um7u) | Last update: Apr 2024  
-  It is the landuse planning shapefile from the Bureau of Land Management.
-
 - **Laverkin City Police Data**  
   [Data](https://opendata.utah.gov/resource/7bpr-s9qx.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/7bpr-s9qx) | Last update: Apr 2019  
   LaVerkin City police and crime data
@@ -18339,6 +18289,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/wpv5-a8mb.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/wpv5-a8mb) | Last update: Apr 2019  
   Licensed water well drillers by name Utah
 
+- **LightRailStations UTA**  
+  [Data](https://opendata.utah.gov/resource/k2k9-ag4j.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/k2k9-ag4j) | Last update: Apr 2024
+
 - **Lindon City Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/8vvx-adrn.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8vvx-adrn) | Last update: Apr 2019  
   Lindon City Police & Crime data.
@@ -18357,6 +18310,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Low Birthweight Among Singleton Births Ave Annual Number By State**  
   [Data](https://opendata.utah.gov/resource/qy6f-gtzz.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qy6f-gtzz) | Last update: Apr 2019  
   Low Birthweight Among Singleton Births Ave Annual Number By State
+
+- **Major Rivers and Streams**  
+  [Data](https://opendata.utah.gov/resource/qwy4-btqs.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qwy4-btqs) | Last update: Apr 2024  
+  Major Rivers And Streams in Utah
 
 - **Mapleton City Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/up9e-c5py.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/up9e-c5py) | Last update: Sep 2018  
@@ -18397,6 +18354,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Monthly Pre- Existing Condition Insurance Plan Enrollment State By State Utah**  
   [Data](https://opendata.utah.gov/resource/djcv-m5tg.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/djcv-m5tg) | Last update: Apr 2019
 
+- **Moose 14**  
+  [Data](https://opendata.utah.gov/resource/h86g-s8b5.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/h86g-s8b5) | Last update: Apr 2024  
+  Utah Moose Hunting Boundaries 2014
+
 - **Mormon Cricket Infested Acreage By Year Utah**  
   [Data](https://opendata.utah.gov/resource/26sv-5dyv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/26sv-5dyv) | Last update: Feb 2019  
   Data comes from the Utah Mormon cricket and grasshopper infestation report.
@@ -18431,6 +18392,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Number Of People Aged 25 Older With High School Diploma Or Equivalent All States**  
   [Data](https://opendata.utah.gov/resource/qyct-xwka.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qyct-xwka) | Last update: Apr 2019  
   Number Of People Aged 25 Older With High School Diploma Or Equivalent All States
+
+- **Nursing Home Facility Fines CMS Utah**  
+  [Data](https://opendata.utah.gov/resource/gueq-4nzb.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/gueq-4nzb) | Last update: Nov 2022
+
+- **Oil and Gas Contracts**  
+  [Data](https://opendata.utah.gov/resource/5w79-nrkd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/5w79-nrkd) | Last update: Apr 2024  
+  Oil Gas Plat map includes Active SITLA oil gas contracts Also: General reference information: PLSS, County Bndy and Place Names (for search only).
 
 - **Oiland Gas CSVData**  
   [Data](https://opendata.utah.gov/resource/g3z4-d6p8.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/g3z4-d6p8) | Last update: Apr 2019  
@@ -18472,6 +18440,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/2i6e-de2d.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/2i6e-de2d) | Last update: Apr 2024  
   This dataset also contains the name, county, city, acres, type and construction status of the parks.
 
+- **Pavement Condition**  
+  [Data](https://opendata.utah.gov/resource/59ia-3k7f.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/59ia-3k7f) | Last update: Apr 2024  
+  This dataset comes from the Deighton Total Infrastructure Management System (dTIMS) and has historical pavement data from 2004-2012. This section level data from the dTIMS sectioning table. This layer will be updated yearly as new condition data is gathered.
+
 - **Payson City Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/nkqn-sttt.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/nkqn-sttt) | Last update: Apr 2019  
   Payson City police & crime data.
@@ -18507,6 +18479,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Pleasant Grove Business List**  
   [Data](https://opendata.utah.gov/resource/brhm-2heu.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/brhm-2heu) | Last update: Apr 2019
 
+- **Pleasant Grove City Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/7bxr-4g7y.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/7bxr-4g7y) | Last update: Sep 2018  
+  This data set contains Pleasant Grove City data.
+
 - **Pleasant View Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/hiqz-7rnt.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hiqz-7rnt) | Last update: Apr 2019  
   Pleasant View Police Crime Data
@@ -18530,9 +18506,21 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/4kqe-4h7x.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/4kqe-4h7x) | Last update: Apr 2024  
   Pronghorn Sheep Hunting Boundaries Utah 2014
 
+- **RMBighorn 14**  
+  [Data](https://opendata.utah.gov/resource/gb7x-7z75.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/gb7x-7z75) | Last update: Apr 2024  
+  Rocky Mountain Bighorn Sheep Habitat Utah 2014
+
+- **Rate Of Exposure To Rodenticides Per 100,000 People All States**  
+  [Data](https://opendata.utah.gov/resource/adrh-94xr.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/adrh-94xr) | Last update: Apr 2019  
+  Rate Of Exposure To Rodenticides Per 100,000 People All States
+
 - **Rate Of Hospitalization For Ambulatory Care- Sensitive Conditions Among Children State**  
   [Data](https://opendata.utah.gov/resource/e6ny-vx39.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/e6ny-vx39) | Last update: Apr 2019  
   Rate Of Hospitalization For Ambulatory Care- Sensitive Conditions Among Children   State
+
+- **Rate Of Reported Exposures To Fungicides Per 100,000 People All States**  
+  [Data](https://opendata.utah.gov/resource/qc2s-7i46.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qc2s-7i46) | Last update: Apr 2019  
+  Rate Of Reported Exposures To Fungicides Per 100,000 People All States
 
 - **Rate Of Reported Exposures To Fungicides Per 100,000 People All States**  
   [Data](https://opendata.utah.gov/resource/2bi7-x64g.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/2bi7-x64g) | Last update: Apr 2019  
@@ -18582,6 +18570,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/3tk5-u2wi.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/3tk5-u2wi) | Last update: Apr 2024  
   Parcel Data Beaver County 2014
 
+- **SGID10 CADASTRE Parcels BoxElder**  
+  [Data](https://opendata.utah.gov/resource/ewjx-xz44.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ewjx-xz44) | Last update: Apr 2024  
+  Parcel Data Box Elder County
+
+- **SGID10 CADASTRE Parcels Cache**  
+  [Data](https://opendata.utah.gov/resource/biaa-kkg9.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/biaa-kkg9) | Last update: Apr 2024  
+  Parcel Data Cache County 2014
+
 - **SGID10 CADASTRE Parcels Carbon**  
   [Data](https://opendata.utah.gov/resource/7cdu-xck7.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/7cdu-xck7) | Last update: Apr 2024  
   Parcel Data Carbon County 2014
@@ -18597,6 +18593,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **SGID10 CADASTRE Parcels Garfield**  
   [Data](https://opendata.utah.gov/resource/e75g-wcmz.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/e75g-wcmz) | Last update: Apr 2024  
   Parcel Data Garfield County 2014
+
+- **SGID10 CADASTRE Parcels Grand**  
+  [Data](https://opendata.utah.gov/resource/6hxx-s8qd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/6hxx-s8qd) | Last update: Apr 2024  
+  Parcel Data Grand County 2014
 
 - **SGID10 CADASTRE Parcels Iron**  
   [Data](https://opendata.utah.gov/resource/3pi6-76zc.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/3pi6-76zc) | Last update: Apr 2024  
@@ -18617,9 +18617,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/8j6y-66z7.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/8j6y-66z7) | Last update: Apr 2024  
   Parcel Data Morgan County 2014
 
+- **SGID10 CADASTRE Parcels Piute**  
+  [Data](https://opendata.utah.gov/resource/cryj-rww5.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/cryj-rww5) | Last update: Apr 2024  
+  Parcel Data Piute County 2014
+
 - **SGID10 CADASTRE Parcels Rich**  
   [Data](https://opendata.utah.gov/resource/kau9-uh4f.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/kau9-uh4f) | Last update: Apr 2024  
   Parcel Data Rich County 2014
+
+- **SGID10 CADASTRE Parcels SaltLake**  
+  [Data](https://opendata.utah.gov/resource/2yq4-xhgt.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/2yq4-xhgt) | Last update: Apr 2024  
+  Parcel Data Salt Lake County 2014
 
 - **SGID10 CADASTRE Parcels SanJuan**  
   [Data](https://opendata.utah.gov/resource/hph6-8u3y.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hph6-8u3y) | Last update: Apr 2024  
@@ -18649,6 +18657,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/848x-9ehz.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/848x-9ehz) | Last update: Apr 2024  
   Parcel Data Utah County 2014
 
+- **SGID10 CADASTRE Parcels Wasatch**  
+  [Data](https://opendata.utah.gov/resource/pzjg-dtys.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/pzjg-dtys) | Last update: Apr 2024  
+  Parcel Data Wasatch County 2014
+
 - **SGID10 CADASTRE Parcels Washington**  
   [Data](https://opendata.utah.gov/resource/32it-5n3r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/32it-5n3r) | Last update: Apr 2024  
   Parcel Data for Washington County 2014
@@ -18660,6 +18672,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **SGID10 CADASTRE Parcels Weber**  
   [Data](https://opendata.utah.gov/resource/qcby-3xg3.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qcby-3xg3) | Last update: Apr 2024  
   Parcel data for Weber County 2014
+
+- **SGID93 GEOSCIENCE QuaternaryVolcanicFlow MOD**  
+  [Data](https://opendata.utah.gov/resource/rkyw-xv8v.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/rkyw-xv8v) | Last update: Apr 2024  
+  This resource is a compilation of quaternary volcanic flow features in the State of Utah at scales of 1:20,000 to 1:100,000, provided by the Utah Geological Survey. The data are available as a geodatabase and as a GIS shapefile. This resource was provided by the Utah Geological Survey and made available for distribution through the National Geothermal Data System.
 
 - **Saint George Police Data**  
   [Data](https://opendata.utah.gov/resource/svgq-aarv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/svgq-aarv) | Last update: Apr 2019  
@@ -18729,10 +18745,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/yga5-qpeq.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/yga5-qpeq) | Last update: Jun 2022  
   Service Requests from SLCMobile, supported by City Sourced
 
-- **SevierRiverLU1986**  
-  [Data](https://opendata.utah.gov/resource/iwq7-6dim.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/iwq7-6dim) | Last update: Apr 2024  
-  Sevier River ESRI Shapefile 1986
-
 - **SevierRiverLU1995**  
   [Data](https://opendata.utah.gov/resource/gz7t-qmsi.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/gz7t-qmsi) | Last update: Apr 2024  
   Sevier River ESRI Shapefile 1995
@@ -18741,21 +18753,25 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/qfc3-m78s.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qfc3-m78s) | Last update: Feb 2019  
   Signal repair time
 
-- **SkiTrails XC**  
-  [Data](https://opendata.utah.gov/resource/tfxs-wiqp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tfxs-wiqp) | Last update: Apr 2024  
+- **SkiLifts**  
+  [Data](https://opendata.utah.gov/resource/hcgr-6eak.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hcgr-6eak) | Last update: Apr 2024  
   This data package contains ski area boundaries and ski lifts for Alta, Beaver Mountain, Brian Head, Brighton, The Canyons, Deer Valley, Eagle Point, Park City, Snowbird, Solitude, Sundance, Nordic Valley, and Cherry Peak. It also contains some cross country ski trail systems.
+
+- **Smithfield Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/vjx3-6jxv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/vjx3-6jxv) | Last update: Apr 2019  
+  Smithfield Police Crime Data
 
 - **Soils**  
   [Data](https://opendata.utah.gov/resource/hywr-vanh.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hywr-vanh) | Last update: Apr 2024  
   This Shapefile represents soil types throughout Utah. The dataset was created by digitizing maps, compiling information onto a planimetric correct base and digitizing or revising digitized maps using remotely sensed and other information. It is generally the most detailed level of soil geographic data developed by the National Cooperative Soil Survey.
 
 - **South Jordan Police Crime Data**  
-  [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
-  This data set contains Police & Crime data from the South Jordan Police department.
-
-- **South Jordan Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/p6he-fvtd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/p6he-fvtd) | Last update: Oct 2018  
   This data set contains South Jordan Police calls for service and crime data from 2014-2018
+
+- **South Jordan Police Crime Data**  
+  [Data](https://opendata.utah.gov/resource/tpi3-r62r.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tpi3-r62r) | Last update: Apr 2019  
+  This data set contains Police & Crime data from the South Jordan Police department.
 
 - **South Ogden Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/r65x-476f.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/r65x-476f) | Last update: Apr 2019  
@@ -18764,6 +18780,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **South Salt Lake Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/xdzt-t8fg.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/xdzt-t8fg) | Last update: Apr 2019  
   This data set contains Police & Crime data for South Salt Lake.
+
+- **SpecialManagementDesignations**  
+  [Data](https://opendata.utah.gov/resource/u5t2-n6ev.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/u5t2-n6ev) | Last update: Apr 2024  
+  Special Management Designation Areas Federal Lands
 
 - **SpecialRecreationManagementAreas**  
   [Data](https://opendata.utah.gov/resource/j7dq-98jp.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/j7dq-98jp) | Last update: Apr 2024
@@ -18794,10 +18814,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Structural Measures Hospitals In Utah**  
   [Data](https://opendata.utah.gov/resource/3acq-vzxy.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/3acq-vzxy) | Last update: Apr 2019
 
-- **Suggested Camping Areas**  
-  [Data](https://opendata.utah.gov/resource/h2g5-q99u.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/h2g5-q99u) | Last update: Apr 2024  
-  Shared by Utah SITLA on April 16, 2013. Updated a year ago.
-
 - **Sunset Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/rwas-fiwv.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/rwas-fiwv) | Last update: Apr 2019  
   This data set contains police/crime data for the city of Sunset Utah.
@@ -18813,6 +18829,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Syracuse Police Crime Data**  
   [Data](https://opendata.utah.gov/resource/9pk9-3f6p.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/9pk9-3f6p) | Last update: Apr 2019  
   Syracuse Police Crime Data
+
+- **TaxParcel**  
+  [Data](https://opendata.utah.gov/resource/4zd6-zsi7.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/4zd6-zsi7) | Last update: Apr 2024
 
 - **Taxable Sales By County And Major SIC In Utah 1978-1997**  
   [Data](https://opendata.utah.gov/resource/7diy-xsn6.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/7diy-xsn6) | Last update: Feb 2019  
@@ -18886,13 +18905,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/fahc-qgnm.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/fahc-qgnm) | Last update: Apr 2024  
   Watersheds_Area represents the watershed areas throughout Utah. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
 
-- **UT Riparian Project Metadata**  
-  [Data](https://opendata.utah.gov/resource/hv65-chud.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hv65-chud) | Last update: Apr 2024  
+- **UT Wetlands Historic Map Info**  
+  [Data](https://opendata.utah.gov/resource/ywcf-hbfz.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ywcf-hbfz) | Last update: Apr 2024  
   Watersheds_Area represents the watershed areas throughout Utah. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
 
 - **UT Wetlands Project Metadata**  
   [Data](https://opendata.utah.gov/resource/4339-hfqi.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/4339-hfqi) | Last update: Apr 2024  
   Watersheds_Area represents the watershed areas throughout Utah. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
+
+- **UintahLU1992**  
+  [Data](https://opendata.utah.gov/resource/y9h8-iz5q.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/y9h8-iz5q) | Last update: Apr 2024  
+  Uintah River ESRI Shapefile 1992
 
 - **Underground Water Levels Green Pond Landslide, Weber County BH123**  
   [Data](https://opendata.utah.gov/resource/5w3b-b6r9.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/5w3b-b6r9) | Last update: Oct 2015  
@@ -18985,6 +19008,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Underground Water Levels Sherwood Hills Landslide, Provo SH-1**  
   [Data](https://opendata.utah.gov/resource/37pc-mbyb.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/37pc-mbyb) | Last update: Oct 2015  
   This data set contains Groundwater Monitoring Data acquired through the West Desert Groundwater Monitoring-Well Project (including Snake Valley) and other projects
+
+- **Utah**  
+  [Data](https://opendata.utah.gov/resource/jk27-wprs.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/jk27-wprs) | Last update: Apr 2024  
+  Watersheds_Area represents the watershed areas throughout Utah. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
+
+- **Utah Address Points Statewide**  
+  [Data](https://opendata.utah.gov/resource/t6sx-9bjd.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/t6sx-9bjd) | Last update: Apr 2024  
+  This dataset represents statewide address point locations provided by Utah counties and aggregated by the AGRC for the Master Address List (MAL) grant initiative. This dataset is an ongoing effort bwtween the AGRC, counties, and municipalities to provide accurate and timely address information. Updates are provided quarterly by counties. Last updated 6/27/2013
 
 - **Utah Approved Captive Actuaries Utah**  
   [Data](https://opendata.utah.gov/resource/n6ty-m4by.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/n6ty-m4by) | Last update: Mar 2015  
@@ -19124,6 +19155,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **UtahMajorRiversPoly**  
   [Data](https://opendata.utah.gov/resource/fuer-h47y.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/fuer-h47y) | Last update: Apr 2024
 
+- **UtahMiningDistricts**  
+  [Data](https://opendata.utah.gov/resource/tuze-5cfn.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tuze-5cfn) | Last update: Apr 2024  
+  The Utah Mining Districts database contains major metal production data for over 180 mining districts (updated through 2012). The data also includes the best estimates for the age of mineralization in millions of years, most important commodities produced, total value of mineral production (if known), year the district was organized, and years in which metals were produced.
+
 - **Value- Based Purchasing (HVBP) - Total Performance Score Utah Hospitals**  
   [Data](https://opendata.utah.gov/resource/dgww-zu3u.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/dgww-zu3u) | Last update: Apr 2019
 
@@ -19133,6 +19168,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **Volunteer statistics**  
   [Data](https://opendata.utah.gov/resource/vmfb-mcmn.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/vmfb-mcmn) | Last update: May 2015
+
+- **WIC (Women Infant Children's) Program Locations Utah**  
+  [Data](https://opendata.utah.gov/resource/cira-xd4y.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/cira-xd4y) | Last update: Jul 2020  
+  This data set contains WIC program locations in Utah.
 
 - **WIC Retailer List By City In Utah**  
   [Data](https://opendata.utah.gov/resource/tr5t-j8nm.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/tr5t-j8nm) | Last update: Apr 2019  
@@ -19146,9 +19185,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://opendata.utah.gov/resource/g38i-9xej.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/g38i-9xej) | Last update: Feb 2019  
   This data set contains water systems by counties in Utah.
 
+- **Watersheds Area**  
+  [Data](https://opendata.utah.gov/resource/kndu-rfxt.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/kndu-rfxt) | Last update: Apr 2024  
+  Watersheds_Area represents the watershed areas throughout Utah. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
+
 - **WeberRiverLU1987**  
   [Data](https://opendata.utah.gov/resource/qzqk-y37v.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/qzqk-y37v) | Last update: Apr 2024  
   Weber River ESRI Shapefile 1987
+
+- **WeberRiverLU1999**  
+  [Data](https://opendata.utah.gov/resource/hyfw-4dee.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hyfw-4dee) | Last update: Apr 2024  
+  Weber River ESRI Shapefile 1999
 
 - **WestColoradoLU1991**  
   [Data](https://opendata.utah.gov/resource/ei3b-6j2j.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/ei3b-6j2j) | Last update: Apr 2024  
@@ -19157,6 +19204,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **WestColoradoLU1998**  
   [Data](https://opendata.utah.gov/resource/hmdm-k347.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/hmdm-k347) | Last update: Apr 2024  
   West Colorado ESRI Shapefile 1998
+
+- **WestDesertColumbiaLU1997**  
+  [Data](https://opendata.utah.gov/resource/buei-ubea.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/buei-ubea) | Last update: Apr 2024  
+  West Desert Columbia ESRI Shapefile 1997
 
 - **Wetlands**  
   [Data](https://opendata.utah.gov/resource/rj2v-zvu6.json) | [Docs](https://dev.socrata.com/foundry/opendata.utah.gov/rj2v-zvu6) | Last update: Apr 2024
@@ -19264,7 +19315,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## performance.cityofhenderson.com
 
 - **10 Minute Walk to City Park**  
-  [Data](https://performance.cityofhenderson.com/resource/9w32-fyca.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/9w32-fyca) | Last update: Feb 2024  
+  [Data](https://performance.cityofhenderson.com/resource/9w32-fyca.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/9w32-fyca) | Last update: Recent  
   Percentage of residents within a 10-minute walk of a park
 
 - **Active Business Licenses**  
@@ -19309,12 +19360,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://performance.cityofhenderson.com/resource/4cbw-anac.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/4cbw-anac) | Last update: Jul 2022  
   The number of permit and plan submittal volumes and the proportion of those submittals that are submitted electronically are compared. Currently, 100% of the permits and plans submitted are filed electronically. Volumes are updated and reviewed monthly for general operations reviews.
 
+- **Public Safety Response Times**  
+  [Data](https://performance.cityofhenderson.com/resource/uymg-gn4m.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/uymg-gn4m) | Last update: Recent
+
 - **Residential Notices of Default**  
   [Data](https://performance.cityofhenderson.com/resource/ayta-xsjm.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/ayta-xsjm) | Last update: May 2023  
   The number of residential default notices. Residential Notices of Default is updated monthly for general operations review.
 
 - **Rev under Budget**  
-  [Data](https://performance.cityofhenderson.com/resource/ghg6-yvfg.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/ghg6-yvfg) | Last update: May 2024  
+  [Data](https://performance.cityofhenderson.com/resource/ghg6-yvfg.json) | [Docs](https://dev.socrata.com/foundry/performance.cityofhenderson.com/ghg6-yvfg) | Last update: Recent  
   Revenue  vs Budget (General Fund)
 
 - **Unemployment Rates**  
@@ -19349,18 +19403,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## performance.fultoncountyga.gov
 
-- **Expenditures By Program**  
-  [Data](https://performance.fultoncountyga.gov/resource/y8md-s7yr.json) | [Docs](https://dev.socrata.com/foundry/performance.fultoncountyga.gov/y8md-s7yr) | Last update: Jul 2018  
-  This dataset  contains the current year's budget and the expenditures and encumbrances through the end of the previous quarter.
+- **National Benchmark Crime Rates**  
+  [Data](https://performance.fultoncountyga.gov/resource/vu7k-cit3.json) | [Docs](https://dev.socrata.com/foundry/performance.fultoncountyga.gov/vu7k-cit3) | Last update: Jan 2018  
+  Annual number of incidents and rate (incidents per 100,000 residents) of violent and property crimes for Fulton County and national benchmark counties for years beginning in 2010.
 
 [[TOP]](#toc)
 
 
 ## performance.providenceri.gov
-
-- **Bicycle Infrastructure**  
-  [Data](https://performance.providenceri.gov/resource/g8jx-p4xc.json) | [Docs](https://dev.socrata.com/foundry/performance.providenceri.gov/g8jx-p4xc) | Last update: Jan 2019  
-  This dataset tracks miles of bicycle infrastructure by type. Off-road bike paths are measured in total miles, and on-road bike lanes are measured in lane-miles.
 
 - **Forestry Dataset**  
   [Data](https://performance.providenceri.gov/resource/v2y4-wnhs.json) | [Docs](https://dev.socrata.com/foundry/performance.providenceri.gov/v2y4-wnhs) | Last update: Feb 2019
@@ -19382,20 +19432,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://performance.smcgov.org/resource/mr4c-yjyk.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/mr4c-yjyk) | Last update: Feb 2022  
   Performance measures dataset
 
-- **1340P County Clerk-Recorder**  
-  [Data](https://performance.smcgov.org/resource/icwi-eg4j.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/icwi-eg4j) | Last update: Aug 2019  
-  Performance measures dataset
-
-- **1720P Employee Benefits and Wellness**  
-  [Data](https://performance.smcgov.org/resource/u2fs-ryqm.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/u2fs-ryqm) | Last update: Jan 2024  
-  Performance measures dataset
-
-- **1730P Risk Management**  
-  [Data](https://performance.smcgov.org/resource/4y4s-8ggj.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/4y4s-8ggj) | Last update: Jan 2024  
-  Performance measures dataset
-
-- **1750P Workforce Resources and Diversity**  
-  [Data](https://performance.smcgov.org/resource/624i-xgak.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/624i-xgak) | Last update: Jan 2024  
+- **1810P Information Technology Administrative Services**  
+  [Data](https://performance.smcgov.org/resource/3rxa-25r8.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/3rxa-25r8) | Last update: Sep 2019  
   Performance measures dataset
 
 - **1830P Information and Technology Availability**  
@@ -19409,6 +19447,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **2600B Child Support Services Dataset**  
   [Data](https://performance.smcgov.org/resource/bdau-z5md.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/bdau-z5md) | Last update: Feb 2022
 
+- **3843P Current Planning**  
+  [Data](https://performance.smcgov.org/resource/4d4w-y757.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/4d4w-y757) | Last update: Sep 2022  
+  Performance measures dataset
+
 - **3970B Parks Acquisition and Development**  
   [Data](https://performance.smcgov.org/resource/ji8k-iui4.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/ji8k-iui4) | Last update: Jan 2016  
   Performance measures dataset
@@ -19417,32 +19459,20 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://performance.smcgov.org/resource/vwr6-p4bi.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/vwr6-p4bi) | Last update: Jan 2018  
   Performance measures dataset
 
+- **4730B Facilities Services**  
+  [Data](https://performance.smcgov.org/resource/7m9v-a2pu.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/7m9v-a2pu) | Last update: Jan 2020  
+  Performance measures dataset
+
+- **4760B Vehicle and Equipment Services**  
+  [Data](https://performance.smcgov.org/resource/254r-y66v.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/254r-y66v) | Last update: Jan 2020  
+  Performance measures dataset
+
 - **5720P Community-Based Programs**  
   [Data](https://performance.smcgov.org/resource/gwu3-3q3a.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/gwu3-3q3a) | Last update: Feb 2017  
   Performance measures dataset
 
-- **5800B IHSS Public Authority**  
-  [Data](https://performance.smcgov.org/resource/eb8j-s8aj.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/eb8j-s8aj) | Last update: Nov 2017  
-  Performance measures dataset
-
-- **6170P Alcohol and Other Drug Services**  
-  [Data](https://performance.smcgov.org/resource/kzci-rtq4.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/kzci-rtq4) | Last update: Sep 2017  
-  Performance measures dataset
-
-- **6240B Family Health Services**  
-  [Data](https://performance.smcgov.org/resource/msz7-iq4t.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/msz7-iq4t) | Last update: Aug 2017  
-  Performance measures dataset
-
-- **7330P Vocational Rehab Services**  
-  [Data](https://performance.smcgov.org/resource/7rzu-82em.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/7rzu-82em) | Last update: Aug 2017  
-  Performance measures dataset
-
-- **7520P Community Capacity**  
-  [Data](https://performance.smcgov.org/resource/6a62-xgxc.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/6a62-xgxc) | Last update: Aug 2017  
-  Performance measures dataset
-
-- **8400B Criminal Justice Construction Fund**  
-  [Data](https://performance.smcgov.org/resource/hkws-6bpm.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/hkws-6bpm) | Last update: Mar 2014  
+- **7210P Aid Payments**  
+  [Data](https://performance.smcgov.org/resource/isdz-rcev.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/isdz-rcev) | Last update: Aug 2017  
   Performance measures dataset
 
 - **8500D Capital Projects**  
@@ -19451,6 +19481,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 - **County-Owned Facilities**  
   [Data](https://performance.smcgov.org/resource/ftqn-cp88.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/ftqn-cp88) | Last update: Jul 2013
+
+- **CustomerServiceSurveyResponses**  
+  [Data](https://performance.smcgov.org/resource/69ar-nnm7.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/69ar-nnm7) | Last update: Sep 2022  
+  Performance measures dataset
 
 - **ISD Training Progress Report Dataset**  
   [Data](https://performance.smcgov.org/resource/xxhk-tn29.json) | [Docs](https://dev.socrata.com/foundry/performance.smcgov.org/xxhk-tn29) | Last update: Oct 2014  
@@ -19506,6 +19540,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Advance Voters by Commission District**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/p7u2-maam.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/p7u2-maam) | Last update: Recent
 
+- **Age-Adjusted Firearm Homicide Rates for Atlanta Metro Counties**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/sr6c-f4ke.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/sr6c-f4ke) | Last update: Jan 2023  
+  This dataset contains the age-adjusted firearm homicide rate for five Atlanta metro counties for the most recent years.
+
 - **Aging of Defendants in Jail**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/nday-3c8i.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/nday-3c8i) | Last update: Recent  
   This dataset is used to create a histogram displaying the aging of defendants in jail, for today's defendants in jail on superior court criminal cases. The starting dataset is https://sharefulton.fultoncountyga.gov/Government/Superior-Court-Defendants-in-Jail/raqb-js7j , and is aggregated, filtered, and manipulated into this form using the R programming language.
@@ -19522,28 +19560,38 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://sharefulton.fultoncountyga.gov/resource/b8kg-533z.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/b8kg-533z) | Last update: Feb 2024  
   Statistics include the number of calls received and answered, the total and average connect time, the average time to answer and the average queued time. The dataset was updated from a spreadsheet emailed by the Board of Health.
 
+- **CARES: Business Loan Awards Detail**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/vafm-nabu.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/vafm-nabu) | Last update: Jan 2023
+
 - **CARES: Households Served by Community Organizations**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/gixp-e8z6.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/gixp-e8z6) | Last update: Jan 2023  
   This dataset contains data from community organizations who received emergency funding from Fulton County via the CARES Act.
 
+- **COVID-19 Daily Case Counts by Race**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/hkh3-yicf.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/hkh3-yicf) | Last update: Recent  
+  This dataset consists of daily number of new COVID-19 cases according to the Georgia Department of Pubic Health (DPH).
+
 - **City of Atlanta Crime Incidents**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/9w3w-ynjw.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/9w3w-ynjw) | Last update: Jan 2023
-
-- **DPH Covid Vaccinations: Persons fully vaccinated by county by day**  
-  [Data](https://sharefulton.fultoncountyga.gov/resource/aihy-9i2c.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/aihy-9i2c) | Last update: Recent  
-  For a detailed description of the data, see "About Data" on the DPH Vaccine Distribution Dashboard: https://experience.arcgis.com/experience/3d8eea39f5c1443db1743a4cb8948a9c
 
 - **DPH Covid Vaccinations: Persons vaccinated by race and county**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/495t-i5t4.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/495t-i5t4) | Last update: Recent  
   For a detailed description of the data, see "About Data" on the DPH Vaccine Distribution Dashboard: https://experience.arcgis.com/experience/3d8eea39f5c1443db1743a4cb8948a9c
 
-- **Established Positions per Week (7120) Public**  
-  [Data](https://sharefulton.fultoncountyga.gov/resource/99kf-rspa.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/99kf-rspa) | Last update: Recent  
-  This dataset contains a 'stacked' dataset of all established positions each week. For each week there is a set of records with one row per established position.
-
 - **Fulton County Jail Bookings (Public)**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/ey9v-j62i.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/ey9v-j62i) | Last update: Recent  
   This dataset consists of a record for each booking into one of the Fulton County detention facilities since January 2014. Each record includes the date and time of the booking; the facility at which the person was booked; and the law enforcement agency that delivered the person. If the person was released, also included is the release date and time and the reason for release.
+
+- **Fulton County Library - Physical Circulation by Library Branch - Long Format**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/vtgw-rfmv.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/vtgw-rfmv) | Last update: Recent  
+  Circulation numbers include both totals for all categories and numbers for each individual category (e.g. adult, young adult, juvenile).
+
+- **Judge Romae T. Powell Juvenile Justice Center Location (Juvenile Courthouse) Shapefile**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/mxrb-anfu.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/mxrb-anfu) | Last update: Sep 2023
+
+- **Monthly Housing Enrollments by Living Situation**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/9fg3-xia3.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/9fg3-xia3) | Last update: Jan 2023  
+  This dataset contains the monthly number of enrollments in homelessness programs categorized by the prior living situation.
 
 - **National Transit Database - Monthly Unlinked Passenger Trips**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/8fn8-bmd9.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/8fn8-bmd9) | Last update: Jan 2023  
@@ -19552,10 +19600,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Neighborly ERA Applications**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/std8-6vc9.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/std8-6vc9) | Last update: Feb 2024  
   This dataset contains all applicants for emergency rental and/or utility assistance in the Neighborly system.
-
-- **Project ORCA: Remaining Pending Cases by Court (Stacked Bar)**  
-  [Data](https://sharefulton.fultoncountyga.gov/resource/nvrd-tjs3.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/nvrd-tjs3) | Last update: Recent  
-  This pre-aggregated and reshaped dataset is used to create a stacked bar chart on the Project ORCA summary dashboard
 
 - **Public Electric Charging Station Locations in Georgia**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/cmzg-8gvs.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/cmzg-8gvs) | Last update: Jan 2023  
@@ -19568,6 +19612,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Separations Public Dataset**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/pvp8-8nav.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/pvp8-8nav) | Last update: Recent  
   This dataset contains a record of all employee separations, as well as the date, reason, position information, and salary information at time of separation.
+
+- **Sheriff App: Meals and Portable Bunks**  
+  [Data](https://sharefulton.fultoncountyga.gov/resource/hewq-yaft.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/hewq-yaft) | Last update: Recent  
+  This dataset shows the number of meals served per day at the jail and the number of inmates on portable punks per day. This data is collected via a webform, and the FCSO is responsible for entering data into that webform. This dataset is updated daily from data in that webform.
 
 - **Superior Court Case Assignments**  
   [Data](https://sharefulton.fultoncountyga.gov/resource/e8ne-c2s2.json) | [Docs](https://dev.socrata.com/foundry/sharefulton.fultoncountyga.gov/e8ne-c2s2) | Last update: Recent  
@@ -20014,6 +20062,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 
 ## www.dallasopendata.com
 
+- **Building Fire**  
+  [Data](https://www.dallasopendata.com/resource/skju-bfp8.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/skju-bfp8) | Last update: Aug 2021  
+  The Fire Prevention and Inspection Bureau, under the direction of Assistant Chief Tameji Berry, includes the Inspection & Life Safety Education Division and the Arson Investigation and Explosive Ordnance Division.
+
 - **City of Dallas Library Locations**  
   [Data](https://www.dallasopendata.com/resource/2ksy-mdcf.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/2ksy-mdcf) | Last update: Aug 2021  
   The Dallas Public Library system serves as the municipal library system of the city of Dallas, Texas. The library operates 28 branch locations throughout the city, and an 8-story main branch, the J. Erik Jonsson Central Library, in the Government District of downtown. It also operates the Bookmarks Children's Library located in NorthPark Center.
@@ -20049,18 +20101,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.dallasopendata.com/resource/4xqw-i3tz.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/4xqw-i3tz) | Last update: Aug 2021  
   Jill - SRF 14 08 Permit W Location
 
-- **Permit Points**  
-  [Data](https://www.dallasopendata.com/resource/6ik7-4gqj.json) | [Docs](https://dev.socrata.com/foundry/www.dallasopendata.com/6ik7-4gqj) | Last update: Apr 2024  
-  This dataset in the shapefile format contains geo-located points of permits in the City of Dallas for new construction, renovation, alteration, addition, or reconstruction. These data span July 2015 through June 2017 and were used as a primary dataset to generate the Percent New Construction, and Percent Rehabilitation factors in the MVA.
-
 [[TOP]](#toc)
 
 
 ## www.data.act.gov.au
-
-- **ACT Bike Barometer - MacArthur Avenue**  
-  [Data](https://www.data.act.gov.au/resource/62sb-92ea.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/62sb-92ea) | Last update: Mar 2023  
-  The data is recorded in hourly intervals, and is collected using an induction loop similar to systems used for traffic light monitoring. Trips in both directions are included in the recorded counts.
 
 - **ACT Police Station Locations**  
   [Data](https://www.data.act.gov.au/resource/t6hf-u79n.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/t6hf-u79n) | Last update: Apr 2019  
@@ -20094,10 +20138,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.data.act.gov.au/resource/7vpw-vmgx.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/7vpw-vmgx) | Last update: Nov 2021  
   Tabular data of ACTION bus stops within the ACT, with addition to Suburbs, as of July 2017. Please Note: the data presented in this dataset will no longer be current, it has been provided as a historical dataset only 
 
-- **Bus Stops**  
-  [Data](https://www.data.act.gov.au/resource/5inc-8tjs.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/5inc-8tjs) | Last update: Nov 2021  
-  This dataset contains the shape file of all bus stops as per the GTFS data feed released during May 2020. Please refer to latest GTFS file at https://www.transport.act.gov.au/contact-us/information-for-developers
-
 - **CBRfree Map**  
   [Data](https://www.data.act.gov.au/resource/tm98-3g6d.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/tm98-3g6d) | Last update: May 2022  
   Location of CBRfree Access Points
@@ -20117,6 +20157,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Daily Public Transport Passenger Boardings By Passenger Group**  
   [Data](https://www.data.act.gov.au/resource/4d78-rcjw.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/4d78-rcjw) | Last update: Recent  
   This dataset contains daily Public Transport Patronage in types of passengers including adults, school students, tertiary, concession, and other. Paper tickets purchased from Ticket Vending Machines are not included.
+
+- **Daily Public Transport Passenger Boardings By Ticket Type**  
+  [Data](https://www.data.act.gov.au/resource/aheu-gcpg.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/aheu-gcpg) | Last update: Recent  
+  This dataset contains daily Public Transport Patronage in types of tickets including MyWay cards and paper tickets. Paper tickets purchased from Ticket Vending Machines are excluded. Patronage for special events are excluded.
 
 - **Daily Public Transport Passenger Boardings by Service Type**  
   [Data](https://www.data.act.gov.au/resource/4f52-nub8.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/4f52-nub8) | Last update: Recent  
@@ -20158,8 +20202,8 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.data.act.gov.au/resource/ff2q-wdgv.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/ff2q-wdgv) | Last update: Nov 2019  
   SmartParking is a trial designed to help ease traffic congestion and lower travel times by using real-time bay sensor data and the ParkCBR app to show drivers where they are more likely to find available car parking in the Manuka shopping precinct. Android users can download the ParkCBR from GooglePlay Store and iOS users from the AppStore.
 
-- **Smart Parking Restrictions**  
-  [Data](https://www.data.act.gov.au/resource/cebt-h4fd.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/cebt-h4fd) | Last update: Dec 2019  
+- **Smart Parking Stays**  
+  [Data](https://www.data.act.gov.au/resource/3vsj-zpk7.json) | [Docs](https://dev.socrata.com/foundry/www.data.act.gov.au/3vsj-zpk7) | Last update: Nov 2019  
   SmartParking is a trial designed to help ease traffic congestion and lower travel times by using real-time bay sensor data and the ParkCBR app to show drivers where they are more likely to find available car parking in the Manuka shopping precinct. Android users can download the ParkCBR from GooglePlay Store and iOS users from the AppStore.
 
 - **Ticket Vending Machine Location**  
@@ -20200,7 +20244,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## www.datos.gov.co
 
 - **Casos positivos de COVID-19 en Colombia.**  
-  [Data](https://www.datos.gov.co/resource/gt2j-8ykr.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/gt2j-8ykr) | Last update: Apr 2024  
+  [Data](https://www.datos.gov.co/resource/gt2j-8ykr.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/gt2j-8ykr) | Last update: Recent  
   Debemos continuar observando por un perodo que supere mnimo 20 semanas. De mantenerse ah, durante este rango de tiempo, y aunque an continuara existiendo incertidumbre ante la posibilidad de surgimiento de nuevos linajes con mayor porcentaje de escape inmunolgico, aumenta la probabilidad de ya estar en una fase endmica estable.
 
 - **DNP-ProyectosContratos**  
@@ -20226,22 +20270,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.datos.gov.co/resource/xq9w-u5dy.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/xq9w-u5dy) | Last update: Apr 2024  
   Este es un dataset que continuar en actualizacin en la medida que se recopile informacin enriquecedora para cada barrio y sector del municipio de Chiquinquir
 
-- **Limites Departamental**  
-  [Data](https://www.datos.gov.co/resource/58pa-yt35.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/58pa-yt35) | Last update: Apr 2024  
-  En este dataset encontramos informacin sobre los limites del Departamento de Norte de Santander
+- **Juntas de Acción Comunal de los municipios de Norte de Santander**  
+  [Data](https://www.datos.gov.co/resource/82rg-sx7a.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/82rg-sx7a) | Last update: Apr 2024  
+  En este dataset encontramos el listado de juntas de accin comunal de Norte de Santander.
 
 - **Registros del SISBEN Validados en el Departamento de Norte de Santander**  
   [Data](https://www.datos.gov.co/resource/vhnh-fwn9.json) | [Docs](https://dev.socrata.com/foundry/www.datos.gov.co/vhnh-fwn9) | Last update: Apr 2024  
   En este dataset encontramos informacin validada que contiene la cantidad de fichas (viviendas), hogares y personas por Municipios del Departamento de Norte de Santander.
-
-[[TOP]](#toc)
-
-
-## www.thedatazone.ca
-
-- **Residential Dwelling Characteristics**  
-  [Data](https://www.thedatazone.ca/resource/a859-xvcs.json) | [Docs](https://dev.socrata.com/foundry/www.thedatazone.ca/a859-xvcs) | Last update: Jan 2024  
-  This dataset contains location, address and property characteristics for residential improved properties in Nova Scotia.
 
 [[TOP]](#toc)
 
@@ -20251,24 +20286,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Affordable Housing Developments**  
   [Data](https://www.transparentrichmond.org/resource/c36c-x4iu.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/c36c-x4iu) | Last update: Jan 2023
 
-- **Annual Electricity Usage - MCE & PG&E**  
-  [Data](https://www.transparentrichmond.org/resource/fr54-t46g.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/fr54-t46g) | Last update: Jul 2021  
-  Annual electricity usage by year and sector
-
 - **Average Energy Usage by Year and Sector**  
   [Data](https://www.transparentrichmond.org/resource/2txw-qz64.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/2txw-qz64) | Last update: Jul 2021  
   Average Energy Usage by Year and Sector
 
 - **Bay Area Refinery Vent Gas Volume Flared**  
   [Data](https://www.transparentrichmond.org/resource/x28a-2cbb.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/x28a-2cbb) | Last update: Mar 2022
-
-- **Bike to Work Day Annual Ridership**  
-  [Data](https://www.transparentrichmond.org/resource/jygg-fjdz.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/jygg-fjdz) | Last update: May 2024  
-  Bike to Work Day Ridership by Energizer Stations from 2012 until present.
-
-- **Bike/Ped Accident Data**  
-  [Data](https://www.transparentrichmond.org/resource/h5pd-hvuk.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/h5pd-hvuk) | Last update: Jul 2021  
-  Data for Bike and Pedestrian Involved Accidents
 
 - **Budgeted Expenses**  
   [Data](https://www.transparentrichmond.org/resource/grq9-g484.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/grq9-g484) | Last update: Recent
@@ -20280,9 +20303,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.transparentrichmond.org/resource/4aby-r7zp.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/4aby-r7zp) | Last update: Dec 2023  
   Bulky item information including date, quantity, description, and pick-up address
 
-- **CalEnviroScreen4.0SHP**  
-  [Data](https://www.transparentrichmond.org/resource/wi9v-3g3n.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/wi9v-3g3n) | Last update: Jan 2022
-
 - **California Small Business Covid-19 Relief Grant Program - Richmond Data**  
   [Data](https://www.transparentrichmond.org/resource/pf6x-mcsk.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/pf6x-mcsk) | Last update: May 2021
 
@@ -20293,8 +20313,9 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.transparentrichmond.org/resource/kpa4-9w76.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/kpa4-9w76) | Last update: Jan 2022  
   Criminal offenses and offense groupings used by the City of Richmond Police Department.
 
-- **Ferry Ridership**  
-  [Data](https://www.transparentrichmond.org/resource/nb27-643p.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/nb27-643p) | Last update: Mar 2020
+- **Cumulative Solar Installations Production**  
+  [Data](https://www.transparentrichmond.org/resource/xrmb-nc8m.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/xrmb-nc8m) | Last update: Jan 2020  
+  Cumulative solar installed by year
 
 - **GRID Alternatives - Richmond All Time Projects Installed**  
   [Data](https://www.transparentrichmond.org/resource/2xrv-zfdq.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/2xrv-zfdq) | Last update: Recent
@@ -20311,16 +20332,15 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.transparentrichmond.org/resource/67fg-g2q4.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/67fg-g2q4) | Last update: Mar 2021
 
 - **Illegal Dumping Abatement Statistics**  
-  [Data](https://www.transparentrichmond.org/resource/362a-u8jn.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/362a-u8jn) | Last update: Recent  
+  [Data](https://www.transparentrichmond.org/resource/362a-u8jn.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/362a-u8jn) | Last update: Jun 2024  
   Tons of waste picked up by the City and North Richmond Mitigation
 
 - **Illegal Dumping Drop-Offs**  
   [Data](https://www.transparentrichmond.org/resource/vbav-yhfi.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/vbav-yhfi) | Last update: Feb 2022  
   Illegal dumping by materials and quantity (unit/tons)
 
-- **Multi-Family Water Consumption**  
-  [Data](https://www.transparentrichmond.org/resource/8dqm-egfs.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/8dqm-egfs) | Last update: Jul 2021  
-  Average monthly multi-family water consumption in millions of gallons/day
+- **Illegal Dumping Offenses and Citations**  
+  [Data](https://www.transparentrichmond.org/resource/i5f6-2ef8.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/i5f6-2ef8) | Last update: Dec 2020
 
 - **Municipal Facility Utility Usage**  
   [Data](https://www.transparentrichmond.org/resource/9v6a-54wj.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/9v6a-54wj) | Last update: Feb 2023  
@@ -20330,16 +20350,13 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.transparentrichmond.org/resource/djgv-an3i.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/djgv-an3i) | Last update: Mar 2020  
   Nationally-defined offense codes in the NIBRS system.
 
-- **Payroll**  
-  [Data](https://www.transparentrichmond.org/resource/crbs-mam9.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/crbs-mam9) | Last update: Recent
+- **Pavement Condition Index**  
+  [Data](https://www.transparentrichmond.org/resource/487u-sjtc.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/487u-sjtc) | Last update: Oct 2019  
+  Overall average condition of roadways, measured annually.
 
 - **RHNA Allocations**  
   [Data](https://www.transparentrichmond.org/resource/rzj3-9evb.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/rzj3-9evb) | Last update: May 2023  
   Housing Built by Income Level (RHNA Allocations)
-
-- **RIchmond Promise - Fall College Enrollment**  
-  [Data](https://www.transparentrichmond.org/resource/hu28-h4wc.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/hu28-h4wc) | Last update: Jun 2021  
-  Data included is claimed scholarships from 2016 through 2020.
 
 - **Refinery Flaring Incidents**  
   [Data](https://www.transparentrichmond.org/resource/snpd-fhif.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/snpd-fhif) | Last update: Mar 2024  
@@ -20348,6 +20365,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Rental Inspections**  
   [Data](https://www.transparentrichmond.org/resource/u2d4-yxf8.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/u2d4-yxf8) | Last update: Feb 2020
 
+- **Richmond Area Cars by Type**  
+  [Data](https://www.transparentrichmond.org/resource/psxb-d9i6.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/psxb-d9i6) | Last update: May 2022  
+  This data is provided by the DMV and represents vehicles registered in the Richmond area (Zip codes 94801, 94803, 94804, 94805, 94806). Data is updated for previous calendar year in April.
+
 - **Richmond Community Survey**  
   [Data](https://www.transparentrichmond.org/resource/59xy-zp94.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/59xy-zp94) | Last update: Jan 2022  
   Note: From 8/3/2020 to 2/1/2021, the 2019 data for the Richmond Community Survey was incorrectly utilizing unweighted data instead of weighted data. This error has now been resolved.
@@ -20355,10 +20376,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Richmond Development Update**  
   [Data](https://www.transparentrichmond.org/resource/8rcf-cmbv.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/8rcf-cmbv) | Last update: Jul 2021  
   Richmond Major Development Update - Data Updated 4/27/2021
-
-- **Richmond Inbound Solid Waste Tonnage**  
-  [Data](https://www.transparentrichmond.org/resource/xme5-szre.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/xme5-szre) | Last update: Jul 2020  
-  Richmond Inbound Solid Waste Tonnage from 2015-2017 by Sector
 
 - **Richmond Paycheck Protection Program (PPP) Loans**  
   [Data](https://www.transparentrichmond.org/resource/5va7-7tf6.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/5va7-7tf6) | Last update: Jun 2022  
@@ -20407,6 +20424,12 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.transparentrichmond.org/resource/d62r-nicg.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/d62r-nicg) | Last update: May 2022  
   This dataset shows use of force incidents that involved members of the Police Department and civilians. Use of Force Reports may have multiple officers associated with a single incident.
 
+- **Richmond Promise**  
+  [Data](https://www.transparentrichmond.org/resource/asnt-ggzz.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/asnt-ggzz) | Last update: Apr 2022
+
+- **Richmond Promise - Pledged to Date**  
+  [Data](https://www.transparentrichmond.org/resource/jmnv-pxub.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/jmnv-pxub) | Last update: Jul 2021
+
 - **Richmond Promise - Scholarships Awarded**  
   [Data](https://www.transparentrichmond.org/resource/kn93-xmvj.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/kn93-xmvj) | Last update: Jul 2021  
   Data included is claimed scholarships from 2016 through 2020.
@@ -20414,6 +20437,10 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Richmond Promise - Scholarships Paid to Date**  
   [Data](https://www.transparentrichmond.org/resource/amxi-nr3b.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/amxi-nr3b) | Last update: Jun 2021  
   Data included is claimed scholarships from 2016 through 2020.
+
+- **Richmond Promise - Updated Scholarships Map Data**  
+  [Data](https://www.transparentrichmond.org/resource/qjyt-gm4s.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/qjyt-gm4s) | Last update: Jun 2021  
+  This data includes claimed scholarships from 2016 to 2020. The award amount represented here is the annual award amount per recipient.
 
 - **Richmond Public Library Circulation**  
   [Data](https://www.transparentrichmond.org/resource/ghvf-9sgn.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/ghvf-9sgn) | Last update: Jul 2023  
@@ -20434,16 +20461,17 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://www.transparentrichmond.org/resource/pev4-ymun.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/pev4-ymun) | Last update: Feb 2023  
   Richmond Tree Cover by type of tree and location
 
-- **Single Family Water Consumption**  
-  [Data](https://www.transparentrichmond.org/resource/5wpn-bryw.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/5wpn-bryw) | Last update: Jan 2020  
-  Monthly average water consumption for single-family homes in million gallons water/day
-
 - **Surplus Properties Before AB1486**  
   [Data](https://www.transparentrichmond.org/resource/eysv-y9u5.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/eysv-y9u5) | Last update: Aug 2022  
   Currently valid City Council-approved, City-owned surplus properties.
 
-- **Vendors**  
-  [Data](https://www.transparentrichmond.org/resource/5mrn-7gkk.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/5mrn-7gkk) | Last update: Recent
+- **Vital Signs: Commute Mode (By Place of Residence)**  
+  [Data](https://www.transparentrichmond.org/resource/x42h-87ju.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/x42h-87ju) | Last update: Recent  
+  Commute mode of California cities
+
+- **Vital Signs: Commute Time (by Place of Residence)**  
+  [Data](https://www.transparentrichmond.org/resource/wnz8-ebiv.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/wnz8-ebiv) | Last update: Recent  
+  Average commute time of California cities
 
 - **Waste Tonnage by Month and Sector**  
   [Data](https://www.transparentrichmond.org/resource/cmt9-bsrf.json) | [Docs](https://dev.socrata.com/foundry/www.transparentrichmond.org/cmt9-bsrf) | Last update: Jul 2023  

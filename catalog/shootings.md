@@ -24,7 +24,7 @@
 
 > **NOTE**  
 > * (%) denotes strategic dataset
-> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
+> * Datasets updated in the last 60 days (as of 2024-09-13) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=shooting
 
@@ -72,7 +72,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Disclaimer: In compliance with privacy laws, all Public Safety datasets are anonymized and appropriately redacted prior to publication on the City of Cincinnatis Open Data Portal. This means that for all public safety datasets:  Latitude and Longitude have been randomly skewed to represent values within the same block area (but not the exact location) of the incident.
 
 - **PDI (Police Data Initiative) CPD Shootings**  
-  [Data](https://data.cincinnati-oh.gov/resource/7a3r-kxji.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/7a3r-kxji) | Last update: Recent  
+  [Data](https://data.cincinnati-oh.gov/resource/7a3r-kxji.json) | [Docs](https://dev.socrata.com/foundry/data.cincinnati-oh.gov/7a3r-kxji) | Last update: Jul 2024  
   CincyInsights: The City of Cincinnati maintains an interactive dashboard portal, CincyInsights in addition to our Open Data in an effort to increase access and usage of city data. This data set has an associated dashboard available here: https://insights.cincinnati-oh.gov/stories/s/xw7t-5phj
 
 - **PDI (Police Data Initiative) Officer Involved Shootings**  
@@ -180,7 +180,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 ## datahub.usaid.gov
 
 - **Haiti Cover Crop Study Les Cayes 2018 - Eggplant Shoot Biomass Dataset**  
-  [Data](https://datahub.usaid.gov/resource/ysc5-e8mm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ysc5-e8mm) | Last update: Recent  
+  [Data](https://datahub.usaid.gov/resource/ysc5-e8mm.json) | [Docs](https://dev.socrata.com/foundry/datahub.usaid.gov/ysc5-e8mm) | Last update: Jun 2024  
   This dataset captures shoot biomass data collected after final harvest. It contains 64 rows and 12 columns. This experiment looked at different cover crop performance grown in Les Cayes, Haiti and the subsequent crop of eggplant that was grown after the cover crop was incorporated into the soil.
 
 [[TOP]](#toc)
@@ -210,14 +210,14 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   Values abstracted as "NA" or "NR" from the study are represented as null values/empty cells in this dataset.
 
 - **Other Outcomes**  
-  [Data](https://ptsd-va.data.socrata.com/resource/wa9p-rfey.json) | [Docs](https://dev.socrata.com/foundry/ptsd-va.data.socrata.com/wa9p-rfey) | Last update: Oct 2023  
+  [Data](https://ptsd-va.data.socrata.com/resource/wa9p-rfey.json) | [Docs](https://dev.socrata.com/foundry/ptsd-va.data.socrata.com/wa9p-rfey) | Last update: Recent  
   The Other Outcomes dataset includes information on whether the trial includes measures of depression, anxiety, substance use, sleep, anger, quality of life and functioning. Results in this dataset are provided for each treatment arm. The name of the measure is included as well as the between-group effect sizes. Use this dataset to learn how about the effects of PTSD treatments on other outcomes.
 
 - **Sample Characteristics**  
-  [Data](https://ptsd-va.data.socrata.com/resource/yd5e-48pf.json) | [Docs](https://dev.socrata.com/foundry/ptsd-va.data.socrata.com/yd5e-48pf) | Last update: Sep 2023
+  [Data](https://ptsd-va.data.socrata.com/resource/yd5e-48pf.json) | [Docs](https://dev.socrata.com/foundry/ptsd-va.data.socrata.com/yd5e-48pf) | Last update: Recent
 
 - **Study Interventions**  
-  [Data](https://ptsd-va.data.socrata.com/resource/jckr-i5ky.json) | [Docs](https://dev.socrata.com/foundry/ptsd-va.data.socrata.com/jckr-i5ky) | Last update: Oct 2023  
+  [Data](https://ptsd-va.data.socrata.com/resource/jckr-i5ky.json) | [Docs](https://dev.socrata.com/foundry/ptsd-va.data.socrata.com/jckr-i5ky) | Last update: Recent  
   The Study Intervention dataset also includes information on the format of the treatment (individual, group, couples, mixed); treatment delivery method (in person, by phone, by video, technology alone, technology assisted, written or mixed); dose or amount of treatment and, treatment completion and adherence. Use this dataset to learn about treatment studies of a particular type
 
 [[TOP]](#toc)

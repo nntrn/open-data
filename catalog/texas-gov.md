@@ -14,32 +14,12 @@
 
 > **NOTE**  
 > * (%) denotes strategic dataset
-> * Datasets updated in the last 60 days (as of 2024-08-08) are considered 'Recent' 
+> * Datasets updated in the last 60 days (as of 2024-09-13) are considered 'Recent' 
 
 Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&domains=data.texas.gov
 
 
 ## Agriculture
-
-- **CACFP - Meal Count Measure Dataset - 2018-2019**  
-  [Data](https://data.texas.gov/resource/xawa-edfn.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/xawa-edfn) | Last update: Oct 2021  
-  This dataset reports the number of breakfasts, lunches, suppers and snacks served by Child and Adult Care Food Program (CACFP) participants for this program year. Data displayed is a snapshot of approved monthly claims from all sub-program operators of CACFP. Please refer to the original Meal Reimbursement datasets for the most detailed and updated data.
-
-- **CACFP - Nov 2018 Site Map Dataset - 2018-2019**  
-  [Data](https://data.texas.gov/resource/d92h-g6h7.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/d92h-g6h7) | Last update: Oct 2021  
-  This dataset is derived from published 2018-2019 Child and Adult Care Food Program (CACFP) contacts and November 2018 meal reimbursement data for the purpose of providing visualizations for the TDA Data Overview story. Please refer to the original datasets for more detailed and updated information.
-
-- **School Nutrition Program - Oct 2018 Site Map Dataset - 2018-2019**  
-  [Data](https://data.texas.gov/resource/7hge-t9qx.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/7hge-t9qx) | Last update: Dec 2021  
-  This dataset is derived from published 2018-2019 School Nutrition Program contacts and meal reimbursement data for the purpose of providing visualizations for the TDA Data Overview story. Please refer to the original Contacts and Program Participation and Meal Reimbursement datasets for more detailed and updated information.
-
-- **School Nutrition Program - Oct 2019 Site Map Dataset - 2019-2020**  
-  [Data](https://data.texas.gov/resource/icb4-7ish.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/icb4-7ish) | Last update: Oct 2021  
-  This dataset is derived from published 2019-2020 School Nutrition Program contacts and meal reimbursement data for the purpose of providing visualizations for the TDA Data Overview story. Please refer to the original Contacts and Program Participation and Meal Reimbursement datasets for more detailed and updated information.
-
-- **Summer Meal Programs - Meal Count Measure Dataset - 2018**  
-  [Data](https://data.texas.gov/resource/guir-nt7s.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/guir-nt7s) | Last update: Oct 2021  
-  This dataset is a merge of SFSP and SSO Contacts data and Meal Count data for the purposes of visualizations. Please refer to the original datasets for the most detailed and updated information.
 
 - **Summer Meal Programs - Seamless Summer Option (SSO) – Meal Count Information – Program Period 2016**  
   [Data](https://data.texas.gov/resource/u7tr-bbu3.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/u7tr-bbu3) | Last update: Oct 2021  
@@ -52,10 +32,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
 - **Summer Meal Programs - Seamless Summer Option (SSO) – Meal Count Information – Program Period 2018**  
   [Data](https://data.texas.gov/resource/rw2u-mey4.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/rw2u-mey4) | Last update: Oct 2021  
   For data on sites participating in the Summer Food Service Program (SFSP), please refer to the Summer Feeding Programs - Summer Food Service Program (SFSP)  Meal Counts and Meal Reimbursement datasets available on the State of Texas Open Data Portal.
-
-- **Summer Meal Programs - Site Map Dataset - 2018**  
-  [Data](https://data.texas.gov/resource/9c6h-awb9.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/9c6h-awb9) | Last update: Oct 2021  
-  This dataset is a merge of SFSP and SSO Contacts data and Meal Count data for the purposes of visualizations. Please refer to the original datasets for the most detailed and updated information.
 
 - **Summer Meal Programs - Summer Food Service Program (SFSP) - Meal Reimbursement Information - Program Period 2016**  
   [Data](https://data.texas.gov/resource/cyzm-v5b7.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/cyzm-v5b7) | Last update: Oct 2021  
@@ -291,10 +267,6 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/3r75-8hp4.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/3r75-8hp4) | Last update: Jul 2022  
   List of Check Verification Entities
 
-- **Custodial Deaths Report**  
-  [Data](https://data.texas.gov/resource/ypvi-69jj.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/ypvi-69jj) | Last update: Nov 2023  
-  Report of Custodian Deaths on record with the Office of the Attorney General. These reports include the date, the reporting agency, and the name of the deceased.
-
 - **Foreign Bank Agencies**  
   [Data](https://data.texas.gov/resource/dahk-z52a.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/dahk-z52a) | Last update: Jul 2022  
   Listing of Foreign Bank Agencies in Texas
@@ -324,7 +296,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   This file contains a list of licensed interstate truckers in Texas.
 
 - **Licensed CNG/LNG Taxpayers**  
-  [Data](https://data.texas.gov/resource/i2qy-sv94.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/i2qy-sv94) | Last update: Recent  
+  [Data](https://data.texas.gov/resource/i2qy-sv94.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/i2qy-sv94) | Last update: Jul 2024  
   This is a list of Compressed Natural Gas (CNG) and Liquefied Natural Gas (LNG) license holders.
 
 - **Local Government Retention Schedules**  
@@ -354,7 +326,7 @@ Data source: https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&
   [Data](https://data.texas.gov/resource/qk59-e3gv.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/qk59-e3gv) | Last update: May 2024
 
 - **Monthly Child Care Services Data Report - Children Served by County 2022 Q**  
-  [Data](https://data.texas.gov/resource/nw5a-sw5h.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/nw5a-sw5h) | Last update: Recent
+  [Data](https://data.texas.gov/resource/nw5a-sw5h.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/nw5a-sw5h) | Last update: Jun 2024
 
 - **Monthly Child Care Services Data Report - Children Served by County 2022 Q3**  
   [Data](https://data.texas.gov/resource/hbx9-twbd.json) | [Docs](https://dev.socrata.com/foundry/data.texas.gov/hbx9-twbd) | Last update: May 2024
