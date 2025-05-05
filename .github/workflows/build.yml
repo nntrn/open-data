@@ -1,13 +1,19 @@
 name: Build Jekyll Page
 
 on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        required: false
+        type: string
   push:
-    paths:
-      - "_includes/**"
-      - "_layouts/**"
-      - "_pages/**"
-      - "assets/**"
-      - "scripts/**"
+    # paths:
+    #   - "_includes/**"
+    #   - "_layouts/**"
+    #   - "_pages/**"
+    #   - "assets/**"
+    #   - "scripts/**"
+    #   - ".github/**"
 
 permissions:
   contents: read
@@ -23,6 +29,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref || github.event.client_payload.ref || env.GITHUB_REF_NAME }}        
       - name: Download
         run: ./scripts/download.sh
       - name: Write
