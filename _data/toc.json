@@ -1,0 +1,62 @@
+[
+  {
+    "title": "austin",
+    "name": "austin",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&domains=datahub.austintexas.gov",
+    "group_by": "category"
+  },
+  {
+    "title": "cdc",
+    "name": "cdc",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&domains=data.cdc.gov",
+    "group_by": "category"
+  },
+  {
+    "title": "crime",
+    "name": "crime",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=crime",
+    "group_by": "domain"
+  },
+  {
+    "title": "jobs",
+    "name": "jobs",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=jobs",
+    "group_by": "domain"
+  },
+  {
+    "title": "police",
+    "name": "police",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=police",
+    "group_by": "domain"
+  },
+  {
+    "title": "public-safety",
+    "name": "public-safety",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&categories=public%20safety",
+    "group_by": "category"
+  },
+  {
+    "title": "salaries",
+    "name": "salaries",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=salaries",
+    "group_by": "domain"
+  },
+  {
+    "title": "shootings",
+    "name": "shootings",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=shooting",
+    "group_by": "domain"
+  },
+  {
+    "title": "texas-gov",
+    "name": "texas-gov",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&domains=data.texas.gov",
+    "group_by": "category"
+  },
+  {
+    "title": "texas",
+    "name": "texas",
+    "url": "https://api.us.socrata.com/api/catalog/v1?only=dataset&limit=10000&q=texas",
+    "group_by": "domain"
+  }
+]

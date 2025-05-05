@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  {% if page.title != 'Home' -%}
+  <title>{{ page.title | default:site.title }}</title>
+  {% else -%}
+  <title>{{site.title}}</title>
+  {%- endif -%}
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta name="description" content="{{site.description}}" />
+  <meta name="author" content="{{site.author}}" />
+  <meta name="github" content="{{site.github_username}}">
+  <meta name="robots" content="index, follow">
+
+  <link rel="stylesheet" href="{{ '/assets/style.css' | absolute_url }}">
+
+  <style>
+  @media (max-width:690px){ .container{--columns:1} }
+  @media (min-width:690px){ .container{--columns:2} }
+  @media (min-width:900px){ .container{--columns:3;--clamp:10} }
+  </style>
+
+</head>
+
+<body data-layout="{{page.layout}}">
+
+  <header>
+    <h1 title="{{site.title}}"><a href="{{ '/' | relative_url }}">{{site.title}}</a></h1>
+  </header>
+
+  <main>{{content}}</main>
+
+</body>
+</html>

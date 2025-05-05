@@ -1,0 +1,40 @@
+title: open-data
+description: open data
+author: Annie Tran
+url: https://nntrn.github.io
+baseurl: /open-data
+repository: nntrn/open-data
+github_username: nntrn
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
+compress_html:
+  clippings: [div, p, ul, td, h1, h2]
+  endings: all
+  comments: ["<!--", "-->"]
+  startings: []
+  blanklines: true
+  profile: false
+
+
+page_gen:
+  - data: "toc"
+    template: "opendata"
+    index_files: false
+    name: "title"
+    dir: "/"
+
+include:
+  - _pages
+
+exclude:
+  - .archive
+  - .github
+  - catalog
+  - data
+  - docs
+  - Gemfile.lock
+  - notebooks
+  - README.md
+  - scripts

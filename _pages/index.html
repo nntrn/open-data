@@ -1,0 +1,13 @@
+---
+title: Home
+layout: default 
+permalink: / 
+
+---
+
+{%- assign s2 = site.data.toc  -%}
+<ul>
+{% for s in s2 %}
+  <li><a href="{{s.title}}"><strong>{{s.title}}</strong></a></li>
+{% endfor %}
+</ul>
